@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.9719541616405307,TF-IDFVectorizer,KernelSupportVectorClassifier
+missclassification,0.028045838359469277,TF-IDFVectorizer,KernelSupportVectorClassifier
+specificity,0.9389017788089714,TF-IDFVectorizer,KernelSupportVectorClassifier
+recall_sensitivity,0.9930795847750865,TF-IDFVectorizer,KernelSupportVectorClassifier
+precision,0.9621647509578544,TF-IDFVectorizer,KernelSupportVectorClassifier
+f1,0.9773777669666747,TF-IDFVectorizer,KernelSupportVectorClassifier

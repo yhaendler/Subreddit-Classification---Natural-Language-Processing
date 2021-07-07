@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.9574788902291917,TF-IDFVectorizer,RandomForest
+missclassification,0.04252110977080825,TF-IDFVectorizer,RandomForest
+specificity,0.905645784996133,TF-IDFVectorizer,RandomForest
+recall_sensitivity,0.990608007909046,TF-IDFVectorizer,RandomForest
+precision,0.9426152398871119,TF-IDFVectorizer,RandomForest
+f1,0.9660159074475778,TF-IDFVectorizer,RandomForest
