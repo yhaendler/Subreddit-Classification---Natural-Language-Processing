@@ -1,0 +1,439 @@
+subreddit,selftext,title,created_utc
+datascience,"I have worked with auto-regessive models like ARIMA. But I haven't done anything on GARCH/ARCH.
+
+Anyway I needed to model volatility for a project, and Google search said GARCH was the way to go. So I calculated the annual volatility of my series and chucked that series into a GARCH (1,1) model on python, only to be outputted really shitty results.
+
+I found out now that the GARCH model on python requires the raw data, and not the volatility data.
+
+Anyway my question is this. If I used an ARIMA process to model the volatility data that I made, would the modelling of volatility be better or worse than the GARCH model?",ARIMA vs GARCH,1593472097
+datascience,"Hey everyone!
+
+I recently started creating tutorials on data analysis / data collection, and I just made a quick video showing **5 quick improvements you can make to your ggplots in R.**
+
+[Here](https://i.imgur.com/1TDrLKJ.jpg) is what the before and after look like
+
+**And here's a link to the** [**YouTube video**](https://youtu.be/qnw1xDnt_Ec)
+
+I haven't been making videos for long and am still trying to see what works well and what doesn't, so all feedback is welcome! And if you're interested in this type of content, feel free to [subscribe](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ?sub_confirmation=1) to the channel.
+
+Thanks!",5 Ways to Make Your R Graphs Look Beautiful (using ggplot2),1593471779
+datascience,[removed],Computational Social Science Course on Coursera-- University of California,1593471342
+datascience,[removed],5 Ways to Make Your R Graphs Look Beautiful (using ggplot2),1593470203
+datascience,"Hi everyone,
+
+I'm pleased to announce the release of Ploomber 0.5. This version includes a feature we implemented thanks to valuable feedback provided by fellow data scientists.
+
+In previous versions, Ploomber required you to write Python code to define your pipeline (Airflow-like) but we now have a much simpler alternative.
+
+With the new Spec API you can list your tasks in a YAML file and Ploomber will use static analysis to define the DAG and execute it.
+
+Our goal is to equip data scientists with a tool that allows them to develop pipelines collaboratively and iteratively. We believe the Spec API gets us a bit closer to that end.
+
+More details in our blog post: [https://ploomber.io/posts/collaborative-ds/](https://ploomber.io/posts/collaborative-ds/)
+
+Github: [https://github.com/ploomber/ploomber](https://github.com/ploomber/ploomber)
+
+Interactive demo: [https://mybinder.org/v2/gh/ploomber/projects/master?filepath=spec%2FREADME.md](https://mybinder.org/v2/gh/ploomber/projects/master?filepath=spec%2FREADME.md)
+
+Please reach out if you have any questions!",Collaborative Data Science with Ploomber 0.5,1593467536
+datascience,,Big data: Everything you need to know,1593465970
+datascience,"I’m considering possible recommenders for work. Our particular industry and product/service portfolio doesn’t really lend itself to collaborative filtering. Generally, our customers with invest in 1-2 products/services at a time and they are very tightly coupled. No need for an algorithm to see that. It’s more about the order in which they “purchase” and the time between those “purchases.” 
+
+Anyway, there are a hunch of ways to do this, but some that I’ve already considered would likely need to be “retrained” over some interval; either when performance falls off or just at some prescheduled interval. But, how do the successful recommendations affect future training? Wouldn’t this kind of be like raising the weight of recommendations by powers compared to “organic” instances? 
+
+Like, if the system recommends products A, B, C in that order often, and people succumb to the recommendation, then retraining will develop bias towards that ordered set. 
+
+Would it be a best practice to track recommended “purchases” and not recommended and only train in the organic purchases? How do collaborative filtering techniques address this?",Recommender system in production learning from the results of its own recommendations; good or bad?,1593462479
+datascience,"I'm a fresh grad, and with a degree in Economics. Currently doing the Data Science career path on codeacademy, and looking for someone to team up with so I can apply all that I've learnt into some project. Open to any internship opportunities as well (need not be paid!). 
+
+I'm just having a hard time figuring out any project that I want to work on. Any tips would be appreciated as well!",Looking to team-up with someone to work on data-science projects!,1593461300
+datascience,[removed],Technology in Sports - Shape the Future of the Live Entertainment Industry,1593460825
+datascience,"I am learning about data-science and machine learning. It would be awesome to have a collaborator to exchange information. Last week I was learning about PCA and k-means clustering. I envision the collaboration as doing a zoom call for which we would set some topic(technique/algorithm) and we would then debate implementations and attempt to reach clarity over the theory. When you are learning alone you sometimes lack feedback, which is essential for progress. If you want to know more about my philosophy of learning, I wrote a blog not so long ago about it:  [https://medium.com/@borutflis1/maximizing-learning-from-programming-courses-5bcbbfe6f031](https://medium.com/@borutflis1/maximizing-learning-from-programming-courses-5bcbbfe6f031)",Anybody want to study Data-Science?,1593458675
+datascience,"I was told to learn Java but it is very hard to find motivation to learn it.
+
+Are there any data scientist using Java in their day-to-day work?
+
+Or would anyone share their opinions on whether Java is a worthwhile endeavor to learn?",Should data scientists learn Java?,1593456980
+datascience,"I'm currently in the process of building a recommendation system with implicit data (e.g. clicks, views, purchases), however much of the research I've looked at seems to skip the step of ""aggregating implicit data"".  For example,  how do you aggregate multiple clicks and purchases overtime into a single user rating (as is required for a standard matrix factorization model)?  
+
+
+I've been experimenting with several Matrix Factorization based methods, including Neural Collaborative Filtering, Deep Factorization Machines, LightFM, and Variational Autoencoders. None of these papers seem to address the issue of aggregating implicit data. They also do not discuss how to weight different types of user events (e.g. clicks vs purchase) when calculating a score. 
+
+For now I've been using a confidence score approach (the conference score corresponds to the count of events) as outlined in this paper: [http://yifanhu.net/PUB/cf.pdf](http://yifanhu.net/PUB/cf.pdf). However this approach doesn't address incorporating other types of user events (other than clicks), nor does it address negative implicit feedback (e.g. a ton of impressions with zero clicks).   
+
+
+Anyway, I'd love some insight on this topic! Any thoughts at all would be hugely appreciated!","Converting ""Implicit"" user interactions to ""Explicit"" user ratings for recommendation systems",1593456389
+datascience,[removed],Need Research Data,1593455275
+datascience,,What is relative quantity of data jobs in SF Bay Area during COVID 19 pandemic compared to during the boom in early 2020? How much harder is it now to find a job in data science?,1593453645
+datascience,"We are trying to analyze traffic from four variants (base + three variants) from external sources using a diff-in-diff analysis. 
+
+Setup: We added richer images to the thumbnails in the three variants, hoping that a better quality thumbnail would result in higher click throughs back to our website. The pages in the four variants are different, and we can't see the CTR directly on external websites, so we are using a diff-in-diff approach to see if the traffic that we get from the three variants had an upward trend since this intervention.
+
+My question is: The daily visitor trend is pretty spiky, so the way causalimpact works (calculating counterfactual per day based on the base variant and pointwise difference) will also be pretty spiky and unstable (atleast that's what my guess is). In this situation, would using a 7-day rolling visitor count instead of a daily visitor trend be more helpful, as that is more representative of trend, rather than individual day visits?
+
+Thanks for your help",Using Daily vs. Rolling Visitors Timeseries for CausalImpact,1593452810
+datascience,[removed],From Jupyter Notebook to Azure Web App in 5 Easy Steps,1593450848
+datascience,[removed],I am interested in Data Science,1593450641
+datascience,[removed],What type of chart is this and how do I create one?,1593449340
+datascience,[removed],Lowest budget computer?,1593449217
+datascience,[removed],Becoming a Data Scientist,1593449188
+datascience,,Why selecting and training AI models is a job for machines,1593447000
+datascience,"I am interested in performing SVM on my data. In r, I see there are two main ways to do this: with the package 'e1071' as well as 'kernlab'. Is there a fundamental difference between these two packages? Any advantage of using one over the other?",[D] silly question on kernels,1593444589
+datascience,[removed],"Going into a data science program, advice for how to prepare myself",1593444258
+datascience,[deleted],What are some reputable firms hiring DS/ML in Chicago?,1593443295
+datascience,,Secure Identity Expert Explains How Cryptography Gives Us Power Over Personal Data,1593442739
+datascience,[removed],100% OFF Udemy Databricks &amp; Apache Spark 3.0.0 Course,1593440956
+datascience,,Sidetable Gives You the Pandas Methods You Didn't Know You Needed,1593439089
+datascience,,Discussion/Announcement: A new modified Newton method avoiding saddle points and has quick convergence rate,1593437410
+datascience,"I'm struggling with creating a csv database to import. The docs to setting this part up seems quite limited :/  
+
+
+Where can I learn more about formatting the datasets, corresponding to respective tasks?",Anyone use the Orange Data Mining tool?,1593436420
+datascience,[removed],NLP and Computer Vision,1593434365
+datascience,,The 3 Ways To Compute Feature Importance in the Random Forest,1593430143
+datascience,"Hi everyone,
+
+as the title says, do you have KPIs or quantitative goals in your team? If yes, what are they? Did you chose them yourselves or were they imposed by management?
+
+IMHO it's quite difficult for a data science team to show quantitative results for e.g. the value of strategic insights or fostering corporate innovativeness. Somewhat easier maybe if you're working on e.g. using ML for process improvements and can calculate the resulting savings. 
+This isn't necessarily a data science problem, [perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive) / [cobra effect](https://en.wikipedia.org/wiki/Cobra_effect) / [McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy) are pervasive in corporate environments, just wondering how you handle it and if there's some data-science-specific perspective on it. Thanks!",Does your data science team have KPIs / quantitative goals?,1593420847
+datascience,"Hi!
+
+I have couple questions about Kmeans clustering. I'm first year student so I'm still quite new to data analysis.
+
+I'm clustering a dataset that looks like [this.](https://imgur.com/a/gDznEzO) 
+
+I did scaling with StandardScaler and then did PCA and Kmeans with three clusters centers. Then I added cluster labels to my original dataset and plotted all energy against building area from my original dataset and scaled dataset. The plots look like this: [Plots](https://imgur.com/a/g4WWluR)
+
+The one on the top is the original dataset and the one on the bottom is scaled. 
+
+Original dataset plotted in 3D looks like this: [Original 3D](https://imgur.com/oEZBASc)
+
+I can see that the clusters overlap in 2D picture if they are plotted from the original dataset but not if plotted from processed dataset. In 3D picture the clusters are well separated even if the plotting is done from the original dataset. 
+
+**First question:**  Why are the clusters overlapping in the original datasets plot but not in the processed dataset? I know that the clustering takes account all the different attributes so overlapping might happen in 2D but it seems weird that same attributes plotted in 2D look so different.
+
+**Second question:**  My goal is to have clustering that represent how ""green"" the buildings are. (Based on their size, how much the building uses energy etc.) How can I test if my model does that when I don't have any labeled data?
+
+Thank you in advance!",How to know if Kmeans clustering does what intended to do?,1593415484
+datascience,"Hello, the reason I'm opening this discussion is that for a while I've been thinking about building forex/stock trading automation system(something like a bot but in a more sophisticated way). I have a decent python experience with over 1 year of hands-on deep learning and general purpose projects so it is valid to say I'm quite experienced with tensorflow 2.x, keras, numpy, pandas, matplotlib and most of standard python libraries. I'm currently learning c++ for performance needs that cannot be met with python alone. I've been intending to use my background to create a trading system I have not thought of specifics but my general overview of a problem solution might be to create a combination of deep learning models and maybe some reinforcement learning techniques as well(which something I'm currently learning). The question is do you think of a criteria to get best outcomes in terms of prediction accuracy and be able to deliver something that might turn profitable at some point? I have not started working on the project yet but when I read about the topic in kaggle and general machine learning forums, the idea of forex bots/ auto-trading systems is sometimes met with skepticism: some argue it's nearly impossible to create something useful and some others claim that they were successful to create deep learning models (my best guess is RNN/LSTM architectures) with variable accuracy(60-90%). I don't think experimentation will hurt, I mean I can start working something out and figure out the best results for myself but I thought it's a good idea to ask for guidance from those who have similar/better background/experience as/than myself as well as others who might have tried already and hear the feedback first. What do you think?",Forex and stock trading automation what do you think?,1593411177
+datascience,[removed],BIG DATA VS. PREDICTIVE ANALYSIS VS. MACHINE LEARNING,1593409692
+datascience,"Hi everyone,
+
+I was wondering if I could get some advice on what to do after undergrad while trying to pursue a career in data science. 
+
+I'm currently a rising fourth year in university and am a computational math major/stats minor. After changing my major a couple times, I recently became interested in data science and wanted to go down that career path. I wanted to work for a couple years after graduation, but after reading a bunch of reddit posts, I'm thinking that maybe now I should go to grad school. What do ya'll recommend? 
+
+I currently have an internship as a data science intern at a fairly new company and am hoping that they will offer me a full time for after I graduate, but I'm not sure if they will or if I even wanna work for them. My coding skills right now are alright; I'm proficient in python and have been using that for most of my projects, but I barely know any R / SQL and my coding skills overall are just alright, so I'm not sure if I can handle the rigor of such a technical role (like data engineering/data science) post grad without strengthening some of those skills first. 
+
+And, if I wanted to apply for another job post grad, I'm not sure what job I should apply for that would lead me down that career path of data science (given that my major is not CS). Would it be data engineering, data analytics, marketing analytics, or financial analytics?? How much do those starting data science/data analytics jobs even make in the first place (without having a PhD/MS) ?
+
+Sorry for the long post, I would really appreciate some advice!!! I don't really wanna go to grad school right away (I would get a stats MS) but after researching I feel like its the best idea.
+
+Thank you!!!",Aspiring Data Scientist Post-Undergrad Career Advice Needed!!,1593406633
+datascience,"I need to visualize seaborn plots like heatmap, pairplot, jointplot and  kdeplot very frequently. Currently I simply generate them using Jupyter notebook.
+
+I'm aware of Power-BI and Tableau, but these tools don't provide out of the box support for above mentioned plots.  
+
+ Is there any tool which supports similar plots like this with GUI support to quickly visualize?",Is there any scientific visualization tool like matplotlib/seaborn but without coding?,1593404324
+datascience,[removed],Data encoding : hot vs label,1593400923
+datascience,,Forecasting with uncertainty,1593393578
+datascience," Background: I am a masters(CS) and around 2 years experience in data engineering. My industry experience is mostly with spark, kafka, sql, NooSql and AWS, building data migration and ETL systems. Initially I liked data engineering better and always attempted to stay in the same field. However now I feel like I want to switch to a data scientist role, or even a Machine Learning Engineer (dream).
+
+To add, I do have experience with data science tools and techniques(spark,pyspark,pandas, numpy ,building and hyper parameter tuning ML models, CNNs,LSTMs, tensorflow,keras etc) through my projects in my masters. However, companies seem to value titles more than my experience, and since I've never held a data scientist/MLE title, I keep getting approached by recruiters for senior data engineer roles but can't get an interview even for a junior data science role, despite applying to so many places
+
+How to overcome this? I've seen people with non CS degrees become software engineers and data scientists, surely it shouldn't be impossible for me? Is there anyone who has done this who can advise? Thanks in advance",How to switch from Data Engineering to Data Science?,1593392920
+datascience,[removed],Job interview panel includes Product Managers. What kinds of questions are they going to ask? What kinds of responses are they looking for?,1593392278
+datascience,,How to switch from Data Engineering to Data Science?,1593392023
+datascience,,7 steps to prepare your analytics data scientist interview,1593391699
+datascience,"Hey guys. I just started learning some sql, python and pandas and am a beginner/intermediate at them. I wanted to create a data science project and instead of just taking a dataset from kaggle, I wanted to retrieve some data by using an API but am having trouble on how to do so. Are there any resources that clearly explain how to use API's to pull data and turn them into a dataframe for analysis and such? Thanks!",How to pull data using API's (python),1593389960
+datascience,"Basically, you get to skip the dirt work (cleaning data) and have data all cleaned and ready for you? And is this going to be trend?  Given that ""Data Analysts"" roles (SQL monkeys) are becoming more a thing so Data Scientists can focus on doing Machine Learning projects, etc? 
+
+Data Science seems like a ""buzz word"" and no offense  to any Data Scientists here, but couldn't just regular SWE do your job? I don't get the point of having a PhD at all. Also when it comes to math, do you actually jot down formulas and work on them, or just run built-in function statistical programs using Python/R or even just use WolfRamAlpha to get your job done.   
+
+
+I'm just really curious as to why people want to become data scientists and why companies set the bar so high. Getting a PhD just to get a DS role doesn't really makes any sense to me, to be quite honest.",Any Data Scientists here not doing any data analysis work at all?,1593386737
+datascience,[removed],IBM Data Science or DataQuest,1593386714
+datascience,[removed],Data Science for business student,1593385176
+datascience,"Is anyone familiar with the LOF (Local Outlier Factor) algorithm?
+
+What if the LOF scores are extremely large or infinity? Does this mean that the data is not ideal for the LOF algorithm? Or simply ignore these observations? It seems doubtful that the LOF score could be naturally so big.
+
+I would be interested in hearing your thoughts!",Extremely large LOF scores,1593384465
+datascience,"Hey all,
+
+I am interested in web scraping used car data from a site such as cargurus or autotrader. I was wondering if anyone has had any experience web scraping from sites such as these and has any recommendation on what car site is easiest to scrape from as I am new to this type of work. I have seen plenty of similar projects but they often anonymize the site they are using to collect data.
+
+Thanks!",Web Scraping Used Car Data,1593383354
+datascience,"I’m debating with myself whether a master’s degree is worth it and I’d like to see what you guys think
+
+[View Poll](https://www.reddit.com/poll/hhmgyx)",What qualifications do you have?,1593378455
+datascience,[removed],Is AWS Sagemaker any good? Asking for udacity MLE nanodegree,1593378285
+datascience,"I find myself being really confused about the intended uses of k means clustering. As far as I understand, clustering is a unsupervised algorithm intended for discovering relationships in the data. The intended use of clustering is not to classify observations. However, I have seen k means being used to cluster data, and then k means being used to predict which of these clusters a new data point will belong to. This seems to be classification and not clustering. Can someone confirm if this is correct?",Fundamental confusion about k means clustering,1593376886
+datascience,,Analysis on the data science job market. Touches upon the skills and qualifications required to land a data science job. Based on an analysis of data science professionals profiles and current job openings,1593375505
+datascience,"I know there are multiple posts, but hopefully we can get an updated view.
+
+I recently got a 1 year unlimited subscription to Coursera from work to self learn data science. Wonder if there are som recommended courses?
+
+A few I'm thinking of enrolling in include:
+
+1. Data Analysis with Python (IBM) -  [https://www.coursera.org/learn/data-analysis-with-python](https://www.coursera.org/learn/data-analysis-with-python) 
+2. Analyzing Big Data with SQL (Cloudera) -  [https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries](https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries) 
+3. SQL for Data Science (UC Davis) -  [https://www.coursera.org/learn/sql-for-data-science](https://www.coursera.org/learn/sql-for-data-science) 
+4. Data Science Specialization (John Hopkins) -  [https://www.coursera.org/specializations/jhu-data-science](https://www.coursera.org/specializations/jhu-data-science) 
+
+Hoping I can get through all of these in a year. Wondering if there are any other courses on Coursera anyone would recommend here? I am wondering if I can pretty much replicate the course content of a Master in Analytics with my 1 year subscription.
+
+My end goal is to be proficient in Python/R/SQL to be able to do linear / multi-variable regression analysis with BigData in finance (i.e. Quantitative Investment Research).
+
+Thank you!",Best Coursera Courses for Data Science?,1593370989
+datascience,"Hi all,
+
+I recently started my first job as a data scientist, and my position requires a certain amount of professional development, and since the pandemic is still happening, I have to do most of it online. I was wondering if people had suggestions for helpful certificates / courses that they took/ know about?
+
+Here are a few of the classes I found that sounded interesting:
+
+**Stanford Machine Learning Class** [Coursera]
+(https://www.coursera.org/learn/machine-learning)
+
+* I just finished my Master's degree,  but I wanted to firm up my fundamental understanding of ML models so I can better understand the mathematical theories behind the models
+ 
+**Deep Learning Specialization** [Coursera](https://www.coursera.org/specializations/deep-learning)
+
+* I never really covered deep learning in my program so I wanted to gain experience and a certificate in it
+
+**Data Mining Specialization** [Coursera](https://www.coursera.org/specializations/data-mining)
+
+* I have done a lot of work with NLP but I wanted to get a better understanding of being able to clean unstructured data more
+
+
+Are there any other programs/ certificates that might have better worth than taking courses on Coursera? I know I've seen a few IBM certificates but I haven't heard much on their quality.
+
+**Why don't you just self learn by watching free courses and reading papers?**
+
+I have a certain amount of professional development funding per year and hours that I can charge for this development so it needs to be something that provide proof that I accomplished it for my organization.",Online Certificates/Courses for new Data Scientist?,1593369141
+datascience,[removed],"in general, does removing a dummy variable reduce multicollinearity?",1593368492
+datascience,Title,"Excuse my ignorance, but is Data Science and Data Analysis two different fields?",1593365495
+datascience,[deleted],Looking for a resource with a comprehensive list of data science terms,1593364659
+datascience,[removed],Looking for a resource with a comprehensive list of data science terms,1593364362
+datascience,[removed],QDeFuZZiner free 1-month trial,1593363095
+datascience,,IYO is the line between data scientist and machine learning engineer becoming blurred?,1593362792
+datascience,"What does everyone here use for classifying mixed data? Suppose I have data on salary (continuous) and blood type (discrete). I am somewhat skeptical of transforming blood type into a dummy variable for mathematical reasons. If a given statistical algorithms uses a distance measure (e.g. euclidean distance), I am not sure if the concept of distance works for discrete data. 
+
+Is hot encoding a good idea? Other than using a decision tree or a random forest, how else can mixed data be classified?
+
+Thanks!",Classification of mixed data,1593362416
+datascience,[removed],"Should I do go for MNC with NO idea about job role Or go for ""Data Engineer"" role at 30 people startup in Bangalore, India ?",1593362227
+datascience,"Has anyone ever evaluated the Gower's Distance (dissimilarity) for their data? I have mixed categorical/continuous data which makes it difficult to perform statistical analysis. Recently, I found out of Gower's distance : for a given dataset, you can calculate a Gower's matrix. Then, (as far as I understand) you can take this Gower's matrix and feed it into a statistical algorithms. Apparently, this is a better option than ""one hot encoding"" categorical variables.
+
+Has anyone ever heard about Gower's Distance and used it in statistical analysis (e.g. K nearest neighbor, Support Vector Machines, etc)? Are you still required to normalize or scale the coefficients of the Gower's matrix?",Gower Distance: Working with categorical and continuous data,1593358090
+datascience,,Comprehensive Python Cheatsheet now also covers Pandas,1593356083
+datascience,,"Data Science Course In Mumbai, Thane - Best Data Science Training Institute",1593354415
+datascience,"Hi Data Gurus from UK.
+
+Im doing masters degree in Data Science and want to know about the Data Science internships in. I'm eyeing for summer 2021. 
+
+Which big companies offer Data Science internships for summer in London and when do they start taking applications? 
+
+What is the hiring criteria from a Data Science Intern?","Data Science internships 2021, London, UK",1593354292
+datascience,"I have degrees in both biology (B.S.) and pharmacy (Pharm.D.). I'm looking to transition into a career in data science and was just wondering what everyone's thoughts were on whether completing a DS bootcamp could be a viable strategy for someone without a background in CS or a quant discipline to start a career in DS. 
+
+Based on previous discussions that have been held in this subreddit on the topic, most data scientists don't seem to have a favorable opinion of DS bootcamps... but most of those discussions were held 1-2 yrs ago, and I understand that a select handful of bootcamps are held in (relatively) high regard, so I'm curious to get new input on the subject matter.
+
+Even though I'm interested in pursuing DS (or possibly CS) as a career on a general level, it may be worth mentioning that I've been told that combining my pharmacy practice doctorate with a data science skillset would make me uniquely qualified for positions with pharmaceutical companies that involve doing various types of statistical modeling (having proficiency in something called ""R Shiny"" was specifically mentioned to me, among other things).
+
+It goes without saying that the prospect of becoming eligible to apply for DS jobs after completing a 3-6 month bootcamp holds significant appeal, but at the same time, I want to make absolutely certain that employers - whether in the pharmaceutical industry or those who employ data scientists in more general positions - will actually consider bootcamp completion to be a legitimate job-qualifying credential.
+
+Thanks",Is completing a bootcamp a viable way for someone without a quant background to start a career in DS?,1593353667
+datascience,"TL:DR
+
+Having trouble getting my career started, and not sure if I should get my masters or continue applying for jobs.
+
+I am 24 years old, and graduated with my BS in Environmental and Natural Resource Economics back in May 2018. Since graduating, I have tried landing a data analyst position, but have not had any luck. I currently work as a budget/financial analyst for my local healthcare system, but I am not really fond of the job, and only continue to work it becuase I have not been offered anything better thus far.
+
+I have been getting pretty down seeing a lot of people I graduated high school and college with thriving in their career, while I have yet to really even start mine.
+
+I'm stuck between deciding to just hope for the best and continue applying for data analyst positions, or go back to school and get my masters.
+
+The main thing holding me back from getting my masters is having to take more loans out. The thought of putting myself in debt another $40k or so sounds draining.
+
+But let's say I do take the masters route...
+
+I am not 100% sure what I want to get my masters in. I eventually would like to work in data analytics/data science working with enviromental sustainability and conservation data. Are there any good programs that combine the two interests? Or should I focus on data science, and then just apply for jobs that combine the two?
+
+If you have gotten this far, thank you for reading. This is more of a rant than anything, as I am just feeling lind of worthless with my career, or lack there of, so far.",Trying to get my life figured out...,1593352558
+datascience,,pandas Dummy Variable vs OneHotEncoder,1593350281
+datascience,[removed],How Does Data-Analysis Enable Better Decision-Making?,1593349870
+datascience,"Hi, I am soon to finish my master's in Data Analytics and I am looking for some advice regarding job searching and career moves. I had looked for jobs before lockdown but most canceled since and others were looking for an immediate start. I started searching again since I am done in September, not a lot of opportunities available right now and I can't move too far for the next year or so. My search was focused on Data Analytics and Data Science but I am starting to think I should open up to other opportunities that still make use of my skills (statistics and programming). Do you guys think this could be a good move and if so what kind of fields or job titles should I search for? For context, I am in the UK and my bachelor's was in mechanical engineering.",Career advice in an uncertain economy.,1593349587
+datascience,,I’m starting an unpaid internship this week with a new startup (&lt; 3 months). The 4 interns are getting given a small project for a month. Is there anything I should be aware of?,1593348073
+datascience,,I’m starting an unpaid internship this week with a new startup (&lt; 3 months). The 4 interns getting given a small project for a month. Is there anything I should be aware of?,1593347994
+datascience,"Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](Resources) pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",Weekly Entering &amp; Transitioning Thread | 28 Jun 2020 - 05 Jul 2020,1593345630
+datascience," 
+
+Hi guys,
+
+I  recently joined a company and I look after a central system. My system  integrates with many other systems to bring in data and host it in this  central system.
+
+The big issue I  found is the way various teams are capturing the data in their specific  area and then struggling to deliver the data to my central system.
+
+The  way they capture the data is through using excel forms or other  mechanisms that allow for data entry mistakes. Also, the processes to  push into my system is manual from their end.
+
+I was hoping to ask on here if you can assist on what paid or free source software or even best practices to help develop:
+
+1. A  quick, easy, and sufficient way for data capture to happen by the user  who collects the data. Should we look into form entries where it can  push into a database or other possibilities? What is the best way to do this?
+2. How to monitor data capture and processes (monitoring to see if users have  for example submitted data or if they are late). If for example they have not submitted data for say this week, then we can send a automated   email to suggest they haven't.
+3. What  processes should be used to push the data from one system to another?  Should this be via python or any other scripting language?",Data Processing from Different Teams to a Central Database,1593341806
+datascience,“BINOMIAL DISTRIBUTION” by Shivam Mishra https://link.medium.com/eQQkxNEjG7,Binomial distribution,1593334253
+datascience,[removed],Binomial distribution,1593334246
+datascience,“BINOMIAL DISTRIBUTION” by Shivam Mishra https://link.medium.com/eQQkxNEjG7,Binomial distribution,1593334232
+datascience,Is that computing power dependent on the size of the training data? What would be required if using just a playground dataset (~10k tokens)?,What is the computing power required to train a language model like Bert or GPT2?,1593323373
+datascience,"Hello!
+
+Just posting because I want help getting better at pandas. Is the method I came up with a good approach, or is there a better way? 
+
+I wrote [a blog post](https://brasier.me/pandas/2020/06/10/neeerd-pledge/#) about it, but I just wanted to check my method is the best one. Basically I want to find the maximum number of consecutive occurrences of an event. So if I have lots of different groups, and I want the most in a row of any `df.eval` query.
+
+Here's the code, I'll explain how it works below.
+
+
+    def get_max_consecutive(group):
+        # thanks stackoverflow https://stackoverflow.com/a/59640568/5905582
+        # this works for each player
+        # first get all matches and compare with a shifted version to how many are the same in a row
+        df_bool = group['criteria_match'] != group['criteria_match'].shift()
+        # take the cumulative sum of the matches in a row to get the number of each
+        df_cumsum = df_bool.cumsum()
+        # then groupby the size of each group
+        search_groups = group.groupby(df_cumsum)
+    
+        # the above will give us the size, but we also want the raw data out of each
+        # so below we are getting the indexes from the original dataset so we can look them up later
+    
+        # what we want is the longest group where criteria_match == True
+        # make a dictionary with the key the name, but store each length
+        lengths = {n: len(g) for n,g in search_groups if g['criteria_match'].all() == True}
+        try:
+            # m is the maximum number of matches
+            m = max(lengths.values())
+        except ValueError:
+            # if there are no matches, return 0 and not-a-number
+            return pd.DataFrame({'maximum': [0], 'num_results':0, 'indexes':[np.nan]})
+        # get a list of groups where the match is the players maximum value
+        # includes if a player matches multiple times
+        all_groups = [search_groups.get_group(key) for key,val in lengths.items()]
+        max_groups_list = [search_groups.get_group(key) for key,val in lengths.items() if val == m]
+        num_items = len(max_groups_list)
+        return pd.DataFrame({'maximum': [m]*num_items, 
+                             'num_results': [num_items]*num_items, 
+                             'indexes': [g['index'].values for g in max_groups_list],
+                            })
+    
+    def get_all_consecutive(criteria, data):
+        # drop all rows where the values were after doesn't exist
+        all_columns = list(data.columns.values)
+        for c in all_columns:
+            if c in criteria:
+                data = data[data[c] != np.nan]
+        # find all matches and set them to true, set non-matches to False
+        data.loc[data.eval(criteria), 'criteria_match'] = True
+        data['criteria_match'].fillna(False, inplace=True)
+        # group by all the search item, and then actually do the check for each one.
+        search_item = all_columns[1]
+        results = data.groupby(search_item).apply(get_max_consecutive)
+        return results
+    
+    def get_most_consecutive_individual(criteria, data=my_data.copy()):
+        results = get_all_consecutive(criteria, data, sort_order)
+        # get the maximum result
+        max_value = results['maximum'].max()
+        # get all matches to the maximum
+        max_results = results[results['maximum'] == max_value]
+        # get the matches out of the original dataset to get the innings
+        result_data = data.reindex(np.concatenate(max_results.indexes.values))
+        return max_value, result_data
+
+
+Here's how it works. 
+
+1. mark all matches `True` and `False` that meet the criteria
+2. `groupby` each person, and for each person, call `get_max_consecutive`
+3. `get_max_consecutve` gets the size of each group by again calling `groupby` on the `cumsum` of `matches != matches.shift()` 
+4. Here's where I want help, I can use the `agg` functions to get maximum size, but I want to original data back, so what I'm doing is looking up the index where the `criteria_match` is `True`, and looping through this manually.
+5. The reason for that in finding the group that is the longest, and then getting the index in the original dataset so it can be looked up later. `max_groups_list` stores the groups, and `'indexes': [g['index'].values for g in max_groups_list` returns the index
+6. Get all `matches == max_value`
+7. Get the original data by calling `data.reindex(np.concatenate(max_results.indexes.values))` where `data` is my original data
+
+I'm new to learning `pandas` so I really don't know if my approach is the best one. Needless to say this took me a long time to figure out, but it works, so that's a win, I've just been thinking 'there must be a better way' but honestly I can't think of one. On a dataset which is ~100k lines, it takes 20s-1minute depend on how my computer is feeling to run. 
+
+Returning the `DataFrame` with different sized elements is a bit annoying, I suppose I could make them all `pd.Series`, but anyway, I didn't.
+
+I don't think I really understand working with `DataFrameGroupBy` objects really. I suspect the `transform` method might be what I'm after, but just looking to learn really!","Pandas - finding consecutive occurrences, please critique my approach",1593322563
+datascience,[removed],Please help - Which ds certificate to pursue if I have a bachelor's degree in stats/ds and want to be a data scientist?,1593317451
+datascience,[removed],From biostats to business intelligence,1593314143
+datascience,,Object Detection on Python Without Using Machine Learning or Any Frameworks,1593313885
+datascience,[removed],Has anyone here worked in quantitative research at hedge funds? Why did you transition?,1593303989
+datascience,[removed],Help with a stats assignement,1593302251
+datascience,"Imagine you have an array of unique ID's. They share similar patterns, but they are all distinct. Is there an efficient method to identify those that don't fit any pattern well? See below for an example array of values:
+
+A01234
+A01235
+J01234
+J01235
+JO1236
+A0123A
+
+I'd want the last two to be identified as outliers by using an unsupervised learning method (because the 2nd and 6th positions aren't always necessarily *guaranteed* to be numeric; there could exist a pattern where those positions are textual).
+
+If it helps at all understand what I'm looking for, I'm essentially looking for a way to identify scanning errors from an OCR.
+
+Any and all advice is welcomed!!",How to detect outlier ID Strings?,1593299250
+datascience,[removed],Pandas column access: key or attribute?,1593294422
+datascience,[removed],Need help to create a dataset,1593291472
+datascience,[removed],Learn Pandas in 5 minutes playlist!,1593288714
+datascience,"Hey r/datascience,
+
+I'm a grad student in data science, trying to decide what to study in my Fall semester.  I'm primarily interested in inference and experimental methods.  I was wondering - what is the utility of classical time series analysis (ARIMA, that type of thing) in practice?  When and how does it come up in the inference domain?  Does it come up at all?  Is it critical or not critical?  How has modern machine learning changed the necessity of time series analysis, if at all?
+
+Appreciate your thoughts - I have little mentorship for the utility of specific data science methodologies through my program, so your thoughts are really helpful",Utility of Classical Time Series Analysis in Industry,1593286036
+datascience,"Me and my partner built a tool that reduces forecasting time to about 30 seconds. I’m not gonna link it because I don’t want to get banned or something but you can pm if you want it. However, the question is above. How long does it take? We are trying to figure out this data to use in our pitch deck. Just leave a number down below, 30 min, 45 min, 2 days even! Thanks in advance","Hey Data Scientists, how long does it take you guys to create a forecasting model (sales, customer segmentation, social media analytics, ad campaign growth)",1593279470
+datascience,,Covid 19 — What the Data Tells Us,1593279400
+datascience,"If you’re a talented person in data and computer programming, will you help an aspiring lad? I am but a humble knowledge seeker that wants to dive into the world of data science and computer programming. Is there a willing community to learn some few lessons or advices from? If so, please let me know!",I need help! A noob wants to enter the world of data science,1593274361
+datascience,[removed],Machine learning for stratified sampling,1593274236
+datascience,"Hi All, I'm applying for Data Science Masters in Europe/NA fall 2021 and would like your help with building up a profile for Masters. I see that most members and mods are holding a Masters or PhD degree and I believe that this would be the right forum to ask suggestions. I have a ***decent'ish*** GPA and I am worried that it might hurt my chances of getting into a good uni. I am really interested in getting a Data science masters and  I want to better my profile. How do I show and convince the Grad school committee that I'm a good fit and draw their attention away from the fact that I have a low GPA?
+
+I did my research and I saw posts about doing MOOC's and showing relevant projects on GitHub, Does this really help?  Any suggestions on how to build a profile would be appreciated.",How to build a profile for Data Science Masters?,1593271787
+datascience,"Hi there,
+
+I have a problem I'm trying to solve and wanting to know if there are any pre-made tools or algorithms that can get the job done.  I'll try to define the problem.
+
+Let's say I have 4 groups of data, and each group of data has 50 samples each.  The samples are conversations people had and the conversations are about the group ti which the sample belongs.
+
+Is there a tool that could find commonalities in the conversations that could then be used to determine the group?  I believe that would be called natural language processing?","Assigned a task at work regarding data science, but know nothing about data acience",1593269795
+datascience,[removed],Visual Animation for Pond Riddle?,1593267125
+datascience,[removed],Topluluk Öğrenme Algoritmalarından Gradyan Yükseltme Algoritması İle Gögüs Kanserinin Tahmini Üzerine Bir Vaka Çalışması: A Case Study on the Prediction of Breast Cancer Using Gradient Boosting Algorithm from Ensemble Learning Algorithms,1593259512
+datascience," 
+
+Hi Guys,
+
+Data Analyst is one of the most demanding and high paying Job. But in Data Analytics, demand is high and supply is low. And that is the reason for the High Salary.
+
+So, if you want to become a Data Analyst but stuck with the question- **How to Get a Data Analyst Job?.** Then definitely you should read Today's article.  
+This article is written for both people- **Fresher and Experienced.**
+
+This article will not only guide you on a career path but also teach you how to make a strong resume for Data Analyst Job.
+
+So, don't miss to read this article and start your career journey as a Data Analyst.
+
+Read this article-[https://www.mltut.com/how-to-get-a-data-analyst-job-with-no-experience-and-with-experience/](https://mltut.us18.list-manage.com/track/click?u=daed40bf0a68af806ccb51607&amp;id=0e64ad419e&amp;e=3d7f03b9f8)
+
+All the Best!
+
+Happy Learning!",How to Get a Data Analyst Job with no Experience and with Experience?,1593259096

@@ -1,0 +1,325 @@
+subreddit,selftext,title,created_utc
+datascience,"I was just playing around with this for fun, and figured maybe someone else would potentially find it useful:
+[Link to data](https://github.com/CSSEGISandData/COVID-19). There are 3 datasets: confirmed cases, deaths, and recovered. This is updated daily.
+
+
+The data I found had dates as individual columns, and I wanted to transform it so the dates were all in one column. There is without a doubt a much easier way to do this, but here is what I did if you want to use it: [PYTHON CODE](https://pastebin.com/0W2ZEk0h)
+
+
+Maybe the code sucks, but points for creativity, right? Lol",Johns Hopkins CSSE,1584661101
+datascience,,CORD-19 Dataset exploration and indexing,1584659905
+datascience,,Structural Equation Modelling is fascinating. But can data only be used if on some sort of Likert scale?,1584659666
+datascience,,Crowd-sourced COVID-19 Dataset Tracking Involuntary Government Restrictions (TIGR) Need Help!,1584656567
+datascience,,How can Data Science be Instrumental in Combating Corona Outbreak?,1584655579
+datascience,"Hello! So I was recently accepted into a great MS in DS program and was wondering if anyone has had luck with finding scholarships? I’m a woman and did a DS bootcamp preciously, if that helps. I have been searching for scholarships, but a lot of information is outdated so I was hoping someone could point me in the right direction. Thanks!","Admitted into MS in Data Science, looking for scholarships",1584655557
+datascience,,Waymo blog: Announcing Waymo’s Open Dataset Competitions,1584653947
+datascience,[removed],"Admitted into MS in Data Science, looking for scholarships",1584653707
+datascience,"Hello my fellow friends, I am a master's student in Data Science. I am thinking about my thesis but I want to hear some advices from you.  I haven't talked with my superviser about this yet (due to Corona). Every thesis have their own problems and you are reading thesis from time to time and I believe you saw some kind of pattern or general mistakes that most thesis have. 
+
+What are those minor details that everyone miss or huge chunk of wrong ideas in their thesis?
+
+What are the must have's in a thesis?
+
+Are there some rough check list for simplicity?
+
+How do you decide whether a thesis is good or bad from a academic/ industrial data scientist perspective? 
+
+Do you have any more advice? 
+
+&amp;#x200B;
+
+Thanks for all responses, I will read all of them meticulously.",Thesis Topic Evaluation Metrics,1584652385
+datascience,"Hi,
+
+Based in northern Europe, I am a data scientist with 10 years experience from energy, financial and retail. I am going to do some evening and weekend consultancy for a company in the US, where I will develop algorithms for anomaly detection, up to 8 hours a week. What is a normal hourly rate range for such a setup? I have read all from $100 to $300, but I hoped for a more narrow window. Any consultant here, or someone experienced hiring consultants? Here it is common to be around $150 for long-term projects for experienced DS no matter what the project complexity is.",Data science consultant hourly rate - US customer,1584651203
+datascience,,Bash Scripts to Handle Your Jupyter Notebooks,1584649698
+datascience,"We know what nations, states and major cities are doing, but smaller towns and communities lag behind. This is an attempt to crowdsource that information for posterity.
+
+[https://forms.gle/bwjWRD6KKkSFLRLu8](https://forms.gle/bwjWRD6KKkSFLRLu8)",Crowdsourced local COVID-19 policy databank,1584648859
+datascience,,I created a Corona Dashboard. Let me know what you guys think.,1584648715
+datascience,,"I want to work with spectral audio data for music information retrieval, what toolsets should I be using? Is MySQL a good tool for storing FTTs?",1584648548
+datascience,[removed],Do I have a chance?,1584644596
+datascience,[removed],I got into the top 24% on a Kaggle Challenge without writing a line of code!,1584644159
+datascience,,Wrote an article on how recommender systems like those in Netflix are made (with Python code),1584643372
+datascience,"I have a dataset similar to this:
+
+Age | Gender | Average Conversion Rate | Number of Records
+---|---|----|----
+18-25 | M | 0.04 | 292
+25-35 | F | 0.06 | 105
+
+
+and I want to predict conversion rate. My usual strategy of doing a train/test/validation split doesn't work well here because there are few ""rows"". Anyone have advice on how to approach this problem? I'm thinking LOOCV for model fitting although I'd have to use the whole dataset for feature engineering/EDA.","""Holdout Set"" on Aggregated Data",1584642356
+datascience,,CORD-19: The Data Science Response to COVID-19,1584641857
+datascience,,Open csv Ontario COVID-19 data,1584639947
+datascience,"Im working on a deep learning project that aims to make a categorical prediction on a user-level based on their Reddit post history. So for example, if the label categories are {not_depressed, mild_depression, depressed, suicidal}, the chosen label has been assigned to a user based on the totality of their posts.
+
+Each row of my dataset is an individual post. Some users have up to 500 posts, some have as low as 10. If I concatenate the posts together based on user, the assigned label is accurate but the text sequence length is far too big (average 14k words after cleaning and removing a lot of words). If I don't concatenate but learn based on individual posts, the text sequences are an appropriate size (avg 30 words) but then the model thinks the label is assigned on a post level.
+
+Any tips?",User-Level Prediction Based on Post History,1584639322
+datascience,"Hello, I feel like everywhere I look I find short articles about correlation but I don't feel like I have a deep understanding. Does anyone know a good resource?",Good resource for correlation,1584638835
+datascience,Sadly I guess I decided it was a good idea to graduate undergrad during a pandemic. I was already worried because I didn’t have any job offers now I’m very worried because I don’t wanna be unemployed for too long. I’m graduating with my bs in stats this may and so far I didn’t have much luck. How do I find a job in data science with a bs and especially during all of this going on. My gpa is not good so grad school isn’t an option right now. I have some internship experience as a data analyst and business analyst and I’m looking for jobs in the Chicago area and possibly the Bay Area,COVID-19 and job search,1584638406
+datascience,"Hello all!
+
+What do you call the algorithm that is similar to median absolute deviation, but instead of taking using the median as the location estimate of the data. You measure how far away the observations are from the typical distance between observations. In other words, the median of absolute distance between x\_i and x\_i+1?
+
+Does anyone use this? I found this paper describes how robust this method I'm describing is [https://web.archive.org/web/20101214105931/http://web.ipac.caltech.edu/staff/fmasci/home/statistics\_refs/BetterThanMAD.pdf](https://web.archive.org/web/20101214105931/http://web.ipac.caltech.edu/staff/fmasci/home/statistics_refs/BetterThanMAD.pdf) . However, the paper doesn't seem to give it an easily identifiable name. I'm wondering what it's called and whether anyone has used to identify anomalous series.
+
+Thank you!",Similar to Median Absolute Deviation,1584637560
+datascience,"Hey all,
+
+I'm wondering if anyone knows of areas where a data scientist could help, pro-bono, with Covid-19 response in any way?  I've seen the Kaggle comp and some colleagues and I are probably going to try and get involved but was wondering if there are other areas to help.  Been reading about folks trying to work around ventilator/maks/etc. shortages with new designs/production methods, and things like that.  I figure there must be something data science-oriented folks can do (code review even?).
+
+Cheers",Pro-Bono Data Science help for Covid-19?,1584637490
+datascience,,COVID-19 Response | Free Data Science Courses,1584635477
+datascience,"Hey everyone - I just created the first of my Intermediate SQL Series videos. I go over joins and some use cases on how to use them. I would love for you to check it out and give me any feedback on it. 
+
+I have almost all of them recorded already and will be uploading them each week. The topics include Joins, Unions, Case Statements, Updating/Deleting Data, Partition By, Data Types, Aliasing, Views, Having Clause, GetDate(), and Primary vs Foreign Key. 
+
+After that I will be doing an Advanced Series as well.
+
+I hope this is helpful! Please let me know what you think! 
+
+Link:
+https://youtu.be/9URM1_2S0ho","Intermediate SQL Series going over Joins, Unions, Case Statements, Data Types and more - Hope it helps!",1584635421
+datascience,"Most of the IT-Professionals are very successful with their career, but sometimes they are facing difficulty with another area of their lives.  
+What do you need to focus more on?",What do you need to improve?,1584633850
+datascience," 
+
+My business is scrambling to find the best way to forecast sales to get a best/worst case scenario for the covid sales trends.
+
+Does anyone have a better methodology than just using the excel forecast method since the beginning of the spike, or using run rates?
+
+Really appreciate the help! Hope everyone is staying safe.",Does anyone have a viable method for forecasting out sales during COVID?,1584631414
+datascience,"Hi! I'm a freshman political science student who wants to study data science since I think it would really be helpful for my field in the future. However, I do not have any background with this though I'm planning to take math electives in my undergrad.
+
+What books/online courses do you recommend? Also, what specific things should I study to be able to grasp the basics of data science? Thank you!",Data Science for Beginners,1584631412
+datascience,"Hello everyone,  
+As many countries are quarantining their population and closing non-necessary stores, which means a sudden drop in demand, one would expect this demand to jump as soon as the quarantine is over. 
+
+What can be done so the algorithms anticipate this rebound of the demand and predicts an accurate trend ?
+
+I would gladly discuss and try to challenge any thought on the subject :)",Impact of COVID-19 quarantines on demand forecasting,1584631276
+datascience,"Spam bot caught this one but I think it's worth sharing anyway.  A data science team tried to recreate study results using a publicly available data set, and couldn't.  Turns out the original data had been cleaned incorrectly, leading to the same sample data points being added to both the test and training set, and thus models with very high predictors.
+
+https://towardsdatascience.com/rookie-data-science-mistake-invalidates-a-dozen-medical-studies-8cc076420abc",Rookie Data Science Mistake Invalidates a Dozen Medical Studies,1584631271
+datascience,[removed],How do I transition from data science to business analytics?,1584627087
+datascience,https://365datascience.com/pricing,Free full-access Data Science courses through April 15 due to COVID-19,1584626851
+datascience,"I’ve come across a good number of ‘Data Analyst’ positions that require not only the analytics part in regards to data, but also building the infrastructure of the databases. Is there a basic level of proficiency I can get to that will allow me to at least know the foundations of the data engineering part? Is it as difficult as I think it is? Especially as someone who’d be self-learning this part. Anyone care to list some of the technical softwares that are needed? Starting from like the most basic of requirements to get started (say, in a small company/start up just to get their database warehouse started) 
+
+Thank you in advance~","How do I become proficient in the data warehouse/engineer side of things, while currently being a data analyst?",1584624196
+datascience,,Webinar on Data Science and Artificial Intelligence as your career goal,1584622054
+datascience,"Firstly, sorry if this is inappropriate for this subreddit, please remove this post if it is not allowed.
+
+I am a university researcher for IE University in Madrid and my research team is working on a paper that is investigating the use of Big Data in organizations. We need data science professionals to fill out a 25-question survey. All responses will be shown in an aggregated format with no identification of the company or individual involved. These responses will only be used for academic purposes.
+
+If there are any professional data scientists working on big data projects in this subreddit, please can you spare 5 minutes to fill out our survey? Please, only people with relevant work experience should respond, this is not for students or people who work in other fields.
+
+Thank-you in advance, the insights will be of great value in our work.
+
+[https://docs.google.com/forms/d/e/1FAIpQLSe4OGSoxCDZzuBcGPQusaqsEiZoXZXLDW7A3kLLjVdVp7fYQA/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSe4OGSoxCDZzuBcGPQusaqsEiZoXZXLDW7A3kLLjVdVp7fYQA/viewform?usp=sf_link)",Big Data Research Project,1584622003
+datascience,I've been doing a lot of plotting in RStudio of late and it's going well but my graphs aren't sharp or the quality is just low. Is there something I can do to make the picture quality better?,My graphs are not sharp,1584620369
+datascience,"Hi, I am currently majoring in computer science for Bachelor's degree. After finishing my Master degree, I want to start working as a data scientist. I have two options for Master's degree. One is Master of Computer Science and the other is Master of Statistics.
+
+I am somewhat skeptical to take CS master course because the curriculum my school provide seems like not much related to the data scientist. The data science course provided my school requires for students to take Concurrent Programming and Software Modeling, Database Management Systems, Advanced Operating Systems, Design and Analysis of Algorithms plus one statistics class between Multivariate Statistical Analysis, Linear Models and Regression Analysis. As you can see, the course does not match with current data science trend. It is too general. 
+
+On the other hand, the master course of Statistics require following classes to be taken:Principles of Statistical Inference, Multivariate Statistical Analysis, Linear Models and Regression Analysis, Statistical Computing, Categorical Data Analysis, Data Visualization and Graphical Tests and etc. 
+
+What do you think the better option for a preliminary data scientist to follow? 
+
+Thank you for your time.",Which one would be better between Computer science master or Statistics master to be a data scientist?,1584617751
+datascience,,"What are some accredited data science courses which I can do while in quarantine? (Statistics background, but no coding skills)",1584613102
+datascience,,Natural Language Processing APIs for Python,1584603639
+datascience,[removed],Decision trees,1584596495
+datascience,"Hey all! I'm formerly a marketing and finance major (Winter, 2016) who has loved data, and the message behind it ever since I took a marketing research course and began to learn more and more about data science (which came to be after to combined affinity to learn computing language and work with data) and I'm not sure where to start. 
+
+What are some things you would tell an individual in his late 20's who wants to get into data science at this current juncture?
+
+&amp;#x200B;
+
+Thanks!",Wanting to pursue a Data Science Career,1584594728
+datascience,^ as the title says,Are most data science jobs just desk jobs?,1584593030
+datascience,[removed],Is a Data Scientist Career Sustainable for Several Decades?,1584592003
+datascience,[removed],Which is the best online platform to learn Data Science for People with Lack of Self Discipline?,1584590202
+datascience,share me your opinions,How data scientist is important?,1584589566
+datascience,[removed],Monthly Subscription for Articles on Medium,1584587110
+datascience,"Seeing as there are many new datasets and papers beginning to come up about coronavirus. I created a [Github repository](https://github.com/isaacmg/ai-virus) to keep track of all coronavirus related research. Additionally, I wrote an [article](https://towardsdatascience.com/machine-learning-methods-to-aid-in-coronavirus-response-70df8bfc7861) summarizing recent literature",[P] Machine Learning for Coronavirus Dataset List and Literature Review,1584586064
+datascience,[removed],"Book idea- ABCs of Data Science, need input",1584585826
+datascience,"I just received an email from Tableau sharing their Covid-19 data hub. It contains their dashboard, but more importantly, they are making their daily updated data sets freely available. I am not affiliated with them, but thought it was worth sharing.
+
+[https://www.tableau.com/covid-19-coronavirus-data-resources](https://www.tableau.com/covid-19-coronavirus-data-resources)",COVID-19 Data Hub - Daily updated data sets and visualization by Tableau,1584584397
+datascience,,Introducing MIDAS: A New Baseline for Anomaly Detection in Graphs,1584583804
+datascience,[removed],FREE Virtual Data Science &amp; Data Analytics Summit - Omnisci Virtual Summit 2020,1584581586
+datascience,[removed],Help with my assignment!!!,1584580785
+datascience,[removed],MS Data Anaytics - Elective Options,1584579834
+datascience,"Hey guys, I run a medium size Instagram page (8k followers) and I post NBA analysis through data. 
+
+I figure that since I am all about data and analytics, why don't I create an algorithm that will predict how many likes a post will get. The purpose of the project is for me to learn and apply something new on R and that I will be able to improve the quality of my page.
+
+The problem is that I do not know where to start. I am familiar with R at a very begginer level. I can make GGPlot graphs and I can make simple Multiple Linear Regression models while using Step-wise regressions for feature selection. However, I am a quick learner and I have an extended break and I am under quarantine so I think its worth my time to learn how to make such a project. My question is where do I start adn what should I look into learning?
+
+PS this is what my posts look like if thats of any relevance \[I have like 630 posts\]
+
+&amp;#x200B;
+
+[The pictures are higher quality but I zoomed out to get a good picture](https://preview.redd.it/m0tymka38in41.png?width=470&amp;format=png&amp;auto=webp&amp;s=db455c766d0b04e2309938baf1160fd9937ce4bc)
+
+Thank you :)",[Projects] Creating a Project that Predicts Instagram Likes (R project),1584569276
+datascience,[removed],Resources recommendations for Covid-19 quarantine,1584568361
+datascience,,$250 Savings on DataCamp Premium Yearly Subscription,1584565163
+datascience,,Crash Course: Machine Learning for PMs,1584563995
+datascience,[removed],Master list of recent articles and datasets related to data science and Coronavirus,1584563866
+datascience,,Beer consumption mesaured in liters per country from 1890,1584562811
+datascience,[removed],Internet traffic data,1584561914
+datascience,"Wanted to know the best resources (online/books) to learn more about digital marketing and online advertising, along with applications of analytics in this domain.
+
+Thanks!",Digital Marketing Analytics,1584557503
+datascience,,"The brown institute is offering two micro-grants for projects that help inform the public about #COVID19. Each is $5,000, and is for journalists, technologists, health researchers, data and social scientists —any and all communities involved in covering the virus.",1584555963
+datascience,,My quick-start COVID-19 plotting notebook - feel free to copy &amp; modify,1584555896
+datascience,[removed],Can a Data Scientist Replace a DJ?,1584555596
+datascience,,Do they want a data scientist...or yes man?,1584555450
+datascience,[removed],Crash Course: Machine Learning for PMs,1584553890
+datascience,[removed],Made my own Dashboard with Plotly and Dash,1584551822
+datascience,"I have a repository that uses python scripts and a Makefile. I want to have a setup procedure that
+allows them to easily set up an environment and copy in the necessary data files from our server.
+
+The problem with including the source data files in the Makefile is that the company server uses 
+spaces in the drive name, which make doesn't like very much, so I can list those files as dependencies
+for the target output file.
+
+My current Makefile basically does only the following:
+
+```
+.PHONY : all
+all : output.csv
+
+.PHONY : copy_data_to_local_folder
+copy_data_to_local_folder :
+	python copyfile.py ""V:\\Server Path\\With Spaces\\Inputs 1.csv"" local/inputs1.csv
+	python copyfile.py ""V:\\Server Path\\With Spaces\\Inputs 2.csv"" local/inputs2.csv
+
+output.csv : combine_data.R local/inputs1.csv local/inputs2.csv
+	Rscript $^ $@
+```
+
+The `copy_data_to_local_folder` part is just to get the data to the local directory, but it isn't included 
+in the DAG leading to the production of `output.csv` (i.e. `all : output.csv copy_data_to_local_folder`) or else
+the target would need to run everytime.
+
+My solution ideas are the following, but I'm not sure what's best practice:
+
+1. **Use a different make tool.** I could use `Luigi` in Python or `Drake` in R, but I would prefer to keep 
+the tool somewhat more generalized.
+
+2. **Run a setup script to copy in files.** I assume there would be a way to run the file copying scripts
+as part of the environment setup, but I am unfamiliar with how to do this.
+
+I am not sure about the best way to do this. I want to be able to share the code with a co-worker and have them
+be able to get up and running on their system without too much messing around to configure. Is there a best
+practice for this situation?",Working from raw source data from a filepath containing spaces using make and Makefiles,1584549068
+datascience,Apologies if this is the wrong place to ask!,How can you find out if it’s possible to access your shopping data through an API via your online shopping account?,1584546514
+datascience,"Working on a project (for my job, not another pop-science medium post) where I'm trying to isolate records with free text that relates to covid-19. 
+
+I started to put the following list together, and am interested if there are any other isolating terms. Here's what I have so far:
+
+* cv
+* virus
+* corona
+* covid
+* outbreak
+* pandemic
+* endemic
+* pandemic
+* epidemic
+* shutdown
+* quarantine
+* social dist
+* covd
+
+&amp;#x200B;
+
+Any other big ones?",Corona Virus Search Terms,1584545661
+datascience,,I wrote a python package to make the Cord-19 challenge easier!,1584543462
+datascience,,Interesting article/walkthrough on using DS to analyze the COVID-19,1584543382
+datascience,"Just wondering if theres any other subs or communities around data Science that are a little more female dominated. not that r/datascience is necessarily bad or unhelpful, its just that its more refreshing being in a community that can relate to you a lot more.
+
+would love to hear from the ladies on here!",An r/datascience equivalent that's female-heavy,1584540406
+datascience,"Check this article demonstrating QLazDOE software managing single-factor experiment with multiple treatments, using one-way ANOVA and regression for analysis of results and driving conclusions.
+
+[https://matasoft.hr/QTrendControl/index.php/qdoe-design-of-experiments-software/doe-case-studies/25-plasma-etching-experiment-example-of-single-factor-experiment-fixed-effects-model-4-replicates-one-way-anova](https://matasoft.hr/QTrendControl/index.php/qdoe-design-of-experiments-software/doe-case-studies/25-plasma-etching-experiment-example-of-single-factor-experiment-fixed-effects-model-4-replicates-one-way-anova)
+
+Matasoft is offering free 6-months licenses for individuals willing to participate in beta testing of the new software product called ""QLazDOE"", a program for designing and analyzing results of Designed Experiments (i.e. Design of Experiments, DOE). If you are interested, claim your 6-months free license for QLazDOE software, mailing to the following contact: [sales@matasoft.hr](mailto:sales@matasoft.hr)
+
+QLazDOE is a is a statistical software for designing and analyzing results of Designed Experiments (i.e. Design of Experiments, DOE). It features DOE projects and solutions management, generator of designed experiments, factors and levels definition and integrated LazStats statistical software for statistical analysis of experimental results. QLazDOE also contains rich collection of various statistical tables.
+
+https://preview.redd.it/gbu29kjqrfn41.png?width=1912&amp;format=png&amp;auto=webp&amp;s=4c19a8285c889322347309a297e7d60230146cf6
+
+\#QLazDOE #DOE #Design of Experiments #design-of-experiments #Designed Experiments","QlazDOE software, example of single-factor DOE with multiple treatments, one-way ANOVA and linear regression",1584539451
+datascience,"Hey folks! I hope everyone is well?
+
+I work for a company who has developed a no-code data science platform. We're opening it up for early access soon, but I just wanted to gauge interest first so I'm putting it out there. 
+
+I know that the majority of people on this sub are professionals, well-versed in data science, so it might not apply to everyone. But in case there's anyone reading who wanted to get started with analytics and data science then please let me know. 
+
+That being said, it's not only for beginners. You might find something in the tool that you find valuable, saving you time or effort better spent elsewhere. Who knows, we're here for feedback from beginners and pros alike! 
+
+So, if anyone is interested, please drop a comment below and I'll PM you with an early access sign-up link. If you want to know more, just ask. We're all interested to have users test it out, provide feedback and tell us what's missing or what we're doing well. Community feedback is important! 
+
+Thanks, stay safe!",No-code data science early access,1584538632
+datascience,"So I’m still trying to figure out what it is I want to do in life &amp; the data science is one of my heavily considered options. I’ve been curious recently, what are your work environments like? Mainly a desk job? What are your hours? People you work with? Computer use all day? Repetitive tasks or varied projects? Etc. 
+If you work from home because of Coronavirus please give answers of what things were like before this happened.",What is your work environment like?,1584537663
+datascience,,Webinar on Data Science and Artificial Intelligence as your career goal,1584534895
+datascience,,Data Science Career Path,1584528293
+datascience,"I am looking for an RPA tool that automatically logins into the tableau server and copies the new data uploaded there and pastes it into an existing excel file or google sheets.
+
+Any suggestions??",RPA tools for automatic login into a website and extract data in an excel file?,1584525750
+datascience,,The Importance of Machine Learning in the 21st Century,1584525153
+datascience,[removed],DATA SCIENCE FOR PRICE OPTIMIZATION,1584523331
+datascience,[removed],Hate speech,1584521311
+datascience,[removed],Hate speech based vulnerable community identification.,1584521144
+datascience,,Supervised Learning - Linear Regression (Python Series),1584518741
+datascience,[removed],Data Science Masters Advice?,1584516049
+datascience,,Python For Java For Data Science and Developers,1584504622
+datascience,"First time posting here. Hello data scientists!
+
+I'm a graduate student studying data science. For my elective next quarter, I'm deciding between Image Recognition and Reinforcement Learning. Since it's the last quarter before my full-time job search in September, it'd be fantastic if I could get some advice from you guys.
+
+My goal is to land a data science position in a tech company, preferably e-commerce and ride sharing, but would also like to explore a bit while I'm in grad school. 
+
+I think reinforcement learning is more linear to my goal since it could be applied to recommendation systems and route planning. However, I heard that this field is somewhat bloated with bubble--a great proportion of academic researches can't be replicated. A DS friend of mine said that RL didn't outperform ML models for her tasks at work.
+
+Image recognition, in contrast, has wider application as of now and more academic researches to study from. Nevertheless, 2 counter points: 1) image recognition could be learned with lower efforts than RL so taking a course might not be worthwhile, 2) image recognition is more common on resumes than RL
+
+What do you guys think? Any input will be greatly appreciated!",Need Course Advice: Image Recognition or Reinforcement Learning,1584504364
+datascience,"I switched to Applied Math last year after being informed about Data Science, and have been at it every since. Even before the Covid-19 I have been motivated to become a Data Scientist, but now after seeing my place of employment shut town weeks before my promised promotion, and the eventual lay offs that will ensure, I absolutely see now that my only option is to go full throttle. Right now my only option to make money is Uber Eats, whereas others may work remotely.
+
+Most importantly, I am thrilled by the Kaggle Covid-19 dataset. The idea that one day I could pivot from corporate work to life saving public research is absolutely awesome. Data Scientists can actually “suit up” and save the day!",Any undergrads feeling even more motivated to become a Data Scientist due to Covid-19?,1584503086
+datascience,"Have you been wondering is there a way to collect live data from stock, cryptocurrency or betting websites?
+
+Or thinking how these websites are able to update the data live?
+
+If you want to interested in one of the questions above, this article is for you.
+
+In this article, I will help you to understand the technology and give you one practical case to scrape live data.
+
+Link: [https://towardsdatascience.com/websocket-retrieve-live-data-f539b1d9db1e?source=friends\_link&amp;sk=f6a66783003a234236ea3cf0cdab4407](https://towardsdatascience.com/websocket-retrieve-live-data-f539b1d9db1e?source=friends_link&amp;sk=f6a66783003a234236ea3cf0cdab4407)
+
+Leave a comment below if you have anything to add on!",Websocket — Retrieve Live Data,1584502415
+datascience,,"A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data",1584502279
+datascience,,"Is there any data, graph or visualization showing possible future scenarios based on how fast COVID-19 is spreading?",1584500329
+datascience,"Hi,  
+i was learning python for 3-4 last months and i have stalled.  But today I came across this subforum and I was dazzled. All these tutorials and textbooks excite me unhealthy, I'm just starting Data Science from Scratch, thank you!  
+
+I'm 31 years old and I finished economics, but I regretted my whole life that I didn't go to mathematics. Is there still a chance for me? I would add that ultimately I would like to work remotely, even for much less money, because I love warmth and humidity, but data science seems to me an extremely group story, is this possible to achieve?",did I just find my life goal?,1584495176
+datascience,,All Cambridge University textbooks are free in HTML format until the end of May,1584489964
+datascience,,K-Means Clustering: Unsupervised Learning Applied to Magic: The Gathering,1584489665
+datascience,[removed],Interview Request Data Analysts / Scientists etc.,1584489217
+datascience,[removed],Econometrics question,1584487578
+datascience,[here it is ](https://youtu.be/3Ewqqp2p0BI),Given the fear with the Coronavirus I decided to assess its criticality using data science and answer whether we need to worry or not,1584486286
+datascience,"So I got into my company’s internal data science development program. Just wanted to see if y’all could share some handy resources and suggestions for books to get. I have some basic coding experience and some data visualization experience with Spotfire and Power BI. 
+
+Topics include data cleaning, basic statistics, regression, trees, time series analysis, text analytics, story boarding, framing, cleaning and modeling just to name a few. 
+
+We are also expected to work on a capstone project, utilize R and Python and do homework. 
+
+It’s 7 months long and is expected to take up to 30% of my week. So any suggestions for classes, websites, or books would be appreciated!",Data Science Questions!,1584485242

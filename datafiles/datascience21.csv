@@ -1,0 +1,441 @@
+subreddit,selftext,title,created_utc
+datascience,,Benchmarks for writing pandas DataFrames to SQL Server (ODBC),1586475722
+datascience,[removed],"Hiring managers: When you want a candidate to walk through a project they've done in the past, what are key things you are looking for in their answer?",1586470208
+datascience,,KgBase - Build knowledge graphs without writing code,1586468016
+datascience,[removed],Suggestions for portfolios,1586465840
+datascience," Hi!
+
+I am currently in the process of writing my Diploma thesis (or at least coming up with a topic). I happen to have a chance of getting data (what exactly has not been specified yet, I need to have a good business case to receive anything) from a network of medical clinics that specialize in biological therapy (think multiple sclerosis, rheumatoid arthritis, etc.). I believe this could be an opportunity to use my obtained skills for something that is actually good and might have some impact. I am majoring in Economics but I specialize in Econometrics and Data Science. 
+
+Now, I do have some ideas of what to do but I would like to ask whether anyone here has any tips on what kind of data I can utilize and what are my possibilities regarding the research focus. I am new in the field of health care and I am really looking for inspiration rather than anything else. The focus should be grounded in data science. 
+
+Any tips and ideas will be greatly appreciated!",Medical data - diploma thesis. What to do?,1586464885
+datascience,,"New D-Tale (free pandas visualizer) features released! Animate your chart with ease, here's some using US COVID-19 data",1586464712
+datascience,,Lecture 1 | Basics &amp; Installations | Artificial Intelligence Series,1586464556
+datascience,[removed],Want to learn AI?,1586464526
+datascience,[removed],Do you Want to Learn AI?,1586463147
+datascience,"Or $50 a year? I started reading a few articles and now hit a Medium paywall. 
+
+I'm willing to pay a few dollars for relevant informative articles.",is towardsdatascience.com worth $5 a month?,1586462666
+datascience,[removed],HackerRank or LeetCode?,1586456922
+datascience,[removed],Can someone help me with this problem statement,1586456590
+datascience,,Data Science Starter Package Giveaway | 7 Free Udemy Courses by Kirill Eremenko &amp; SuperDataScience Team [OFFER EXPIRES IN 1 DAY],1586456442
+datascience,"[removed]
+
+[View Poll](https://www.reddit.com/poll/fxwxu6)",Which would you recommend for someone new to data science/programming for technical interview prep?,1586454362
+datascience,[removed],Getting back into the field after 1 year?,1586453488
+datascience,[removed],How best to transition into the field?,1586453411
+datascience,"I am trying to brainstorm a bit and I am hoping you all could help me. With the corona virus forcing a long term work-from-home scenario, I am looking to dive into longer term projects for which I otherwise wouldn't really have the time. I am trying to think of what simple data I can work on gathering (via a simple front-end program, or survey) on an on-going basis to then study and derive insights from. 
+
+Has anyone done something like this in the past? What info have you gathered and studied? I started thinking about something simple as recording employee happiness on a daily basis on a scale of 1-10, along with maybe a measure of productivity, or a brief description of what they were doing that day or what was driving those feelings. Thought maybe over time this could be useful? Any ideas or insight anyone can share would be a help!",Data Studies to Benefit the Workplace,1586451806
+datascience,[removed],Teaching,1586450887
+datascience,,Data on global demand and supply for face masks and PPE? #COVID19 response,1586450725
+datascience,,Internet User By Country 1991-2020 Cool Visualization,1586449995
+datascience,[removed],Jumped Straight into the Iris Dataset. Can anyone give me some feedback?,1586449596
+datascience,,Finally...IPad for data science. Thanks Apple for finally supporting trackpads 😏,1586449423
+datascience,,"CuPy accelerates NumPy on the GPU? Hold my Cider, here's Clojure!",1586449045
+datascience,"You're given a task from a client. You're given the data. You've gotten to understand the data. 
+
+It's sparse, very sparse, imbalanced also. All your tricks do not seem to work. 
+
+Yet there's still this hunch, and a big chunk of dissatisfaction, with failing to prove the underlying relationship you set out to do. 
+
+You can always reparameterize; Maybe the response should be encoded in a different fashion, what about additional feature engineering, basis functions, priors, enriching the data.
+
+The question is, **when do you stop**? When do you accept the solution you're looking for, does not exist in this haystack. Accept the defeat.",How do you know if your dataset has been exhausted,1586449037
+datascience,[removed],Newbie to this thread as well as data science.,1586447672
+datascience,,Newbie to the thread as well as the field of data science.,1586447462
+datascience,[removed],What are my options for creating a simple data visualization web app?,1586445718
+datascience,,Image detection as a service,1586445396
+datascience,[removed],Stock trading or Software Engineering?,1586444483
+datascience,[removed],What is the career path a high school student should take to study data science?,1586444455
+datascience,"Data Scientist in Silicon Valley here. Started applying for jobs 2 months ago to transition to a new company before the pandemic hit. I interviewed with multiple companies and reached the final interview portion for Uber before bailing on it (as well as all other companies in my pipeline). I increasingly felt that these service app companies were especially volatile and vulnerable right now, if you see what's going on with their stocks, their non-existent customer base, and mass layoffs (ex: Thumbtack).
+
+But did I make a mistake in my assessment? I don't know if I overly freaked out and turned down what would likely have become a job offer. My company pays me well, and since I'm in the online streaming business it feels a lot more secure. But my total comp isn't as great as what Uber/Lyft offers in the Bay Area (200k+) and switching to these companies could mean almost 30%+ lift in my total comp. 
+
+Thoughts?",Turned down Uber's Data Scientist final job interview...did I make a mistake?,1586444366
+datascience,"As I’m sure many people have been recently, I’m becoming increasingly worried about the state of our democracy. While I know that my best chance for changing things is to vote, it seems like even the ability to vote may be threatened, I specially for certain communities that rely on absentee voting, like myself. I am a novice at data science myself and wouldn’t know where to start with such an idea, but how unrealistic would it be to crowdsource a “by the people, for the people” independent reporting database that could monitor the performance of the states in providing people their right to vote? What kind of risks would be involved in such a project? How could it be guaranteed as much as possible that reporting would be as truthful as possible?
+
+I’m not necessarily writing a call to action, but in a community of experts, I feel the need to at least start a discussion, so that if this idea has at least some hope of doing something good, maybe the discussion could lead to a group effort to protect the voice of the people. 
+
+May be impossible but I thought I’d put it out there.",An independent voting reporting system,1586442882
+datascience,[removed],MBA Student looking at data science,1586440799
+datascience,[removed],how data science and AI are helping in coronavirus. Lets discuss and increase our knowledge.,1586439073
+datascience,,How are you going to handle corona in your models? Let's have a discussion!,1586435741
+datascience,"Hi Data Scientists !
+
+Im currently working on a project to split my dataset into 3 sets of observations, 2 of them being as close as possible to each others in term of features.
+
+I’ve started with a random sampling, I then improved it by using a stratified sampling, and then improve it using a cluster sampling.
+
+Always trying to improve the performance, I’m now considering more exotic approaches...
+(Like inverting a clustering algo to produce 2 sets with very high intra-variance and very low inter-variance...)
+
+Do you know any approach that would have been already adopted by the academics ?
+Or perhaps could you give me other communication channels to help me crowdsource the solution ?
+
+Any help will be much appreciated !
+Many thanks !",Homogenous Sampling for A/B test !,1586435415
+datascience,"Most of us know that Data Science is a domain where experience would provide more weightage than having a portfolio to showcase one's skills. How exactly would someone begin with freelancing if he has no portfolio to back his skills? 
+
+Also, for freelancers of this sub, which platform did you use to land your jobs/projects and how did you convince your employer of your skills?",What are some tips you would give to someone planning to start as a freelancer in Data Science?,1586435355
+datascience,,Top 10 Real World Applications of Artificial Intelligence in 2020,1586435336
+datascience,"Hi! I am looking for live flight data, similar to what we might see on Flight radar (www.flightradar24.com) but in a systematic form (i.e. as an API). 
+Do you have any suggestions? Thanks in advance!",Live Flight Data,1586431155
+datascience,,Emerging India Group,1586429353
+datascience,[removed],"Data engineer career insights( roles &amp;responsibilities , tools&amp; languages )",1586429201
+datascience,"Hey guys,
+
+At  my consulting company we worked on a project on Embedding Domain  Knowledge in Neural Networks for Estimating Customer Lifetime Value. We  thought we'd share what we have done in the project, since it is a bit  ""out of the box"".
+
+As part of the  rise of Deep Learning in the ML community, we have  observed an  increasing fit-predict approach, where AI practitioners  don’t take the  time to think about the domain knowledge that is already  available and  how to embed it in the models.
+
+Here,  we cover how we  created custom-made Deep Neural Networks that combine  domain knowledge for estimating Customer Lifetime Value in multiple  timesteps, in a  project developed together with NOS, a major Telco in  Portugal:
+
+[https://nilg.ai/blog/202004/embedding-domain-knowledge-for-estimating-customer-lifetime-value/](https://nilg.ai/blog/202004/embedding-domain-knowledge-for-estimating-customer-lifetime-value/)",Embedding Domain Knowledge for Estimating Customer Lifetime Value,1586428540
+datascience,"So I graduated in a environmental related field in 2017, worked in the Orlando in that field, moved back to the UK in 2018, couldn't get work in the same field for a year moved to London still couldn't find work and ended up going self employed.
+
+I started my journey to become a data analyst in 2019 and haven't been able to get any form of employment in that field, im considering trying remote work as nows the best time and I've given up trying to get hired and think I have to made my own work if I ever want to get any.
+
+What's the best methods, websites, resources for someone new to data analysis utilising Python, juyputer notebooks, gis, excel, SQL.... To get remote paid work however small.
+
+Ive looked into up work but it seems saturated with much more experienced people. (I guess everywhere will be saturated with remote workers now?)","Been looking for a job with no luck since Sep 2019. Considering trying remote work, how do I go about it?",1586426426
+datascience,"I’m an International student currently pursuing my masters in information technology in the US. Before all the corona mayhem ensued, I applied to multiple Internships for Summer 2020 &amp; coops for Fall 2020. In the past few days I have just been getting rejections stating that the position has been suspended. This has really discouraged me a lot and I really wanted a good experience to learn and further add to my resume as I have only one year of IT experience in India. I’m very interested in Data and want to look like a lucrative candidate for hire. Anybody has any advice on how to approach the whole internship process or how to make meaningful connections because I suck at networking too.",Internship Search Advice,1586424933
+datascience,"Has this happened to you, and how did you handle it as Data Scientists? I have said twice now that I will not go into work. I am in Germany, there are no strict restrictions, only social distancing. However, this goes against my morals and I do not want to put others at risk / I need to take public transport.   
+
+
+My employer is, however, making it clear that he's becoming impatient.   
+
+
+I honestly don't know what to do.
+
+&amp;#x200B;
+
+Thanks r/datascience",My company requires that I come into work during corona,1586422643
+datascience,"Hi Everyone!
+
+I'm a 5th-year Petroleum and Chemical Engg Undergraduate, going to graduate from UNSW Sydney next year. Oil prices have dropped to crazy lows and there's not too much hope in the oil industry currently. To future-proof, I'm thinking of developing some entry-level data science skills. So worst case, I can start a career as a data analyst or engineer. DS sounds really fun and exciting in all honesty!
+
+&amp;#x200B;
+
+I'm looking for some help regarding how I might go about doing that. I have around 6 months before I have to apply for internships where I'd like to show off my auxiliary data skills.
+
+&amp;#x200B;
+
+Right now, my plan is to learn Python online and then do the Data Science Specialisation - John Hopkins University via Coursera.  Can anyone help me out in what I should do to achieve my goal?",Engineering student looking to get into Data Science,1586418937
+datascience,"Has anybody taken this course? Will this course be good for learning basic stats and probability required for data science ??
+
+ [https://www.udemy.com/course/statistics-probability/](https://www.udemy.com/course/statistics-probability/) ",Become a Probability &amp; Statistics Master : Is this course on Udemy worth taking?,1586416433
+datascience,"Unfortunately due to COV-19, my internship for the summer was canceled. It wasn't an internship related to data science, but I am looking to possibly get an internship in data science or start a project in data science as I am discovering I have a passion for data analytics and data visualization. Any thoughts or ideas? How do I make the most of this time and get solid experience working with data?",Internship canceled: redirection. Ideas?,1586410643
+datascience,[removed],MAJOR CHALLENGES IN THE DATA CLEANING PROCESS IN DATA SCIENCE,1586409912
+datascience,"I 'm going over the skillshare program on [Data Science and Machine Learning with Python](https://www.skillshare.com/classes/Data-Science-and-Machine-Learning-with-Python-Hands-On/1263657127/lessons) and I was wondering how face-to-face / expensive programs such as [this](https://www.ucalgary.ca/pubs/calendar/grad/current/data-science-analytics.html) from the University of Calgary would differ. Does it justify the cost? I went to the info session and yeah, it's pricey! Like bordering on a cash grab at $3000 per course!",Data Science Certificate and Diploma Programs,1586408038
+datascience,[removed],is Hadoop still worth learning for interview prep?,1586404348
+datascience,"I've gone through several iterations of writing a blog focused on data science and could use some feedback on an approach that fits my needs. I've seen very little resources out there that focus on this workflow so I hope it's useful for others here. 
+
+TLDR existing workflow: 
+
+- Plumber API (R backend) hosted on Heroku for free and serves summary data for different articles
+- Works but not scalable, will re-run analysis code whenever data is requested by frontend
+- Frontend built with React and hosted for free on Netlify that fetches from Plumber API
+
+TLDR requirements in new workflow: 
+
+- Ideally any analysis code written in R to serve dynamic output data to frontend
+- Frontend built with no restrictions on layout (React / Vue)
+- Scalable backend analysis that can quickly transfer data to frontend  
+
+I'm most comfortable using R (especially for data processing/analysis) so I started with a Blogdown website but it wouldn't be uncommon for some articles I wrote to take ~1 minute to load because of the charts and maps I would use. I did what I could to optimize this but ultimately accepted there are better solutions out there. I now have any analysis underlying a blog post hosted as a Plumber API. This usually involves requesting data from a third party API, processing, and then serving summary output that is then charted on the frontend. This is not ideal because of how long some processes can take to run (especially if multiple users are requesting at once since R is single-threaded). I've built the backend to be wrapped in a Docker container so it could technically be hosted as multiple instances with Kubernetes but this seems like overengineering.
+
+Ultimately what I think is missing is a hosted database that output data is stored in to be served to the frontend. I've toyed with the idea of a serverless architecture to run my analysis code (once a week, month, etc.)  and then store the output to a Db. I have no experience with serverless so I don't know whether this is overengineering as well. I know it is technically possible to write serverless Lambda functions in R but don't know if there are any disadvantages to this approach. 
+
+Thank you for any feedback, positive or negative",how to build a performant data science blog?,1586401316
+datascience,[removed],I need some advice for my resume.,1586398295
+datascience,[deleted],"need some advice for resume. applied for more than 150 positions, only 3 phone interviews so far.",1586398057
+datascience,[removed],What should I major in at college if I want to get a data science job?,1586395860
+datascience,"Howdy, I do data science in market research and I'm looking to automate a part of our workflow that currently takes a huge chunk of reporting time. 
+
+We get open ended responses to several questions on every survey and I'd like to categorize individual responses into themes and pull out 3 or 4 representative quotes for the top few themes. With average around 5 open end questions per survey and \~2500 respondents I'm looking at maybe 10,000 individual responses a month. This is still in development so is currently being done by hand (!!!) every month (not by me thank god).
+
+I have a shell of a program built that pulls word frequencies across each response set, then uses some human input and intuition to develop a code frame, and then pulls a random set of the top 20 longest quotes from my specified code frames. Obviously the problem is using just words, or even bigrams, the longest quotes are going to end up with several categorizations and it still takes reading through to accurately put them into their correct bucket.
+
+What I think I'm leaning towards is building a training set with all these labeled instances and specifying a set code frame that's used over and over. I lose some of the nuisance associated with specific trends in the responses but that's the only way I can see to fully automate this.
+
+Sorry for the long winded description... But has anyone dealt with a similar problem, and if so how did you solve it? Or anyone familiar with out of the box solutions that might be useful (I have a budget for this if need be). Thanks!",Categorizing individual responses from survey data,1586394864
+datascience,[removed],"If a certain process yield x percent fail rate, and a second process yield y percent fail rate. What kind of statistic test should one use to evaluate if the processes are significantly different?",1586392675
+datascience,[removed],Question About Various Specializations,1586391489
+datascience,"Recruiter reached out to me to interview for their DS Analytics role and after the technical screen I made it to the ""onsite."" Of course, lots of people know that it's just a glorified analytics role. If my interests are in statistics/ml (studied it in grad school) with 2 YOE under my belt, would this be the wrong career move to make? Has anyone who worked in these roles gone on to do more modeling type work at other companies? Did having a FAANG on your resume help?","Ex FB DS - Analytics, where are you now?",1586387022
+datascience,[deleted],"[HELP] I'm a rookie to data science, and I have an assignment question I'm having trouble in.",1586384184
+datascience,[removed],CMU vs NYU Data Science Masters,1586382852
+datascience,[removed],How to perform Log file analysis using Python?,1586382149
+datascience,,What are differences between variable models in R and Python?,1586381578
+datascience,"I work in healthcare reporting on drug useage for drug makers, looking at pulling together some data to assess the impact of COVID on the number of patients using one of the (non-covid related) drugs I support. I'm going to do a week numbered YOY graph to try to highlight any changes, but I wanted to put some highlights on the graph along the lines of ""first US case"" / ""New York stay at home"" etc to try to give context to the numbers people are looking at.
+
+What are some points in time that you guys have been highlighting to give context to covid effects?","What ""point of interest"" dates are you highlighting when reporting to your business about the impact of COVID on sales/enrollments/whatever?",1586378331
+datascience,[removed],Between Pandas and SQL,1586377866
+datascience,"I had a quick question regarding an internship offer I got at a consulting firm called numero data
+Getting my first offer was obviously very exciting however, I'm having few questions:
+
+1. I'm going to be working full time for 6-8 months, not with the company that offered me the position but rather they're gonna be setting me up with one of their ""clients""
+2. There's a one month training period which is going to be unpaid
+
+The long duration of the internship means I'll have to miss a semester of my college and I'm beginning to wonder whether that's going to be worth it, and should I be suspicious that I'm not going to be working for the company that hired me?
+
+Is this simply standard practice for a consulting firm or should I reconsider moving forward with the company?",Should I be rethink moving forward with the internship?,1586375368
+datascience,"Hi everyone! I have been told by my company that I am actually a data scientist since I do everything a data scientist does, however, on paper they refuse to change my title even though they said I can advertise myself as one on LinkedIn. Has this ever happen to you?  What is your take on this? Does the title really matter for my next move?",How much does the title matter?,1586372824
+datascience,[removed],"Market Analyst interview next week, what should I expect?",1586372615
+datascience,[deleted],economics vs math major?,1586372485
+datascience,[removed],How safe do you believe a data science position for an insurance company is in the current climate?,1586369742
+datascience,"Just as the title of this post indicates. Has anyone ever done this? If you have, feel free to drop a comment, or if you know of any literature/articles/essays etc. that would be useful to read please share. Thanks so much!",Has anyone ever implemented /developed /read about a standardized process for linking datasets to Acts and Regulations?,1586368469
+datascience,,Data Science and How Data Scientists Add Value to Business,1586367554
+datascience,"Hi,
+
+First of all, apologies as I know this is a frequently asked question but im feeling somewhat paralysed by the amount of information available with regards to taking the next steps and trying to forge a career change.
+
+&amp;#x200B;
+
+Background - currently work in IT with an accounting background but no knowledge of programming or stats (covered quantitative analysis in uni but dont think theres much carry over).
+
+&amp;#x200B;
+
+So basically what are my options? Would i be best served taking the financial plunge and enrolling on a grad course or are part time certifications valued in this industry?
+
+What exp do entry level jobs seemingly require (job specs seem vague from what i have seen)
+
+&amp;#x200B;
+
+Again, sorry if i'm forcing another thread with the same info, any help would be a huge huge help",Overwhelmed by the options/routes to take - advice needed for navigating a career change (UK),1586366324
+datascience,[removed],Downloading large csv from password protected google drive,1586366232
+datascience,[removed],What are Netflix's content choices over the last few years?,1586366191
+datascience,For a grade 12 students wanting to pursue her mathematical exploration on the survival analysis of a certain topic.,How difficult is survival analysis?,1586364419
+datascience,,14 Most Used Data Science Tools,1586363420
+datascience,,COVID-19 Cases per Million Population. Iceland and Spain showed to be most severely affected.,1586363214
+datascience,"I have an interview with Apple for their product data science team. I somehow made it past the technical screen with the hiring manager knowing nothing about product. But, I want to know how can I best prepare so I actually know what I'm talking about in my upcoming interview? Thanks.",How to study for product data science interview?,1586362126
+datascience,I am a PhD chemist who has been learning about the basics of data science and Python as a way to pass the time during the COVID-19 lockdown.  I have enrolled in the online courses on Cognitive Class.  Are there any data sets out there that I can practice with to gain more experience and put what I am learning into practice?  I understand most of the concepts but I really would like to do some more practical examples to become more comfortable with the programming part.,Are there any data sets out there for a beginner to practice with?,1586358265
+datascience,"Well first of all let me explain my background, I'm from Brazil, B. degree in biomedical sciences, postgraduated in radiological imaging and it has been like 3 years that I am unemployed (the reality of  qualified personnel in middle-income countries). I'm really really tired of my situation (and the situation of this country) and want neither work in this area nor live in this country anymore. The days keeps passing by as I try to figure out what can I do for a living, then I thought about the market of data science as a whole. I know it's market is heated and almost every company has it's data specialists, so maybe it could be a good idea on investing this career. Very nice, I have some friends who are studying on colleges in Canada so I think to myself ''hmm maybe I could do the same'', so I asked them about their life and study in Canada (particularly Toronto) and they recommended me to look at the website of their colleges. One really caught my attention and it's called TSoM (Toronto School of Management) which has a co-op data analytics program (1-year duration / diploma). Got excited by beginning this whole new life in another country and career but I have some critical doubts about this plan of mine:
+
+1 - Is this college any good? It could help me build my new career?
+
+2 - How's the market for data analysts specifically in Toronto? Do I as a foreigner and new to this area have any real chances in getting hired after completing this program? (I'm looking forward to get sponsored by a company to get a 3-year work permit, I really want to get out of my country of origin)
+
+&amp;#x200B;
+
+P.S: I already began studying programming, database and statistics by Udemy and Coursera, I'm the type of guy who strives for success.",Need help from Canadian Data Analysts or D. Scientists,1586356515
+datascience,,Reinforcement Learning Tutorial Simplified,1586356507
+datascience,[removed],Starting a data science career,1586349947
+datascience,,Webinar on Data Science in 2020: Myths &amp; Facts,1586349883
+datascience,"Basically, the title. I am new to this field and statistics and have found no satisfactory answers online.
+
+I understand the use and benefits of feature-scaling. What's the additional benefit that comes from normalizing while preprocessing data?",What is the benefit of normalization?,1586348263
+datascience,"*At datacy, we are making data work for everyone. We're helping people to earn money from their data, almost effortlessly. And allowing businesses to source richer and more accurate data without engaging in dodgy practices or breaching consumer privacy.*
+
+We offer: **100% custom datasets.** There are no pre-defined datasets on datacy. We enable buyers to pool and aggregate data from thousands of people on demand, simply by selecting various filters - allowing them to build  100% custom and structured datasets, tailored to their needs. 
+
+**Transparency &amp; ease of use**. Buyers can transparently explore the marketplace (similar to Kaggle) and our pricing algorithm allows them to see exactly what they'll pay and why. They can also save any dataset to watchlist, get real time updates on prices and buy data in any format. 
+
+[data marketplace for data buyers](https://preview.redd.it/4c4kx1tm3lr41.jpg?width=2356&amp;format=pjpg&amp;auto=webp&amp;s=d7ade3bef81d83405ff334bdf93bf343907af2f1)
+
+&amp;#x200B;
+
+Later this month we will be opening the platform to a small number of early users. 
+
+We  believe our data should only be used in the way we want and benefit us  directly. This is your chance to be a part of that mission✊. So help us  spread the word about datacy📢, tell your friends, and get them to join  the platform. We cannot do this without you!
+
+We look forward to having you onboard!
+
+The datacy team",Launching a new data marketplace - datacy,1586347953
+datascience,"Hello, I am new to Spyder and am working with the KDD1999 data. I am trying to create charts based on the dataset such as total amounts of srv\_error rates. However when I try to create these charts errors pop up and I have a few I can't solve. I have commented the code. Does anyone know what is wrong with the code?
+
+\#Used to import all packanges annd/or libraries you will be useing
+
+\#pd loads and creates the data table or dataframe
+
+import pandas as pd
+
+\####Section for loading data
+
+\#If the datafile extention has xlsx than the read\_excel function should be used. If cvs than read\_cvs should be used
+
+\#As this is stored in the same area the absoloute path can remain unchanged
+
+df = pd.read\_csv('kddcupdata1.csv')
+
+\#Pulls specific details
+
+\#Pulls first five rows
+
+df.head()
+
+\#Pulls first three rows
+
+df.head(3)
+
+\#Setting column names
+
+df.columns = \['duration', 'protocol\_type', 'service', 'flag', 'src\_bytes', 'dst\_bytes', 'land', 'wrong\_fragment', 'urgent', 'hot', 'num\_failed\_logins', 'logged\_in', 'lnum\_compromised', 'lroot\_shell', 'lsu\_attempted', 'lnum\_root', 'lnum\_file\_creations', 'lnum\_shells', 'lnum\_access\_files', 'lnum\_outbound\_cmds', 'is\_host\_login', 'is\_guest\_login', 'count', 'srv\_count', 'serror\_rate', 'srv\_serror\_rate', 'rerror\_rate', 'srv\_rerror\_rate', 'same\_srv\_rate', 'diff\_srv\_rate', 'srv\_diff\_host\_rate', 'dst\_host\_count', 'dst\_host\_srv\_count', 'dst\_host\_same\_srv\_rate', 'dst\_host\_diff\_srv\_rate', 'dst\_host\_same\_src\_port\_rate', 'dst\_host\_srv\_diff\_host\_rate', 'dst\_host\_serror\_rate', 'dst\_host\_srv\_serror\_rate', 'dst\_host\_rerror\_rate', 'dst\_host\_srv\_rerror\_rate', 'label'\]
+
+\#Scatter graph for number of failed logins caused by srv serror rate
+
+df.plot(kind='scatter',x='num\_failed\_logins',y='srv\_serror\_rate',color='red')
+
+\#This works
+
+\#Total num\_failed\_logins caused by srv\_error\_rate
+
+\# making a dict of list
+
+info = {'Attack': \['dst\_host\_same\_srv\_rate', 'dst\_host\_srv\_rerror\_rate'\],
+
+'Num' : \[0, 1\]}
+
+otd = pd.DataFrame(info)
+
+\# sum of all salary stored in 'total'
+
+otd\['total'\] = otd\['Num'\].sum()
+
+print(otd)
+
+\##################################################################################
+
+\#Charts that do not work
+
+import matplotlib.pyplot as plt
+
+\#1 ERROR MESSAGE - AttributeError: 'list' object has no attribute 'lsu\_attempted'
+
+\#Bar chart showing total 1su attempts
+
+df\['lsu\_attempted'\] = df\['lsu\_attempted'\].astype(int)
+
+df = ({'lsu\_attempted':\[1\]})
+
+df\['lsu\_attempted'\].lsu\_attempted(sort=0).plot.bar()
+
+ax = [df.plot.bar](https://df.plot.bar/)(x='super user attempts', y='Total of super user attempts', rot=0)
+
+df.from\_dict('all super user attempts', orient='index')
+
+df.transpose()
+
+\#2 ERROR MESSAGE - TypeError: plot got an unexpected keyword argument 'x'
+
+\#A simple line plot
+
+plt.plot(kind='bar',x='protocol\_type',y='lsu\_attempted')
+
+\#3 ERROR MESSAGE - TypeError: 'set' object is not subscriptable
+
+df\['lsu\_attempted'\] = df\['lsu\_attempted'\].astype(int)
+
+df = ({'lsu\_attempted'})
+
+df\['lsu\_attempted'\].lsu\_attempted(sort=0).plot.bar()
+
+ax = [df.plot.bar](https://df.plot.bar/)(x='protocol\_type', y='lsu\_attempted', rot=0)
+
+df.from\_dict('all super user attempts', orient='index')
+
+df.transpose()
+
+\#5 ERROR MESSAGE - TypeError: 'dict' object is not callable
+
+\#Bar chart showing total of chosen protocols used
+
+Data = {'protocol\_types': \['tcp','icmp'\],
+
+'number of protocols used': \[10,20,30\]
+
+}
+
+bar = df(Data,columns=\['protocol\_types','number of protocols used'\])
+
+bar.plot(x ='protocol\_types', y='number of protocols used', kind = 'bar')
+
+[df.show](https://df.show/)()
+
+Note:(Also if anyone has some clear explanation on what its about that would also be healpful please link sources if possible?)",Spyder charts not working do you know whats wrong?,1586347074
+datascience,"Let me elaborate. 
+
+I want to take a time step (containing amplitudes of various frequencies at each time step) and feed it into a feed forward network. Then i want to reconvert it into audio.
+
+I took a .wav audio file and made it into a spectrogram S[T][f] where there are T (5511)  time steps. Each time step comtains a vector of 101 elements i am using. The order of elements are te order of frequencies i am using and the value of each element is its amplitude.
+
+How can i use this data (data: the amplitudes of each frequency at each time step with 44000 sampling rate) into audio data (.wav or any other format)?
+
+If it is not possible to do this, please suggest how can i process audio data and write audio data into a file. What is the format to be used?","How to convert spectrogram into audio data, or how to write audio data?",1586346847
+datascience,[removed],Having difficulties writing,1586345891
+datascience,,The USA trying to be World Leader in Everything. (COVID 19 cases on 08-04-2020)(Data Visualization),1586345875
+datascience,I will be graduating this June with a degree in engineering (Electronics and Telecommunication). Unfortunately I took more time than it generally takes to complete a 4 year degree. During my last semester I was exposed to data science which as a concept to draw real life conclusions from a set of data really intrigued me. I am highly interested in finance as well and hence been studying relevant subjects lately. I am looking to forge a career in data science/analysis with hoping to find its intersection with finance at some stage in the future. Which online course is the best to begin with ? Essentially I would like to dip my toes in the data Science world and I'm looking for suggestions so as to where to start ?,Best Online Data Science Course,1586344192
+datascience,"Im not a data scientist, im just considered the ""data guy"" at work because i enjoy using excel lol. i am just approaching this question as an outsider and id like to get some insight from the people who may have a better understanding of ""the curve"" and the projections drawn from it. it doesnt seem very reliable since asymptomatic are probably in the majority that do not get counted in the model..unless there is as rough estimation that is considered. ive always been curious what management does when they are presented some sort of predictive model. government actions based on the curve is a real life example of this. watching this pan out makes me curious what people dont understand about the models, how its developed, how much data is enough, what are its limitations, how much should stakeholders rely on it. so just hoping to get some general insight from yall.",Can you smart folks discuss or explain the models being presented to the public?,1586342581
+datascience,"I am a data scientist/ML engineer trying to get to know different  angles for looking at my profession, especially how it may affect people  with other background.
+
+In the last years I read some books, but probably they're biased  (being written by people who did it professionally, at least at some  point)  
+
+
+* *Master Algorithm* by Domingos (good book, but it's sort of popular science on ML and the social aspect part is very weak IMO, because it is full of hype and reads more like a sales pitch than result of some analysis) 
+* *Weapons of Math Destruction* by O'Neill - it touches some relevant points. I'm not sure about the validity given O'Neill's track record though - she once lamented how no one does research on AI fairness (this was in a newspaper article, it was not long ago, when there were established programs and research groups on that). Also book is very political and might sometimes be annoying if you don't exactly lean left 
+* *Outnumbered* by David Sumpter - this is by far the best book I've read, it's well balanced, like for example the author mentions different metrics that were used to assume whether algorithms made racist predictions or not. Also he doesn't push any ML hype, and actually finds there is no proof for some results that got huge media coverage.
+* *Architects of Intelligence* \- it's a set of interviews with ML people. What is great about it is that you can see that there is no consensus on the future of the field, and that people who actually have impact have divergent opinions on some topics (like for example on regulation)
+
+I'm looking for books preferably written by specialists (as opposed to journalists), also maybe if this becomes a big list someone will find it helpful.  
+
+
+Thanks for suggestions.",Books on Data Science/Machine Learning impact,1586340759
+datascience,,3 Key Data Science Ways Airlines can Fight the Recession,1586340737
+datascience,"Hello everybody,
+
+I am thinking about getting a Smartwatch or Fitness Tracker and the corresponding app. But I have two requirement this device should fulfill (which is why I am asking in this subreddit):
+
+1. All recorded data can easily be exported to a format I can analyse myself (e.g. CSV)
+2. The app and connected are provided by a ""trusted"" provider having high privacy standards
+
+It would obviously also be nice if the data presentation and analysis provided by the app itself is already as neat as possible.
+
+Do you guys have any suggestions? What is your personal experience? I am an iPhone User by the way, so the Apple Watch is an option.
+
+I am thankful for all input you can give!",Smartwatch/Fitness Tracker,1586340561
+datascience," 
+
+Hi there,
+
+I'm doing a research paper in the area of behavioural economics with the title 'The Relationship between Conscientiousness and Individual Level of Loss Aversion moderated by Emotional Regulation'. It consist of 3 questionnaires a) IPIP Conscientiousness Scale, b) Emotion Regulation Questionnaire and c) A lottery Choice Task. This questionnaire will take approximately 7-10 minutes. I appreciate all the help I can get as I still need alot more participants to tabulate the data. Much thanks!
+
+[https://forms.gle/cVBrpuqrDe1uRtd87](https://forms.gle/cVBrpuqrDe1uRtd87)
+
+Thank you! And hope you enjoy the survey and learn a thing or two from it. **Appreciate it alot!**",Need help with research paper :),1586337990
+datascience,"Hey together,
+
+I studied a technical specialization of psychology and always loved the planning, conducting and analyzing of psychological studies. I loved working with the data and loved applying them to current questions. That's why I focused on User Experience.
+
+Currently almost every job I see in this field is either strong in programming or design. Pure research positions are fairly rare. I looked into further trainings to go more into data science and maybe work self employed at some point. In that direction I mostly find Big Data and very technical sources. I came to the conclusion that I should learn Python but \~120 pages into ""Automate The Boring Stuff With Python"" I don't really see the big picture.
+
+Do you have any recommendations on what I could get into to prepare me for a job that analyzes customer data and make implications for others? Will that always bring me to ""big data"" and makes Python necessary for it?
+
+Thanks in advance!",Feeling Stuck with Career Choices and Education,1586335774
+datascience,"So I recently graduated and applied to a variety of jobs, I've been offered an entry level data science job at an insurance company in pricing. From the sounds of it they mainly use R to develop statistical models for improving pricing (rather than necessarily doing crazy fancy machine learning stuff).
+
+Insurance wasn't necessarily my dream industry to work in, but seems like it could be okay. I'm just wondering whether it would be a decent start point to gain some experience on my CV and then shift industry to something I have more of an interest in (e.g Energy). 
+
+Any advice/experience would be great!",Is a data science in insurance a good starting point?,1586333711
+datascience," Good morning,
+
+I'm a student attending a Master's Degree course ( Italian equivalent of ""Laurea Magistrale"") in computer science.
+
+I want to deepen the knowledge of Statistics in order to become more effective in Data Science area.
+
+I've only attended an introduction course in ""Probability and Statistic"" during my ""Bachelor Degree"". And the next year I will attend the following course (see English description): [http://magistrale.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/elenco-completo/elenco-completo/scheda-insegnamento?cod=INF0091&amp;codA=&amp;year=2019&amp;orienta=XH](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/elenco-completo/elenco-completo/scheda-insegnamento?cod=INF0091&amp;codA=&amp;year=2019&amp;orienta=XH)
+
+I have the following questions:
+
+1. Do you think that attending in my university a course in ""Information Theory"" could be a great idea? Or is it a course far from my personal goals?
+
+2)What are your opinions about the following Stanford course related to Statistical Learning: [https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+
+3) Can you suggest further topics that I must know for my purpouses?
+
+Thank you for your feedback.
+
+Note: If you're Italian, be free to answer in Italian. I've written this question in English only to extend the coverage of audience.",Data Science Education for Computer Scientist,1586332471
+datascience,"I am a Master's student and I have been given a task of creating a analysis report about cleansing data using a tool.
+
+Can anyone help me with what should be the report format as the professor has not specified any specific format?",Case study report format,1586329547

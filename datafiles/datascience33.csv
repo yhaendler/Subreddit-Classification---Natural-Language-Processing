@@ -1,0 +1,212 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],How often do you eat Meat Products [OC],1591746641
+datascience,[removed],Has anyone here become a Data Analyst/Data Scientist without expensive education?,1591746440
+datascience,,Escaping Academia into Data Science,1591745121
+datascience,[removed],How do you know which statistical method to use?,1591744843
+datascience,[removed],Customer Lifetime Value Prediction,1591744470
+datascience,[removed],Aspiring Data Scientist,1591742404
+datascience,[deleted],How does this tell us?,1591739661
+datascience,[removed],Looking for some vocabulary around the problem statement so I can go research a solution,1591736263
+datascience,"1. Flexible training and development environment 
+
+2. Access to standard and emerging frameworks
+
+3. Clear pathway to deployment
+
+1) because development is key and some training tasks are lightweight while others require increased resources, 2) because frameworks for analytics, ML, and DL are important, and 3) because minimizing pain of deployments is good for everyone.
+
+What  other basic resources would you data scientists need to be effective?",Basic resources data scientists need to be effective,1591735815
+datascience,,Step Into the Sunlight: Data Scientists in the Post COVID Era - A Live Webinar by Data science Expert Ronald Van Loon. Don't forget to register yourself.,1591733114
+datascience,[removed],A beginning data scientist needing advice,1591731477
+datascience,,Noise reduction in data,1591731457
+datascience,,UMN biology major looking to learn R but I cannot learn by myself. What to do? Looking for help.,1591729969
+datascience,"I'm working on a project with partners that require their data to be masked of any personally identifiable information before they're willing to allow analysis. These data are primarily long form texts that may include mentions of names, addresses, etc. that need to be procedurally detected and replaced (e.g. ""Brian"" becomes ""&lt;name&gt;"").
+
+[Microsoft's Presidio](https://github.com/microsoft/presidio) seems to be a fantastic option, but I'm trying to find other solutions to weigh them for this specific application. Does anyone know of similar solutions/products I should consider? I get the sense that Amazon's Macie is similar, but that seems to be for tagging documents rather than masking text within those documents.",Identifying and masking personally identifiable information - any solutions/products similar to Microsoft's Presidio?,1591728377
+datascience,[removed],How to display the intersectoin between sets for more than 3 sets?,1591725590
+datascience,[removed],Resume Opinions.,1591723290
+datascience,[removed],Considering getting a masters in data science,1591718170
+datascience,,Worried about Amazon onsite,1591718128
+datascience,,Join the NLP Virtual Summit for FREE,1591717632
+datascience,[removed],Machine Learning Performance,1591717070
+datascience,[removed],data_extraction newbie,1591715060
+datascience,[removed],Looking to get into Data Science,1591712767
+datascience,[removed],Does companies normally provide laptop for data scientists?,1591712247
+datascience,[removed],Looking for independant projects,1591711267
+datascience,[removed],Python or R,1591710892
+datascience,[removed],"What the job of a BI / data analyst entails, and regarding creating a portfolio",1591704838
+datascience,[removed],"Regarding what a BI / data analyst job entails, and how I could prepare a portfolio / projects",1591704313
+datascience,[removed],Career Question: Can I become an AI project manager without much hands-on in frameworks like TF and Pytorch?,1591704035
+datascience,"I am working on a pet project, where I am trying to find scope of improvement in services of a telecom company and also the customer care interactions. For a start, I have picked all interactions on relation to changing rate plan. Customers can use any channel to change their plan - web, app, call care support, chat with an agent, visit store etc. I am looking for a way to measure pain in their journey while changing plans - how much time did it take to browse plans and make a choice, was the app experience so bad that the customer had to call care center, were there any wrong expectations set or miscommunication that made the customer call back care after the change (issues with billing, device etc)
+
+One way I thought made sense would be to use CSAT score, find correlation with features like time spent, number of calls or visits, number of times channels was switched, and try to come up with a way to quantify the pain experienced in each step. 
+
+
+Let me know your thoughts on this, does the above approach makes sense? Is there a better way to do this?
+
+
+Thanks a lot in advance!!!","How do you measure experience, pain points customers have in interactions with customer care?",1591704031
+datascience,"I  am having a very difficult time in being able to connect the algorithms  we learned and implemented in school and solving practical problems at  work, mostly because the data in the industry is too noisy and  convoluted. But even if the data is better, in general, things taught in  school now seem to be really basic and worthless in comparison to the  level of difficulty in the industry.
+
+After  having struggled for almost 8-9 months now, I turn to Reddit to seek  guidance from fellow community members on this topic. Can you guide me  on how to be able to handle messy data, apply and scale algorithms to  varied datasets and really build models based on the data statistics?",Disconnect between course algorithms and industry work in Machine learning,1591702727
+datascience,[removed],"I love making unique charts and visualization , storytelling comes natural to me so after 7years of working in IT service management I'm thinking of moving into data analysis field and have taken up learning Python and PowerBi , am I too late to the party ?",1591701261
+datascience,,Data Science Course at Effort able Cost !!,1591698420
+datascience,[removed],Class 5-Python Enumerate Using For Loop Part-2,1591697007
+datascience,"If anyone has examples in python that would be great! I'm looking to use k-means as a start, but am unsure as to how to get time series data (in a pandas dataframe) in a state that can be accepted by a clustering algorithm",How do you cluster time series data?,1591695561
+datascience,[removed],Is a DS B.S. degree worth it?,1591687681
+datascience,[removed],I am currently having 2 years of work experience in data science. Been planning to do Masters. But have heard that MS in Data Science ain't worth the struggle. Are there any Ph.D. or Master Courses that can be helpful in a career?,1591682456
+datascience,,Melon Production Ranking | TOP 10 Country from 1961 to 2018,1591680715
+datascience,[removed],INTO HOW MANY TYPES DATA CAN BE CLASSIFIED?,1591680606
+datascience,[removed],Sequential vs. Concurrent Learning of Data Analysis and Data Science Concepts?,1591676010
+datascience,[removed],How to Tune Time Series Forecasts During COVID,1591671048
+datascience,"Im currently a Business Analytics student in college and I’m interested in getting better at R. I’ve taken a data management class which delved into R, so I am somewhat comfortable with ggplot and dplyr verbs. 
+
+Any resources you guys would recommend for getting better at R, specifically for data analysis and predictive analytics. Thanks!",Recommendations to practice coding with R,1591666729
+datascience,[deleted],This is a really interesting AMA!!,1591665349
+datascience,"Hello everyone,
+
+I've seen variations of the question ""What is the future of data science?"" asked before, but I think mine is unique enough that it would make for a good discussion in its own post. It's based on a 2020 RStudio Conference presentation mentioned in some other posts, called ""[Value in Data Science Beyond Models in Production](https://rstudio.com/resources/rstudioconf-2020/value-in-data-science-beyond-models-in-production/)"".
+
+In the presentation, the speaker makes the case for why Data Scientists should focus their efforts on providing value through things ***other than*** deploying machine learning to production. As an aside, I think the definition of ""Data Scientist"" he is using is more of a Decision Scientist. The gist of his message is:
+
+* Machine Learning Engineers are likely going to take the ML work that Data Scientists currently do, and will create off-the-shelf ML tools (e.g. AutoML), hence decreasing the need for Data Scientists to do ML.
+* Data Engineers are already better than Data Scientists at cleaning data, building pipelines, and warehousing, and so this part of the data science process will be owned by Data Engineers.
+* What work does that leave for Data Scientists? What the speaker describes sounds like the work of a Product Analyst:
+   * Business Intelligence-type work (metric design, measurement, goal-setting, creating self-service data tools)
+   * A small amount of ad-hoc ML modeling
+   * Inform business strategy / product design based on data analysis
+   * Experimentation
+   * The human side of data work - ethics and communication
+
+Here are some questions that the presentation raised for me:
+
+* Do you think his prediction is accurate?
+* Will the work of tomorrow’s Data Scientist be more like today's Product Analyst?
+* Do you think his prediction is only true of the tech industry, or does it apply to all industries?",The Future: Value in Data Science Beyond Models in Production,1591664235
+datascience,[removed],"CS student here. What is data science, really? What data science jobs can a CS grad obtain?",1591664033
+datascience,[removed],Is now a good time to go to school for data science?,1591659994
+datascience,[removed],Career in political polling?,1591659666
+datascience,"[removed]
+
+[View Poll](https://www.reddit.com/poll/gzb33b)",Free Bug Bounty Training 100+ lessons to people who lost jobs,1591659285
+datascience,[removed],Looking for other Undergraduate students interested in an independent project,1591657303
+datascience,[removed],Would my background be enough to apply for a junior data analyst job?,1591656918
+datascience,"Using it for two-phase clustering but can't for the life of me figure out how to export the cluster results... I just want the cluster label next to the values for each observation. 
+
+There's a save function but when I export all my cluster values show ""NA"".","Does anyone have experience with the R ""stream"" package?",1591654087
+datascience,[removed],Decision Tree Query,1591653731
+datascience,[removed],How to determine skewness in Principal Components from PCA plots?,1591653676
+datascience,[deleted],Starting a data science career questions,1591653123
+datascience,[deleted],"Looking for bootcamp type resources to take to further my career, but appears to be a huge number of scams. Recommendations?",1591649605
+datascience,[removed],HSE coursera masters datascience,1591647618
+datascience,[removed],Rate my first project!,1591647150
+datascience,[removed],Does anyone know of a reference for web-scraping limits on different sites?,1591646817
+datascience,,What is Data Science? What do Data Scientists Do?,1591646130
+datascience,,Structural engineer considering a new career in data science.,1591643259
+datascience,[removed],Looking for a fresh grad job in Data Science,1591638554
+datascience,[removed],How much of an impact do data scientists make in healthcare?,1591637730
+datascience,[removed],Corporate Finance VS Data Science,1591633408
+datascience,,Masters in Data Science at Utica College,1591633291
+datascience,[removed],A Complete 4 Year Course Plan for an Undergrad in Artificial Intelligence,1591632127
+datascience,[removed],Anyone know a good lib to animate text diffs between versions of a text file? eg. code or wiki changes. I need a way to fade/animate between versions.,1591629561
+datascience,"Dear Data Magicians
+
+'tis the time. Show me your DS Stack! Our field is going through rapid transitions, many of these focused on operationalization (yes it is a word). In a sense, how do we jump from the '*guy in the basement who comes up with cool models*' to '*well oiled machinery that spits out and maintains awesome models*'. 
+
+Let's standardise the responses somewhat, then I'll collect the responses as much as I can at the end of this main post. 
+
+I'd like people to simply list the technology they use at their firm. Some of us may use experiment tracking, others do not. Some may require high-frequent updates, others do not, and so forth.
+
+Please add a link to the technology you refer to :-)
+
+&amp;#x200B;
+
+|Technology|Purpose|Open Source/Closed Source|Pricing|Comment|
+|:-|:-|:-|:-|:-|
+|[weights and biases](https://wandb.com/)|Experiment tracking and documentation|Closed source|Free (personal), 35/user, and 175/user (corp)|Really solid piece of software. Good support for most ML frameworks|
+|[Data Version Control](https://dvc.org)|Data versioning|Open Source|Free|We use it in particular for Deep Learning|
+|[AWS SageMaker](https://aws.amazon.com/sagemaker/)|Serving and training|Open Source (somewhat)|Depends on the tier (min. 0.08$/hr)|Not really great for custom models|
+
+&amp;#x200B;
+
+**Tech. challenges I've yet to find a solution for:**
+
+* How to best manage models that read/write from DBs best way possible?
+* Efficient ways to automatically run tests on X independent separate ML models
+* Best way to store and access (large) flat files
+
+**Curious to try or work with**
+
+* Kubeflow
+* MLflow
+* GCP vs AWS vs Azure vs Bluemix - Pros/Cons?
+
+**Best advice**
+
+* If you don't have one already - Design a standardised best practices handbook for your team. You should have a template for a DL project, as well as smaller ML projects. The template should be designed in a way that allows for easy reproducibility and productisation (See previous post I've written [here](https://www.reddit.com/r/datascience/comments/gw8z13/do_you_code_in_object_oriented_way_in_python_when/fsu2p8p?utm_source=share&amp;utm_medium=web2x))
+* The rest of your organisation is not necessarily interested in what you are interested in. **Do not focus on mathematical rigor but business objectives.** 
+* **Fail fast:** If you cannot get some value relating to the business objective out of the data, post cleaning of course, move on. Summarise findings and what you think is needed to achieve the sought after business objective (Additional data / Other data / Qualitative analysis - Shadow a worker in a function), hypothesise on the reasons for why the relation is not there. Ie. Maybe customers are price insensitive? Maybe they churn due to factors we do not have in the dataset?",Walk me through your DS Stack - ML DevOps,1591628534
+datascience,[removed],"Hey /r/datascience - I made an open-source command-line data catalog &amp; documentation tool called metaframe. I've had some interest from DS at a few different companies, but I'd love to get a sense of how the wider community feels. Thoughts? :)",1591627509
+datascience,[removed],"What fun, value-adding project can you think of?",1591626674
+datascience,[deleted],Too many tutorials are hard to digest or completely follow through on; so here's one for the gamers of the group!,1591626116
+datascience,[removed],Idea needed for a project,1591625804
+datascience,[removed],Where to begin?,1591621611
+datascience,"I'm working as a data scientist in AWS for the past few months. I have my interest and background in Machine Learning but the role seems like an analytics role. 
+
+Given how fast paced AWS is, I'm lagging behind to catch up. The role needs a lot of SQL expertise, while I know SQL it was mostly for querying and creating data for ML needs, but not for analytics all together. 
+
+I don't know what to do. I'm getting super anxious.",Miss hire for the current role,1591618009
+datascience,[removed],Preventing suicide of young students due to failure in examination using data science.,1591617118
+datascience,,#Updated. Top country by total confirmed covid19 cases,1591612955
+datascience,[removed],Hardest part of DS field,1591609822
+datascience,,"Read The Data Science Journey Of Saurabh Jha, Director - Data Science At Dell",1591607681
+datascience,[removed],Data Science in Sports; Question,1591606458
+datascience,[removed],Thoughts on UT Austin's Online Master's Program in Data Science,1591605818
+datascience,[removed],How do I start my data science career?,1591604360
+datascience,"I see everywhere an inflation of data science blog posts, Medium posts, Linkedin posts which are adding literally ZERO value to everybody in the field. If you think we need another explanation of why p-values are important, or how to read a CSV file in Pandas, you are wrong and you are wasting your and my time. Walk me through a nasty dataset cleaning process. Show me an end to end project of yours. Enlighten me with that new, weird, just-out-of-the-Academic-press new kind of Neural Network. But showing me how to make a line plot in Matplotlib? Thanks, there are 5000 tutorials out there for that. If you are doing this, and hoping that your reputation will improve as a consequence (and maybe your chances of getting hired) you are doing yourself a terrible service. Stop the noise, do ONE really new and impressive thing and you will have: (1) actually added value and (2) started to make a name for yourself out there. Thanks for watching.",Useless tutorials and blog post will NOT improve your CV but WILL waste our time,1591603855
+datascience,[removed],What are some non-degree pathways someone can take into Data Science?,1591603632
+datascience,[removed],Looking for Advice,1591603461
+datascience," 
+
+ESSENTIAL ANALYTICAL SKILLS REQUIRED TO GET STARTED IN CAREER AS A DATA SCIENTIST
+
+Read more:
+
+[https://www.kellytechno.com/blog/education/essential-analytical-skills-required-to-get-started-in-career-as-a-data-scientist/](https://www.kellytechno.com/blog/education/essential-analytical-skills-required-to-get-started-in-career-as-a-data-scientist/)
+
+For More:
+
+[https://www.kellytechno.com/Hyderabad/Course/Data-Science-Training](https://www.kellytechno.com/Hyderabad/Course/Data-Science-Training)",ESSENTIAL ANALYTICAL SKILLS REQUIRED TO GET STARTED IN CAREER AS A DATA SCIENTIST,1591600837
+datascience,[removed],Looking to pivot into Data Science!,1591598338
+datascience,"Hi everyone! This is gonna be long so please bear with me. Let me just give your a little bit of background so that you guys could offer me a specific advice. Thank you in advance! 
+
+Background: I did my undergrad in Mechanical Engineering and graduated last year itself, but I realized in my second year that I’m not really into that. Hence, I did business related internships in Business Development. Where I come from, it’s not easy to switch majors and you are not given much options in the first place. After graduation, I started working in B2B sales which I really liked but at the end of the day I wasn’t learning or improving myself. The role was good enough for improving soft-skills but not the technical skills. I left in December, and decided to go for Masters in Management with a concentration in International Business. Later, I got an admit from one of the finest schools in Canada and the program is starting in Jan next year. They also had a business analytics program, but I didn’t apply considering that I didn’t have the analytical skills. But, I learned those within a span of 6 months, from Jan this year to June. I learned SQL, Tableau, Python, and advanced Excel. Also, I applied for a job and got in as a profile of operations analyst, but the work seems very different from what I imagined as a data analyst or a person in data science does. 
+
+The silver lining is that the company which I just joined in June has a data analytics department where a person could move after 6 months of so if he/she performs well. At this point of time, I’m really confused. I really want to get into Data Science and this seems like a right way. But, in case I’m not able to change departments, I will be stuck here and miss out my chance of going to Canada. Also, I think, I made a mistake of not applying to data related master programs. So, should I apply to data science/ BA related courses now? 
+
+Any feedback will be helpful as I have got 6 months to figure this out. My ultimate goal is to be in a field where I could improve my hard skills.",Looking for a career change!,1591598101
+datascience,,7 Basic Machine Learning Concepts for Beginners | Basic ML Concepts,1591597158
+datascience,,Covid-19 Death Ranking | TOP 10 Country since 11 Jan 2020 (Update to 06 Jun 2020),1591596128
+datascience,"I tried to read 200 Mio rows using Pandas and suddenly my laptop not responding. What is the best possible way to work with this kind of data size?
+
+N.B: My laptop is 8gb ram, core i5 7th gen",Processing 2gb CSV in Python,1591593901
+datascience,"With no intentions of igniting the argument between R and python , users of R what’s jobs have you automated using what tools and on what platforms ?","Users of R , what kind of jobs do you automate ?",1591590647
+datascience,"With no intentions of igniting the argument between R and python , users of R what’s jobs have you automated using what tools and on what platforms ?","Users of R ,what kind of jobs do you automate",1591590491
+datascience,"I've been an avid RStudio user for a bit over 3 years now and started with Python about 6 months ago. PyCharm was my original choice, however I've been accustomed to be able to view variables  after script execution and can't seem to find that functionality in PyCharm. So, decided to give it try with Spyder. I think the variables part is amazing, it feels a bit like RStudio, but I find it less user friendly than PyCharm.  Can PyCharm be configured to hold variable states after script execution? If not, any other suggestions are welcome.",PyCharm or Spyder? - suggestions please,1591587838
+datascience,,Which is a better platform : knime or H20 driverless AI?,1591583048
+datascience,"Not sure if anyone remembers, but there was a post about two months ago with a link to free Wiley textbooks during the COVID-19 Pandemic. The post had a link to the resources and someone in the comments even shared Python code to automatically download everything. Unfortunately, I cannot seem to find the post or even navigate through the Wiley website to get to the resources. Does anyone have the post, link, or Python code saved?
+
+Thanks",Wiley Educational Resources,1591581635
+datascience,,A Field Guide to Data Science Interviews,1591581462
+datascience,[removed],Interested in labeling tools for your CV research?Introducing GT Studio: A Self-Serve Data Labeling Platform,1591579887
+datascience,,GDP ranking | TOP 10 Country from 1960 - 2018,1591578461
+datascience,[https://youtu.be/7kOcIl-ARQo](https://youtu.be/7kOcIl-ARQo),GDP ranking | TOP 10 Country from 1960 - 2018,1591578416
+datascience,,"Evidence a recent WSJ op-ed on police shootings is using clearly cherry-picked data, incorrect scientific reasoning, and suspect research to make huge claim - what to do?",1591571447
+datascience,,This repo and book evolved from a popular presentation I give called “Algorithms 101 for Data Scientists.” Hope it can be helpful to some of you,1591565985
+datascience,"I've been a huge proponent of Pyspark, but lately I've been working with very large datasets and have realized how much of a boon Scala really is.
+
+95% of my data science org continues to use pyspark, while 100% of the data engineers we work with use scala.
+
+I'd like to mount a campaign to slowly convert my colleagues to Scala. I'm thinking of writing internal libraries to help automate certain workloads (i.e. loading datasets, transforming them, A/B testing frameworks, etc.), bringing in outside trainers, and having office hours to help transition more folks to scala.
+
+Any other tips to help transition the org to Scala? I don't want to be one of two data scientists writing Scala because inevitably some manager will tell me to conform and write pyspark instead. Or I'll have colleagues that will ask me to convert my scala code to pyspark (even though they are brain-dead simple to convert)",Tips on Converting Colleagues to Scala from Pyspark?,1591564554

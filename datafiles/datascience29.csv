@@ -1,0 +1,639 @@
+subreddit,selftext,title,created_utc
+datascience,"I have been collecting data for the past couple of months, that includes my daily mood, activities I performed, physical activity (steps, calories and such) as well as sleep.
+I already curated my mood dataset (by that I mean I made it readable and interpretable) and will proceed with the physical one relatively soon. 
+
+I've been struggling to define what kind of insights I want to get out of it, outside of the simple correlation between mood, physical activity and sleep. 
+Would anyone with a bit of experience be interested in looking at the data and pointing me in the right direction? Or even working with me on offering a similar service to others if it ends up providing any kind of value?
+Let me know and I can share more details!",Physical &amp; mood data interpretation,1589926435
+datascience,"I'm new to data science and doing my first project, and I finished the data collection and cleaning portion of the project, and I'm kind of confused on what we do for the exploratory data analysis portion of the project? Is this where we train our model and build algorithms to predict our data?",Exploratory Data Analysis step of completing a data science project,1589923203
+datascience,"Car insurance 2020:
+
+Feedback Welcome
+
+Link : [https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM\_wk\_20/MOM\_20](https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM_wk_20/MOM_20)",Tableau Public : Car Insurance 2020,1589922580
+datascience,"I'm trying to cluster a rather large data set (~400k samples, somewhere between 20-30 features). The features are mostly continuous, although there are some discrete/categorical variables.
+
+Because of the mixed data types, I'm not sure if k-means is what I want to use. I tried running a DBSCAN but after it was running for what seemed like forever I gave up.
+
+What clustering algorithm is recommended for such a large number of samples? What would give me a reasonable run time, while also dealing with the fact that I don't just have continuous, numerical data?
+
+For an idea of the data I have, it's basically information about customers. I have number of accounts (discrete variable), account status (e.g, Gold, Platinum, etc. this is my cateogorical) and then some other things like age/how long they've been a customer, how much they've spent etc. (continuous variables).",Clustering a large dataset in python (sklearn),1589921876
+datascience,[removed],Hyperparameter Search using Weights &amp; Biases Library,1589920669
+datascience,[removed],I'm looking forward in working in a data science career. What should I work on?,1589920114
+datascience," 
+
+&gt;Faster Data Science Education  
+&gt;  
+&gt;Practical data skills you can apply immediately: that's what you'll learn in these free micro-courses.  
+&gt;  
+&gt;They're the fastest (and most fun) way to become a data scientist or improve your current skills.
+
+See [Kaggle Free Courses](https://www.kaggle.com/learn/overview)","Kaggle Free Courses, also see their competitions",1589919777
+datascience,[removed],[Research] Outlier Detection + Outlier Explanation = Outlying Aspect Mining,1589919735
+datascience,"I’ve already read up and have a good handle on the traditional R functionality: Programming, basics, data wrangling, EDA, machine learning, super learners, time series analysis, etc. 
+
+
+I am looking to delve more deeply into the financial analysis aspects and was wondering if anyone had any books or resources they would highly recommend?
+
+
+My only exposure so far has been within the context of time series analysis and a bit of work with quantmod.",Looking for good Financial Analysis resources in R,1589917931
+datascience,[removed],do you want to win a free t-shirt all you have to do is answer 3 simple questions about COVID-19 for a science project I'm doing email me your answers at kailuxs@gmail.com,1589917817
+datascience,[removed],Computational Social Science course from the University of California-- FREE,1589915051
+datascience,,"In this week's #DataFemme podcast, Small Planet's Quinn McHenry talks about how data science can improve our collective health, specifically mental health.",1589913653
+datascience,"I am implementing a semantic search engine using BERT (using cosine distance) To a certain extend the method is able to find out sentences in a high level context. However when it comes narrowed down context of the sentence, it gives several issues.
+
+Example: If my search term is ""Wrong Product"", the search engine might match with sentences like ""I bought a washing machine but it was defective"".
+
+I understand that the fixes to these is always finding some equilibrium and live with minor errors.
+
+However if there are any rules, techniques which has improved your semantic search implementation accuracy please do share.",What are some techniques to improve contextual accuracy of semantic search engine using BERT?,1589913170
+datascience,[removed],help me with a science project on life during the coronavirus and win a free t-shirt,1589912403
+datascience,[removed],Using RPA and IOT for controlling Covid-19 exposure in a manufacturing facility,1589910544
+datascience,[removed],Capstone Project - Deep Learning Certificate. Mycology/mushroom related ideas?,1589910142
+datascience,[removed],Formula 1 Racing Big Data Analytics and AI,1589910050
+datascience,"Hello fellow data people. I was recently working with a dataset I had cleaned up and filtered. Machine learning (Tensorflow, custum, Microsoft Azure), trend functions (linear, exponential, etc.), and a bunch of other forecasting techniques had terrible results (yes, I tried using autoregressive inputs). I then plotted the frequency distribution of the outputs of the dataset, only to find out that it is an exponential probability distribution. Basically, there's 8 billion 0s, 3 billion 1s, 1.5 billion 2s (they're count values). I was wondering what useful forecasting can even be done when a dataset looks like this. Honestly, I can't even imagine any useful summary statistics (like, ""Oh, great! I have a 90% chance of it being less than 2""). This is like the third dataset I've had that looks like this and I'm always lost when I get them (I've done hackathons in the past that have had this same problem). Any help would be appreciated.",Get Use Out of Exponential Probability Distribution,1589907159
+datascience,"I'm sorry if this is not the right place to ask.  
+I'm pretty new in this area and wanted to learn about marketing-related analytics that focuses on BigQuery, ML, and data vis. have been scouring the internet and the closest one that I've got is below, although is not actually a tutorial.
+
+And I'm surprised that Google doesn't have the proper tutorial for BigQuery. 
+
+[https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp](https://cloud.google.com/solutions/marketing-data-warehouse-on-gcp)
+
+[https://docs.google.com/document/d/e/2PACX-1vSmenfaFjKMq89s2hyESD1v8eRdkZiQspNTAkKQFoSnmEhG1KkpIRIpOEHB1anaA5rTBY5sq-izLghb/pub#h.q9wk00m9ryl9](https://docs.google.com/document/d/e/2PACX-1vSmenfaFjKMq89s2hyESD1v8eRdkZiQspNTAkKQFoSnmEhG1KkpIRIpOEHB1anaA5rTBY5sq-izLghb/pub#h.q9wk00m9ryl9)",Looking for Data Marketing related tutorial,1589906923
+datascience,"What is the difference between the concat operation used in Densenet and the add operation used in Resnet?
+
+TIA",Difference between concatenation and addition,1589905608
+datascience,"Hope this is permitted, delete if its not. I want to grow my connections on LinkedIn with you people. I don't care if you're just starting to think about data science/analytics or you're a PHD head of eCommerce. Lets connect! I work as a Sales Analyst currently and want to have more data people on my LinkedIn account. (I have nothing to sell FYI just networking with peeps.) Send me a DM of your profile and I'll add you!
+
+thanks",Looking to connect with like minded individuals. Lets connect!,1589902610
+datascience,"So there have been a couple of posts about content sharing done wrong:  [https://www.reddit.com/r/datascience/comments/gmirks/my\_apologies\_from\_a\_data\_science\_company\_stole\_my/](https://www.reddit.com/r/datascience/comments/gmirks/my_apologies_from_a_data_science_company_stole_my/) 
+
+See what I did there? I posted a link with a bit of an explanation. That's fine. If you want to know more, you have to go to their content on their site. We all do that in our social media feeds. Putting all their content on my site so readers don't need to go to theirs is theft. It doesn't matter if I put the attribution somewhere with the post. No permission=theft.
+
+When another site wants to repost something I've written, they send me a message and ask for permission. That's been the way it is done for the eight years I have been writing. With a site like KDNuggets, I am always good with giving them the OK and not asking for compensation. Some major outlets will ask me to rebuild a post to appeal to their target audience. They have millions of readers. I do that for free too.
+
+I have worked with consulting companies. They want content to drive people to their site as a form of organic marketing. It's usually pretty fluffy, buzzword bingo type posts. I get paid for that. If someone is advertising their services on the site, they are making money off that site and you should too.
+
+I have worked with companies that make products. They want technical content to explain how to use their product in the real world. Again, they use that content to market their products. I get paid for that and you should too.
+
+In the research world, works are cited. There can be a longer quotation from the original work which will have the primary authors' names next to it. Supporting works without quotes will be linked to at the end of the research paper. That's fine. Copy paste research, paraphrasing, releasing implementations as original works, all of that is plagiarism. That gets you blacklisted.
+
+I have posted content that was very close to someone else's. They posted first. I issued an apology and a link to their content. It happens. The right response is to put your hand up and say, ""I messed up. I must have seen their post and that triggered mine."" No excuses. I felt like garbage for doing it.
+
+Hopefully that helps. If you have any questions about re-purposing content, let me know.","Rules for sharing machine learning content of all kinds or ""What that tool should have done.""",1589900695
+datascience,,New job opportunity,1589900391
+datascience,[removed],How many of you work as data scientists but have a degree in something else than Data Science?,1589900139
+datascience,[removed],Deadline extended - Prediction tournament for Social Effects of COVID19!,1589899298
+datascience,"I’m posting this here hoping the Data Scientists working in AMS could help me gauge whether this is a good offer.
+
+I have a CS bachelor and DS master (cum laude for both) with 2 years experience in ML &amp; cloud architecting. I interviewed for a Senior DS role at a tech company. They instead offered me a medior DS role: 65k base + 10% bonus + 18k RSU(annually, can vest 25% per year). I managed to negotiate the base to 67k. So in total the package is worth of 78k. The work content will be recommender systems and NLP. The interview went really well and I could tell that they wanted me. I also liked the interviewers who seems open and friendly.
+
+I initially tried to negotiate a 10% raise on the base which I then lowered to 5% during negotiation (cause they said 10% would lead to a senior role) but eventually they come back with a 3% instead.
+
+Do you guys think this is a fair package for a med-DS role in Amsterdam?",Data scientist offer in Amsterdam,1589897512
+datascience,"Ive recently graduated from a predominantly engineering school with a B.S. in Mathematics and Statistics; have worked on a few projects utilizing R and SAS to perform data manipulation and visualization. Im trying to sharpen my skills with online certifications etc. but feel I haven't found a good resource for practicum-like projects or faux-assignments that attempt to mimic real world analytic problems and push you to explore your competencies in coding and base statistical knowledge.
+
+Just thought I would ask on this subreddit and see what some of the best resources are (ones that have dense projects and real world applicative problems).
+
+&amp;#x200B;
+
+Thank you!",Best online resources for practical coding projects and/or assignments?,1589897451
+datascience,[removed],Experiences with R's reticulate package to use Python libraries within an R session?,1589897167
+datascience,,How GoDaddy uses Flink to run real time streaming pipelines,1589896545
+datascience,"I remember a couple of years ago Medium was filled with articles on data science, but these days I don’t see as many (probably because of the paywall update). Do people still use Medium to publish data science articles? What do you think is a good platform for someone who wants to post?",Do people still post on Medium these days?,1589896542
+datascience,"Shaastra Spotlight Stay@Home series brings to you a fascinating fireside chat with one of the pioneers in the field of Machine Learning - Mr. Rajat Monga!
+
+Mr. Rajat Monga is the Co-Founder and former leader of TensorFlow, an open-source machine-learning library, and the center of Google’s efforts at scaling up deep learning. He is one of the founding members of the Google Brain team &amp; is known for his ground-breaking work in Artificial Intelligence. A veteran developer, Rajat has worked at eBay, Infosys, Attributor, DistBelief, and a number of startups.
+
+Catch his enthralling talk live only at Shaastra IITM’s Youtube channel:-
+
+Link:[ https://youtu.be/qkWPPxOQkb0](https://youtu.be/qkWPPxOQkb0)
+
+Date: 20th May 2020
+
+Time: 11:30 AM IST
+
+\#BeintheSpotlight","Shaastra - IIT Madras, Spotlight Stay@Home Lecture Series",1589894615
+datascience,"  
+
+You are a data scientist at Naffer, a large supermarket chain. The company has three years’ worth of data on the volume and type of cereal products sold in the Western Cape region, along with metadata such as:
+
+· Store location and size (in square metres);
+
+· Type of store (large or small convenience store);
+
+· Customer buying habits, measured as the frequency with which products were bought in each department over the last year; and
+
+· Median income of the surrounding suburb, in thousands of Rand's.
+
+The standard volume of a cereal box is 3,000 cm 3.
+
+
+
+You are asked to assist with the following problems:
+
+· **Problem 1:** Optimize the amount of shelf space to use for cereal boxes.
+
+· **Problem 2:** Determine which brands of cereal to sell in which stores.
+
+· **Problem 3:** Identify cereals that are often bought together so that they can be placed close to one another on the shelves.
+
+Are these supervised or unsupervised learning problems? For each of the three problems, state your answer and motivation. 
+
+can someone help me with this problem. i have to write a 300 word answer.",pls help me with this problem,1589893900
+datascience,,Sentiment Analysis in Python with NLTK. 10 Videos ~ 1hour,1589893225
+datascience,"Hey everyone, 
+
+I spent a lot of time on A/B testing during my time last job. For me, A/B testing was a way to be more involved in product development and have a more say in what ultimately got shipped. Honestly, I really enjoyed it.
+
+One of the things I realized was that there's a big mismatch between what you learn in statistics textbooks and how experimentation works in practice. Being successful at A/B testing isn't really about analytical methods. It's about process and people. Here are some of the things I learned.
+
+Note: These are all based on my experience, and may not reflect every situation. Take each with an ounce of salt.
+
+# Know what kind of test you're running
+
+This isn't about t-tests or z-tests. It's not about Bayesian vs. frequentist methods. You have to set the context for the experiment. Uncertainty before the test leads to incorrect decisions after the test. Under what circumstances will you roll out the variant? Does it have to significantly outperform the control or just break even? What size impact do you expect and how long will the test run for?
+
+I like breaking these down into:
+
+* Big bets
+* Iterative
+* Health checks
+* Danger zone
+
+# Get everything down in writing
+
+Running an A/B test at scale is a cross-functional endeavor. Chances are it will involve Data Science and Analytics, Product, Engineering, and potentially Design as well. With all of these different touchpoints, you need a ""source of truth"" document. This is something that you can point people to for sufficient context. 
+
+This allows you to:
+
+* Coordinate between teams
+* Reduce the likelihood of bias
+* Document learnings for future reference
+
+# Determine your primary metric
+
+Related to the last point of writing things down, you should state what metrics you care about before the test. I like breaking these up into primary, secondary, and ""will monitor"" in most cases.
+
+This seems straightforward, but it can be difficult. What if you are running a checkout optimization test and you find that the variant improves the number of conversions, but lowers the average purchase value? How do you deal with these conflicting variables? There are lots of considerations, but having a unified view upfront about which metric matters most will make your life easier come decision time.
+
+# Partner with engineering where needed
+
+I'm not sure how A/B testing infrastructure is set up at your organization. I've found that it varies greatly from company to company. There are huge tech companies that have everything baked in and then there are smaller startups where it's the wild west. If you aren't the former, assignment logic is never as easy as it seems.
+
+You should spec out in the written document who is being assigned, what unique id they are being assigned on, and when that assignment is occurring. This complexity needs to be handled if your infrastructure doesn't handle it for you. You may need to partner with engineering to get things implemented in the right way. It's not the most interesting work in the world, but it's worth investing the time and effort to get this right.
+
+# Turn insights into future tests
+
+So, you have finally run the test and waited patiently for results. This is where things get exciting! Oddly enough, data scientists get lazy here. They report on the key metrics, name the winning variant, and call it a day.
+
+The most interesting parts of an A/B test are buried in the analysis. This is where you learn about how people use your product. You should write up this analysis and share it with everyone involved in the testing process as part of your reporting. This analysis will often surface other hypotheses that will lead to more tests and so on. This is the cyclical nature of experimentation. Tests aren't linear. They feed into each other.
+
+# Productize your thinking
+
+When you hit a certain scale, data scientists shouldn't be managing every test. Create or adopt tools and infrastructure that encapsulates their thinking so others can run tests on their own. It's a tough transition to get here both technically and culturally, but it's a transition that you'll have to make one day. It should be on your mind, ideally before it's already too late.
+
+\---
+
+If you prefer more detail, here's the [full post](https://www.conordewey.com/blog/tips-practical-ab-testing/). That's it for now. If you have any questions and experiences of your own, just drop them below.
+
+Thanks for reading! Enjoy the rest of your day :)",Advice for Practical A/B Testing,1589892183
+datascience,,Will knowing object oriented programming be helpful for data science?,1589882760
+datascience,,Using Azure Functions with Python,1589880059
+datascience,"Hi. I am creating a turtle program in python about 'Bouncing balls'. 1)Each ball should change its color everytime it hits the edges of the screen. 2)But the new random color shouldn't be the same as the previous random color (ex: 'green' to 'green'). I am done with the first task but still cannot find a way to deal with the 2nd one. Here is that part of my code if needed
+
+
+```
+window = turtle.Screen()
+
+
+colors = ['red', 'blue', 'green', 'yellow', 'orange', ""purple"", ""pink"", ""turquoise"", 'magenta', 'brown', 'gray']
+
+
+def createBalls(num_balls):
+    balls = []
+
+    # colors = (255)
+    for k in range(0, num_balls):
+        new_ball = turtle.Turtle()
+
+        new_ball.shape('circle')
+        new_ball.fillcolor('black')
+        new_ball.speed(0)
+        new_ball.pendown()
+        new_ball.setheading(random.randint(1, 359))
+        balls.append(new_ball)
+
+    return balls
+while not terminate:
+    for k in range(0, len(balls)):
+        balls[k].forward(15)
+        if atLeftEdge(balls[k], screen_width):
+            balls[k].setheading(bounceBall(balls[k], 'right'))
+            Col = random.choice(colors)
+            while Col == t.color()[0]:
+                Col = random.choice(colors)
+            balls[k].color(Col)
+            angleCurr = t.heading()
+
+        elif atRightEdge(balls[k], screen_width):
+            balls[k].setheading(bounceBall(balls[k], 'left'))
+            Col = random.choice(colors)
+            while Col == t.color()[0]:
+                Col = random.choice(colors)
+            balls[k].color(Col)
+            angleCurr = t.heading()
+```
+Thank you so much for your help in advance",Python: Turtle Graphics: Making the new random color different from the previous one,1589878388
+datascience,What are the different models I can use to find the gender affinity of businesses using this [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset) . I need to find Probablity (Male buying from a merchant) and Probablity (Female buying from a merchant) where both probablities add to 1 . There is no information about gender so I can use the Genderize api to find gender using names of users. This is an unsupervised problem,Finding gender affinity for businesses,1589874169
+datascience,"I'm currently a third year Industrial Engineering student and have plans to go on to get a Masters in Applied Math directly after undergrad. I've taken interest in learning more about Data Science and skills to move toward a career in it. 
+
+From what I can tell, the main components you need are a strong background in Linear Algebra, Calculus, Statistics, Programming, and Machine Learning. I would say I have a strong background in the mathematics portion, but definitely need to work on my coding skills. I've taken classes that use Python, R, and MATLAB and have an internship this summer which I'll be using JMP. The part I struggle with the most in coding is writing my own functions &amp; using loops. Does anyone have any suggestions on where to get better at coding? Also, I'm fairly unfamiliar with machine learning, so what resources should I use to learn more about it? 
+
+Thanks",Good way to get started with Data Science,1589871027
+datascience,"**Dean Hoffman from the thread** ""[A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do?](https://www.reddit.com/r/datascience/comments/glfdmm/a_data_science_company_stole_my_gfs_ml_project/)**"" responded. He authorised me to repost his response. Here it is:**
+
+""Under no circumstances should someone claim credit for someone else's work. I was involved in litigation against Google for something similar over 10 years ago.
+
+[https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776](https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776)
+
+RSS feed readers ingest content and republish it with credit to the author. This step gives the author added exposure, like how radio stations offer musicians free advertising to sell their music.
+
+Examples of news aggregators include Google News, Drudge Report, Huffington Post, Fark, Zero Hedge, Newslookup, Newsvine, World News (WN) Network and Daily Beast, where the aggregation is entirely automatic
+
+I see that the automated algorithm was incorrectly listing the admin as the author on some of the articles, but there was no intent to deceive. If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of EACH ARTICLE, and that linked to the ORIGINAL AUTHOR. One more time: If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of each piece that then linked to the ORIGINAL AUTHOR.
+
+There was no intent to claim ownership. If so, it was a pretty hair-brained try, but I apologize to anyone who feels deserving.
+
+Since I have no financial gain from this site, and no good deed goes unpunished, I decided to take it down. I don't need the aggravation to share useful content and authors if the reward is getting attacked.
+
+I am an awarding winning researcher, as published in at least two national magazines. I don't need anybody else's credibility.
+
+Many articles picked up by the RSS feeds I would be embarrassed to publish under my name.
+
+I am confident that NOBODY, with a clue about data science, thought someone was writing hundreds of articles a week. Especially when posting the ORIGINAL SOURCE, and it links to the ORIGINAL AUTHOR at the bottom of each piece! Seriously!? SERIOUSLY!!!?
+
+I've not made a penny from the site, nor have I ever tried (or wanted to). It was built as a news aggregator to promote the work of others and create a place to stay up to date without navigating to hundreds of sources (yes hundreds). That IS what news aggregators do! I received many thank you notes from authors happy to have extra exposure.
+
+I apologize for my oversite in the way the aggregation algorithm posted. In hindsight, I wish the ""Original Source and Author"" link was on the top rather than the bottom (besides a few other items). I assure you my intent was genuinely excellent; I was trying to give those interested a convenient news aggregation a resource.
+
+I don't create excuses, but please, it is sophomoric to jump from unintentional RSS feed read result to first-degree murder.
+
+Trust me; if anybody worth their weight in Data Science thought you or anybody else got fooled by something so obvious, they would likely think you were in the wrong profession. I asked my 7th-grade daughter to read a few articles and then decipher who the source and author were, and she had NO PROBLEM correctly identifying them (hint, it was not me). I'm pretty sure you can relax.
+
+Again, look at all the ORIGINAL SOURCES and AUTHORS linked to in every case.
+
+I will use the site for personal purposes to save my own time; it got built as my individual RSS reader; I will return it to that.
+
+I apologize to those authors and readers that were happy I had put in the work to create the content aggregation location and add more exposure to others' work. (with zero pay to me)
+
+If you intended to be disruptive, trolling, punitive, and silencing, congratulations, job well done, not worth my time anymore. Honestly, I was getting a little tired of putting in the work anyway. Feel free to navigate the hundreds of sources on your own (yes hundreds); it should only take you 10 or 12 hours a day. Once again, my apologies for my failed try at providing you time-saving value and exposure. Site is down, time-saving, content aggregating, author visibility-enhancing site is no longer available.
+
+Maybe you will enjoy these guys news aggregation: [https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen](https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen)""","My Apologies - From ""A Data Science company stole my gf's ML project and reposted it as their own. What do I do?""",1589867615
+datascience,"**Dean Hoffman from the thread** ""[A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do?](https://www.reddit.com/r/datascience/comments/glfdmm/a_data_science_company_stole_my_gfs_ml_project/)**"" responded. He authorised me to repost his response. Here it is:**
+
+""Under no circumstances should someone claim credit for someone else's work. I was involved in litigation against Google for something similar over 10 years ago.
+
+[https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776](https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776)
+
+RSS feed readers ingest content and republish it with credit to the author. This step gives the author added exposure, like how radio stations offer musicians free advertising to sell their music.
+
+Examples of news aggregators include Google News, Drudge Report, Huffington Post, Fark, Zero Hedge, Newslookup, Newsvine, World News (WN) Network and Daily Beast, where the aggregation is entirely automatic
+
+I see that the automated algorithm was incorrectly listing the admin as the author on some of the articles, but there was no intent to deceive. If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of EACH ARTICLE, and that linked to the ORIGINAL AUTHOR. One more time: If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of each piece that then linked to the ORIGINAL AUTHOR.
+
+There was no intent to claim ownership. If so, it was a pretty hair-brained try, but I apologize to anyone who feels deserving.
+
+Since I have no financial gain from this site, and no good deed goes unpunished, I decided to take it down. I don't need the aggravation to share useful content and authors if the reward is getting attacked.
+
+I am an awarding winning researcher, as published in at least two national magazines. I don't need anybody else's credibility.
+
+Many articles picked up by the RSS feeds I would be embarrassed to publish under my name.
+
+I am confident that NOBODY, with a clue about data science, thought someone was writing hundreds of articles a week. Especially when posting the ORIGINAL SOURCE, and it links to the ORIGINAL AUTHOR at the bottom of each piece! Seriously!? SERIOUSLY!!!?
+
+I've not made a penny from the site, nor have I ever tried (or wanted to). It was built as a news aggregator to promote the work of others and create a place to stay up to date without navigating to hundreds of sources (yes hundreds). That IS what news aggregators do! I received many thank you notes from authors happy to have extra exposure.
+
+I apologize for my oversite in the way the aggregation algorithm posted. In hindsight, I wish the ""Original Source and Author"" link was on the top rather than the bottom (besides a few other items). I assure you my intent was genuinely excellent; I was trying to give those interested a convenient news aggregation a resource.
+
+I don't create excuses, but please, it is sophomoric to jump from unintentional RSS feed read result to first-degree murder.
+
+Trust me; if anybody worth their weight in Data Science thought you or anybody else got fooled by something so obvious, they would likely think you were in the wrong profession. I asked my 7th-grade daughter to read a few articles and then decipher who the source and author were, and she had NO PROBLEM correctly identifying them (hint, it was not me). I'm pretty sure you can relax.
+
+Again, look at all the ORIGINAL SOURCES and AUTHORS linked to in every case.
+
+I will use the site for personal purposes to save my own time; it got built as my individual RSS reader; I will return it to that.
+
+I apologize to those authors and readers that were happy I had put in the work to create the content aggregation location and add more exposure to others' work. (with zero pay to me)
+
+If you intended to be disruptive, trolling, punitive, and silencing, congratulations, job well done, not worth my time anymore. Honestly, I was getting a little tired of putting in the work anyway. Feel free to navigate the hundreds of sources on your own (yes hundreds); it should only take you 10 or 12 hours a day. Once again, my apologies for my failed try at providing you time-saving value and exposure. Site is down, time-saving, content aggregating, author visibility-enhancing site is no longer available.
+
+Maybe you will enjoy these guys news aggregation: [https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen](https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen)""",My Apologies,1589867493
+datascience,"Under no circumstances should someone claim credit for someone else's work. I was involved in litigation against Google for something similar over 10 years ago.
+
+[https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776](https://docs.justia.com/cases/federal/district-courts/california/cacdce/2:2004cv09484/167815/776)
+
+RSS feed readers ingest content and republish it with credit to the author. This step gives the author added exposure, like how radio stations offer musicians free advertising to sell their music.
+
+Examples of news aggregators include Google News, Drudge Report, Huffington Post, Fark, Zero Hedge, Newslookup, Newsvine, World News (WN) Network and Daily Beast, where the aggregation is entirely automatic
+
+I see that the automated algorithm was incorrectly listing the admin as the author on some of the articles, but there was no intent to deceive. If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of EACH ARTICLE, and that linked to the ORIGINAL AUTHOR. One more time: If you look, you will see that EVERY ITEM had the ""ORIGINAL SOURCE"" listed at the bottom of each piece that then linked to the ORIGINAL AUTHOR. 
+
+There was no intent to claim ownership. If so, it was a pretty hair-brained try, but I apologize to anyone who feels deserving.
+
+Since I have no financial gain from this site, and no good deed goes unpunished, I decided to take it down. I don't need the aggravation to share useful content and authors if the reward is getting attacked.
+
+I am an awarding winning researcher, as published in at least two national magazines. I don't need anybody else's credibility. 
+
+Many articles picked up by the RSS feeds I would be embarrassed to publish under my name.
+
+I am confident that NOBODY, with a clue about data science, thought someone was writing hundreds of articles a week. Especially when posting the ORIGINAL SOURCE, and it links to the ORIGINAL AUTHOR at the bottom of each piece! Seriously!? SERIOUSLY!!!?
+
+I've not made a penny from the site, nor have I ever tried (or wanted to). It was built as a news aggregator to promote the work of others and create a place to stay up to date without navigating to hundreds of sources (yes hundreds). That IS what news aggregators do! I received many thank you notes from authors happy to have extra exposure.
+
+I apologize for my oversite in the way the aggregation algorithm posted. In hindsight, I wish the ""Original Source and Author"" link was on the top rather than the bottom (besides a few other items). I assure you my intent was genuinely excellent; I was trying to give those interested a convenient news aggregation a resource. 
+
+I don't create excuses, but please, it is sophomoric to jump from unintentional RSS feed read result to first-degree murder.
+
+Trust me; if anybody worth their weight in Data Science thought you or anybody else got fooled by something so obvious, they would likely think you were in the wrong profession. I asked my 7th-grade daughter to read a few articles and then decipher who the source and author were, and she had NO PROBLEM correctly identifying them (hint, it was not me). I'm pretty sure you can relax.
+
+Again, look at all the ORIGINAL SOURCES and AUTHORS linked to in every case.
+
+I will use the site for personal purposes to save my own time; it got built as my individual RSS reader; I will return it to that.
+
+I apologize to those authors and readers that were happy I had put in the work to create the content aggregation location and add more exposure to others' work. (with zero pay to me) 
+
+If you intended to be disruptive, trolling, punitive, and silencing, congratulations, job well done, not worth my time anymore. Honestly, I was getting a little tired of putting in the work anyway. Feel free to navigate the hundreds of sources on your own (yes hundreds); it should only take you 10 or 12 hours a day. Once again, my apologies for my failed try at providing you time-saving value and exposure. Site is down, time-saving, content aggregating, author visibility-enhancing site is no longer available.
+
+Maybe you will enjoy these guys news aggregation: [https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen](https://news.google.com/search?q=Artificial%20Intelligence&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen)",News Aggregation / Content Posting,1589866350
+datascience,,CORONA VIRUS NEW DAILY CASES SPREAD WORLDWIDE DURING MARCH | By REGION |...,1589864011
+datascience,"I'm an early career data scientist with a doctorate degree in physical sciences and 8 months work experience. I am working in a small startup that has been heavily impacted by the pandemic. I have been applying for jobs for 2 months and have gotten zero responses. I would like some feedback on my resume in case I did something clearly wrong. Thanks for all your help!!!
+
+Link to resume: [Page 1](https://imgur.com/324iJ0y) ,  [Page 2](https://imgur.com/h6JphnG)",Please evaluate my data science resume. I've been applying for jobs with no luck for quite a while,1589863716
+datascience,,"[Be aware!] Do not use ""Raw"" type cells in JupyterLab (and maybe Jupyter notebook too) as a solution to comment part of the code. When exported to .py file, ""Raw"" type cells will not be commented.",1589854343
+datascience,"Hey guys, I work as a business analyst in tech right now. I have a double bachelor's in business and finished a bootcamp in Data Science, I want to move more towards tech because that's where the money is at, primarily to data science because I think my background in business and some tech would be the best fit. 
+
+I keep hearing about the 'first job' is the hardest, and I'm wondering if business analyst will be a way for me to get into data science, or if it kind of is apart of data science? If I want to get a job in data science, will I have to start all over in my career? Like accept a crappy paying job in order to get into the industry?
+
+I know for my business analyst job it was very hard to get because I had a jack of all trades sort of experience, have done UX UI design, project coordinator/project management, some development, management, etc. Some insight on how to move my career forward would be great. I'm primarily worried about having to start all over again",Can business analyst be a path to data science?,1589852943
+datascience,"I'm interested in business/data analytics, and the possibility of starting a career in data science. The school I go to has a very cost effective masters program that I'm really interested in. Which one of these degrees might be more useful for a data analyst -&gt; data scientist role? I have a sneaking suspicion that its the applied math degree, however I really enjoyed some of my data mining classes for my undergrad and feel like the data science degree would be hella fun?
+
+I don't want to waste my time and money so I want to make a good decision as to whether it would be worth it to pursue this type of degree. I really don't want to get stuck in a career that I don't necessarily feel engaged in. I feel like this would pave the way for a more rich and interesting career.
+
+The degree would cost around $12k everything included. I live with my parents now so I could go part-time and average around 2 courses a semester and be done in 2 years while working part-time on helpdesk.  
+
+Thank you!",Applied Mathematics and Statistics VS Data Science and Analytics MASTERS degree?,1589851802
+datascience,,Attorney General Becerra Slams Trump Administration's Proposed Anti-Science Rule,1589851557
+datascience,"Long story short, I'm trying to decide if a math/stats/econ PhD is something I want to pursue. I adore being in the classroom, have done exceptionally well in upper/graduate-level math and economics courses, and consider my undergraduate studies in math and economics to be the most rewarding experience I've yet to have.
+
+I'm currently working as an actuary, and while the job isn't bad, I feel like I'm not living up to my fullest potential, and have a nagging feeling that I'll always regret not pursuing a higher degree. At the same time, choosing to pursue a PhD is a huge move, and it's hard for me to think about quitting a job that's  already making me 6 figures at the age of 25. I feel like I could make a great case as to why either option would be best. 
+
+For those of you who've actually taken the plunge into a PhD program- how did you know it was the right thing to do? Did you have any worries or concerns about choosing that path, and what tipped the scales for you?","PhD holders, how did you know a PhD was the right move?",1589845221
+datascience,"Kevin Systrom (Founded and former CEO of Instagram) started a blog to model the impact of COVID-19. I thought it was well done, and very cohesive. I thought I would share for those are that want to see an example of an excellent project. 
+
+He published the code on GitHub as well. 
+
+[Github](https://github.com/k-sys/covid-19):   
+[Blog](http://systrom.com/):",Excellent Example of Thoughtful Analysis,1589844128
+datascience,"Hey everybody, I am seeking out professional advice with university admissions. I understand that this may not be the perfect place to post this but its for a Masters of Science in Business Analytics (MSBA), and this sub had more members who may have something to say to help me out. 
+
+I had a one on one meeting for a class that was in the minor for data science and the teacher asked me if I was planning to apply for the MSBA. I told the teacher that I already had and was fortunate enough to be wait-listed instead of denied. The teacher wanted to see me in the course so he recommended to email an old professor of mine in my accounting pathway. That certain professor taught Accounting Information Systems when I learned about SQL and how ""paper"" gets moved through the business for lack of better words. 
+
+I know how to write an email to ask for a recommendation, but not in this situation. Always formal yes but I see this as a very delicate matter as me and the accounting professor only talked a handful of times and I had a mediocre grade in the class (though I think he might remember me on a story I was telling that caught his interest). 
+
+Since I can start to answer my own question, has anybody been in this situation and how they went about it?
+
+I will be posting this in more general subreddits like r/ApplyingToCollege but since it is a specific degree that relates to Data Science I wanted to post here too. 
+
+Last thing: It is very time sensitive as I will know if I have been accepted in the next week or two  starting from this posting. 
+
+Thank you!",Help with a Letter of Recommendation post Masters Application?,1589842406
+datascience,"Hello, 
+I'm working on a set where the input consists of categorical and numeric variables and the output is binary. I'm using logistic regression to solve the problem.
+
+I'm trying to eliminated some features which are not relevant and for this I have to do correlation analysis between numeric features and binary target. Is this correct ? Can I do such analysis between numeric and categorical (binary) feature. What about analyzing the rest of categorical fields with the target? What approaches would u use?  - I tried chi2 but not sure if I'm doing this correctly. 
+
+
+Thanks.",Feature correlation and extraction,1589840587
+datascience,"I want to build a dynamic pricing model using streaming data from retail/fashion store. The datasets that are available online have limited rows/items. Can anywhere here tell me where I can possibly get streaming data; I wonder if public APIs could be used to generate streaming data(if so, please provide the API links/names).
+Please help.",Dynamic pricing model using streaming data,1589837105
+datascience,"I’m posting this here hoping the Data Scientists working in AMS could help me gauge whether this is a good offer. 
+
+I have a CS bachelor and DS master with 2 years experience and very good academic results (cum laude for both degrees). I interviewed for a Senior DS role at a tech company. They instead offered me a medior DS role: 65k base + 10% bonus + 18k RSU(annually, can vest 25% per year). I managed to negotiate the base to 67k. The work content will be recommender systems and NLP. The interview went really well and I could tell that they wanted me. I also liked the interviewers who seems open and friendly. 
+
+I was a bit disappointed that they didn’t offer me a senior role which I applied for. And I tried to negotiate a 10% raise which I then lowered to 5% during negotiation (cause they said 10% would lead to a senior role) but eventually they come back with a 3% instead. These 2 times of hammering down my proposals gave me a bad feeling. Like why can’t they just offer 68k(5% raise) rather than taking 1k out? Come on, 1k should be nothing for them...",Data scientist offer in Amsterdam,1589836768
+datascience, [https://medium.com/df-foundation/tired-of-working-with-people-who-arent-data-savvy-here-s-what-you-can-do-about-it-f17ccb4a9938](https://medium.com/df-foundation/tired-of-working-with-people-who-arent-data-savvy-here-s-what-you-can-do-about-it-f17ccb4a9938),"For those DS working in embedded teams, here's a solid primer on how to make your coworkers more data savvy",1589833818
+datascience,"The first four chapters of my upcoming Machine Learning Engineering book are almost ready for publishing: I integrated all improvement suggestions made by the readers so far and made my own full read which resulted in further improvements.
+
+While I'm working on the remaining chapters, I look for volunteers who would like to read the first four chapters during the next two weeks and suggest both stylistic and factual improvements to the text.
+
+If you are interested in being a volunteer, please go to the book's wiki [http://mlebook.com](http://mlebook.com/) and leave your suggestions directly as comments in the chapter files. Please use the highlighting tool to make it easier for me to relate your comments to specific parts of the text.
+
+Names of all volunteers contributed to the book's quality will be mentioned in both online and published versions of the book. Just like with [my previous book](http://themlbook.com/wiki/), the book's chapters will remain online after publication as the book will be published on the ""read first, buy later"" principle.",I look for volunteers to help me with my book,1589832960
+datascience,Hello all! I am looking around for a data set to play with related to mental health. Specifically mindfullness or meditation. I understand these are broad terms but I am having trouble finding any free datasets related to these topics. Please reach out if you know of a good resource! Thank you.,Mindfullness/Meditation Data set,1589830035
+datascience,,Attn data professionals: What are best practices for Deleting PII?,1589827093
+datascience,,Create your own Virtual Assistant,1589827032
+datascience,"I have seen some interesting analyses of how frequently given online journalistic outlets will use two words together over time (i.e. a politicians name and the word ""scandal"" measured before and after a scandal). Are there any particular preferred software clients for this? I have seen things like this done manually, but I also recall reading articles citing similar software without the over time feature.",Analysis of words used together in online media,1589821459
+datascience,"Hi everybody,
+
+I'm new to Reddit so sorry if I don't know all the ins and outs of it yet.
+
+I am currently following a Mathematics and Statistics B.Sc. in the U.K. and I would like to follow a MOOC on data science.
+
+I really enjoy mathematics and have done many personal projects on Python. However, I think a MOOC on data science would help me to stand out in the massive amount of students sending their resume to companies. Furthermore, I've got plenty of free time at the moment so I would like to make the most of it !
+
+I have done some research and those three look interesting :
+
+\-  [https://www.edx.org/professional-certificate/harvardx-data-science](https://www.edx.org/professional-certificate/harvardx-data-science) 
+
+\-  [https://www.edx.org/professional-certificate/ibm-data-science](https://www.edx.org/professional-certificate/ibm-data-science) 
+
+\-  [https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)
+
+Not knowing much about the topic, I need your help to choose the right one. I would like to know if one of them stands out? If not, do you have any suggestions on different courses available?
+
+Thanks in advance for your help and I am happy to answer any of your questions.
+
+Best regards.",Need help choosing the right MOOC on EdX.,1589821311
+datascience,"I have got a time series model on *last twelve months default rate* and a few other exogenous variables (all time series) like lending standards etc. I suspect there will be a ""bunching behavior"" in the behavior of the endogenous variable i.e. defaults lead to more default and benign credit environment leads to less default, leading to more benign credit environement and even lesser defaults. 
+
+In essence, an ""autoregressive"" component of the dependent variable, and a combination of lagged components of other independent variables. 
+
+&amp;#x200B;
+
+What would be the best statistical model to build it upon? I am suspecting ARIMAX might solve the problem based on my reading of this model. 
+
+&amp;#x200B;
+
+Your thoughts?",[Thoughts for a Model?] I want to model a time series based on some exogenous time series and its autoregressive components. What do you think should be my choice of model?,1589819883
+datascience,,Are synthetic images GANs generated really useful in medicine? This article claims for data augmentation for training people and to further help other algorithms. What do you think?,1589818470
+datascience,"For context: I work for a UK-based consultancy company.
+
+AWS offers an ML specialisation certification, and Azure offer Data Scientist certifications - are they valuable or coveted in any way? 
+
+I’m of the opinion that your actual experience of the entire data science process, from obtaining the data through to productionisation, is paramount. However, given that we don’t have any chartered certifications within the field, and there are a plethora of certifications one can obtain from udemy or coursera - are certifications from established platforms such as AWS or Azure a desirable trait from an employee’s and employer’s perspective?
+
+Whenever training goals are proposed internally, these certifications often crop up. I think being platform agnostic is great, so being able to work on either AWS, Azure (or GCP for that matter) is a useful skillset to have. I’m not convinced that the certification in itself is worthwhile, but the actual experience of using a platform for Data Science related work is.
+
+What do you guys reckon?","AWS, Azure and GCP certifications - do you have them? Are they worthwhile?",1589817001
+datascience,"As this NGram link below from google suggests, the recent use of “deep learning” has skyrocketed. Curiously, though, it was used at times well into the past. Anyone aware of how this term got adopted for use in machine learning?
+
+https://books.google.com/ngrams/graph?content=Deep+learning&amp;year_start=1800&amp;year_end=2008&amp;corpus=15&amp;smoothing=3&amp;share=&amp;direct_url=t1%3B%2CDeep%20learning%3B%2Cc0",Where did the term deep learning come from and how did it get associated with artificial intelligent approaches to machine learning?,1589816978
+datascience,,{Webinar} Role of data science in dealing with COVID-19 at India’s largest online grocery store,1589816012
+datascience,"[Berlin Buzzwords](https://berlinbuzzwords.de/) have announced that they are teaming up with [Haystack](https://haystackconf.com/) the search relevance conference, and [MICES](https://mices.co/) the e-commerce search event to host a week of virtual talks, panel   discussions, workshops and training sessions covering open source big  data projects under themes of search, scale, store and stream.
+
+You can find out more about the event here ([https://berlinbuzzwords.de/news/berlin-buzzwords-goes-virtual](https://berlinbuzzwords.de/news/berlin-buzzwords-goes-virtual)) and see the schedule here ([https://berlinbuzzwords.de/schedule](https://berlinbuzzwords.de/schedule))",The Big Data conference Berlin Buzzwords takes place online in June 2020,1589810768
+datascience,,Certificate program in Data Science - Demo Session | In collaboration with IBM,1589807297
+datascience,"Hello,
+
+It's been a while of googling but it just doesn't help. Is there a good and up to date metric that would allow me to select best DR method (78-&gt; 2 dimensions)? Is there any release of it as a python/r package/code?",Qualitative comparison of Dimensionality Reduction techniques,1589804991
+datascience,,New statistical approach to COVID-19 clinical trials aims to accelerate drug approval process and attract more funding,1589803715
+datascience,"What would you do if you have 8 categorical independent variables having more than 700 distinct names, some are dates and some are topics. Keeping in mind that I have to get a numerical prediction.
+Please help, newbie in data science. Thank you in advance",Multi linear regression for categorical IV,1589802646
+datascience,"Hi All, I'm a beginner and 24years old now. I think I've wasted a lot of time till now and I regret for that. I want to start my career in data science as I'm from a computer science background, I've little knowledge of python(I'm currently working as an automation tester in a startup). 
+
+Can you guys suggest to me where to start or what're the steps/Courses I need to take as a beginner to step my feet in data science field? How much time does it take to be a good data scientist?",How to start my carrier in Data Science as a beginner?,1589797426
+datascience,"I am a beginner and keep running into kaggle notebooks or kernels or TDS articles for sales forecast using xgboost or churn rate or classification problems which tbh seem very straight forward but have 100's of upvotes and claps.
+
+I just feel like they're no where near the level of what's actually done in the industry and if you get a data sci job based on just your knowledge of the concepts presented in these kaggle or TDS examples, you're setting yourself up for total failure. Even the courses I took online for eg. ML A-Z by Krill eremneko seems pretty basic and seems like an introductory level course.
+
+So I'm just wondering if there are any real world examples written out step by step similar to TDS or Kaggle examples which will allow me to understand what a data scientist really finds challenging and something that covers the entire deployment and post deployment phase",Are there any real world examples for ML projects apart from Kaggle or TDS?,1589796223
+datascience,[removed],stats vs cs bachelor degrees for a career in data science,1589796126
+datascience,"Hi there. 
+
+I am a 29 year old male from Bangladesh and I have a BS in Economics and an MBA [both the degrees are from Bangladesh and the MBA is from an AACSB accredited school] and I have been working as a universal banker at a retail branch here in Bangladesh for 2.5 years now. 
+
+Now I have OCD and Social Anxiety for the past 12 years now and it has not improved with medication or 100s of therapy. I have been told to consider it as a disability and build my life around it. I can talk on the phone, by email fine but fail in face to face and eye contact or building rapport etc. 
+
+I am failing at the bank because I have performed zero in the sales targets and the customer service is extremely stressful given the degrading way people treat service workers in the country. 
+
+I was thinking of switching careers to a Data Science/Big Data/Data career. A career that will have the least amount of social interaction and will be in demand in Bangladesh and that will in skilled occupation list in countries like Canada or Australia. Because frankly speaking the environment for people with disabilities is downright horrible here. 
+
+I was reading the book Getting a Big Data Job for Dummies and the book says that there are only three career streams in Big Data: Data Scientist, Programmer and Business Analyst. Now I cannot become a programmer or Data Scientist because I don't have a background in CSE but Business Analyst also requires a huge amount of sales, customer service and client interaction. But people tell me there are other career paths/streams as well. 
+
+So my question is: Can someone suggest a role or occupation in data science that would be the right fit for me given what I said above?
+
+PS: If this is not the correct sub, please tell me where else I should post before deleting the thread.",I have OCD and Social Anxiety. Which occupational role in Data Science has the least amount of social interaction and that I can get in with a BS in Economics and an MBA?,1589791579
+datascience,"I am starting a masters in data science with the hopes of applying what I learn in pharma or biotech. To complement my masters I am also taking obline courses in bioinformatics, biostatistics and systems biology to get some domain knowledge.
+
+What I am trying to figure out is which types of analytical models would be most applicable:
+
+* regression analysis
+* time series analytics
+* non-parametric analysis
+* computational statistics
+* bayesian statistics
+* simulation
+* probabilistic models
+* deterministic optimization
+
+Thanks!",Advice on analytics for bioinformatics,1589790741
+datascience,[removed],Reasons to Dell EMC Certify | Read About the Advantages of Dell EMC Data Science Certification,1589779287
+datascience,[removed],ideas for data science projects to show potential employers,1589779113
+datascience,"Hi. I am looking into data science/analytics for grad school. However, I am still unsure as to which school is better: UMD (College park) or GMU. Any suggestions or experiences?",Master's Program Help,1589777896
+datascience,"I recently just graduated with my Master's in Applied Politics... which means it is a research-focused degree in political science. As the political world continues to move more into the data world, I understand this can be a pretty valuable tool. However, the program I came from needs some serious work. I am not into the ""hustle and bustle"" of American politics such as working for representatives, lobbying, etc. My program only afforded me the ability to dabble into R (Professor sucked...poorly taught... just copy and pasting code from Word Docs). I have research methods under my belt such as regressions and statistical analysis from my Master's.   
+I work at a public opinion research firm where we just use SPSS so I know that but with other programs/software... I'm not experienced at all. I'm highly interested in learning more about data and being able to build my resume and land a job in the political data world... What would you recommend to someone with my skill sets? Also.. as professionals in the data world, how do you suggest I market myself? For me, going back to school for data isn't really an option but I'm willing to earn certificates, etc. The only way I would go back to school is for a Ph.D in political science.",Advice? Master's grad in applied politics wanting a data job,1589777600
+datascience,"Hello reddit! I am very interested in data science and machine learning in general. I have made several projects of my own, and I think I would like a career in the field. I would like to know what modules are optimal for getting the hard skills required to be effective in the field, given a list of what I have available at my University.
+
+For the first Semester I can choose 2 from:  
+\-Combinatorics
+
+\-Time Series Analysis
+
+\-Knot Theory
+
+\-Group theory
+
+\-Quantum Theory
+
+\-Information theory, and for the second semester I can choose 2 from
+
+\- Number theory
+
+\-Complexity theory
+
+\-Inference
+
+\-Markov Chains
+
+\-Game Theory
+
+Along with any 2 from 
+
+\- Compiler Theory
+
+\- Cyber Security
+
+\- Functional Programming
+
+\- Human-Computer Interaction",Ideal modules at University for a career in Data Science.,1589775882
+datascience,"Hi All,
+
+I am looking into data science/analytics for grad school. However, I am still unsure as to which school is better. Any suggestions or experiences?",UMD or GMU,1589773157
+datascience,"I currently work in image processing/computer vision/deep learning. I have some experience with Python, Matlab, and C++.
+
+I know it's possible to get freelance gigs or work-from-home full-time jobs in this field and machine learning/data science, but I think most if not all require you to be in your home country instead of letting you move to somewhere like SE Asia.
+
+I'm also aware that remote jobs even in the US (before the pandemic) are alot more competitive than non-remote jobs since the candidate pool is much larger than for local in-office jobs
+
+Anyone here managed to be able to work anywhere in the world?
+
+Or if someone working in data science/machine learning/etc wants to work from anywhere in the world, then they're better off trying blogging, Youtubing, selling courses on Teachable, or learning web dev?",Possible to work as digital nomad DS/ML/DL/CV?,1589771151
+datascience,I've seen both of these fields somewhat commonly listed as some of the  top areas of work for data science and ML professionals along with fields like healthcare and tech in general. Personally these are two fields I am interested in and I'm torn between the two.  I was hoping some people who have experience in either or both of these fields could talk about their experiences such that I can learn more and make a better informed decision between the two,Finance vs Cybersecurity Domains for Data Science,1589770872
+datascience,"I've seen both of these fields somewhat commonly listed as some of the top areas of work for data science and ML professionals along with fields like healthcare and tech in general. Personally these are two fields I am interested in and would love to hear more about. I was wondering if some people who are or who have worked in these fields could talk about why they chose that field, what they like/dislike about it, interesting work they have done in the field, etc.?",Finance vs Cybersecurity Domains,1589770482
+datascience,"Does anyone know how the bootcamp at Georgia Tech is and if those skills would be helpful for finding a job? https://bootcamp.pe.gatech.edu/data/curriculum/
+
+I already have a BS and MS in math, but my coursework was very theoretical. I know basic programming in the sense I can write for loops and understand how to write functions. But I can't do much else. My job search has been bad for these reasons, I think. (I started off my schooling with the intent of finishing a PhD and doing an academic career, but I am quitting my PhD because I do not like research that much.)",Commentary on Georgia Tech's Data Analytics bootcamp?,1589765807
+datascience,"I've been working a lot on shiny apps, developing even mobile apps and uploading them to an AWS server. In shiny app I;ve been able to show different ML models and plots. i want to upgrade my toolkit and learn development also on Python. Is Flask quite similar to Shiny in R? 
+
+Thanks for your answers!",Python equivalent to R's ShinyApp?,1589765253
+datascience,"I have learned the theory behind classical neural networks through the book ""Make Your Own Neural  Network"" by Tariq Rashid, who explains the mathematics behind classical neural networks in a simple way. However, I have not been able to find a resource that explains that mathematics behind convolutional neural networks and recurrent neural networks that are explained simply, without seeing huge mathematical formulas that I cannot understand. Does anybody have a free online resource that teaches convolutional neural network theory (or recurrent neural network theory) in an intuitive and simple manner, building up from the basics?",How to Learn Convolutional Neural Network Theory?,1589764903
+datascience,"Hi all, I'm looking for publicly available data of median home values in NYC. Preferably by longitude and latitude. Any help would be great. Thanks!",Public data on median home values,1589764032
+datascience,[removed],Coursera Computational Social Science course from the University of California -- FREE,1589762003
+datascience,,Unlimited access to DataCamp free all week,1589758022
+datascience,"Hey I'm a college sophomore and I'm changing my major from computer science to math because I wanted to work towards becoming a quantitative analysis or data scientist.
+
+That being said what is the path to becoming a data scientist?
+
+These are just some questions I was wondering:
+
+\- Is a MS sufficient or the only way to compete is with phd?  
+\- Is a degree in mathematics necessary?  
+
+
+Feel free to share your own journey to becoming a data scientist",What is the path to becoming a data scientist,1589756641
+datascience,"Hi guys, fairly new to reddit and would appreciate any inputs you might have. Currently on my resume, I have my technical skills listed like so:
+
+Programs: Python, R, Scala, SQL |Technologies: Git, Hadoop, Hive, Spark | Software: Jira, Tableau
+
+I'm not sure how to ""construct"" a tech stack out of these, but would like to find cleaner way of presenting this information.
+
+Many thanks again :)",Listing tech stack on resume,1589754832
+datascience,"Is it normal for data analysts to not receive job training or guidance by another data analyst at work ? 
+
+If this isn't normal, what kind of support or training should a data analyst expect at work ? If this is normal, what are ways that data analysts can grow their skill set and make sure that they are doing their job correctly ?",Support at work as a Data Analyst,1589754654
+datascience,,Data Science Interview questions,1589753112
+datascience,"Hi Folks.
+Can anyone help me the best python Ide I can use for Data Science.
+I googled it, actually the opinions are different which states that it depends upon projects and requirements which is true.. still I am much curious about some favourite IDEs used by working professional data scientist
+
+I have used Jupyter and pycharm
+
+Heard about Spyder and Google Colab from one of my friend.. need to know the different opinions
+Pls help",Python IDE for Data Science,1589752383
+datascience,"hey r/datascience, I have personally found ISLR and ESL to be some of the best books on statistical learning. I happened to stumble across these lecture videos made by the authors themselves covering the topics in ISLR. Thought I would share them. Enjoy!
+
+[ISLR lecture videos/notes](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html)","ISLR textbook slides, videos, and resources",1589751062
+datascience,"My company has a pretty generous stipend to spend on professional development, and I've been wondering what's the best way to spend it. I know this topic has been asked before, but thought it would be worth bringing up again since many conferences and seminars are cancelled due to COVID-19.
+
+Any interesting ideas in addition to textbooks and MOOCs?",What are you spending your professional development or education budgets on?,1589750901
+datascience,Can someone tell me if it is possible to predict windspeed on a short term lets say from 1 day till a few hours. Using windspeed sensors out on the sea that generate public data. If so what should be my course of action. It may be relevant to note that I am a beginner in datascience and I use R.,Forecasting windspeed on short term,1589747178
+datascience,"Hey all,
+
+I recently graduated with an MS in stats with the goal of pursuing a data analyst career. Outside of school, I don't really have any data analysis projects to show off. I worked pretty exclusively in R and am learning some python now. My question is sort of two fold. First, I need to update my resume now that I've graduated. What are the necessary things one should include in a resume for a data analyst position? Doing my studies I took classes from all kinds of stats departments, e.g., math stats which included a good amount of theory with application, biostats, and stats perhaps used more frequently in the social sciences, e.g. SEMs. So I'm more a jack of all trades. Is that something that is worth highlighting, for example? Second, what does a good data analyst resume \*look\* like? What do hiring managers actually care to see beyond education and work history?  
+
+
+In a similar vein, what things can I do to make my resume more appealing? For example, what are the kinds of projects I should work on independently to show off? And how much should I branch into proper programming? I was thinking learning how to make APIs in python might be a now essential skill for a data analyst? Is it worthwhile to spend my time learning SQL vs picking it up on the job? Things of that nature.  
+
+
+Any direction/guidance/resources would be appreciated!",What does a good Data Analyst resume look like?,1589745396

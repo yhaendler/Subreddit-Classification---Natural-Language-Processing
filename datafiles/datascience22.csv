@@ -1,0 +1,255 @@
+subreddit,selftext,title,created_utc
+datascience,,Is my thought process messed up,1586908469
+datascience,[removed],datacamp recomendations,1586905787
+datascience,,"Building Dashboards in Python &amp; React: How I fetch, alter &amp; store COVID-19 Data",1586901758
+datascience,[removed],Financial Feasibility of Moving the Homeless in Hotels During COVID-19,1586899595
+datascience,[removed],What is a good software for epidemic modeling?,1586898743
+datascience,[deleted],"Interactive COVID-19 Data Visualizations - Timeline playback, cases explorer, &amp; curve comparisons",1586898236
+datascience,,[P] BentoML: an open-source platform for high-performance model serving,1586893772
+datascience,[removed],Purdue Data Science Major,1586889532
+datascience,[removed],Using PCA on sample data and extrapolating from there.,1586884835
+datascience,[removed],Codeacademy or Dataquest for a beginner?,1586884238
+datascience,[removed],Will I have a disadvantage if I get my undergrad degree in math?,1586883837
+datascience,,Can I use Adobe to make data visualizations?,1586883114
+datascience,[removed],Churn Prediction Model In Production affected by COVID19,1586882098
+datascience,[removed],Elfinwood Data Science Blog,1586881605
+datascience,,The 4 Steps of Building Machine Learning Systems,1586881603
+datascience,[removed],How much is there to know? Is there an end to it? Got quizzed about data structures and algo,1586881556
+datascience,"[removed]
+
+[View Poll](https://www.reddit.com/poll/g17q10)",Master's: UChicago Analytics V.S USC Business Analytics,1586878524
+datascience,[removed],Looking for mentor advice! What to do right out of college!,1586877650
+datascience,[removed],Career Advice for Career Change,1586877337
+datascience,[removed],Career Advice for Career Change,1586877298
+datascience,"Welcome to the **DS Topic of the Week**!  
+
+This week's topic is **Should Data Science Managers/Leads have a Data Science background?**
+
+&gt;While data science practitioners can come from diverse set of technical backgrounds, the people who manage teams of data scientists can come from both technical and non-technical backgrounds.  
+&gt;  
+&gt;Do you feel that having a technical background is important for these managers?  Alternatively, do overly technical managers tend to lack the non-technical soft skills to being an effective manager?  
+&gt;  
+&gt;Given the choice, what kind of background would you want your next manager to have?  Does the size and composition of the team make a difference?
+
+&amp;#x200B;
+
+***Note:*** *The mod team is trying something new here, which is a rotating weekly topic/debate for discussion.  We will hopefully have this automated soon, if feedback is positive.*",[DS Topic of the Week] Should Data Science Managers/Leads have a Data Science background?,1586877001
+datascience,[removed],Resources in self studying geospatial analysis,1586876750
+datascience,[deleted],Resources for self studying geospatial analysis,1586876250
+datascience,[removed],Indexing Large Text Corpora,1586875599
+datascience,[removed],"Internship cancelled, how can I supplement my summer?",1586873039
+datascience,,Thoughts on kaggle and leetcode?,1586872287
+datascience,,"Kevin Systrom, former CEO and founder of Instagram, just posted an incredibly well laid out Juypter notebook about his Covid modeling (h/t Sean Taylor).",1586871774
+datascience,,Free Webinar on The Essentials of Data Science and Machine Learning,1586869788
+datascience,[removed],Kevin Systrom Just Posted An Incredible Jupyter Notebook On COVID-19,1586866074
+datascience,,New job new laptop,1586864620
+datascience,[removed],Environmental Data Science,1586860432
+datascience,[removed],Accessing data Question - web scraping,1586860253
+datascience,,20 Best Libraries for Data Science in R,1586859476
+datascience,"Step by step guide to build an information filtering engine called recommendation system. Downloadable code included for R &amp; Python.
+
+This page is purely technical. If you would like to read some basics of recommendation system. Click [here](https://medium.com/@karthik.thandapani/a-beginners-guide-to-understanding-recommendation-system-f6c0054dfb7c?source=friends_link&amp;sk=70c9b7177a1e731b3c742aca26ae22e7)
+
+# Intuition
+
+Once upon a time, there was a task given (this was a decade back when excel &amp; vlookup were the 2 of 3 famous terms in the world of analytics).  
+As the story goes… this was for a retail industry, we did some analytics around the products that customers are purchasing. 1. What are the products they are looking at &amp; searching? 2. What are the commonalities, pattern, segmentation etc etc.  
+End of the day, we had to analyse hundreds of thousands of transactions; thousands of people, their purchase and invoices;
+
+We found an interesting pattern happening very often. When people shop in the evening between 6 and 9. **Customers who buy diapers also buy beer**.
+
+&amp;#x200B;
+
+https://preview.redd.it/syeee0ym4rs41.png?width=1081&amp;format=png&amp;auto=webp&amp;s=80befea480ce0ec2391ebfdbed336a776433e30b
+
+But, this insight was like out of the blue completely as these 2 products are completely not connected.  
+***Why would somebody buy beer when they’re buying diapers or why buy diapers when they’re buying beer!!!***  
+So that was the fact we came across in the data and the explanations as fact. **One of the plausible explanations we gave;** In the evenings, when the husband gets home and when they take care of their baby; they sometimes find that they run out of diapers and who has to go pick up the diapers.. well, the husband. The wife sends husband to go pick up the diapers and **while he is picking up the diapers because its already after work hours, he also picks up some beer. Right.**
+
+And this plausible explanation might be logical or not be. This is something you can’t really think of it just by yourself but that comes from the data.
+
+As I’ve highlighted this in my previous [***post***](https://medium.com/@karthik.thandapani/a-beginners-guide-to-understanding-recommendation-system-f6c0054dfb7c?source=friends_link&amp;sk=70c9b7177a1e731b3c742aca26ae22e7), based on certain insights derived from data; a supermarket or retail industry can decide how to arrange products in your shelf **whether you run an e-commerce store to rank &amp; show your products in your virtual shelf or a superstore to put these 2 products to entice people while shopping.**
+
+So there is a lot of interesting marketing tactics that are using based on this data. But the question is; how do you get to this data?
+
+&gt;*You may read :*[*A beginner’s guide to understanding recommendation system*](https://medium.com/@karthik.thandapani/a-beginners-guide-to-understanding-recommendation-system-f6c0054dfb7c?source=friends_link&amp;sk=70c9b7177a1e731b3c742aca26ae22e7)
+
+**And one of the ways to get to it is leveraging analytics use apriori algorithm.**
+
+&amp;#x200B;
+
+https://preview.redd.it/s8omtg1s4rs41.png?width=892&amp;format=png&amp;auto=webp&amp;s=b0c636afa4201f6f81484f1eebd8224e123e7f8e
+
+# Problem Statement
+
+When we go grocery shopping, we often have a standard list of things to buy. Each shopper has a distinctive list, depending on one’s needs and preferences. A housewife might buy healthy ingredients for a family dinner, while a bachelor might buy beer and chips. Understanding these buying patterns can help to increase sales in several ways. If there is a pair of items, X and Y, that are frequently bought together:  
+*Both X and Y can be placed on the same shelf, so that buyers of one item would be prompted to buy the other.*  
+*Promotional discounts could be applied to just one out of the two items.*  
+*Advertisements on X could be targeted at buyers who purchase Y.*  
+*X and Y could be combined into a new product, such as having Y in flavors of X.*
+
+Association rules are “if-then rules” with two measures which quantify the support and confidence of the rule for a given data set. Having their origin in market basket analysis, association rules are now one of the most popular tools in data mining. This popularity is to a large part due to the availability of efficient algorithms. The first and arguably most influential algorithm for efficient association rule discovery is Apriori.
+
+**Besides increasing sales profits, association rules can also be used in other fields. In medical diagnosis for instance, understanding which symptoms tend to co-morbid can help to improve patient care and medicine prescription.**  
+Folks from healthcare industry, are you reading this ?
+
+# Definition
+
+Association rules analysis is a technique to uncover how items are associated to each other. There are three common ways to measure association.
+
+1. **Support:**  
+This says how popular an itemset is, as measured by the proportion of transactions in which an itemset appears. In Table 1 below, the support of {apple} is 4 out of 8, or 50%. Itemsets can also contain multiple items. For instance, the support of {apple, beer, rice} is 2 out of 8, or 25%.
+
+&amp;#x200B;
+
+[image KD nuggets](https://preview.redd.it/ecsl15nw4rs41.png?width=503&amp;format=png&amp;auto=webp&amp;s=5310d5b9c688b944b938d8dbbef0029167781157)
+
+2. **2. Confidence:**  
+This will highlight how likely item Y is purchased when item X is purchased, expressed as {X -&gt; Y}. This is measured by the proportion of transactions with item X, in which item Y also appears. In diagram below, the confidence of {apple -&gt; beer} is 3 out of 4, or 75%.
+
+&amp;#x200B;
+
+https://preview.redd.it/3h2hccty4rs41.png?width=527&amp;format=png&amp;auto=webp&amp;s=d295d99297f9b7e0f21c17062d3c4b53a1f63e43
+
+**3. Lift:**  
+Table below how likely item Y is purchased when item X is purchased, while controlling for how popular item Y is. In diagram below, the lift of {apple -&gt; beer} is 1,which implies no association between items. A lift value greater than 1 means that item Y is likely to be bought if item X is bought, while a value less than 1 means that item Y is unlikely to be bought if item X is bought.
+
+&amp;#x200B;
+
+https://preview.redd.it/ko7fjsg35rs41.png?width=566&amp;format=png&amp;auto=webp&amp;s=50b3cdf0cb7497a5043dcbe689c40a61c0096db6
+
+**Association Rule Mining**  
+Now that we understand how to quantify the importance of association of products within an itemset, the next step is to generate rules from the entire list of items and identify the most important ones. This is not as simple as it might sound. Supermarkets will have hundred of thousands of different products in store. After some simple calculations, it can be shown that just 10 products will lead to 57000 rules!! And this number increases exponentially with the increase in number of items.  
+Finding lift values for each of these will get computationally very very expensive. How to deal with this problem? How to come up with a set of most important association rules to be considered? Apriori algorithm comes to our rescue for this.
+
+**Lets build an efficient recommendation system in R studio**
+
+1. Load data
+2. Install apriori
+3. Data pre-processing | Decode sparse matrix | Plot
+4. Train &amp; Test
+5. Visualize
+
+In this example, we will work on a sample dataset from a grocery store, understand the business problem, and ways to optimize the sales using apriori algorithm leveraging machine learning.
+
+Link to full article is [here](https://medium.com/@karthik.thandapani/build-an-efficient-recommendation-system-in-r-using-apriori-98ae21d4433a).
+
+&amp;#x200B;
+
+[https:\/\/github.com\/thecodemasterk\/download\_apriori](https://preview.redd.it/fd8882u95rs41.png?width=467&amp;format=png&amp;auto=webp&amp;s=20474b9ec1e57e654517cfc6a703b1703f2cb45c)",Build an efficient recommendation system in R using apriori. Code included (both R &amp; Python),1586856510
+datascience,,"More fun with NumPy, CuPy, Clojure and GPU acceleration. Hold my Cider 2!",1586854325
+datascience,[removed],Is there anything like the Insight DS Fellows Program in UK or Europe?,1586853179
+datascience,,applied statistics in marketing - jobs/firms/industries?,1586846808
+datascience,,What Can COVID-19 Forecasters Learn from Pascal’s Wager,1586842714
+datascience,[removed],A primer guide to tree-based ML methods,1586841754
+datascience,[removed],5 Different Types of Data Science Jobs for Freshers,1586840163
+datascience,[removed],data science + signal processing career path,1586837619
+datascience,[removed],Udacity Become a Machine Learning Engineer,1586836935
+datascience,[removed],Normalize data,1586835414
+datascience,[removed],I need a full list of profanity for Portuguese and German,1586829212
+datascience,[removed],Looking for guidance on best academic choices,1586826591
+datascience,[removed],Question about terminology,1586826184
+datascience,[removed],Online master programs in Data Science,1586825387
+datascience,,Maybe someone in here could answer this question?,1586822877
+datascience,,Top 15 Most Subscribed Youtube Channels (2011-2020),1586822350
+datascience,[removed],Starting out in Data Science as a Political Scientist?,1586819710
+datascience,[removed],Is there a prestigious award or recognition body for data scientists?,1586818504
+datascience,[removed],Established Team or Wild West?,1586817747
+datascience,[removed],Graduating in six months with a BS in business,1586814784
+datascience,[removed],Gotten the same feedback twice now for job interviews. Advice?,1586812739
+datascience,,How far back can you go back with the Twitter API,1586812000
+datascience,,Predicting the spread of coronavirus,1586810028
+datascience,[removed],Webinar: How are top data teams making the move to remote?,1586810016
+datascience,,Advice for a newbie.,1586807678
+datascience,[deleted],Main problems and challenges of machine learning,1586806949
+datascience,[removed],Good book for learning R/Python/SQL? (+ seeking for guidance),1586804092
+datascience,"Have you experienced more difficulties in getting a job?  Less openings?
+
+What is your advice for someone looking for a junior position in this climate? Is 3 month a realistic timeline for getting an offer?
+
+&amp;#x200B;
+
+Thanks",How has COVID-19 affected the job market for data science so far?,1586801893
+datascience,[removed],LeetCode Similar for Datascience,1586799143
+datascience,[removed],Downloading satellite data?,1586798561
+datascience,"Currently, i'm tracking all my machine learning experiments by logging the parameters and the evaluation metrics. I now have a need for a more dynamic solution to track workflows and experimentations. I found Kubeflow which seems to be great at first glance, but I wanted to ask what the community uses to track machine learning experimentations?",Machine Learning Workflows Solutions,1586798266
+datascience,,"Being the Only Data Scientist in the Company: The Good, the Bad and the Unexpected",1586798073
+datascience,[removed],Weibull for customer payment,1586796454
+datascience,,Introduction to XGBoost with an Implementation in an iOS Application,1586795505
+datascience,,Why is a Master's degree so important when it comes to Data Science jobs?,1586791846
+datascience,,Where to find good starting/relevant remote jobs for someone still in college?,1586791843
+datascience,[removed],perspective of a person without a degree,1586791629
+datascience,[removed],What can I do with meteorological data?,1586791313
+datascience,[removed],"Data Analyst Job Change, looking for remote flexible options",1586790386
+datascience,[removed],Ideas for HPV Project?,1586789768
+datascience,,"Combining Data in Pandas With merge(), .join(), and concat() – Real Python",1586789661
+datascience,,What is Hadoop? A brief introduction to the open source big data software library.,1586789291
+datascience,[removed],Silly Question / Remote Work,1586788269
+datascience,[removed],Predicting the next numbers from 00 - 100 from 4000 numbers.,1586787416
+datascience,[removed],Multiple correspondence analysis by prince in Python: TypeError: object() takes no parameters,1586786349
+datascience,[removed],How much should I know the implementation details of an Algorithm in the world of Data science?,1586785510
+datascience,,Numpy,1586784380
+datascience,"This may not be a super structured post, but I just want to get something off my chest: I'm 24 years old, and around 6 months ago I joined as a data scientist at a consulting firm (for people who care, MBB) and I am extremely uncomfortable in my position. I simply feel like I don't know enough, and that I never will.. At the same time, I find the work very rewarding and technically interesting, and I definitely want to stay in the field. This leads to the realization that if I am to stay in the field, I should find ways to deal with this discomfort. Maybe you guys can help me..
+
+I have a background in aerospace engineering, and got into the field by basically doing self study (understanding the math behind most basic algorithms, applying them to Kaggle problems, and getting as good as possible in Python). I interned as a data scientist where I basically did nothing academic (sort of a real-life Kaggle competition to be honest), and through some luck ended up in the position I am in now.
+
+Fueled by imposter syndrome, I tend to spend most of my free time (weekends mainly) doing self study and trying to learn more. I am not doing this because I **have** to, I am genuinely interested in the field. However, it feels like there is so much to learn and it is starting to get to me.
+
+To give some context, I have never done anything related to neural networks. I kind of know how it works on a high level and I know what backpropagation is and the math behind it, but I have never actually coded up any sort of deep learning model. I am definitely not comfortable in using it in my daily work.
+
+I also don't know anything about Bayesian statistics. I have spent the last week or so going through numerous sources and am now comfortable with the idea of priors, likelihood functions, how to update the posterior, and various ways of finding the posterior (grid approximation/quadrature/MCMC). But again, I have never actually used it so I don't feel like I actually am capable of using it in my day-to-day work.
+
+Just today I learned about the existence of Generalized Linear Models, and it is as if suddenly I am confronted with yet another beast which I had no idea existed. But guess what: if I truly want to be a good at what I do and be a master in my field, I have to learn this as well. And at this point, I don't even really know what it means.
+
+I guess my general question is: how do you guys deal with this situation? There are seemingly infinite things to learn about, and then each of those things can be learned to an arbitrary level of detail. How do you pick what to learn/focus on, and how do you decide that ""enough is enough?"".
+
+Also, how do you decide if something you learned off-the-job is useful in your daily work? Having conceptual understanding is one thing, but actually applying it requires quite a leap of faith in knowing what you know.",Uncomfortable as data scientist: looking for guidance,1586783915
+datascience,[removed],Do you use Colab and are annoyed by the 12-hour timeout? I made a better Keras ModelCheckpoint that also auto-recovers the last epoch number and training history,1586783551
+datascience,"While I've found myself using Python *extensively* for all kinds of Data Cleaning, machine learning, and a number of other more software engineering-related things, visualization is one thing I find myself resorting to much easier options for. 
+
+Beyond very elementary data visualization during EDA stages that serves just to paint a clearer picture in my mind of what a physical representation of my data might look like, I'm pretty stumped as to what more matplotlib offers. Does it really bring something to the table that not only makes it worth the trouble of trying to learn it properly despite its unintuitive rules, but also makes it superior to other options that are plain easier and less time consuming?
+
+I'm not dense enough to think that people who take the time to get extremely good at it don't have their reasons - I'm just really eager to learn what those are. Just came out of a stackoverflow exchange thinking ""how on EARTH could that dude have known precisely that"", so now left curious as to what the motivating factor is for matplotlib virtuosos.","Been perpetually baffled ever since stepping into the field as to why Matplotlib is considered a staple for DS in Python, beyond very basic EDA. Matplotlib experts - do help shed some light!",1586783077
+datascience,[removed],AI Course recommendation,1586782465
+datascience,[removed],Looking for open source method to create a custom COVID-19 dashboard,1586782001
+datascience,"Data Sci undergraduate here. Dabbled in
+
+\- theory behind modellling - regression &amp; classification, basic NN mathematics
+
+\- SQL Databases
+
+\- Tableau analytics
+
+\- Web Dev (Front End)
+
+\- Software Dev (Telegram bot)
+
+\- Web scrapping
+
+&amp;#x200B;
+
+Supposedly fluent in python, R, Tableau, SQL, Java, Javascript.
+
+&amp;#x200B;
+
+However, spent 4 weeks working on math for a few classes. Yesterday, when I popped open jupyter for some analysis, felt like i forget everything, had to google subsetting data, how .apply() works and stuff.
+
+Did webscrap 1/2 ago and I almost have no memory of it, asides from knowing I gotta work from BS4/selenium. 
+
+&amp;#x200B;
+
+Any advice?",How do you deal with forgetting?,1586780017
+datascience,,How NASA could have prevented a $200m crash with Julia's type system,1586775108
+datascience,,Data Science for Managers,1586774737
+datascience,,The Rise of Data Science,1586774327
+datascience,[removed],Importance of data structures and algorithms,1586768457
+datascience,[removed],"Interviewing for big companies - FAANG (Facebook, Amazon, Apple, Netflix, Google) or related",1586768355
+datascience,[removed],[Discussion] How should someone ask a professor for a recommendation letter?,1586767797
+datascience,,Optimisation with Python and Dask: 3 quick wins to speed up your data processing,1586766893
+datascience,,[P] Jupyter Notifier: A Browser Extension That Notifies You When Code Cells In Your Jupyter Notebook Terminate,1586764295
+datascience,[removed],HOW IS DATA SCIENCE TRANSFORMING THE BUSINESS LANDSCAPE?,1586758625
+datascience,[deleted],Using NeuroEvolution Technique AI Learns to Play Flappy Bird,1586753005
+datascience,[removed],How important would an MS in Statistics be in this industry?,1586749860
+datascience,[removed],What do data scientists do?,1586744850
+datascience,[removed],Basemap - Frequency of Use?,1586740170
+datascience,[removed],FREE Data Science Virtual Summit,1586740110

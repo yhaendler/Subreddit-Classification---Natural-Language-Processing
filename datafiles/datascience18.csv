@@ -1,0 +1,594 @@
+subreddit,selftext,title,created_utc
+datascience,"Hi all I’m a recent bs grad, job searching for a data analytics/science position in New York. But I’ve been having trouble looking for one. Virus thing doesn’t help but gives me time I guess.
+
+Background:
+Industrial engineering w minor in econs 
+Wasn’t mature enough for college so I scraped through
+Now I wanna do something about it.
+I know basic sql, r, tableau, excel and now working on python. 
+Took 1 C course during a sem in college. 
+Never had a data internship (it’s all a ripple effect) have been close to getting a job twice out of hundreds of applications, but that I know is due to my incompetence in the subject matter. 
+
+Currently I have been trying to do some home studying to better my beginner understanding in the subject by doing the codeacademy data science course and working on a textbook called thinking in python 2e. 
+
+Hence, I’m looking for a mentor/meetups in the city that could help guide me and teach me the foundation of learning the subject and gaining my own independence as well as learning to equip myself with the necessary knowledge and strategies on nailing job interviews within this industry.
+
+Thank you for listening, I don’t expect anything but I just thought Id take the fullest opportunity that reddit has to offer as a positive platform for good and for expressing my thoughts. 
+
+PS: I’m not opposed to grad school. But even then I recognize that I need to build myself to a credible ability first. Which I’m not quite sure I know how to.",Looking for a mentor,1585093979
+datascience,,"Why is ML,DL,AI so hyped, have they actually solved anything big enough?",1585090336
+datascience," 
+
+Is it true that you should set the y-intercept to 0 before doing linear regression if you absolutely know y = 0 when x = 0 ?
+
+As explained in this video: [https://youtu.be/Rb8MnMEJTI4?t=278](https://youtu.be/Rb8MnMEJTI4?t=278)",Should you set the intercept before doing linear regression?,1585087045
+datascience,[removed],Dissertation / Thesis idea required for MSc Data Analytics,1585083597
+datascience,"Just curious on why most of the articles/guides go on Medium and not their personal blogs or even GitHub pages. Medium is good but seem to be a paywalled annoyance, similar to the news websites.",Why are most of the data science articles on Medium?,1585079925
+datascience,"So I'm going to university and will either be doing a CS degree with a math minor or a Data Science degree with a math minor. I understand the fundamental differences between data science (mathematical models, analyzing data, predictions etc) and more traditional software engineering. Both sound interesting, and I'm not really sure which one of these I want to be working with in my future career.
+
+I'm not really sure how to build and structure my education plan. The math minor will definitely help me on either ""path""/area. What is the general consensus: is it easier to self-study software engineering principles later on and get a related job that way, or is focusing on that in uni and later on self-studying data science and stats principles easier? My initial guess is that it would be better for me to take the data science + math combo in uni and later on learn about swe/developer ""stuff"", but maybe I'm wrong here?  
+
+
+The ""traditional CS"" curriculum is more SWE-focused, with software projects and related theory, while the data science curriculum contains more stats and ""data courses"".
+
+&amp;#x200B;
+
+Any opinions / help is greatly appreciated!","Not sure which ""path"" to take here.",1585078951
+datascience,"I'm starting to learn data science and started with the IBM data science course on Coursera. However that does not include mathematics involved in data science and seems more of a marketing technique for IBM product. I would like to ask you guys for a couple of recommendations. 
+1. Please recommend a beginner course on mathematics for data science.
+2. Entry level course into data science, similar to the IBM data science course. 
+I'm very new to this field and so open to any suggestions as well. 
+Thanks :)",Recommendation please!,1585078170
+datascience,,All SAS e-learning is free for 30 days including the Data Science Academy,1585071834
+datascience,"Probably going to be one of the more unorthodox threads to come up here!
+
+But I went from using a single monitor to dual monitors a couple of months ago and now I'll *never* doubt the influence on your efficiency your work set-up can have!
+
+Curious to hear about anything anyone has to say on this.",Trying to maximize my usage of desk space real estate around me to work more efficiently. What things (e.g. a giant SQL/Python cheat-sheet pasted on the wall infront of you) do you keep in your proximity to improve your work more efficiently.,1585071642
+datascience,"UC Berkeley KPI Dashboard: Updated
+
+https://preview.redd.it/9u34al4hpno41.png?width=2000&amp;format=png&amp;auto=webp&amp;s=08bbf3783f69a75db0c65114138c11924139894c
+
+Link: [https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM\_wk\_11/MOM\_wk\_12](https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM_wk_11/MOM_wk_12)
+
+Combine : Arts  + Viz
+
+Feedback Welcome",KPI Dashboard: UC Berkeley,1585071399
+datascience,"It's one of my schools I'm looking to go to get my masters once my undergraduate is completed next year. I was wondering what scores you got in with (GPA, GRE,) and what your overrall opinion is on the program. Thanks",Anyone here in Northeastern's M.S Data Science Program?,1585071349
+datascience,"1. Problem statement 
+2. Explain the technique you’ve used
+3. Constraints you’ve faced
+4. Tools you’ve loved using (bonus points if you can include libraries too)
+5. Solution
+Include GitHub link if you wish.",Interview question. Explain one interesting machine learning project you’ve worked recently. Focus is on solving real-world problems. And a fun project.,1585071329
+datascience,[removed],Data Scientist- resume feedback,1585070545
+datascience,"Hello experts - I have read about Structural Equation Modeling in grad school, I also seem to understand how it works and what it is used for. Can someone point me to a paper that demonstrates a real life application end to end ? I don't work in academia anymore so an open access or a public link would be really appreciated. Thank you all!",Papers demonstrating application of SEM analysis,1585070350
+datascience,"hello, 
+
+Im interseted in hearing stories about those with no background in data science or computer science becoming data scientists, how did you do it? what made you want to change your career? What were some major challenges you faced? 
+
+Thank you for sharing","self made data scientist, what's your story?",1585069134
+datascience,[removed],Is it too late to snag a summer internship?,1585068621
+datascience,"What do you think??
+
+[View Poll](https://www.reddit.com/poll/fo84cp)","Would you rather have an Analyst on your team who has great Technical Skills (but bad Soft Skills), Great Soft Skills (but bad Technical Skills), or Average at Both?",1585067654
+datascience,,"Translating ""Wash your hands"" into 500 languages",1585067598
+datascience,"Hi guys, I am a bit new to this stuff and looking for some help on how to tackle this problem.
+
+I have a dataset of departments, with clients (and their needs) and staff (and their hours) for each day. I am looking for a way to predict how much (in hours) of each 'type' of staff (likely based on their position in the team), given a set of expected clients and other factors. 
+
+As far as I can tell, to predict the expected hours for every position type, requires a seperate model for every position type. My case is that there a lot of different positions, and potentially a very large amount of models to essentially create one dataset.
+
+What is an efficient way to tackle this? Should I automate modelling for every y is there a better way to think about this problem?",Predict a lot of y's,1585066542
+datascience,,"Imagenet prediction decoder for simpler-labels. Ex: ""French_loaf"" (Keras) -&gt; ""baguette"" (simple)",1585066370
+datascience,,What is this kind of viz called and what tools are used to create it on an interactive map? Does anyone have tutorials or similar examples?,1585061726
+datascience,"Not sure if its been posted before or not.
+
+[https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf](https://365datascience.com/wp-content/uploads/2020/01/Shortcuts-for-Data-Scientists-2020.pdf)","If anyone is really into keyboard shortcuts like I am I just found a guide that has a ton of them for many IDE's. Includes: Python, Tableu, Excel, SQL, R, SAS, SPSS, Matlab &amp; Stata.",1585059303
+datascience,,The quest for the best Hacker News title,1585058983
+datascience,,How Big Data and Data Science work best together? | iunera,1585058850
+datascience,"Dear fellow colleagues, 
+I want to hone my data visualization skills. I searched for courses online but i couldnt find any good course that is specialized in data visualization in R. If you have any recommendations about books or online courses i would be very happy to check them out. 
+
+Thank you all",Any recommendations for learning data visualization in R?,1585058177
+datascience,[removed],Survey on Causal Data Science,1585057403
+datascience,,Blog post I was an editor on explaining usage of data science at my workplace. Any other common approaches to the image optimisation described in the post?,1585052083
+datascience,,"Netflix, Walmart, Uber and More: Big wins with Big Data",1585051207
+datascience,,Production usage of data science at Expedia Group™: How We Optimized Hero Images on Hotels.com using Multi-Armed Bandit Algorithms,1585050628
+datascience,"I am trying to find if  it makes sense that they often happen together: NLP, and data engineering or big data techniques (e.g. Spark, Hadoop, and Scala)
+
+One classic example in Hadoop MapReduce is word count. I guess that doesn't count as NLP.
+
+1. In NLP industrial positions, do natural language data often need data engineering or big data techniques, i.e. do natural language data often come as ""big data""? 
+
+   Internet search engines likely require big data of natural language, but I guess there  are very few Internet search engine positions.  Do most information retrieval positions don't need to worry about big data? How about  other NLP applications.?
+
+2. Natural languages are unstructured data. However, https://www.dataversity.net/natural-language-processing-big-data-powerful-combination/ said in 2014:
+
+  &gt; As developed as big data analytics have become, they still really only excel at managing structured information.
+
+
+  Have big data or data engineering techniques evolve for NLP already? If yes, how well are  NLP aware big data or data engineering techniques received in industry?
+
+
+  Is it more often to convert natural language data to structured data, and then apply big data or data engineering techniques, or to apply  NLP aware big data or data engineering techniques directly to NLP big data?
+
+3. Some other observerations and thoughts?
+
+Thanks.",Big data or data engineering for NLP?,1585048187
+datascience,[removed],Starting out a Data Science series during these trying times to help others grow with me!,1585047247
+datascience,"hey guys!
+
+Had a bit of time and did a project. finetuned hugginface distill-gpt2 transformer on yahoo answers data. It takes a question as an input and generates an answer based on that. Some of them are hilarious some are just straight-up nonsense. Give it a look and let me know what you think: www.answerthis.xyz
+For those wondering the app is stored in Google cloud as the api to the model.",Finetuned distill-gpt2 on yahoo answers data,1585045373
+datascience,"Hi,
+
+I work at a fintech startup that disburses instant loans to low creditworthy customers. This is how the process works.
+
+A potential customer downloads our app and starts a loan application. He/she has to input a few details like kyc documents and loan amount before he/she submits the application. The application is then reviewed by the Operations team and a loan is disbursed based on their credit worthiness. 
+
+Now a lot of users start an application on a daily basis (about 30k) but not all of them submit the application; they are just stuck/dropped off somewhere on the app. This is called a 'draft'. Our startup only has a few agents (around 20) who call these potential customers (Stuck/dropped off from the app) and hence a lot of potential customers are left who could've given us good business.
+
+My idea is to create a model that can determine customers who are more likely to submit an application than others. Using this model, our calling agents can prioritize whom to call and whom to deprioritize the calling. I have customer demographic data as well their app interaction data.
+
+Any help is really appreciated. I need a simple and explainable model.",Determine customer likelihood of loan purchase,1585045235
+datascience,,"Stay Home🏡, Stay Safe ❤️ #Airflow #DAG #CoronaVirus",1585044829
+datascience,"Hi r/datascience,
+
+We created a real-time feature learning method to support predictive queries in our predictive database product. When given a query with features like 'walks like a duck' and 'quacks like a duck', it scans the database for relevant patterns in (one or ten) millisecond scale and replaces the query patterns with high level features (like a duck).  
+
+[https://aito.ai/blog/introducing-concept-learning-to-free-you-from-feature-engineering/](https://aito.ai/blog/introducing-concept-learning-to-free-you-from-feature-engineering/)
+
+There will be separate blog post about the effect on the inference quality. There was significant improvement on decision boundaries &amp; accuracy for some test sets. Still, the biggest effect was that the probability estimates got significantly better, and some special cases are handled now much more graciously.
+
+Any thoughts, questions or opinions?
+
+Regards, Antti &amp; Aito",Real-time feature learning in a predictive database,1585031022
+datascience,[removed],Data Science in Machine Learning,1585029626
+datascience,[removed],Is there any useful performance measure for 'weak' labeled data?,1585024150
+datascience,,Call to Action to the Tech Community on New Machine Readable COVID-19 Dataset | The White House,1585015594
+datascience," 
+
+Hello,
+
+First post on a subject such as this, so please guide me to a different place if needed. I have a situation I could really use some suggestions with. I graduated college with my degree in management information systems and now I got a job as a data intern. I do not have anyone in my company to teach me as i am the first data position this company has had.
+
+What the company does now:
+
+Has forms which internal clients request a job on. These forms store data in SharePoint list data. On the employee side they can continue the form to add other information needed. I have not created a data model yet but I think I may make a relational data model to help with solutions. Right now there is a JobID and a whole bunch of attributes as the data is very flat. An employee has an automatically updating excel file with this data but it takes 40 min to update and it is so impractical to work with due to how unorganized and slow it is.
+
+What I have been thinking:
+
+Set up an azure SQL database and use flows to move the data from SharePoint into SQL and then from there into powerBI. This way I can query useful data way quicker. However the data is still very flat and unstructured and I have not done this before so I am trying to learn. I am looking for suggestions on some sort of data pipeline. I was told the data must stay in SharePoint but I can move it from there. For reference the excel file that is being used has 120,000 cells. I know this isn't that many comparatively but for how unstructured this system is it is very difficult to deal with.",Data help please!,1585008620
+datascience,[removed],Using a bad forecast to make a better one,1585001655
+datascience,"I'm working on a project where I have a bad sales forecast from another company and I have the actual orders that same company sends in. The accruacy of the forecast is about 46%. 
+
+I'll be building a time series model for this but I'm not really sure how to incorporate the forecast into my model. The 46% accuracy is way above the no information rate so it clearly has some signal but it's just a little weird to use a forecast to build a forecast....",Using a bad forecast to make a better one,1585001642
+datascience,[removed],Data Science Career,1584997820
+datascience,,"Is blockchain useful for data engineering, big data and data science?",1584997044
+datascience,"Hello, I’m currently a high school senior who’s going to study Data Science at UCSD starting Fall 2020. I was just wondering if you can share some advice / information on Data Science projects, obtaining internships and/or job opportunities. I’m really interested in DS but I’m afraid that CS majors will have preference when getting jobs. 
+
+Here are some topics that I would appreciate your input on: 
+
+1.) How difficult is it to get a job after college (B.S. in Data Science)? 
+
+2.) Do employers want DS majors to have at least a masters? 
+
+3.) Any personal project suggestions I should start working on to improve/ resume building? 
+
+4.) How did you attempt to stand out with the growing number of CS / DS majors? 
+
+5.) You were most likely in my position a while ago, any general advice? 
+
+Thank you. All advice is appreciated!",Your advice for future data scientists?,1584995159
+datascience,"We’re doing everything we can to make a difference.  ThinkData is building a repository of data on COVID-19 which will be constantly updated and accessible through Namara (free to register).  If you need the data, make use of it. If you are a data provider or can connect us with a source, please reach out. Here's the link to the data repository: [**https://app.namara.io/#/search?query=covid&amp;page=1**](https://app.namara.io/#/search?query=covid&amp;page=1)",COVID-19 DATA REPOSITORY,1584992703
+datascience,[removed],Data Science Career,1584990097
+datascience,Is it possible to apply Data Science to validate the cospiracy theories like COVID19 outbreak being bio weapon ?,Applying Data Science to test conspiracy theories,1584989994
+datascience,,"a.ttent.io/n I wrote a short story about a data scientist who starts stealing and analyzing private data to uncover an underground biohacking conspiracy. The story explores privacy, attention, and the nature of consciousness. See if you can predict the twist... (WARNING: adult themes)",1584988866
+datascience,,"I participated in my First ever ""Data Science competition"" in Analytics Vidhya. There are around 10353 registered candidates. I tried my best and got 1028 Rank Overall with 0.4791 F1 score. The person who is in Number 1 position his F1 score is 0.535.",1584987941
+datascience,"Hi everyone,
+
+Regarding the global crisis, COVID-19, my company as one data consultancy focusing on healthcare professionals online conversation, decides to put all commercial projects aside and therefore we start innovation now. My pitch is to find out those useful and practical experience and mistakes China had got before. I'm Chinese so no trouble to understand Chinese. But I find difficulties in framing questions I would like to answer and collecting enough data ( in this case, I'm thinking to get conversations from popular sites and social media) My aim is to provide some insights from China practically. 
+
+It's quite vague actually, I have to admit. But I would love to hear what you guys are thinking. I really want to contribute some useful things to this situation.
+
+&amp;#x200B;
+
+Thanks",What would you advise in terms of one research on COVID-19?,1584985060
+datascience,"Hi guys,
+
+So over a couple of years I’ve been interested in data science but never took anything to learn it. Quite frankly I was waiting for some courses near me but nothing popped up. I was thinking on learning it on my own. But I have no experience in programming of any kind. So, I have the will to learn it but don’t know where to start.
+
+I was hoping if any of you have any recommendations for us newcomers, some free courses or books something like that? 
+
+Thank you and be safe.",Learning data science,1584984276
+datascience,[removed],"Data Science Employment in Denver, CO",1584982842
+datascience,"I am starting a new lab this fall at Florida International University (FIU). Our lab will focus on **understanding the neurocognitive processes that allow for the emergence of cognitive control** (how the human brain/mind monitors and adapts itself overtime to achieve task goals). Moreover, we will seek to understand how this system develops across adolescence, and relations to social behavior and social anxiety. Towards this end, methods that I currently employ, include: (single-trial) ERP analyses, time-frequency analyses of EEG (power and phase relations), source-localization of EEG, traditional fMRI approaches (GLM-based), and basic computational modeling (drift-diffusion models). Our lab is currently purchasing a high-density EEG system and FIU houses an fMRI scanner.
+
+I am **seeking collaborators** that may or may not currently work in the fields of psychology or neuroscience, but that have at least some **expertise in one or more of the following domains: data science, advanced signal processing, machine learning, computational modeling, graph-theoretic/network analysis.** *I am most interested in finding collaborators that can help generate the best science; location, status, affiliation, or degrees earned are not important.* I also intend to take on at least one PhD student this fall and welcome responses from prospective students.
+
+The scientific goal of this collaboration will be to combine skillsets in order to test novel hypotheses regarding the human cognitive control system, its developmental trajectory across adolescence, and relations to social behavior and social anxiety. At a practical level, we would seek to produce high-impact publications and to generate pilot data for pursuing collaborative grant proposals. **Depending on the situation, initial funding may be available for potential collaborators, consultants, or contractors.**
+
+For examples of recent studies that will inform the work in our lab, please refer to the following publications:
+
+[https://www.sciencedirect.com/science/article/abs/pii/S1053811919303696](https://www.researchgate.net/deref/https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS1053811919303696)
+
+[Adolescent Cognitive Control and Mediofrontal Theta Oscillat...](https://www.researchgate.net/publication/339927980_Adolescent_Cognitive_Control_and_Mediofrontal_Theta_Oscillations_Are_Disrupted_by_Neglect_Associations_with_Transdiagnostic_Risk_for_Psychopathology_in_a_Randomized_Controlled_Trial)
+
+[https://www.sciencedirect.com/science/article/abs/pii/S1053811917304445](https://www.researchgate.net/deref/https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS1053811917304445)
+
+[https://www.jneurosci.org/content/37/11/2895.abstract](https://www.researchgate.net/deref/https%3A%2F%2Fwww.jneurosci.org%2Fcontent%2F37%2F11%2F2895.abstract)","Seeking collaborators with expertise in: data science, advanced signal processing, machine learning, computational modeling, graph-theoretic/network analysis",1584982501
+datascience,"UC Berkley KPI Dashboard.
+
+Link: [https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM\_wk\_11/MOM\_wk\_12](https://public.tableau.com/profile/shah.pankaj#!/vizhome/MOM_wk_11/MOM_wk_12)
+
+Feedback Welcome.",UC Berkley KPI Dashboard,1584980291
+datascience,,How to communicate data using tables and graphs,1584979348
+datascience,[removed],"Need help with Python Plotly visualizations, specifically hovertext templates for a graph.",1584978667
+datascience,"Hi, I'm a student 2nd class in Computer Science. This is my first project using Kaggle in Titanic Competition. This is not a final project, I will continue on this. Please leave your any thoughts about it. No matter it is positive or negative, I just want to hear.
+
+[https://www.kaggle.com/erhanyumer/erhan-yumer-titanic-eda](https://www.kaggle.com/erhanyumer/erhan-yumer-titanic-eda)",Your thought about a beginner's first project,1584976685
+datascience,Anyone know if there is a public list of hospital addresses in the USA?,HOSPITAL ADDRESSES,1584976408
+datascience,,New D-Tale (free pandas visualizer) features released! Easily slice your dataframes with Interactive Column Filtering,1584976180
+datascience,"I'm working on a project that involves using Knime to write data from another file into access. I can get it connected but can't figure out how to get it to write the data. I'm new to Knime. Not sure if it's the best thing from my project yet, but I have to try it and present it. Any ideas?",Knime to Access question,1584974551
+datascience,"Hello,
+
+&amp;#x200B;
+
+So i tried to normalize OHLC data to fit in the range of \[0,1\]. The original data i have looks like this:
+
+[OHLC + Ema data of Bitcoin](https://preview.redd.it/q8pxptbuofo41.png?width=1680&amp;format=png&amp;auto=webp&amp;s=ae41ee8d76a587936c8dbe5dcda1e7bacb6c0134)
+
+&amp;#x200B;
+
+So i thought, since the revelancy of thousands don't matter ""that much"" if you wanna read it in the moment to just scale it per thousand, with this code:
+
+&amp;#x200B;
+
+    #Frame has OHLC and Ema data in it.
+    Frame[""O""] =   (Frame[""O""] - (((Frame[""O""]//1000)*1000)+1000))/(((Frame[""O""]//1000)*1000) - (((Frame[""O""]//1000)*1000)+1000))
+    Frame[""H""] =   (Frame[""H""] - (((Frame[""H""]//1000)*1000)+1000))/(((Frame[""H""]//1000)*1000) - (((Frame[""H""]//1000)*1000)+1000))
+    Frame[""L""] =   (Frame[""L""] - (((Frame[""L""]//1000)*1000)+1000))/(((Frame[""L""]//1000)*1000) - (((Frame[""L""]//1000)*1000)+1000)) 
+    Frame[""C""] =   (Frame[""C""] - (((Frame[""C""]//1000)*1000)+1000))/(((Frame[""C""]//1000)*1000) - (((Frame[""C""]//1000)*1000)+1000))
+    Frame[""Ema""] = (Frame[""Ema""] - (((Frame[""Ema""]//1000)*1000)+1000))/(((Frame[""Ema""]//1000)*1000) - (((Frame[""Ema""]//1000)*1000)+1000))    
+
+[Result after scaling](https://preview.redd.it/y4m1hxv2pfo41.png?width=640&amp;format=png&amp;auto=webp&amp;s=a330497b79e18beef1f2dae100cb4c50a73f7759)
+
+&amp;#x200B;
+
+I can't see anything in it, maybe a computer can. I do think that the essential meaning of the data is lost. Could anyone give more insights and or tips on how to scale this data else?",Normalizing OHLC data with correct scaling. I think it is not correct.,1584974486
+datascience,"Different positions may have different domain knowledge.
+
+I was wondering if studying NLP will open up a wide range of opportunities? How is NLP compared to other domains, in terms of amount of job opportunities?
+
+Thanks.","Will studying NLP open up a wide range of opportunities, compared to other domains?",1584973343
+datascience,,Free Data Science Courses from 365 Data Science until 15 April 2020,1584970468
+datascience,"Hi!
+
+As in the title, what specs do you prioritise when buying a computer for data science? I will be doing data preprocessing and modelling using mostly SVM, MC simulations and tree methods like XGBoost (about 70% in Python, 20% in R and 10% in other). 
+
+My new job requires working with confidential data, so I cannot use cloud (AWS would solve a lot of problems), also  company policy recommends using macOS (both are hard constraints). This leaves me with choosing the optimal MacBook Pro configuration. I will have to haggle with my boss about how much I can spend, so 8-core, 64GB RAM, 8TB SSD storage is not an option. Screen size is not that much important, but 13-inch can have 16GB RAM at maximum.",Invest in CPU or RAM (not deep learning)?,1584969546
+datascience,,Data Science Jobs In New Zealand company name - Social Investment Agency,1584965193
+datascience,"How does one do Data Augmentation for Tabular Data? I am working with a breast cancer dataset that consists of roughly 500 record, I am planning to use one of the following, to model my data: RF, XGBoost, Lasso Regression followed by one of the above.. anyways I have been also told I should look into data Augmentation to improve my model's accuracy how should I do it with my type of data? Is there any state of the art methods to do data Augmentation to tabular data?
+
+Also how do you think of my current pipeline for my model
+
+Feature Selection (Example lasso, elasticnet) -&gt; Data Augmentation -&gt; Model -&gt; Testing
+
+Thanks and if anything I have said didn't make much sense feel free to tell me about it",Data Augmentation for Medical Tabular data,1584962965
+datascience,"&amp;#x200B;
+
+![img](k9u3ncrkneo41)
+
+  
+
+[A global association of data scientists has put out an urgent call:](https://robotwritersai.com/2020/03/23/sos-ai-help-needed-to-defeat-coronavirus/) AI expertise is needed to help defeat the coronavirus.
+
+The specific challenge: AI apps are desperately needed to mine treatment and prevention insights from a database of 29,000 scholarly articles on coronavirus, according to Kaggle, the data association leading the effort.
+
+That database — recently collated by leading research organizations and the Trump Administration — offers a wealth of information on coronavirus.
+
+With the right AI tools, all that data and all those insights could be quickly mined by doctors, scientists and medical pros looking to beat back the virus.
+
+Fortunately, some AI-generated writing tools already exist to make that job easier.
+
+SDL, for example, already has a text summarizer that uses AI to auto-create summaries of lengthy documents.
+
+With SDL’s tool, users simply drop in a lengthy document, and SDL Content Assistant will generate a summary of their text.
+
+Meanwhile, academic publisher Springer Nature has prototype software capable of producing a draft academic book by quickly sifting through hundreds of academic papers.",SOS: AI Help Needed to Defeat Coronavirus,1584961829
+datascience,"Hello community,
+
+&amp;#x200B;
+
+I'm building DataGrab, a web scraping service that aims to make data extraction easy (but still flexible) from a variety of web pages.
+
+I just got out a first working version; it's on: [https://datagrab.io](https://datagrab.io)
+
+I'm looking for beta testers (whom I prefer to call collaborators) willing use it in some real-world scenarios. It's completely free at this point; all I'm asking for in exchange is detailed feedback so I could make it better.
+
+The app currently has the following features:
+
+* Visual job setup (no coding needed)
+* Two field types: text and date/time
+* Pagination
+* Incremental scraping (extracting only new data on each run, e.g. new reviews of a product, new comments on a post)
+* Scheduling
+* Export in CSV, Excel or JSON formats
+* Automatic data delivery via email
+* Data preview before submitting the job
+
+Sounds good? Sign up and give it a shot!
+
+&amp;#x200B;
+
+Thanks,  
+Robert",DataGrab - Web scraping service - Beta Launched!,1584960193
+datascience,"I'm sharing some thoughts and experiments on the PCA analysis, specifically on the number of components one should analyse (or retain for prediction). This includes two less popular (or maybe original?) approaches based on comparison of loadings/eigenvectors and scores in cross-validation. Still not sure if it is worth a dedicated Python package publication. Curious about your comments!
+
+Towards data science article: [Notes on the number of components in PCA: R², Q² &amp; eigenvectors similarity](https://towardsdatascience.com/notes-on-the-number-of-components-in-pca-r%C2%B2-q%C2%B2-eigenvectors-similarity-60a19b2f671a)
+
+Code on GitHub: [Loadings\_similarity.ipynb](https://github.com/krassowski/loadings-similarity/blob/master/Loadings_similarity.ipynb) ([repo](https://github.com/krassowski/loadings-similarity), friends link in the readme)","Notes on the number of components in PCA: R², Q² &amp; eigenvectors similarity",1584958556
+datascience,,Effects of Weight Initialization on Neural Networks,1584958535
+datascience,,Beginner project for SQL. This is a simple python script to scrape stock prices off NASDAQ API and feed it to MySQL.,1584956490
+datascience,"I'm trying to build a **simple book recommendation system**, where I don't have any kind of ratings (no comments, no likes, no 1-5 stars, ...).
+
+The information I can use is the following:
+
+* **Book metadata**  :  title, author, published date, model (printed or ebook), genres (one or more).
+* **Username**.
+* **Type** : category of interaction made by a user, it can be '*order*' (if the user ordered the book) or '*access*' (if the user just checked the book).
+* **Number** : if '*type*' = '*access*' then this parameter indicates the number of times the user accessed the book.
+
+So I have a DataFrame that looks something like this:
+
+|number|type|username|product|model|price|publishing\_dt|genres|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|6|access|kerrigan|2345|printedbook|12.99|2020-02-01|fantasy, kids, family|
+|4|access|kerrigan|897|printedbook|14.95|2019-03-05|fantasy, adventure|
+|1|order|45michael|86833|ebook|5.60|2020-02-04|action, war|
+|1|order|kerrigan|86833|ebook|5.60|2020-02-04|action, war|
+
+My goal is to **develop a KNN system** to make book recommendations and I can have two types of classifications:
+
+1. **Item-based** : similarity between books (by genre and author).
+2. **User-based** : similarity between users. Take each user purchases and compare them to other users to find similarities so if *userA* bought *book1*, *book2* and *book3* and *userB* bought *book1*, *book2* and *book4* you can assume that *book3* is a good recommendation for *userB*.
+
+But my doubt here is if I can develop a KNN system **combining** both technics, so depending on the data I input to it, it decides which solution is the better one.
+
+Is this possible? Can someone point me in a good direction or send me some good tutorials?
+
+I'm working on python3.",Combine features in Machine Learning,1584954336
+datascience,"Question: Is Data Science more fore math students than CS? (A ""map"" of the technical skills or branches of data science with also be much help)
+
+Background: Hi there, I am a student in CS and Data Science really caught my attention. I'm in my 1st year at university so the only things related to it were Python, SQL and Linear Algebra. Based on what I researched on the internet, it seems that data scientist focus more on cleaning the data and preparing it to be analyzed. It sounds great for me, I would see myself doing it for the vast majority of time, but there's one thing that I am not confident about: math. My math skill is not nearly as polished as a math undergrad. So my question is how much math is required in DS? Is my degree in CS going to provide me with enough mathematical background for this field?(there's also a masters in DS at my uni that I am planning to pursue). If you made it this far reading my post, thank you, and I am sorry if I bored you with generic questions.",Clarification needed on Data Science,1584953027
+datascience,,"Optimization : simply do more with less, zoo, buses and kids (Part2, python, java, C++…)",1584952964
+datascience,[removed],Why you should NOT use MS MARCO to evaluate semantic search,1584952549
+datascience,[removed],New YouTube Channel For Applied Machine Learning &amp; Data Science,1584952157
+datascience,,10 Open Datasets for Linear Regression,1584949825
+datascience,"Covid-19 has caused the economy to take a nosedive and it doesnt seem to be getting anybetter, at least not within the next 3 months.
+
+Im curious as to what everyone thoughts are for data science jobs and how they will be affected in a possible recession?",How will a recession effect data science jobs?,1584946197
+datascience,[removed],Dell EMC Data Science Certification That Will Pay Off,1584942806
+datascience,"""I will be grateful for any help you can provide.""",what are the various kinds of programming concepts used in data science ?,1584938886
+datascience,Not sure if this has been asked here before but I believe every little bit helps.,What can we as a community to do help fight the COVID-19?,1584936684
+datascience,"I'm currently trying to figure out how open source licenses work especially in the context of open source data science tools in Python, and from what I've read, the GPL-3.0 license is supposed to be a copyleft license where derivative works would also have to be under the same license (or similar).  
+
+However, I think I found an exception to this and I don't know if it's because of me misinterpreting the license or if it's an error on the library creators' side?  
+
+[Pystan](https://github.com/stan-dev/pystan) is under the GPL-3.0 license, so I would think that any open source package that uses it would also need to be under the same license. However, [fbprophet](https://github.com/facebook/prophet) in Python uses Pystan and is under the less restrictive MIT license. Can someone clear this up for me so I can understand why this is the case?
+
+Thanks.",How do open source licenses work? (Specifically GPL-3.0 and MIT),1584935120
+datascience,"If you want to, check it out below:
+
+[https://www.udemy.com/course/create-smart-maps-in-python-and-leaflet/?referralCode=4C1B6A9A84779984DF62](https://www.udemy.com/course/create-smart-maps-in-python-and-leaflet/?referralCode=4C1B6A9A84779984DF62)
+
+https://preview.redd.it/w27pbfypdco41.jpg?width=2496&amp;format=pjpg&amp;auto=webp&amp;s=3072272588709822ccce18b5a964d06cd610fc39",Create Smart Maps In Python and Leaflet,1584934286
+datascience,"When you're fitting a linear regression, how do you decide which terms to include in the regression? As the number of variables increases, the number of possible interaction terms and polynomial terms increases exponentially, so how do you decide which ones to include which guarding against overfitting?",How to decide which terms to include in a linear regression?,1584933027
+datascience,[removed],Data Science Job Possibility,1584928739
+datascience,"Hi.
+
+I was tasked with creating an A.I. which needs to classify some text ( web articles and tweets ) in two dialects. The problem is that all the train data is from web articles and none from tweets. The training data contains samples of both dialects.
+
+I don't know what should I do to get more relevant data. For the moment I'm using td-idf vectors. I stemmed the input data for the specific language of the dialects and used a ComplementNB() as a model and I got \~64% on the test data ( tweets and web, I don't have the test data but it was done online ). I have also performed a grid search for the normalization parameter.
+
+I need to recognize the dialect, but the i assume the gender is also important (web articles and tweets)
+
+Could someone please give me some indications ?",[D] Model need to learn a different gender from the train data,1584928446
+datascience,"I made a video comparing several intuitive forecasting methods, compared them using a local implementation of WRMSSE, and submitted submission.csv from the Kaggle kernel. If anyone's interested link to the video is here: https://youtu.be/HnLiVutur8A
+
+And link to the Notebook where the code is stored: https://www.kaggle.com/qcw171717/other-naive-forecasts-submission-score
+
+Overall, I am pretty surprised by how these simple methods are not terrible, one of them actually does pretty decent for a first attempt. I think I'll start trying an ML model once I figure out a way to get around this memory problem..",Kaggle M5 forecasting competition,1584927608
+datascience,"At SkoolMentor we are looking for a data scientist who can mentor high school/undergrad students remotely and help them complete a 8-10 week project related to business analytics/solving business problems using AI/ML. The mentor will meet with the mentees once a week on Skype (or other online meeting platform) and guide them on how to move forward with their project. The project will be in your area of expertise.
+
+Please check the opportunities that we already have mentors for here:
+
+   [https://www.SkoolMentor.com/student/opportunities](https://www.SkoolMentor.com/student/opportunities)
+
+Our mentors are paid. If you would like to volunteer your time to mentor students, that is welcome too. 
+
+Our mentors tell us that seeing students complete a project under their guidance has been a very rewarding experience for them.
+
+Please contact us asap if interested by emailing your resume at [support@skoolmentor.com](mailto:support@skoolmentor.com).
+
+&amp;#x200B;
+
+Thanks!",Hiring REMOTE Research data science mentors for high school/undergrad students,1584926406
+datascience,"Hi, so I'm a Statistics student (0 prior work experience, but a lot of CS coursework and stats/data projects) who wants to break into data science, and I have a phone screening for an internship position that involves information retreival for patient clinical records. I don't have any prior experience in IR (have worked with NLP models though) and wanted to do a small side project before I talk to them in a few days to demonstrate my ability to pick up the skills required and my interest in it. Does anyone more experienced in this field have any suggestions for how I can get started, any ideas, and what tools/frameworks I should consider using? I'm most comfortable with Python and C++ but willing to use any language that gets the job done. Thanks!",Question about Information Retrieval,1584926062
+datascience,"Hello all,
+
+I hope y'all are well and fine.
+
+I told my girlfriend that I would help her with her final project in her **Data Engineering and Mining** class. I need to learn data mining in one night to complete the assignment which is due tomorrow. I need Jupyter and Pandas knowledge, which I don't. Been meaning to learn via Dataquest.io, but haven't had the time :/ I really don't want to fail my girlfriend. I really want to help!
+
+Do you guys have idea on how I can approach this project? Any links to data sources that are new, rich, and/or relevant? It's an online Master of Science course at Harrisburg University with many ESL students, so the expectations may be lower and the grading will be quite merciful.
+
+Here is what the final project is asking (there were several topics I could choose from, so I chose the most simplest one): 
+
+&gt;**Deliverable 1: Choose a dataset/dataframe. Use a source of your choice or one of the data repositories or sources that were discussed in this class to obtain data that you will be mining for your final project.**   
+&gt;  
+&gt;**Describe your data: Write a paragraph or create a table describing your data source, one should consider the following points:**   
+&gt;  
+&gt;**When was the data collected?**   
+&gt;  
+&gt;**Who collected the data?**   
+&gt;  
+&gt;**For what purposes was the data initially collected?**   
+&gt;  
+&gt;**What is the context and content of the data, what dimensions/attributes does it describe?**   
+&gt;  
+&gt;**Does the data have a spatial dimension, latitude and longitude variables?**   
+&gt;  
+&gt;**Does the data have an explicit time variable/dimension??**   
+&gt;  
+&gt;**Describe the shape of your data frame, the number of rows and columns?**   
+&gt;  
+&gt;**Discuss the quality of your data, how complete is it, the proportion of missing observations?**   
+&gt;  
+&gt;**Are there any known sources of errors or biases which were introduced to your data during the collection process which you know of?** 
+
+If you all could help that would be insanely amazing. I am absolutely stumped right now, and don't know where to start!",How do I learn data mining in a day to complete my girlfriend's project?,1584922929
+datascience,"It's no secret that mathematics is the foundation of data science. Here are a selection of courses to help increase your maths skills to excel in data science, machine learning, and beyond.
+
+
+
+By Matthew Mayo, KDnuggets.
+
+
+Are you interested in learning the foundations to a successful data science career? Or are you looking to brush up on your maths, or strengthen your understanding by extending that base?
+
+This is a selection of maths courses, collections of courses, and specializations which are freely available online, and which can help achieve your data science mathematics goals. They have been separated into the broad topics of mathematical foundations, algebra, calculus, statistics &amp; probability, and those especially relevant to data science &amp; machine learning.
+
+Take a look at the list and closer inspect those which may be of interest to you. I hope you find something useful.
+
+ 
+Mathematical Foundations
+
+These courses are intended to help lay the foundation for learning more advanced maths, as well as foster the development of mathematical thinking. Descriptions come directly from the respective course websites.
+
+Introduction to Logic, Stanford (course)
+This course is an introduction to Logic from a computational perspective. It shows how to encode information in the form of logical sentences; it shows how to reason with information in this form; and it provides an overview of logic technology and its applications - in mathematics, science, engineering, business, law, and so forth.
+
+Introduction to Mathematical Thinking, Stanford (course)
+Professional mathematicians think a certain way to solve real problems, problems that can arise from the everyday world, or from science, or from within mathematics itself. The key to success in school math is to learn to think inside-the-box. In contrast, a key feature of mathematical thinking is thinking outside-the-box – a valuable ability in today’s world. This course helps to develop that crucial way of thinking.
+
+High School Mathematics, MIT (collection of courses)
+In this section we have provided a collection of mathematics courses and resources from across MIT. Some are materials that were used to teach MIT undergraduates, while others were designed specifically for high school students.
+
+ 
+Algebra
+
+These algebra courses run the gamut from introductory algebra to linear models and matrix algebra. Algebra is helpful in computation and data science generally, and encompasses some of the main concepts in powering some machine learning algorithms, including neural networks. Descriptions come directly from the respective course websites.
+
+Algebra I, Khan Academy (course)
+Course covers algebra foundations, solving equations &amp; inequalities, working with units, linear equations &amp; graphs, forms of linear equations, systems of equations, inequalities (systems &amp; graphs), functions, sequences, absolute value &amp; piecewise functions, exponents &amp; radicals, exponential growth &amp; decay, quadratics (multiplying &amp; factoring), quadratic functions &amp; equations, irrational numbers.
+
+Algebra II, Khan Academy (course)
+Course covers polynomial arithmetic, complex numbers, polynomial factorization, polynomial division, polynomial graphs, rational exponents &amp; radicals, exponential models, logarithms, transformations of functions, equations, trigonometry, modeling, rational functions.
+
+Linear Algebra, MIT (course)
+This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+
+Linear Algebra - Foundations to Frontiers, University of Texas at Austin (course)
+Through short videos, exercises, visualizations, and programming assignments, you will study Vector and Matrix Operations, Linear Transformations, Solving Systems of Equations, Vector Spaces, Linear Least-Squares, and Eigenvalues and Eigenvectors. In addition, you will get a glimpse of cutting edge research on the development of linear algebra libraries, which are used throughout computational science.
+
+Introduction to Linear Models and Matrix Algebra, Harvard (course)
+In this introductory online course in data analysis, we will use matrix algebra to represent the linear models that commonly used to model differences between experimental units. We perform statistical inference on these differences. Throughout the course we will use the R programming language to perform matrix operations.
+
+ 
+Calculus
+
+These calculus courses cover topics from preparatory precalculus through to differentiation, integration, to multivariate calculus and differential equations. Calculus has broad uses, generally, and contains core concepts which power neural networks work. Descriptions come directly from the respective course websites.
+
+Precalculus, Khan Academy (course)
+Course covers complex numbers, polynomials, composite functions, trigonometry, vectors, matrices, series, conic sections, probability and combinatorics.
+
+Calculus 1, Khan Academy (course)
+Course covers limits and continuity, derivatives: definitions and basic rules, derivatives: chain rule and other advanced topics, applications of derivatives, analyzing functions, integrals, differential equations, applications of integrals.
+
+Calculus 2, Khan Academy (course)
+Course covers integrals review, integration techniques, differential equations, applications of integrals, parametric equations, polar coordinates, and vector-valued functions, series.
+
+Multivariable calculus, Khan Academy (course)
+Course covers thinking about multivariate functions, derivatives of multivariate functions, applications of multivariate derivatives, integrating multivariate functions, Green's, Stokes', and the divergence theorems.
+
+Differential equations, Khan Academy (course)
+Course covers first order differential equations, second order differential equations, Laplace transform.
+
+Introduction to Calculus, University of Sydney (course)
+The focus and themes of the Introduction to Calculus course address the most important foundations for applications of mathematics in science, engineering and commerce. The course emphasises the key ideas and historical motivation for calculus, while at the same time striking a balance between theory and application, leading to a mastery of key threshold concepts in foundational mathematics.
+
+ 
+Statistics &amp; Probability
+
+Statistics and probability are the foundations of data science, more so than any other family of mathematical concepts. These courses will help prepare you to look at data through the statistical lens and with a critical probabilistic eye. Descriptions come directly from the respective course websites.
+
+Statistics and probability, Khan Academy (course)
+Course covers analyzing categorical data, displaying and comparing quantitative data, summarizing quantitative data, modeling data distributions, exploring bivariate numerical data, study design, probability, counting, permutations, and combinations, random variables, sampling distributions, confidence intervals, significance tests, two-sample inference for the difference between groups, inference for categorical data, advanced regression, analysis of variance
+
+Fundamentals of Statistics, MIT (course)
+Statistics is the science of turning data into insights and ultimately decisions. Behind recent advances in machine learning, data science and artificial intelligence are fundamental statistical principles. The purpose of this class is to develop and understand these core ideas on firm mathematical grounds starting from the construction of estimators and tests, as well as an analysis of their asymptotic performance
+
+Data Science: Probability, Harvard (course)
+We will introduce important concepts such as random variables, independence, Monte Carlo simulations, expected values, standard errors, and the Central Limit Theorem. These statistical concepts are fundamental to conducting statistical tests on data and understanding whether the data you are analyzing is likely occurring due to an experimental method or to chance.
+
+Probability - The Science of Uncertainty and Data, MIT (course)
+The course covers all of the basic probability concepts, including: multiple discrete or continuous random variables, expectations, and conditional distributions, laws of large numbers, the main tools of Bayesian inference methods, an introduction to random processes (Poisson processes and Markov chains)
+
+Improving your statistical inferences, Eindhoven University of Technology (course)
+First, we will discuss how to correctly interpret p-values, effect sizes, confidence intervals, Bayes Factors, and likelihood ratios, and how these statistics answer different questions you might be interested in. Then, you will learn how to design experiments where the false positive rate is controlled, and how to decide upon the sample size for your study, for example in order to achieve high statistical power. Subsequently, you will learn how to interpret evidence in the scientific literature given widespread publication bias, for example by learning about p-curve analysis. Finally, we will talk about how to do philosophy of science, theory construction, and cumulative science, including how to perform replication studies, why and how to pre-register your experiment, and how to share your results following Open Science principles.
+
+Introduction to Probability and Data, Duke University (course)
+This course introduces you to sampling and exploring data, as well as basic probability theory and Bayes' rule. You will examine various types of sampling methods, and discuss how such methods can impact the scope of inference. A variety of exploratory data analysis techniques will be covered, including numeric summary statistics and basic data visualization. You will be guided through installing and using R and RStudio (free statistical software), and will use this software for lab exercises and a final project. The concepts and techniques in this course will serve as building blocks for the inference and modeling courses in the Specialization.
+
+Probability Theory and Mathematical Statistics, Penn State (course)
+Courseware for a pair of related courses covers introduction to probability, discrete distributions, continuous distributions, bivariate distributions, ditributions of functions of random variables, estimation, hypothesis testing, nonparametric methods, bayesian methods, and more.
+
+ 
+Mathematics for Data Science &amp; Machine Learning
+
+These are mathematics topics directly related to data science and machine learning. They may include material from courses above, and may also be more elementary than some of above as well. However, they can be useful for brushing up on material you may not have studied in a while, and which is especially pertinent to the practice of data science. Descriptions come directly from the respective course websites.
+
+Data Science Math Skills, Duke University (course)
+Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+
+Essential Math for Machine Learning: Python Edition, Microsoft (course)
+This course is not a full math curriculum; it's not designed to replace school or college math education. Instead, it focuses on the key mathematical concepts that you'll encounter in studies of machine learning. It is designed to fill the gaps for students who missed these key concepts as part of their formal education, or who need to refresh their memories after a long break from studying math.
+
+Mathematics for Machine Learning, Imperial College London (specialization)
+For a lot of higher level courses in Machine Learning and Data Science, you find you need to freshen up on the basics in mathematics - stuff you may have studied before in school or university, but which was taught in another context, or not very intuitively, such that you struggle to relate it to how it’s used in Computer Science. This specialization aims to bridge that gap, getting you up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.",Free Mathematics Courses for Data Science &amp; Machine Learning,1584917912
+datascience,[removed],Learning relevant skills for data science from job postings,1584915360
+datascience,Anyone know of any such opportunities?,"This corona thing is pretty lame, but this is America. I want to help out, but not by doing pseudoscience with no understanding of epidemiology. Maybe I could help manufacturers of related medical materials or help with logistics/planning, etc. using big data. Any ideas?",1584915343
+datascience,Other than Georgia Tech’s program what other Universities have a great value for the online masters program they offer?,[Education] Best Bang for your buck online masters program?,1584909378
+datascience,"Hello fellow data enthusiasts, I am a mid-level data analyst from Egypt recently hired by a large corporate specialized in payment solutions (Acquirer-Issuer processor for banks).
+
+I want to dedicate my career for nature sciences, is there any well known nature organizations that make a good use of data analysis for our earth? so I can target such organization as a future goal.
+
+Thanks in advance :)",Do you know any company that utilizes data-science for nature purposes?,1584907518
+datascience,"Data science can be used on all kinds of data. Different kinds of data have their own domain knowledge. From job opening perspective, I was wondering what kinds/areas of data do industrial data science jobs often work on, and what less often? 
+
+- any numbers 
+- time series 
+- Text without NLP, 
+- Text with NLP,
+- Images
+- ...
+
+
+Thanks.",What areas of data do industrial data science jobs often work on?,1584905786
+datascience,"I got my Masters in ECE from a good school 2 years ago, and I didn internship as a data scientist. After graduating I got data science offers but I ended up taking a job at a manufacturing site at a well known Fortune 100 company due to the high offer. I thought it'd be interesting to apply machine learning to a production environment. Unfortunately, only about 20% of my work deals with machine learning or data science.
+
+Worst part is, the environment I'm in frowns upon working from home, even during this COVID-19 crisis. I really want out, and get a data science position in the next 3 month, preferably out in the West Coast but I'll take anything that's decent. I'm seriously considering quitting. I got $100k saved so I should survive for awhile. Just wonder how bad it's gonna look, and also I don't know the time frame to get a data science job in this recession... Has this virus impacted your job search so far?
+
+Advice?
+thanks",job searching during COVID-19,1584903566
+datascience,I am thinking about going back to college and getting my masters in data analytics.  I will be nearly 40 when I finish the masters program.,Has anyone moved from IT to data science?,1584900198
+datascience,,Animation of COVID-19 Confirmed Cases and Deaths - Data up to March 21,1584895816
+datascience,"Hello.
+
+So in my Artificial Intelligence class I got the opportunity to write a paper. I would like to write something beneficial and valuable not just something plain and totally useless, covered over and over again.
+
+I'm trying to get more into this field and so far I really enjoy it. But I'm in no way a professional so I thought I'd ask for some ideas here because I of course also looked for ideas myself but so far nothing, I'd think is appropriate for this. 
+
+What area could I cover? What would be an awesome project?",I have the opportunity to write a research paper in one of my classes but I'm having a hard time choosing which topic would be valuable to cover. Any advice?,1584895144

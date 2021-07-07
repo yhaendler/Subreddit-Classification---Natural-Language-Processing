@@ -1,0 +1,375 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],"Current undergrad interested in entering DS field, advice on what I need to know/do to prepare myself for future careers?",1587339229
+datascience,"Hello everyone,
+
+I am currently taking an introductory to data science open course ( [https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets) )which goes over a variety of data science topics. I am really loving it and really want to learn more about the topic. The course is really theoretical so they don't really teach you how to use python or R to apply the concepts. I am currently on my fourth year on a computer science and mathematics degree. Therefore i do have a background on programming and probability plus the concepts that I learned on this course.
+
+I was wondering if there is any course which teaches you how to use different python or R (preferably Python)  frameworks based on the theory that I already have. Or do you guys recommend me to just try to learn those frameworks by myself using documentation and practice? I do know basic python, but I have never used it for big projects",Recommended courses,1587338846
+datascience,"Hello! doing google search leads me to kaggle contests, but is there something that the community of data scientists treats like the Oscars/Noble Peace of data scientists?
+
+I'm just wondering about the works that has been recognized there. I've been needing some inspiration to get going! Thanks!",Is there a prestigious award or recognition body for data scientists?,1587338604
+datascience,Are there any sites that provide free data spreadsheets for excel?,Free data sets for practice,1587337132
+datascience,"Hello all, 
+
+As the title says, I'm wondering how useful it will be to develop a rigorous mathematical background in mathematical statistics on my journey to becoming a  data scientist.  Because most DS positions require a masters of Ph.D. i figured learning math stats would also help me to secure a Data Analyst or similar lower level position before transition to DS.  Does this sound like an efficient path to proceed?",Math stats for DS,1587336663
+datascience,"Hello,
+
+is there a service that will sell anonymized Credit Card Data to Retail clients? Do you guys know of any pool I would be eligible to join to buy data as a group/pool? What are the cost of aquiring such data and getting daily/weekly updates?",Anonymized Consumer Data for Retail Clients?,1587335189
+datascience,[removed],Any good papers on how to use time series data with regression trees?,1587334847
+datascience,"Hi! This is the first question that I will ask, and so, I do apologize if I'm doing something incorrectly. I won't go into specifics because I don't want to break any rules.   
+
+
+At work, we ran into a problem back on February 19, 2020 where an aggregate column (series 1) was aggregating incorrectly due to some issues related to coding done by a third-party. Although that third-party is working on the solution, the solution will only apply from the date of implementation and can't make retroactive changes. 
+
+What is the best approach to ""correct"" these numbers if all we have is historical data from prior to February 19 and another series of data that's aggregated by a partner company? Prior to February 19, our numbers were usually 30%-40% of the partner's numbers. 
+
+The following link is a sample of the series 1(went wrong on February 19th) and series 2 (correct the entire time). 
+
+[https://docs.google.com/spreadsheets/d/167hAUC4i6L2HJCjZQzua2ZVCHzIpD53OeEVZSi1Otf0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/167hAUC4i6L2HJCjZQzua2ZVCHzIpD53OeEVZSi1Otf0/edit?usp=sharing)",Best way to correct incorrect data in a time-series that closely resembles another time-series,1587334454
+datascience,[removed],Brown MS in Data Science,1587332004
+datascience,[removed],Package to add status bar to model while training?,1587329126
+datascience,"Hello I am in the final round with Facebook for a Analyst position have a few virtual meetings scheduled next week and am trying to get an idea of the level of difficulty I should expect.
+
+Here is an overview of the key points of the role: 
+
+**MINIMUM QUALIFICATIONS**
+
+* BA/BS in a field that emphasizes data analysis and visualization (e.g., computer science, social sciences, physical sciences, math, engineering, or statistics), or equivalent work experience
+
+* 5+ years experience with SQL (or similar language aimed at querying relational databases)
+
+* 5+ years of experience working with data visualization tools
+
+* Proficiency with Excel (conditional formulas and formatting, charting, etc.)
+
+* Proficiency manipulating large data sets through statistical software or other methods
+
+**PREFERRED QUALIFICATIONS**
+
+* Advanced degree in Computer Science, Learning Sciences, Operations Research, Econometrics, Statistics or related technical field
+
+* 2+ years of development experience in Python, R or similar scripting languages
+
+
+I'm shy of the 5 years of experience in either SQL or Data Visualization but **DO** have an advanced degree (MS) Data Analytics. I currently don't work in R or Python because the company I work for uses SAS. I'm going to pull up my Tableau Public profile and walk through a person project I recently worked on. 
+
+Should I mention I a have a Tableau Desktop Associate Certification exam schedule this Friday? The exam got pushed back due to COVID-19, otherwise I would have already taken it. Would that be pertinent or would that bit of information be useless given I'm not yet certified? 
+
+I've currently been going through all of the LeetCode SQL/ Database exercises. I'm going through the Medium difficulty problems right now and struggling a bit which has me concerned I'm not qualified. Any tips or tricks to cramming here?
+
+Last but not least, does anyone know if I'm able to reference notes or in this case another screen during my interview? 
+
+Thanks!",Final Round Virtual Interview w/ Facebook - Learning Analyst,1587327844
+datascience,"* This is not technical. 
+I did a master in physics with focus on observational astrophysics where I did mostly data analysis and a simulation, due to circumstances decided not to pursue PhD and instead go to data science. 
+After doing a “software development boot camp “  i got a job as data engineer, my boss was a data engineer himself and he gave me an option; he could teach me and be kinda my mentor which I accepted of course. Because if I eventually go into data science, having a background in data engineering only helps. 
+I lost that job few weeks ago due to corona crisis. 
+I’ve been applying and I’m getting interviews much more than I used to but they’re not going anywhere so far. I looked into data science/machine learning master programs and earliest I could start would be September 2021. 
+I am not sure how long I should fill this goal logically, I love working with data but there’s a point one should give up and move on realistically. 
+
+Do you have any advise? I’m 31 f and starting over in a new country. I’m willing to work hard but I don’t want to follow pipe dreams.",When do you know to give up?,1587327404
+datascience,,"I am really interested in learning data science, which courses/ learning paths would you recommend to achieve my goal to become a data scientist?",1587326346
+datascience,,"hello guys, am really interested in the data science field and looking to start a learning path to achieve my goal to be a data scientist. which is the best path/courses would you recommend?",1587326193
+datascience,"Hi, so I am new to data science and would like to predict NYC rent based on a borough, I got some data from Web Scraping but not too many features, just price, address, zip code, # bedrooms, and #bathrooms. Is this enough for a linear regression model? or is there anywhere else I can obtain data with more features.",Predict NYC rent data,1587323684
+datascience,,Predict NYC rent data,1587323391
+datascience,"Hello everyone! I just started taking an introductory Data Science course on Udacity and was wondering what editor/ environment would be most practical for the beginning programmer on SQL? 
+
+After some research I bumped into MYSQL Workbench, what exactly is that ?",Most practical editor/ environment for SQL beginner,1587321146
+datascience,"I'm a junior in college pursuing a b.s in computer science and a master's in data science in +1 program at my University. I've been back and forth with myself about wether or not I want to work for the government or not. What are your thoughts?
+
+[View Poll](https://www.reddit.com/poll/g4ca17)",Government or corporate?,1587319562
+datascience,[removed],I am a historian looking for books/online course recommendations in statistics and/or data science in R?,1587319522
+datascience,,"I'm hosting a panel tomorrow with 3 DS leaders about ""Predicting in an Age of Uncertainty"" join us on our livestream",1587318903
+datascience,"Hi,
+
+Companies often conducting coding round and how should a guy prepare with respect to Data Science? Also, is python sufficient or should prep with Java or C++?
+
+PS- if it's not the right place to ask this, please redirect.",Data Structures and Algorithm for interviews,1587318169
+datascience,I’m going to do a masters in health data science and I am kinda worried about jobs,Is data science within healthcare a good career to pursue?,1587316680
+datascience,"Hey guys, I'm a newbie in the field, and I've been looking at different job opportunities. Many data science positions seem to require the candidate to be able to ""tackle loosely defined problems"". 
+
+Can you please give me an example of what a loosely defined problem is, and how one might go about translating it into a data science problem?
+
+Thanks!",On tackling loosely defined problems,1587316252
+datascience,"Hi, I have a general question about Bayesian inference which may help me solve a problem I have. It is best to illustrate this with an example. Inspired from this great post by AllenDowney:
+
+[https://github.com/AllenDowney/BiteSizeBayes/blob/master/08\_soccer\_soln.ipynb](https://github.com/AllenDowney/BiteSizeBayes/blob/master/08_soccer_soln.ipynb)  
+
+
+Let's say I want to get an estimate for the number of goals scored by a team in a football match.  
+I model this as a Poisson process with parameter lambda.   
+On lambda I put a Gamma distribution as the prior, with parameter alpha. Let's say I use a prior value of 1.4 for alpha.
+
+In the blog post, we are computing the posterior **after** a match has been played. So, given a game where 4 goals were scored by a team, we compute the posterior for that team which is now shifted to the right. 
+
+What would we do if we wanted to update the estimate in real-time? So instead of computing the posterior after the game has been played, we do this every 5 minutes until we hit 90 minutes. So I am interested in getting a posterior for 90 minutes given the data after 5 minutes, 10 minutes, 15 minutes, etc..  
+I can think of two ways of doing this. Please help me understand what method, if any, makes sense:  
+
+
+1. We propagate the data we have to the expected number of goals in 90 minutes after x minutes have passed. So, if after 30 minutes a team scored 1 time, we propagate that to (90/30)\*1=3 goals and use this as input to compute the posterior using the same process as in the blog post.  
+**Issue:** I feel like this is not correct, because what if a team scores in the first 5 minutes? Doing this would mean we expect the team to score 18 (!) times in a match. The first posterior calculation after 5 minutes would be complete trash. Although this should eventually converge to a realistic value as we do more updates?
+2. We don't use a value of 1.4 for alpha because that's based on a 90 minute match. Instead, we use alpha = 1.4 / (90/5) = 0.08 to scale it to a 5-minute prior. So, on average, a team scores 0.08 times every 5 minutes. We now do the posterior calculation every 5 minutes instead of every 90 minutes.  
+**Issue:** I don't understand how we now get a prediction for the 90 minute posterior because the posterior we calculate every time will be based on 5 minutes. Also, how do we link the second posterior (for minutes 5-10) to the first (minutes 0-5)?   
+
+
+Perhaps I am missing something basic here. I really want to understand Bayesian inference better but feel like I am not completely getting it. Thanks!","Real-time Bayesian updating, how to link posteriors?",1587316128
+datascience,[removed],Data Science Projects for beginners,1587314113
+datascience,,Can anyone help me understand and guide me in this project? I'm a complete beginner in data science and programming and all of this is going over my head.,1587312645
+datascience,,Can anyone help me understand or guide me on how to approach this project? I'm a beginner in data science and programming without any background.,1587312422
+datascience,"Hi all,
+
+For some reasons that are not relevant to explain I moved from Spain to Houston, Tx back in April 2019. I had the opportunity to take the year off to study Data Analytics/Science since I have set the goal to change careers from marketing. 
+
+I've enrolled on a Professional Certificate by the UT at Austin and I managed to learn quite a lot of Python, R, Data Wrangling and Visualization as well as modeling and algorithms. I then brushed up my skills on excel and learn how to use Tableau and Power BI.
+
+When I finished all of this I started to send resumes and got to the final stages of the hiring process with two companies that logically paused the hiring because of the covid-19. 
+
+I am now feeling that this hard times will be dragging for quite a lot of time and I am looking to keep improving my skills during this time to be stronger when applying for Data Analysts jobs. I quite like Data Science but I believe I should start by getting into Data Analyst's jobs first.
+
+**I would like your recommendations on what to study next.** 
+
+By all means all the skills I mentioned above need to be improved but I am wondering if I should add something else to the portfolio.
+
+Thank you!",Advice wanted - What to study now?,1587306645
+datascience,"Hi, i want to create a data warehouse of stock market data for further analysis (for my own use), and was wondering if there are any sources from which I can download all US stock market data (preferably all SP500 companies and in a CSV, JSON, XLS format..). I'm currently trying to find a way of downloading it via Python, but seems like more advanced skills are needed in order to download all market data, and not just data for single stocks.
+
+ I also know there is this amazing site for this very problem  [https://datahub.io/collections/stock-market-data](https://datahub.io/collections/stock-market-data) , but unfortunately it has old data (updated 2 years ago)",Downloading data for all SP500 companies at once.,1587306496
+datascience,,Python Data Engineering Tools: The Next Generation,1587305123
+datascience,"I am working on a project with an aim to classify fraudulent transactions. The data includes account id for each transaction and I was considering creating some aggregate account features e.g.
+
+1. average transaction amount for that account
+2. total amount spent on the same day up to this transaction by that account
+3. total transactions with the same merchant in the past 30 days by that account
+
+However if I create these features on the whole dataset is there a risk of data leakage? I am planning to split my test set as the last month of transactions and use the other 5 months of data as the training. 
+
+Does it make sense to create these aggregate features as described or is this bad practice/data leakage?",Creating aggregate features for transactions - data leakage?,1587304897
+datascience,"I am working on a project with an aim to classify fraudulent transactions. The data includes account id for each transaction and I was considering creating aggregate account features e.g. 
+1. average transaction amount for that account 2. total amount spent on the same day up to this transaction
+3. total transactions with the same merchant in the past 30 days
+
+However if I create these features on the whole dataset is there a risk of data leakage? I am planning to split my test set as the last month of transactions and use the other 5 months of data as the training. Is it sound logic to create these aggregate features as described?",Aggregate account features- data leakage?,1587303998
+datascience,,"For all those who are learning excel, I have made an app to make it easier for you. It lists all the formulas with EXAMPLES and also the important short-cut keys. Give it a try and feedbacks are welcome.",1587301628
+datascience,"For forecasting time series data using LSTM, is it possible to use a loss function that takes into consideration more than one step into the future ?
+
+Because the neural network might be good at predicting one step into the future, but it won't be good when its used recursively to predict two steps or more (I've tried that), unless it was trained to do that.",Make LSTM loss function takes into consideration more than one step into the future,1587300180
+datascience,"Hi guys, I'm trying to solve the following question from [CS 124 Winter 2019 Practice Final Exam](https://docplayer.net/130193240-Cs-124-winter-2019-practice-final-exam.html), but I'm not getting the right results. What am I doing wrong here? Can you solve it? 
+
+**The question** Suppose we run the SNOWBALL algorithm on the text below to attempt to extract the FOUNDER-OF relation. Which of the patterns below will extract at least one correct example of that relation without extracting any incorrect ones (select all that apply)
+
+* Correct examples: (Microsoft, Bill Gates)(Facebook, Mark Zuckerberg)(Google, Larry Page)(Google, Sergey Brin)
+
+**Source text**: Microsoft, founded by Bill Gates, produces both computer software and personal comput-ers. The founders ofGoogle, Larry Pageand Sergei Brin, developed an advanced search experience. And Mark Zuckerberg, founder of Facebook, crafted a new communication platform. And, usage exists between them: indeed, Bill Gates is a user of Google search,and Larry Page of Microsoft products such as Word. Bill Gates of Microsoft, Larry Pageand Sergei Brin of Google, and Mark Zuckerberg of Facebook were all pioneers of today’s technology.
+
+* You can assume that all of the patterns are well formed SNOWBALL patterns.
+   * (a) ORG, founded by PERSON
+   * (b) ORG, PERSON
+   * (c) founders of ORG, PERSON
+   * (d) PERSON of ORG
+
+**My solution:**
+
+    import nltk
+    from nltk.tag import pos_tag
+    import re
+    
+    pos_tags = nltk.pos_tag(word_tokenize(src_text)) # POS tagging of the sentence
+    ne = nltk.ne_chunk(pos_tags) # Named Entity Recognition 
+    # ne.draw() 
+    
+    def test_patterns(ne, subj, obj, pattern, relsym): 
+    for rel in nltk.sem.extract_rels(subj, obj, ne, corpus='ace', pattern=pattern): 
+     print(nltk.sem.rtuple(rel)) 
+        print(nltk.sem.clause(rel, relsym=relsym)) 
+    
+    # Pattern A, ""ORG, founded by PERSON"", returns ('microsoft', 'bill_gates'), which is correct test_patterns(ne, ""GPE"", ""PERSON"", re.compile(r'.*,.*founded.+by.+'), ""Pattern 1: "")
+
+**Outputs:** Pattern 1: ('microsoft', 'bill\_gates')
+
+&amp;#x200B;
+
+    # Pattern B, ""ORG, PERSON"", returns ('google', 'larry_page'); ('microsoft', 'larry_page') which is incorrect test_patterns(ne, ""GPE"", ""PERSON"", re.compile(r'[^,]+'), ""Pattern 2: "") test_patterns(ne, ""ORGANIZATION"", ""PERSON"", re.compile(r','), ""Pattern 2: "")
+
+**Outputs:** Pattern 2: ('microsoft', 'bill\_gates') Pattern 2: ('google', 'larry\_page') Pattern 2: ('google', 'mark\_zuckerberg') Pattern 2: ('microsoft', 'larry\_page')
+
+&amp;#x200B;
+
+    # Pattern C, ""founders of ORG, PERSON"", returns ('Google, Larry Page'), which is correct test_patterns(ne, ""GPE"", ""PERSON"", re.compile(r'[^,]+'), ""Pattern 3: "")
+
+**Outputs:** Pattern 3: ('google', 'larry\_page')
+
+&amp;#x200B;
+
+    #Pattern D, ""PERSON of ORG"", returns (""Sergei Brin"", ""Google""); (""Larry Page"", ""Microoft""); (""Bill Gates"", Microsoft"") which is incorrect. test_patterns(ne, ""PERSON"", ""GPE"", re.compile(r'\bof\b'), ""Pattern 4: "") test_patterns(ne, ""PERSON"", ""ORGANIZATION"", re.compile(r'\bof\b'), ""Pattern 4: "")
+
+**Output:** Pattern 4: ('sergei\_brin', 'google') Pattern 4: ('larry\_page', 'microsoft') Pattern 4: ('bill\_gates', 'microsoft')
+
+&amp;#x200B;
+
+**The correct solution:** I happen to know the correct solution, which is how I know my code is wrong.
+
+The answer is (a) and (c).
+
+* (a): correctly extracts (Microsoft, Bill Gates)
+* (b): correctly extracts (Google, Larry Page) but also incorrectly extracts (Microsoft, LarryPage)
+* (c): correctly extracts (Google, Larry Page)
+* (d): correctly extracts (Microsoft, Bill Gates), (Sergei Brin, Google), (Mark Zuckerberg,Facebook), but also incorrectly extracts (Microsoft, Larry Page)
+
+Thank you so much for reading through! Please let me know if you know what's wrong. Thanks in advance. What is your solution?",Relation Extraction Task,1587299489
+datascience,"Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](Resources) pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",Weekly Entering &amp; Transitioning Thread | 19 Apr 2020 - 26 Apr 2020,1587297754
+datascience,"Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](Resources) pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",Weekly Entering &amp; Transitioning Thread | 19 Apr 2020 - 26 Apr 2020,1587297631
+datascience,"Hello! I'm a pretty fresh grad who is eyeing to become a data scientist some time in the near future. However, as I'm going through various forums/blogs/articles about data science, I'm noticing a lot of contradictory &amp; confusing claims about data science both as an area and as a career.
+
+I recently graduate with a law/maths/chem degree (still don't know why I did law) and is currently working as a grad/analyst/baby consultant. I've always leaned more towards science than law and I really liked deriving information/trends/patterns out of huge data sets (esp when it comes to financial data). However, I am very conscious of the fact that my math degree fell heavily on the pure maths (my uni was very pure-math heavy) and my programming skills are pretty basic.
+
+I am looking to do a Masters in Data Science, but I also have a lot of reservations because of a lot of contradictory claims, which includes:
+
+* you need a Master or PhD vs you just need to do bootcamps/courses and voila
+* Masters are just a marketing gimmick vs it gets you noticed by recruiters and helps you develop skills
+* Data Science is really data analyst/engineer dressed up vs the 'real' data scientist do interesting stuff involving ML/AI/NN
+* Data science is a dying field (more supplies than demand) vs data science is in huge demand (more demand than supply) vs \*only\* good data scientist is in demand
+
+Can anyone share their 2cents about their experiences &amp; their thoughts on the claim above? Is it an insane decision to jump ship from MC to data science?",Need on advice on becoming a data scientist,1587294061
+datascience,[removed],What certifications will be useful for getting noticed by the interviewer?,1587293031
+datascience,,"Hi. I am currently in 12th standard (Computer sc.). I am hoping to build a career as a data scientist. Can anyone tell me or suggest how to build a career in it, like, what stream should I take up after 12, what skills I need to develop,etc. Thank you.",1587292848
+datascience,"""Data Scientists"" The best job of 20th century. They get paid 10% or 20% higher than all other graduates. Is it true and if yes to what extent. I dont think the starting salary of a graduate can be 70-80k dollars yearly. Some websites say even upwards of 120k, which is astonishgly high.
+
+Can someone who's been a data scientist/analyst for the past 4-5 years confirm what actually happens when you do a degree in data science.",What is the actual reality of working as a data scientist?,1587288781
+datascience,"Is anyone here is currently/previously working in a data science project that related with chemical engineering? If yes, do you mind to share a brief about the project. 
+
+Im a chemical engineering graduate that interested in data science and I don’t know is it good to feature my chemical engineering background in my CV/resume.",Data science with Chemical engineering domain,1587288301
+datascience,"[https://colab.research.google.com/drive/1gQwAU5H5rLzC9AcuoK3cuMyucCkDtXls](https://colab.research.google.com/drive/1gQwAU5H5rLzC9AcuoK3cuMyucCkDtXls)  
+
+
+In the above notebook, I used a dataset of aviation accidents occurring from 1982 up to 2019 and would like to train an ARIMA model to predict future results. I made it so that I have data points of total number of accidents in each year. It seems like I overfitted the dataset, despite having a better Mean squared error than when I'm using linear regression, the explained variance gives a negative value for the test dataset. Any advice on how to improve? Or perhaps a different model that could predict a down trend better?",ARIMA Overfitting?,1587282774
+datascience,"Hi,
+
+I’m wondering how I further my knowledge of data science. As a mechanical engineering major, I don’t have too much experience with coding, but I have gained a proficient level of coding through completing DataCamp courses in R and Python. I have also recently completed some of the machine learning courses on Kaggle, but I find myself not really grasping the material as well as I would like. I was wondering if anyone has any recommendations for how I should proceed with my data science education. Should I take courses on Coursera/Udemy? Should I try participating in Kaggle competitions? Should I continue completing Kaggle/DataCamp courses? Any other ideas? I would really appreciate any feedback. Thanks!!",Learning Python,1587282320
+datascience,[removed],Data Science Research Paper Topics and Sources,1587276476
+datascience,[removed],Data Visualization Suggestion,1587275922
+datascience,I am looking for datasets which show the amount of passenger traffic in the past 2 months due to Covid-19. I was wondering if any such open datasets is available during the period from January to April 2020.,Airline Passenger Traffic Dataset (Covid-19),1587274494
+datascience,[removed],Data Analysis and Data Science Career Question,1587272803
+datascience,[removed],Second bachelors or first masters?,1587270410
+datascience,,SIR model Covid-19,1587269195
+datascience,[removed],Building Machine Learning Tool,1587261719
+datascience,[removed],I created a mailing list to teach people python and data science through email,1587255986
+datascience,[removed],Face recognition using convolutional neural networks,1587250690
+datascience,,Made my first datascience guide. Face recognition using convolutional neural networks.,1587250316
+datascience,[removed],Get a data scientist role post graduation,1587248888
+datascience,[deleted],Created my first guide. Image classification using Convolutional Neural Networks,1587248733
+datascience,[removed],"M.S. in Analytics from Georgia Tech, or M.S. in CS from University of Texas?",1587242150
+datascience,[removed],How to deal with larger than memory numpy arrays?,1587241869
+datascience,[removed],How to import CSV data set in Google colab R?,1587239798
+datascience,[removed],Hadoop Distribution: Replacement of cloudera,1587239052
+datascience,[removed],Good and popular NLP Certificates?,1587238744
+datascience,[removed],Lstm for time series package in R,1587238531
+datascience,[removed],Am I earning the right amount? (UK),1587237462
+datascience,[removed],[Question] Any recommendation for handling string data thats not one hot encoding it? And for datetime data?,1587233963
+datascience,[removed],"TypeError: list indices must be integers or slices, not tuple",1587233660
+datascience,[removed],what sort of projects should i do to to make up for my lack of internships/professional experience and to show employers my machine learning/data science competence?,1587232996
+datascience,[removed],Are my expectations of a data science career unrealistic?,1587230462
+datascience,"Hi,
+
+I am looking for a good guide that takes you through the entire process of data exploration, model selection, model execution and then model implementation. A general best practice overview of each step that is taken in the predictive modeling process would be very helpful.",Best literature/resource for predictive modeling process,1587227194
+datascience,[removed],Storing a dataset,1587226517
+datascience,[removed],COVID-19 Forecast Visualization and Open Source Standardized Data,1587225351
+datascience,"Udacity is giving one-month free access to all its nanodegree programs and I am getting additional discounts in [this article](https://onlinecourseing.com/all-udacity-nanodegrees-in-a-nutshell/), I want to give it a try. As a beginner should I go for Data Analyst or Data Engineer Nanodegree?",Planning to enroll in Udacity as they are giving one month free access,1587222148
+datascience,"Hi there, 
+
+I did valuable research based on different big eCommerce websites, is it legal if I will be selling this research publicly?",Selling research based on scraped prices - is it legal?,1587220039
+datascience,Currently I'm in my 2nd semster of 8 for my B.A Information and Communication Technology (University of applied sciences in the Netherlands) and I have the oppertunity next semester to choose my own specialization. The ones I'm considering are Applied data science and AI. I already have some experience in data science and machine learning (my own projects). The thing is that I can determine the whole content for this semester. What would be a good curriculum for applied data science or AI ?,Next semester specialization,1587218384
+datascience,"I have a discrete probability distribution which I want to update as new evidence comes in. I thought about it in a Bayesian context, but I don't think that will work because I don't have any formulation of the likelihood. Perhaps I'm missing something.. Here's the problem statement:
+
+Suppose I am running an online store, and people can order stuff online and choose a timeslot for it to be delivered.Assume I have three delivery timeslots \[6:00-8:00, 8:00-10:00, 10:00-12:00\]. My goal is to get a real-time estimate for the amount of orders I will receive at the end of the day for each slot.
+
+More formally, let the three slots be denoted \[x1,x2,x3\]. I am interested in knowing the values of orders (y) in each of the slots \[y1,y2,y3\] at the end of the day. So predicting number of orders in each time slot.
+
+I was thinking: if I assume an initial distribution (normalized) of orders \[p1, p2, p3\], I want to update this distribution over time as new orders are coming in. We here assume the total number of orders to remain constant. More practically:
+
+1. I have initial probability distribution \[p1,p2,p3\] = \[0.4, 0.4, 0.2\] (based on domain knowledge, people tend to order less later in the day for some reason)
+2. After 10 orders have come in, almost everyone ordered in the first time slot. y\_10 = \[9, 1, 0\]
+3. I want to update my prior to reflect this. Perhaps it would be something like \[0.5, 0.4, 0.1\] based on the evidence that came in
+4. Repeat throughout the day. Because I assume the total number of orders to be constant, this would give me a direct estimate of the orders \[y1,y2,y3\].
+
+If I knew the likelihood function I could use some kind of discrete bayesian updating with prior distribution being \[p1,p2,p3\] and update as orders come in. The problem is I don't know the likelihood function. How could I achieve this?",Updating discrete probability distribution - Bayesian or something else?,1587213992
+datascience,,Automated AI driven media outreach platform that is cheap and brings in a ton of media engagement for professionals seeking it,1587212800
+datascience,,Confirmed coronavirus (COVID-19) Deaths (UPDATED 17 Apr),1587211933
+datascience,,Confirmed coronavirus (COVID-19) Deaths (UPDATED 17 Apr),1587211724
+datascience,[removed],Confirmed coronavirus (COVID-19) Deaths (UPDATED 17 Apr),1587211677
+datascience,"Due to COVID-19 my university has managed to give us free courses from Coursera.
+I am a total beginner in Data Science
+Can you recommend  me some Data Science courses from coursera ?",Suggest course from COURSERA,1587210932
+datascience,Is it common for sharing data in tech businesses through CSV or is it just Relational Database (e.g MySQL)?,"Are there data sharing with Excel, CSV files (e.g compnaies)?",1587210336
+datascience,"Hi guys,trust y'all staying safe.A few days ago,I got an email saying I can have free 2 weeks access to the PGD in Datascience from University of Texas in partnership with great learning.I went through the courses,looks pretty solid,also plus the mentorship access and guide is good.
+Please do you think it's worth paying for, because I look forward to growing my career and increasing my financial value significantly.",Is it worth it paying. $ 3500 for a PGD in Datascience,1587210270
+datascience,"Hi all, 
+
+I am sure these variety of questions have been done to death, but I figured I would ask as I have a particularly specific situation. I am a biologist whose current work does not include dealing with large biological data sets, however, I am contemplating doing a doctorate in a field with a mix of wet and dry lab. In the meantime I would like to upskill whilst I am employed (and have a lot of time because of quarantine) with an eye towards getting some open bioinformatics projects under my belt. I am currently doing José Portilla's Python Bootcamp and would like some pointers from there. I don't mind paying for a course, albeit Udacity is probably a bit expensive for me, but given a sufficient recommendation I might be inclined to pay for it. My quantitative background from college is unfortunately limited to differential equations (including partial) and linear algebra, with no college level stats such as probability theory. Resources to plug the stats holes in my background would be greatly appreciated.",Looking to learn data science of biological data sets,1587208022
+datascience,"My background is in business but I transitioned into a junior data science role a  year ago after getting a Masters in Information Technology. I’m pretty good with some popular BI applications but I’m not working with SQL—I only studied it a couple of classes in my Masters and don’t feel super comfortable using it. My question is, what option will open the most job opportunities and will make me more legit as a data scientist:
+
+(1) taking a couple of sql courses at the local community college 
+(2) getting a Masters Certificate in statistics 
+(3) going back for a bachelors in Computer Science",Working Backwards to Become a Data Scientist,1587206676
+datascience,Is there any roadmap for data scientists like [this one](https://github.com/kamranahmedse/developer-roadmap)? Since I'm interested in data science so I'm going to start learning data science this summer. But I have literally no idea what to do.,Roadmap?,1587202924
+datascience,"Hi guys, I am an Economics student minoring in Statistics. I am looking for an Online DS program. Is there one that you guys prefer?",What's a good Online Data Science program?,1587200145
+datascience,[removed],Stanford CS229: Machine Learning (Autumn 2018) - Lectures on Youtube,1587198552
+datascience,[removed],Data Science Undergrad?,1587196369
+datascience,"I have an interview with a company in a couple of days for a Data Analytics/Mining/Visualization position. I am told that during the interview they would provide a random dataset and I am to use Python along with libraries such as pandas, numpy and matplotlib on a Jupyter Notebook to provide them insights. I can even train an ML model to predict values if needed.  
+
+Off the top of my head, I see myself providing them with statistics such as mean, median, and mode. Probably even perform k-means clustering and provide them the clusters.
+
+Any suggestions on what else I can do with the dataset if I assume it would be labeled? (eg: provide actionable insights) What if it was unlabeled? 
+
+Note: This would be similar to the Wayfair Data Analytics coding challenge where they provided an ice cream data set and were asked to find 3-5 analysis points that could be revealed from the data, as well as 2-3 actionable pieces of information.",Need suggestions to answer a Data Analytics interview,1587192798
+datascience,"Hi there, 
+
+I've been a ""Business/Data"" Analyst for 5 yrs and I'm considering a Data Science career track. 
+
+Most of my career I have been reating dashboards in Excel/PowerBI and developing LookML/SQL Models with Looker to analyze data and deliver insights to business leadership. 
+
+Although I know how to model, transform and visualize data (self taught), I only have a business admin degree. I notice a lot of Data Scientists/ Analyst have computer science, economics, or math degrees. 
+
+Can a ""technically adept"" business major be successful going deeper in the data world?
+
+Thanks!",Career Advice: Business Analyst -&gt; Data Science,1587191168
+datascience,[removed],ayudame a crear mi propia caja para mi notebook(gente que conosca acerca de la fabricacion de cajas para laptops o trabajado en fabricas donde se crean),1587190596
+datascience,"I just graduated community college and got a job in a company where I was the only one taking care of design and online stuff like shopify and got into very basic sql while most of coworkers were data scientists, I was exposed to REST and GraphQL now im developing interest to dive more about this field and thinking about signing up for a data analyst bootcamp which will cost around $2000 and im willing to invest but the only thing scaring me is if I will struggle to find a job because people won't take me seriously because I have a degree in totally different field.
+
+do you know someone been in similar situation?",Graphic designer switching to data analyst?,1587189801
+datascience,[removed],I want to become a data scientist. I know the fundamentals. What should I do next?,1587189103
+datascience,[removed],What major?,1587188424
+datascience,"Hello All,
+
+I am new to DS and looking for some help in doing some models like Random Forest, SVM and Gradient Boosting models and participate in Kaggle competition using RStudio.
+
+Can anyone help me with a series of steps so that I can do it on my own.
+
+Thanks.",Titanic Kaggle competition using RStudio,1587187396
+datascience,"Hello All,
+
+I am new to DS and looking for some help in doing some models like Random Forest, SVM and Gradient Boosting models and participate in Kaggle competition using RStudio.
+
+Can anyone help me with a series of steps so that I can do it on my own.
+
+Thanks.",Titanic Kaggle competition using RStudio,1587187345
+datascience,Does anyone know of a drag and drop one like tableau I saw that I could use dash but I wasn't interested in doing the html portion of the dashboard. I also need a web interface.,Open source/community edition dashboard tool that can integrate with spark and has a web interface,1587186976
+datascience,[removed],Data Science: Start Working Toward a New Career Today!,1587186726
+datascience,,Classification of Data,1587185537
+datascience,[removed],Categorizing List of Travel Activities,1587184980
+datascience,Wondering if companies need data science more than ever to understand the impact of COVID19 on their business? Are the models from the past any good going into the new age?,Has COVID-19 reshaped/tweaked the data science problems you are solving?,1587181270
