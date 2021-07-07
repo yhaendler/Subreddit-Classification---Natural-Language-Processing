@@ -1,0 +1,508 @@
+subreddit,selftext,title,created_utc
+books,[removed],Your favorite Goosebumps books?,1607990208
+books,[removed],Your favorite Goosebumps books?,1607990028
+books,"Hi /r/books!
+
+tl;dr I built a reading app over quarantine after searching for a tool and coming across a post on reddit about how much people disliked goodreads.
+
+I started reading a lot more when quarantine started. After finishing the books I had scattered around the house, I turned to friends and family for recommendations and to tap into their personal libraries.
+
+Funnily enough, most people I spoke to were also reading more, but had a hard time recalling the titles to give a good recommendation. I started thinking how cool it would be if I could use an app that would let me see what my close connections were currently reading or had read.
+
+I found goodreads pretty quickly. I loved that it had all the books that I purchased on amazon. But that's it. That's all I liked. Everything else just felt... bad. I don't want to rag on goodreads, but it wasn't the right tool.
+
+https://www.reddit.com/r/books/comments/grn3yu/will\_goodreads\_please\_for\_the\_love\_of\_god\_put\_the/?utm\_source=share&amp;utm\_medium=ios\_app&amp;utm\_name=iossmf
+
+I stumbled across this post on reddit shortly after where i discovered how many other people also dislike goodreads i read through the comments
+
+and found a few common threads:
+
+* Searching is a bad experience (for finding books and friends)
+* Terrible interface
+* Recommendations aren’t good
+* Bulk editing is difficult
+* No good tagging/labeling/grouping functionality
+* Hard to find friends
+
+I decided to see if I could find a tool that provided all the things on the list. I looked, but I couldn't find anything that fit the bill. 
+
+I’m in the tech trade and also enjoy working on fun side projects like this. I decided to set my focus into this single project for the remainder of quarantine. I went from reading a bunch, to coding a bunch about reading 😝
+
+I started story mapping the idea in June. I broke the proposed tool down into three separate chunks:
+
+Track, Discover, Connect
+
+To satisfy the track requirement I needed to be able to:
+
+* search for a book and add it to my library
+* move books on and off “shelves”
+* combine books into reading lists
+* group books by genre, event, or any other way I wanted
+* see basic book info
+* add notes and quotes from books I'm reading
+* Import my books from goodreads
+* Export my library
+* Buy books, preferably from local bookstores
+
+For discover, I needed to be able to:
+
+* Find and invite my friends to the app
+* Browse my friends’ reading lists and books
+* Add books from my friends’ libraries to my library
+* Find books and reading lists from folks outside of my circle, like [Oprah](https://www.bukkuro.com/reading_lists/45)
+
+And finally, for connect:
+
+I wanted to be able to start book clubs with my family, friends, and co-workers.
+
+I love book clubs. I love hearing other people's interpretation of the same book that I'm reading.
+
+I find that I have better reading comprehension and recall from books I've read as part of a book club than books that I've read solo. Due to quarantine, my normal book clubs were disbanded. 
+
+After doing a bit of research and reflecting back on my book clubbing experiences, I was able to story map it into this:
+
+* What is the book club? (Name, general description, public or private)
+* When is the book club? (Day, time, duration, meeting frequency)
+* Who is in the book club? (Members)
+* Where is the book club meeting? (Zoom)
+* Why is the book club meeting? (Discuss topics related to the book)
+* What book are we reading?
+
+I also included challenges. I found the challenges were useful in incentivizing myself to read for a few minutes longer every day. Completing challenges and interacting with my library earns points towards leveling up the leaderboards. 
+
+All that being said, with all the apps out there, I was surprised that there wasn’t a good goodreads alternative available on the internet. Does a tool composing the above (track, discover, connect) meet the needs of fellow book lovers? Are there other tools that the reading community uses that they love? I would love to hear your thoughts!",I finally finished my quarantine reading project!,1607988619
+books,[removed],"Doodes and doodesses, check out my wattpad book.",1607988557
+books,"Hi /r/books!
+
+tl;dr I built a reading app over quarantine after searching for a tool and coming across a post on reddit about how much people disliked goodreads. Link to app below
+
+I started reading a lot more when quarantine started. After finishing the books I had scattered around the house, I turned to friends and family for recommendations and to tap into their personal libraries.
+
+Funnily enough, most people I spoke to were also reading more, but had a hard time recalling the titles to give a good recommendation. I started thinking how cool it would be if I could use an app that would let me see what my close connections were currently reading or had read.
+
+I found goodreads pretty quickly. I loved that it had all the books that I purchased on amazon. But that's it. That's all I liked. Everything else just felt... bad. I don't want to rag on goodreads, but it wasn't the right tool.
+
+I stumbled across [this post on reddit](https://www.reddit.com/r/books/comments/grn3yu/will_goodreads_please_for_the_love_of_god_put_the/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) shortly after where i discovered  many other people also disliked goodreads. I read through the comments and found a few common threads:
+
+* Searching is a bad experience (for finding books and friends)
+* Terrible interface
+* Recommendations aren’t good
+* Bulk editing is difficult
+* No good tagging/labeling/grouping functionality
+* Hard to find friends
+
+I decided to see if I could find a tool that addressed all the things on the list. I spent a lot of time looking, but I couldn't find anything that fit the bill. I was looking for a tool that was clean and simple to use, but not weighted down with unnecessary features.
+
+I'm in the tech trade and also enjoy working on fun side projects like this. I decided to set my focus into this single project for the remainder of quarantine. I went from reading a bunch to coding a bunch about reading 😝
+
+I started story mapping the idea in June. I broke the proposed tool down into three separate chunks:
+
+Track, Discover, Connect
+
+To satisfy the track requirement I needed to be able to:
+
+* search for a book and add it to my library
+* move books on and off “shelves”
+* combine books into reading lists
+* group books by genre, event, or any other way I wanted
+* see basic book info
+* add notes and quotes from books I'm reading
+* Import my books from goodreads
+* Export my library
+* Buy books, preferably from local bookstores
+
+For discover, I needed to be able to:
+
+* Find and invite my friends to the app
+* Browse my friends’ reading lists and books
+* Add books from my friends’ libraries to my library
+* Find books and reading lists from folks outside of my circle, like [Oprah](https://www.bukkuro.com/reading_lists/45)
+
+And finally, for connect:
+
+I wanted to be able to start book clubs with my family, friends, and co-workers.
+
+I love book clubs. I love hearing other people's interpretation of the same book that I'm reading.
+
+I find that I have better reading comprehension and recall from books I've read as part of a book club than books that I've read solo. Due to quarantine, my normal book clubs were disbanded. 
+
+After doing a bit of research and reflecting back on my book clubbing experiences, I was able to story map it into this:
+
+* What is the book club? (Name, general description, public or private)
+* When is the book club? (Day, time, duration, meeting frequency)
+* Who is in the book club? (Members)
+* Where is the book club meeting? (Zoom)
+* Why is the book club meeting? (Discuss topics related to the book)
+* What books are we reading?
+
+By combining and presenting this information in an easy to follow way, I was able to create what I think is a lightweight and easy-to-use solution for managing book clubs, tracking your library, and discovering new books to read.
+
+I also added challenges. I found the challenges were useful in incentivizing myself to read for a few minutes longer every day. Completing challenges and interacting with my library earns points towards leveling up the leaderboards. 
+
+All that being said, I'm really excited to share what I’ve been working on. I'm not sure if this is allowed, but I'm going to leave the link here in case anyone is interested in checking it out [https://bukkuro.com](https://bukkuro.com)
+
+I’m hoping this tool can help people create positive reading habits, and provide a new way to socialize in this post-pandemic world. I think there’s a decent amount of work ahead to reach these goals, but I'm really excited to hear what you all think! I’d love constructive feedback about what works vs what doesn’t, so please check it out and share your thoughts!",I finally finished my quarantine reading project!,1607986801
+books,[removed],Anyone have a book/reading journal they recommend? A ready made one please!,1607986519
+books,"Just finished reading. I was so lost for words when I got up to the last page. That epilogue was beautifully done. 
+
+This is an incredibly complex book but I am so glad I read it. I mostly did for the thrilling plot points but I enjoyed the thought-provoking aspect as well. 
+
+My own thoughts:
+
+- I agree with a lot of people when they say Richard was an ‘unreliable narrator’. He was stoned all the time, drinking and whatnot, and he must have been so paranoid having to hear every bit of information secondhand. Honestly I feel bad for him. I could sense his disappointment and wound when he said he had no other story to tell. It’s quite sad. 28 is still young and here I just felt the mental dead end he came to in his mind, as if his life was for nothing but this. 
+
+- Charles was a wreck! Damn. I can’t say I’d imagine him being much more happier in the future. 
+
+- Francis is my favourite character. He still had heart in my opinion. It broke my heart when he tried to kill himself in the epilogue. I truly hope he would be able the cope with all the events. 
+
+- Henry being the ‘ring leader’ is so powerful to me. Probably because I’ve experienced it myself but I just understood the unnerving composure with which he held himself. Obviously he was not actually calm but he faked it quite well. 
+
+I have some questions:
+
+1. First of all, the twins: I kept wondering why Camilla kept allowing herself to sleep with Charles if she was uncomfortable? Is it because Charles was emotionally abusive so she couldn’t really escape from him?
+
+2. I’m not the only one who wants Richard and Francis to get together right? I mean I felt like Richard loved Francis. In another time, maybe. 
+
+3. How do you think they would all be coping in their older ages? (I’m especially curious about Charles lol)
+
+Thank you for reading!",Yet another Secret History (Donna Tartt) discussion [spoilers],1607986432
+books,"Has anyone come across this book yet? I found it about a month ago and finally had the time to read it. 
+
+Firstly, I’ll say that I’m not the biggest reader out there. Admittedly, I am very picky when it comes to books. In most cases, I read the first page or chapter and let that determine whether or not I want to continue or purchase the book. I’ve read many epistolary novels, but I don’t think I’ve ever found a book that made me feel so emotionally attached so quickly. I won’t spoil *A Letter to the Message Man* seeing how it appears to be fairly new and unseen, but I never would have thought I’d find myself so invested in a novel quite possibly not meant for my age demographic (haven't been in high school in years). I’ll break this up into small parts because there’s just so much I want to say about this hidden gem.
+
+**The Cover Art**
+
+Since it’s the first thing you see, I’ll get it out the way first. The cover art for this novel is probably one of my absolute favorites on my shelf. I’ll leave a picture of it [HERE](https://gyazo.com/7e0d74b69b7265b148c2817b830765f4) (not my picture). I’m also a sucker for creative on-theme book covers. 
+
+**The Novel Format/Structure**
+
+If you thought the book cover was unique, wait until you see how the novel itself is written. It’s written in multiple points of view of the 6 main characters. At first I was worried that this was going to hurt the novel due to the author having to write from the eyes of so many different people. Where some authors fall flat is when it comes to writing from multiple characters' point of view it making them all unique and have their own""voice"" so the characters don't blend together. Despite my worries, I never once ran into the issue of remembering which POV a chapter is from (it also helped that the novel tells  from whose POV of each chapter is written in under the chapter title). 
+
+**The Characters**
+
+The novel does a really good job at (1) finding a favorite character that you like and (2) making you care for the other characters you are introduced to. Their decisions and way of speaking are believable and easy to understand. My biggest pet peeve with novels that follow a group of teenagers is probably how their diction doesn’t match how real teenagers speak. Dialogue for me either makes or breaks the story. Luckily, this is where the novel really shines. There was never a moment where I thought a character was just too unbelievable. 
+
+**The Story**
+
+The novel is set up to be a two-parter. The first one takes place during the first semester of the school year. Being honest, I don’t normally like novels that intentionally chop up their stories, but for some reason, this one sat well with me. I never felt like there was a “down moment” where I felt like was it unnecessary. 
+
+I found myself constantly getting emotionally invested and sometimes even shedding a few tears with the events that transpired. The letters between one of the main characters and his pen pal also just felt so real and genuine that I kept forgetting this was all fictional…
+
+I can’t speak on how good part 2 will be since I couldn't find anything online about it, but if it dives deeper to everything that part 1 set up, this might easily become part of my top 10 favorite novels of all time. 
+
+**Closing Thoughts**
+
+This 350-page novel will most likely hit you in waves. Especially if you are around my age or even older and out of high school. I found myself reminiscing on my final years of school quite often.
+
+However, for those who have dealt with a significant loss in the family, I will leave this warning for you: There is a little bit of a dark tone to two of the chapters where one of the main characters covers experiences with the death of his brother in gut wrenching detail that made me take a break from reading and think about the people I’ve lost. The way it was written was masterfully executed. I had goosebumps for nearly the whole chapter when I first read it.
+
+If you've read it, please let me know what you thought of this book. I'm itching to talk to more people about it.",I Might Found My Favorite Book of 2020 [A Letter to the Message Man by Charles Allen],1607986408
+books,"In short:
+
+* They are fundamentally incompatible.
+* He does not share her goals.
+* He is not a match for her.
+* He does not treat her kindly or respectfully.
+* He uses her.
+* Eventually, she will resent him.
+
+Alternatives:
+
+* Contrary to The Cursed Child's depiction, she would have been fine as a single person.
+* Harry and Hermione could eventually happen.
+* Draco and Hermione are both goal-focussed individuals.
+* There are other ships but the important point is that Hermione should not be with Ronald.
+
+[I discussed this at greater length.](https://the45girl.com/why-hermione-granger-deserves-better-than-ronald-weasley/)",Why Hermione Deserves Better than Ronald Weasley,1607986073
+books,"My PhD major is in math and economics, but I always hold my interest in physics.
+I was the top students at physics in high school(not bragging just background statement). But probably lost my memory on basics.
+
+Now, I got more time at home study for this quarantine time. Any suggestions on self studying physics? There are so many college textbooks out there , what series are the best in your opinion.
+
+And despite the general physics, I do have specific interest in quantum theory but have zero prior knowledge. How should I start?",Books that help Self study on physics,1607984706
+books,[removed],Join intimate online book club ?,1607984278
+books,[removed],The 10 Benefits Of The Intermittent Fasting Lifestyle-Ebook,1607983638
+books,"I just started the audio book of The Good Daughter by Karin Slaughter and have just finished the prologue. I’m pretty shocked and horrified by the gore and the graphic details. I’m not usually that sensitive but it left me feeling very uneasy.
+
+On the other hand, I really really liked the story and especially the writing (seriously, it’s one of the best written chapters I have ever read) but I just don’t know if I can stomach the rest of the book (I also heard there’s a graphic description of child rape).
+
+Recently, I have read and absolutely loved Gone Girl and The Silent Patient, and I came across this book when I was looking for another twisted mystery novel, and most importantly, one with a big plot twist. 
+
+I’m considering stopping reading it even though it pains me to skip on such an amazing written book. Does it continue on the same depressing and horrifying note? Should I continue? If not, are there any other good books by Karin Slaughter that are less gory? 
+
+Other books I’ve already read:
+
+Before I Go To Sleep (S.J. Watson)
+
+Pretty Things (Janelle brown)
+
+Gentlemen and Players (Joanne Harris)
+
+The Thirteenth Tale (Diane Setterfield)
+
+Verity (Colleen Hoover)
+
+Overall, I would love to get other recommendations for mind blowing and well written books (by any other author) that will stay with me. Thanks :)",Should I continue or give up on The Good Daughter by Karin Slaughter?,1607982353
+books,"A YouTube channel that I follow (SoulPancake) just started a series where authors show us their bookshelves and reveal three books that influenced them. The host is great, it's a lot of a fun, and I picked up quite a few recommendations for my wish list.
+
+Here are the episodes that are out so far:
+
+[Samantha Irby](https://www.youtube.com/watch?v=zc7bQX_0C30)
+
+[Rachel Bloom](https://www.youtube.com/watch?v=ZMQbVmBggjo)
+
+[Laila Lalami](https://www.youtube.com/watch?v=DFcN4TReoMs)
+
+[Mikel Jollett](https://www.youtube.com/watch?v=KqBUPfxFm68)
+
+I highly recommend it!","Authors Show Their Personal Libraries on ""Show Your Shelf""",1607982265
+books,,"Authors Show Their Bookshelves on ""Show Your Shelf"" Hosted by Joel Stein",1607981825
+books,"My brother doesn't read much and struggles with attention and so will do almost anything to avoid reading, but recently he's actually enjoyed a few books, the rosie project and the elton john biography. Without getting into it, reading more would be very beneficial to him so I'd like to get him something for Christmas. Anything easy to read, and not fantasy, the more relatable the better, either fiction or non fiction!",A book for a non reader?,1607981809
+books,"To be honest, it's a pure chance that I started this book today: only *after* starting to read it I heard the news. Very sad to hear of his passing.
+
+
+Now, I've read a bunch of his books in the past, but it was a good few years ago. I remember the characters quite well, but the storylines not so much.
+
+
+My doubt is whether **familiarity with past novels is necessary** to enjoy this one? If so, can one give me a suggested list of the key novels -- without spoilers, of course -- so I can do a ""mini catch-up""? It'll probably be through finding synopsis online. Alternately I can put the book aside, find the books I haven't read (or those that need re-reading) and get back to this novel later on   (:","I started today reading Le Carré's ""Legacy of Spies"", and I've some doubt...",1607981780
+books,"So I started reading the fellowship and my god im already kind of lost. It doesn't help that my attention span is so shot that I can't even watch a single YouTube video in one sitting all while paying attention. 
+
+But anyways is lotr a hard book to read and understand or am I just dumb and should go back to YA novels.",Lotr is not an easy read right? Or is it just me?,1607981534
+books,"My friend and I were talking about this book they made us read in Junior High, we remember some of the story but we dont remember the title. 
+
+It was somewhat about this:
+
+It was about these orphans or disciplinary kids, the only thing we remember is that the girl who played mother mary in the nativity scene at the end had a change of heart, removed her earings, and had a change of heart about the character Mary. The book was written in 3rd person. It was some random kid telling the story I think. Please help us figure this out. This is all we know!",What is this Christmas book called??,1607981422
+books,"Hello everyone, 
+I don’t know whether it will make sense but I am going ahead and interested in what others think.. 
+We live in a post modern world and have the liberty to question everything. If you question long enough so many of our assumptions crumbles . Hence there comes a void. Let’s call it the truth void. We have more questions than answers. Science gives us or makes way some truth / facts but we can only see science making progress up to a limit as it is slow. But we will get there......... But......but.....but....
+If I had some ways to go there with the vehicle of psychology or philosophy or even religion, I am ready to explore. All I am interested is THE TRUTH AND NOTHING ELSE. 
+Thanks,",Truth Books,1607981416
+books,"I have a question about this novella. I understand that the willows themselves might be a personification of the forces of the other world, but I'm struggling to see how they cohere with the bronze coloured beings. It's odd as no analysis I've read really makes mention of these. What are the bronze beings that tower above the trees and how do they relate to the willows? Usually in stories like these one specific being or a type of being is given full reign to play with the narrator's mind, but in this there are two beings or forces, the willows and the bronze beings.",The Willows - Blackwood,1607980639
+books,"It’s been a long time since a book absolutely consumed me and I had to finish in one sitting. I simply could not put it down. This book is a masterpiece that introduced me to the world of Om Kalthoum. I’ve always heard of her and never bothered to look into her, until I read this book. It intertwines facts and fiction into a beautiful novel about the love story between the Star of the East and the poet Ahmad Rami that wrote most of her songs. The historical accuracy about the political situation in Egypt at the time made it all the more enjoyable. Highly recommend!",I loved you for your voice by Sélim Nassib,1607980600
+books,[removed],Best books about pirates you ever read (really existed and not)??,1607980164
+books,"The Christmas season has put me in the mood to finally read Charles Dickens “A Christmas Carol,” but every copy I find for sale has negative reviews saying it’s “incomplete with missing whole chapters” and in some cases having misprints with “paragraphs printed sideways.”
+
+Anyone know where I can find an acceptable copy of the book?",Looking for a complete copy of “A Christmas Carol”,1607979824
+books,"I live in a not-so-huge apartment and I have this giant, awkward, chunky bookshelf that I want to get rid of go have more space. I'm also running out of space on the bookshelf anyway...so it just doesn't work for me. I would like to find a way to organize or ""decorate"" with my books. I would prefer not to buy any new furniture, but rather arrange them on the floor or somewhere else in a way that looks nice. 
+
+Does anyone do this that could share pics or advice for inspiration?","Minimal apartment space, want to store books in a cool new way. Any inspiration?",1607979627
+books,"I am not a big connoisseur of Japanese literature, but I have noticed that several authors like Toshikazu Kawaguchi, Murakami, Mitsuyo Kakuta have recurrent references to the past and it seems as if their characters have some sort of unresolved issues with the past.
+Is this typical of Japanese culture - a fascination with the past?",Why are Japanese authors so interested in returning to the past?,1607979597
+books,"I liked it, but I didn't *love* it. I think it dragged quite a bit in parts, especially in the parts involving Denna. Too much of the book was dedicated to Kvothe chasing around Denna in my opinion, that part of the story was kind of a slog to get through. I was honestly just getting so sick of hearing about Denna in general that I kind of hoped she'd be killed off.
+
+Kvothe can also be quite pompous and it was annoying at times. If I had a nickle every time he said ""if you aren't a musician, I don't expect you to understand"". There's also a few parts in the book that made me roll my eyes, especially this part towards the end:
+
+&gt;*I have known her longer,* my smile said. *True, you have been inside the circle of her arms, tasted her mouth, felt the warmth of her, and that is something I have never had. But there is a part of her that is only for me. You cannot touch it, no matter how hard you might try. And after she has left you I will still be here, making her laugh. My light shining in her. I will still be here long after she has forgotten your name.*
+
+This was honestly embarassing to read, it sounds like it was written by an incel.
+
+Overall I did enjoy reading it. Wouldn't list it as one of my favourites and probably won't be quick to recommend it, but I'm still going to continue onto The Wise Man's Fear.
+
+How did everyone else feel? After doing a bit of digging it seems opinions are quite divisive, people either love it or hate it. I think I land somewhere in the middle.",I just finished reading The Name of the Wind,1607979135
+books,,"Celebrate Jane Austen's Birthday With a 360-Degree, Interactive Tour of Her House",1607979103
+books,[removed],The Magicians Guild,1607978476
+books,"Just finished reading it. Incredible work.
+
+However, I do feel like Fussell glosses over too much the longer metrical feet and exotic substitutions (say choriambs and double iambs). English is not Greek or Latin, yes, but it seems absurd to claim that the entirety of English meter can be found in two or *occasionally* three syllable breaks when our grammar quite clearly supports polysyllabic constructions. For example, in Keats' ""On the Sea"":
+
+ *It keeps eternal whisperings around*  
+*Desolate shores, and with its mighty swell* 
+
+The ""Desolate shores"" strikes me as pretty blatantly a choriamb, and one meant to evoke the push-and-pull nature of the ocean tides, as opposed to merely a trochee followed by an iamb. Fussell's analysis leaves little room for that kind of observation.
+
+P.S. He recommends the reader to next visit Seymour Chatman's *A Theory of Meter*, **but I have no idea where to get this**. It's been out of print for a long, long time and old copies are on Amazon for $100+ with weeks delay in shipping time. I managed to snag the third (and only the third) chapter, but that's probably the one that interests me the least. Any help would be really appreciated.",Thoughts on Paul Fussell's Poetic Meter and Poetic Form? + Chatman's A Theory of Meter,1607978468
+books,,"One Day in December, a review by Allyson",1607977749
+books,[removed],What is a shared theme in Winter Dreams and The Great Gatsby?,1607976854
+books,,How Civil Disobedience Safeguards Freedom and Prevents Tyranny,1607976813
+books,"Hello dear readers. We know that 2020 is coming to its end, and I guess many of us did make a list of what they want to read next year. Personally I did, a 50 books list containing different fiction and non fiction books. What about you? Any books in mind to read? Or will you just go with the flow and improvise. Thanks",2021 reading resolution.,1607976165
+books,[removed],Book download,1607975911
+books,"Due to the difficulty in (completely) comprehending a sentence after I've read it without straining myself, even though I can fluently read the words both aloud and my mind, I've read up on fixation and saccades. Currently, I'm (attempting to, at least) moving my eyes from left to right in a continuous line, focusing more or less on one word each time; I've read that this is inefficient and doesn't allow for enough time to extract meaning from a sentence.
+
+What's you're average words per fixation? Would it be worth it to try and increase mine?
+
+P.S. I don't really know what my problem is, the closest thing I can describe is that I'm reading a sentence... my eyes move across the line... but by the time I get to the end of the sentence, I'll forget the previous part of the sentence in extreme cases, or won't retain much of the previous part of the sentence. I think it's this that causes me put considerable effort in understanding what I'm reading in a sentence whilst reading the sentence; when I should just be able to read it and understand it, you know? And on top of that whilst reading the next part of the sentence I'll actively attempt to remember what I've read in the previous part of the sentence... whilst reading the latter part. That's probably incomprehensible but it's as best as I can describe",Words per fixation?,1607975831
+books,[removed],Book Platforms,1607975340
+books,"Hey guys. I just thought about this. I was contemplating on how good Neuromancer is (see my Neuromancer post for more detail) and I was like ""Wow, William Gibson, you're a genius. Amazing how one man reinvented one genre with one novel."" And it's true right? Neuromancer did reinvent cyberpunk, you know what I mean. So yeah, this is what I'm asking. What is one book that completely changed the entire genre? Did it change your perspective on the genre (before reading the novel)? Why or why not? Thanks a lot.",One man reinventing one genre with one novel. Did those novels reinvent that respective genre for you? Why or why not?,1607975054
+books,[removed],The first FNAF UNofficial novel. DIGITIZED by Ashton Moseman.( book not out yet).,1607975043
+books,[removed],Book Platforms,1607974852
+books,"I am going to do an audiobook for a school project, I like doing voiceover work, and I really like to read, so I decided to do both. Some books that I would like to do are, where the sidewalk ends, Anna Green Gable ‘s, treasure Island, and Sherlock Holmes. I know that treasure Island and Sherlock Holmes are in the public domain, but are Anne Green Gable‘s and where the sidewalk ends in the public domain?
+
+I looked online as well, but I cannot find any information on whether an of Green Gables or where the sidewalk ends are in the public domain. The articles on them are pretty long and boring, and they don’t give a straight answer. Can anyone help me please?",I need help with information for an audiobook,1607974729
+books,[removed],Looking for ‘The Last Hunt by Bruce Coville’,1607974453
+books,[removed],"Ideas for awards for a book club, beyond “best book”",1607973482
+books,"Wow, what a mindfuck of a book. I seriously had no idea what I was reading the first half of the book. Once I got used to John’s quirky nature, David’s sort of assholish behavior, and just the plot jumping around with new things being thrown at me; it was fucking awesome. At the end I found myself just completely open mouthed and in shock at the revaluation. I bought the next book in the series and I’m so excited to see how the story progresses. 
+
+I was recommended it by a friend and after he also asked me to reread the beginning opening and explained it better to me. Fuck. I cannot get over how wild of a ride this book was. Please discuss with me!","Just finished John Dies at the End by David Wong, let’s discuss (warning: spoilers and explicit)",1607973217
+books,"It’s kinda strange. I never realized it before. Even though Faulkner’s book (Sanctuary) was boring as all get out, I keep thinking of the characters. I wonder how they’re doing or what their up to. I don’t get that book craving, you know? Where you just want to keep reading. I don’t want to read about Temple and Popeye, I want to go hang out with Temple and Popeye and it makes me sad and lonely knowing that I can’t. The book is over and we’re not friends anymore. We hung out every day, glued at the hip, peas in a pod, in it together, and I’ve been dumped. They left me. I feel like their story continues without me, like they went to a party and didn’t invite me. Literature involves you then abandons you and it’s fucked.",I’m lonely when I’m not reading.,1607972921
+books,"I've been reading a lot about John Le Carre's work since his passing, and I want to try and read a few of his novels. However, I'm not sure where to start. Most of the obituaries mention The Spy that Came in from the Cold as his first successful novel, but it seems like that's the third book about George Smiley. Additionally, the Karla Trilogy seems like his best known work but I'm not sure if I'll lose context if I start in the middle. Does anyone have suggestions?",How should I start reading John le Carré?,1607972600
+books,[removed],"New reader here, Why initial pages of a book are always hard to comprehend? And later on the same book reads easy.",1607971746
+books,,"John le Carré, author of Tinker Tailor Soldier Spy, dies aged 89",1607971610
+books,,The Five Books Bill Gates Recommended for 2020,1607970802
+books,"Hey guys. How are you? Today, I was wondering what this subreddit's opinion on comics is? I love this subreddit full of bibliophiles, but I'm also a comicphile. I think comics are cool. Sure, everyone says that they aren't really ""real reading"" but I beg to differ. This article summarizes it nicely: [https://bookriot.com/comic-books-count-as-reading/](https://bookriot.com/comic-books-count-as-reading/). It's just that I've seen a lot of people stereotype comics as immature, childish, and unrealistic. I think that comics are just like books. They tell stories, just through pictures and stuff. I think comics are just like any other piece of literature. Let me know what your opinion is on comics? Thanks",What is r/books opinion on comics?,1607970693
+books,[removed],Books in other languages (Russian),1607970574
+books,"I have a question on a certain quote in the book, it was towards the start of the book when Sam was first introduced. He mentions in chapter 6 ""It is an ill wind dat blows nowhar..."" and I want to infer this is referring to the escape of Eliza being fruitless, but what does that idiom mean? I have never heard of it before and I want to understand why Sam said that when he ended up pretty much helping Andy with stalling the Slave trader. Likewise, he tends to say High, and I likewise have never heard the word used in such a way as an expression of shock, is this a relatively old way of expression for something disturbing?",Uncle Tom's Cabin Question on Idiom,1607968950
+books,[removed],Can you recommend me a good asthetic cooking book?,1607966635
+books,[removed],Weirdo Fiction,1607965593
+books,"A discussion about Tom Clancy sprung up in the John Le Carre obituary thread. I was going to comment there, but didn’t want to hijack that thread. (The passing of Le Carre has hit me hard; one of the giants of postwar fiction)
+
+re Clancy: I have never seen a greater fall-off in fiction quality over a writer’s career.
+
+Tom Clancy is credited by many with inventing the technothriller genre. And I don’t think anyone has done it better since. *The Hunt for Red October* and *Red Storm Rising* are the best modern military fiction books I’ve ever read. Others have had commercial success with technothrillers: Coonts, Dale Brown, some Crichton, some James Rollins – but IMO no one has equaled the early Clancy books.
+
+Read *The Hunt for Red October* and *Red Storm Rising*. Especially *The Hunt for Red October*. You may find yourself intrigued by topics you didn’t even know existed – things like sonar tactics, antisubmarine warfare, and Warsaw Pact armor strategies (remember when the Warsaw Pact was a thing?)  And Clancy was so detailed and accurate, you may even feel knowledgeable enough to embark on a naval mission.
+
+*Patriot Games* and *The Cardinal and the Kremlin* were decent espionage thrillers, especially Cardinal – though not equal to Le Carre, Greene or other masters of the genre. *Clear and Present Danger* kept me entertained.
+
+But I could barely drag myself to the finish line for *Sum of All Fears*.  I started *Debt of Honor* but Clancy’s writing had devolved into a mix of repetition, cliches, and outlandish and unrealistic plot twists. I’ve flipped through a couple of the later works but couldn’t stomach them. 
+
+What happened? Was Clancy a one- or two-trick pony? Did the end of the Cold War ruin his plotting, whereas someone like Le Carre was able to adapt and thrive? Did the Jack Ryan universe get overextended – might Clancy have reinvigorated his storytelling by ditching Jack Ryan and company and giving us some brand new characters and storylines?
+
+It’s a shame, because as the John Le Carre thread shows, the consensus is that Tom Clancy and good fiction go together like horse dung and Swiss chocolate. Yet I think his early fiction is highly entertaining and unique – a type of storytelling nobody had done before and has never really done since.",An appreciation for early Tom Clancy,1607965133
+books,"Okay other people think that her books are great but here's my opinion, Her books suck! Like they are so boring that I can't even go through the whole book because it's so boring. For me I'm the type of person who loves reading, especially fiction. And her books (some of them I guess I haven't read through all of them but the one's I was reading was fiction). Fiction books are supposed to be exciting but her books are so boring it makes me want to sleep. Now I know some of you might not at ALL agree with me but the least we can all do is agree that SOME of her books if not ALL suck and are very boring.",Jodi Picoult's books suck!,1607964384
+books,[removed],Thoughts on Louise Penny's writing style? (Inspector Gamache series),1607964136
+books,[removed],رپورتاژ آگهی برای افزایش نرخ بازگشت سرمایه استفاده کنید,1607963874
+books,"Given the recent accusations and claims of copying Eggerues work - has anyone read both? Are these claims well-founded, are they vastly different books with similar themes from two young authors? How do people feel? 
+
+[https://www.independent.co.uk/life-style/women/chidera-eggerue-florence-given-copy-book-instagram-b1769249.html](https://www.independent.co.uk/life-style/women/chidera-eggerue-florence-given-copy-book-instagram-b1769249.html)",Chidera Eggerue / Florence Given,1607963791
+books,,How to Tell If You’re a Jerk,1607963434
+books,,Youth by Isaac Asimov An InstaThot VidoeBook,1607961803
+books,[removed],Average words per fixation?,1607961683
+books,,النحو من الصفر إلى الإتقان | المرحلة الأولى3 | ما قبل الآجرومية | الحرف ...,1607961387
+books,,TubLove: A Poetry Art Book,1607961251
+books,"I fill the tub with warm water, add salts, oils, fruits, and herbs. Turn off the lights, light candles and play ambient relaxation music. I submerge into the water up to my nose. I feel the water up against my skin and smile from the warm embrace around my entire body. I soak in the lavender, eucalyptus citrus as they permeate through the layers of my skin. What a vessel this body is, what powers it possesses. I am floating in my love as my heartbeats, sending ripples across the surface. Bliss. My mind untethered to the anchors of the realities of this world, joins in harmonious reunion with my soul and body as they vibrate in liquified air. Sunk at the bottom I cry and cry until the water overflows onto the tile floor. It feels so good to feel the tension and heaviness filter out of essence. What magic lay in this place. Within the water. WIthin me.  Milky now and no longer steaming, I pull up on the tub stops. Gravity pulls the water down the drains past my chest, legs, and feet. I am not the same human I was at fill nor will I be at drain. 
+
+This is healing
+This is water
+This is transformation
+This is you, me, humanity
+This is TubLove",TubLove: A Poetry Art Book,1607961143
+books,[removed],The yellow wallpaper,1607960023
+books,[removed],"Book review blogs, podcasts, or Youtube: which do you prefer?",1607960012
+books,"After reading The Prestige novel (which, as many others did, I found lackluster compared to the movie) I was left with basically two questions:
+
+1) At the beginning of the novel the author states that a Church was set in the main part of Caldlow House. Moreover, he emphasizes that its Pastor is known for being able to be at two places at the same time (I think he was at once in jail and visiting someone). That seems like a very strange and salient plot point, since that ability connects him with both Borden and Angier. However, nothing is said about him afterwards. What are we supposed to make of his ability? Does he have a twin brother? Or has he used the machine in s faulty way, like Angier, and was left with two 'functional' copies of himself?
+
+2) Andrew Westley is sure has a twin,, which to an extent turns out to be true. However, how is that he can ""hear"" his (dead) copy talk to him? He states twin brothers share q connection and that the phenomenon has been widely documented. But surely that doesn't extend to a dead twin? Or is it implied that all the copies left by the machine are not really dead?","Christopher Priest's ""The Prestige""",1607957890
+books,,Blog Tour Review: Slightly Murderous Intent,1607956146
+books,,Why Hermione Granger Deserves Better Than Ronald Weasley (Long-Awaited Post) - They are fundamentally incompatible. He does not have the same goals as she doess.,1607955863
+books,[removed],Would you mind checking out my book?,1607955376
+books,[removed],His secret obsession,1607955235
+books,[removed],I love books and I made something that helps show that.,1607954687
+books,[removed],Instagram Monetization for beginners,1607954449
+books,,"I made this because I love books so much. Out of all the genres, I love fantasy-adventure the most but I've read a lot of others too. I hope this helps rekindle your love for books and I'd also like to know some of your favorites as well because I wanna read more good books :D",1607954390
+books,[removed],Looking for a ressource on the history of mythologies and legends that are used in the modern Fantasy genre,1607953565
+books,[removed],Hi!!! I'm looking for books that are similar to the Star Trek: Discovery series,1607953306
+books,,"Hello, friends! If you’re feeling the need for a study buddy to get your motivation and productivity going, I’m sharing my “Study With Me” videos. I would really appreciate it if you could go and subscribe to the Channel and share with your friends and family. All of your support helps!",1607952837
+books,[deleted],"From boxes of memorabilia, sifting out a life: In her debut memoir, Danielle Geller researches her elusive mother — and the meaning of family.",1607952622
+books,[removed],Trauma/Anger Self Help Books,1607952116
+books,,"Jason Reynolds Buys His Books, Gives Them Away",1607951202
+books,"I found 3 complains about her translations.
+
+1- That she omits paragraphs. How much is this the case in CnP?
+
+2- Her language is dated. What does this even mean? That people are too lazy to check up on a dictionary while reading an archaisms?
+
+3- That there are better ""modern"" translations (McDuff). In what sense modern? Neologisms instead of archaisms? Or something else?
+
+Does she convey the philosophy good enough?
+
+Thank you :D!","Regarding Constance Garnett's translation of Dostoevsky's Crime and Punishment, how accurate are people's complains?",1607950412
+books,[removed],Has anyone read Never Let Me Go by kazuo ishiguro?,1607949641
+books,,personal blogs,1607949295
+books,"In the book, the author writes “Only connect! That was the whole of her sermon. Only connect the prose and the passion, and both will be exalted, and human love will be seen at its height. Live in fragments no longer.” 
+
+I've not read this book yet but I wanted to learn about how ""Only connect"" can be used in our daily lives. I read some analysis about this quote but I wanted to hear what people in this sub think about it. Let's share each other's thoughts about this quote.","What's the meaning of ""Only connect!"" in Howards End by E.M. Forster?",1607948064
+books,[removed],"What's the meaning of ""Only connect!"" in Howards End by E.M. Forster?",1607947565
+books,"I'm reading the Hornblower series and it's really great!
+
+I love his adventures, and how he goes all around the world. Also, it gives a really in-depth look into the politics around the Napoleonic Wars.
+
+This series is on track to becoming my favorite for all time.
+
+The only thing I didn't like is how Hornblower is always talking about the French sailors as sloppy or badly-disciplined. At first it didn't make a big impression on me, but it's kind of annoying (probably because I'm not English myself).  
+
+Also I kept wondering if the views were Hornblower's or the author really felt that way about other nations. It would make sense for Hornblower to think that way since he's a Royal Navy officer and all.",The Hornblower series,1607947544
+books,"I don't think I've read any book with animals as main characters in years and I was very excited about  Perestroika in Paris. Jane Smiley is a Pulitzer Prize winner and after reading the book I can understand why. Its the first book by her which I've read.
+
+Paras, short for Perestroika is a race horse who is very loved and also loves her rider and caretakers, Delphine, Rania and Madeleine, finds the gate of her stall unlatched one day and driven by curiosity decides to check out if the grass is greener on the other side (literally and figuratively) She meets Frida, a German short-hair who is very adept at all human ways especially money - things which were taught to her by her human companion, Jacques.
+
+Paras and Frida meet other animals. Sid and Nancy, a disgruntled mallard couple and Kurt and Conrad, two house mice. But the character which I loved the most was Raoul Corvis Corvax, twenty third of his name, a know-it-all raven. There are some humans in this animal world - Pierre, a gardner, Jerome, a shop owner and Anais, a baker, all of who meet the group at some point.
+
+I felt like it was such a perfect fairytale suitable for all ages. The anthropomorphised animals learn so much. Raoul realizes that he does not know as much as he thinks he does. Frida learns to love other humans since Jacques one day 'disappeared'. It became even more perfect with the introduction of Etienne, a young boy who takes care of his 97 year old great grandmother since he has an innocent perspective of the world and makes the animals feel at home, literally.",I just finished reading Perestroika in Paris by Jane Smiley and I loved it so much ❤,1607945907
+books,[removed],Free Ebooks,1607945528
+books,[removed],The right plant-based diet for you,1607945481
+books,,"Ben Bova, Science Fiction Editor and Author, Is Dead at 88",1607945237
+books,"I posted this in the Goodreads-subreddit, but I'll try here as well. I know there is a rule against asking for help with homework, but don't think I'm breaking that one when asking this question.
+
+I'm currently writing a term paper on the user experience of a web site of my choice. As an avid user of Goodreads, I wanted to use it as my example. I have a love/hate relationship with Goodreads. It is by far the literature site I use the most, but there is also so much about the site that I'd like to be improved.
+
+I'm asking this community for input. What are your experiences with using Goodreads, especially regarding the information architecture? What functionalities would you like to be improved, implemented or removed?",How is you experience of using Goodreads?,1607944269
+books,"Hi everyone!
+
+What are you reading? What have you recently finished reading? What do you think of it? We want to know!
+
+We're displaying the books found in this thread in the book strip at the top of the page. If you want the books you're reading included, use the formatting below.
+
+**Formatting your book info**
+
+Post your book info in this format:
+
+**the title, by the author** 
+
+For example:
+
+**The Bogus Title, by Stephen King**
+
+* This formatting is voluntary but will help us include your selections in the book strip banner.
+
+* Entering your book data in this format will make it easy to collect the data, and the bold text will make the books titles stand out and might be a little easier to read.
+
+* Enter as many books per post as you like but only the parent comments will be included. Replies to parent comments will be ignored for data collection.
+
+* To help prevent errors in data collection, please double check your spelling of the title and author.
+
+-Your Friendly /r/books Moderator Team","What Books did You Start or Finish Reading this Week?: December 14, 2020",1607943613
+books,"Hello readers!
+
+Every Monday, we will post a calendar with the date and topic of that week's threads and we will update it to include links as those threads go live.  All times are Eastern US.
+
+---
+
+Day|Date|Time(ET)|Topic|
+-|-|-|-
+^Monday|^(December 14)||^(Your Year in Reading)
+^Monday|^(December 14)||^(What are you Reading?)
+^Tuesday|^(December 15)||^(Simple Questions)
+^Wednesday|^(December 16)||^(Literature of St. Lucia)
+^Thursday|^(December 17)||^(Books about Monkeys)
+^Friday|^(December 18)||^(Weekly Recommendation Thread)
+^Saturday|^(December 19)||^(Simple Questions)
+^Sunday|^(December 20)||^(/r/Books' Best of 2020 Voting Begins)
+^Sunday|^(December 20)||^(Weekly FAQ: How do I better understand the book I'm reading?)","Weekly Calendar - December 14, 2020",1607943610
+books,,The Bombardians,1607942379
+books,"I was looking online and saw this post where u/Username20x6 quoted the the now deleted account u/Radical3 about the meaning of Lemony Snicket's book series and they said this
+
+&gt;I think the whole point of the series was that the world didn't get any better, they just got better at dealing with it. When you're a kid you think being an adult is like this secret club, but when you get there it's not really any different. There are no special abilities or information you gain when you join VFD, it's not a single moment, you just get more involved in the world and slowly become a part of it, not just being affected by the world but affecting it. Because everyone is in VFD, it's a secret club of which every person in the world is a member.
+
+and
+
+&gt;not just adulthood, but responsibility and maturity. The Volunteer Fire Department, taking the safety of the world into your own hands not because you are forced to but because it is your choice (""volunteer""). When they find out about it in book 5 they think it's the thing that's going to help keep them safe and save them from Count Olaf. But when they actually find it, it's not a thing to keep them safe but a thing they have to keep safe. Adulthood is not impermeability, it is a trial to be overcome. All of life is just a series of unfortunate events, the important thing is how you respond to the shit you're handed
+
+https://www.reddit.com/r/FanTheories/comments/109v9z/request_a_series_of_unfortunate_events/","This old reddit post is the best explanation of ""A Series of Unfortunate Events"" I've ever seen",1607941660
+books,"Welcome readers,
+
+The year is almost done but before we go we want to hear how your year in reading went!  How many books did you read?  Which was your favorite?  Did you keep your reading resolution for the year?  Whatever your year in reading looked like we want to hear about!
+
+Thank you and enjoy!",Your Year in Reading: 2020,1607940014
+books,"For the 1st time I've set my challenge in Goodreads and completed it. I've set 30 books and I've finished my 30th book now. I'm soooo happy!!!!. Last year I've read 5 books but this year I've read 30. I'm speechless. Beginning of this year I've never imagined I'll complete this many book. But I've achieved it. Thanks to you guys. I've read some books that you recommended. And it was awesome. Can you guys recommend for 2021?
+Thank you
+Happy reading : )",Challenge completed,1607938964
+books,"Hi, I'm a senior college student and I have a finance job at a large company lined up after I graduate in the spring. This job will most likely result in 50+ hour work weeks for me, not to mention lots of stress. I am also studying for a very difficult finance exam (CFA) to help my career progression but this will require \~ 300 hours of studying until I take it in May. 
+
+My 2021 New Year's Resolution is to read at least 12 books (or 1 book a month) but I'm not sure how I can do this with my busy schedule. 
+
+So, I am curious to hear: How do extremely busy people have time to read?
+
+Thanks!",How do people find time to read in college and/or working full-time?,1607938409
+books,[removed],Bought books that suit my taste. But I can't get myself to allocate a time to read them. How to fix this?,1607937967
