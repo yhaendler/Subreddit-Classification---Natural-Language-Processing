@@ -1,0 +1,381 @@
+subreddit,selftext,title,created_utc
+datascience,"I’m a junior majoring in physics but leaning towards data science and fields related to that. Wondering if taking a break (to hike the PCT for 6 months ) after I graduate is a good idea. Would it it hinder my job prospects? Would it look bad? 
+
+I really want to do this journey of walking 2600 miles for my self and arguably it could offer a fresh perspective. But I want to know if anyone else has done something similar, a personal journey that wasn’t necessarily directly beneficial to their career and how did affect you afterwards?",Halting further education for other pursuits,1615329818
+datascience,[removed],Looking for a way into the industry,1615329370
+datascience,"Currently a Data Analyst with a Maths background. Love it but would also like a job with more Python or R and some Machine Learning.
+
+Is a Masters the next step? Have done a few smaller courses in Machine Learning, Deep Learning and Python also.",Is a Masters degree the only route for a Data Analyst to become a Data Scientist?,1615328234
+datascience,[removed],Data sources for bankruptcy prediction?,1615328129
+datascience,"Hello, I’m currently in a undergraduate data science club and we had a chief analytics officer from a company come in and speak to us about linear programming and optimization. It was towards the end where I had asked him how optimization techniques could be used in predictive modeling and machine learning. He told me that the concepts he was telling us about actually didn’t fall under predictive analytics, but prescriptive analytics. The difference being predictive analytics is using previous data to predict new outcomes, and prescriptive analytics being using previous data to find what the most optimal solution is. That peaked my interest because thus far I have had a rather narrow view on data science with only predictive analytics and machine learning as my focus of interest, however I wanted to learn more about the prescriptive analytics side.
+
+For those of you who work with prescriptive analytics, what are some math topics or sub topics that could help me explore this? I’m a statistics student and naturally my tendencies have gone to predictive modeling with machine learning, so I’m wondering what other math concepts would be useful for prescriptive analytics?
+
+Linear programming? Optimization? Graphs?",Prescriptive analytics subtopics?,1615323381
+datascience,"Hi, i've a csv dataset, and this table i've a datetime value of this type: **( Month/Day/Year) a example (03/07/2020) so i want to use this date how value of the x\_axis beacause i want to see how a value change on time, how can do it with bokeh?**",Pyhton Bokeh: pass date how x_axis value,1615320631
+datascience,"Researchers at the George Washington University are looking for parents/caregivers to participate in a short study that examines how parents in a family system react to learning that their child (adult or minor) does not identify as heterosexual. This study has been approved by the university's Institutional Review Board. (Note: parents are encouraged to participate regardless of their child’s gender identity; only parents living in the USA may participate at this time)
+
+For more information, or to participate, visit our study site [here](https://www.surveymonkey.com/r/JSBQNBR).",Parents of LGBQ Individuals Sought for Research Study,1615319582
+datascience,[removed],New to Data Science!,1615319315
+datascience,"Hi everyone!
+
+I've seen quite a lot of compelling arguments, such as [this talk](https://www.youtube.com/watch?v=68ABAU_V8qI&amp;list=LL&amp;index=1), which someone linked to in this sub the other day, for simple models combined with feature engineering. However, I haven't come across effective tutorials or explanations of *how* to wield this one-two punch in action. Can anyone suggest educational resources?
+
+Thank you!",Best Resources on Feature Engineering,1615318283
+datascience,"What are some good project ideas that mainly involve linear regression, multiple regression, or any kind of regression?",Regression Project Ideas?,1615317434
+datascience,"I am basically at a crossroads where I can continue growing in DS and MLOps and DS management or focus more on data governance. I'm in my late twenties and my career goal is to one day be CDO and I have been thinking a lot recently about which pathway will provide me with the best learning and development opportunities and will best equip me for that role. On one hand, data governance is about people, documentation, process, driving a data-oriented culture and doing it right and that is a great path to be on if your plan is to one day be CDO, on the other hand I do like data science, particularly the maths, stats, and MLOps part of it and I have been successful at it so far at my company - would I be pigeon-hole'ing myself too much if I stayed on the DS track? Shall I seek a more data management / governance oriented track? Would you say that someone with a background in DG would have a competitive advantage?
+
+Thank you.",CDO of the future: background in data science or data governance?,1615315357
+datascience,Hello guys. I hope you’re all safe. I just joined this subreddit so I don’t know if we can ask questions here or not. I just completed my bachelors in Petroleum and natural gas engineering and I really want to pursue my masters degree in Data science. Is it possible to switch from petroleum to DS? Will I have too much difficulty adapting to the data science world. Any opinions or suggestions are welcome. Thank you.,A Confused engineer,1615309673
+datascience,,Data Version Control | Git for Data &amp; Models,1615307245
+datascience,"I'm a Data Science Intern right now and this is my first ever data internship. I only recently started exploring the field so I'm pretty new to most stuff. I'm also not a CS major (STEM however) so you'll understand why this is brand new for me. I've been in this internship since Feb and honestly, I'm struggling and I'm not sure I like it. So to avoid a rant, I'll put everything into points:
+
+1) My manager is focusing heavily on R&amp;D and most of my time is spent exploring new tools and new ways to approach the business problems. I know it sounds great but he's very intense and not easily satisfied and this vague goal of just ""exploring"" something is really messing with my head. Since I'm new to tech stuff really, it takes me a while to figure out things and we have daily update meetings where I just don't feel like I measure up. Is most of Data Science really spent on R&amp;D? And should I be asking for more direct tasks instead of vague stuff?
+
+2) How do you get faster at coding and especially debugging? Cause there are so many ML concepts that I don't know and studying each one before implementing makes me slow and those daily update meetings are hell. And then debugging is whole other issue on its own. 
+
+3) How long does it normally take to implement basic techniques? For example, I'm working on using CRFs for NER on a dataset I have. It took me two days to do this and I think my self doubt is magnified considering that my manager doesn't give me any positive feedback. 
+
+I think the environment at this company isn't great at all and my manager doesn't like me as well. I could really use some advice on navigating this because I need a letter of recommendation from my manager, somehow.",Advice on how to navigate a DS internship?,1615306914
+datascience,,Redata - Open-Source platform that helps you monitor data-quality in all your tables.,1615306114
+datascience,[removed],Which jobs to avoid as a PhD transitioning to industry as a Data Scientist?,1615305974
+datascience,"I have been accepted to 2 master's programs in 2021-22 and need some advice on which one would make me more employable in data science.
+
+I finished my bachelor's degree in psychology and business in July 2019 and have about 4 year's working experience in data analysis using both Python and R professionally. I have carried out data analysis for many projects using different techniques and feel very comfortable with the analytical part of data science, and have a strong background in statistics (my undergrad consisted of quite a few stats courses and I have taken some freestanding courses while working after graduation). I have also taken MOOCs on data science and SQL, but I know they're not alsways super impressive to employers.
+
+However, I feel like in order to be taken seriously as a data scientist, my psychology and business degree doesn't really cut it. Therefore, I applied to some master's programs in order to get some more tangible 'proof' that I know data science. I've gotten into [Applied Social Data Science at LSE in London](https://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2021/MSc-Applied-Social-Data-Science) as well as [Information Studies: Data Science in Amsterdam](https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html). I'm choosing between the two and don't really know which one to pick.
+
+On the one hand, Amsterdam is a growing market after Brexit with an increase in jobs compared to London. The program there is also more focused on Data Science specifically, and not the intersection between Social Science and Data Science (as is the case at LSE). On the other hand, the program at LSE is extremely competitive, with only about 6% of applicants getting a spot. This makes me think it might give me more access to employers and that they have better connections?
+
+Since I'm not a professional working in the field, I thought I'd ask for help to see if anyone knows anything about Amsterdam vs. London as an employment market for data science, and if Social Data Science as a degree will be seen as an actual data science degree, or just preparation for using data science to study social science.
+
+Happy for any help, sorry for the wall of text!",Which degree program to choose?,1615305553
+datascience,Which HIPPA compliant Survey conducting systems other than REDCap and Qualtrics do you know? What advantages they have over REDCap and Qualtrics?,Any HIPPA compliant Survey conducting systems other than REDCap or Qualtrics?,1615305089
+datascience,[removed],Free Acess to DATACAMP 2 MONTHS,1615304991
+datascience,"So I graduated from Chemical Engineering couple of months ago and last month while I was looking for jobs, I came across a great freaking opportunity, a government-sponsored Python Specialist training for 4 months with a guaranteed job in a related area afterwards! Turns out my country's in a dire need of programmers ( they think they should train young, recent STEM graduates to become future programmers, because in the future that's what they'll need etc. ). I didn't hesitate for a second and after a couple of exams and interviews, I got accepted into the training. First week in, they've e-mailed out the entire training schedule and I wanted you guys to let me know if there's enough emphasis on data science education in the training(the programme outcome says I will be able to work as a data scientist/analyst with the training I'll have received.). Python Specialist training is comprised of:
+
+- Intro to Advanced Python (63 hours)
+- Web, HTML, CSS, Javascript (35 hours)
+- Intro to SQL (35 hours)
+- Web with Python (28 hours)
+- Machine Learning (28 hours)
+- GUI with Python (7 hours)
+- Projects (84 hours)",Data Scientist Wanna Be needs advice!,1615304389
+datascience,[removed],Knime + Google Data Studio,1615303829
+datascience,"Data Science Skills are considered necessary by various Data Science Scientists, Machine Learning Engineers, and other related professionals. The core data science skills are not only recent but are helpful and essential too. 
+
+[https://www.dasca.org/world-of-big-data/article/data-science-core-skills%E2%80%93what-matters-the-most-in-2021](https://www.dasca.org/world-of-big-data/article/data-science-core-skills%E2%80%93what-matters-the-most-in-2021)",Data Science Core Skills – What Matters the Most in 2021,1615303792
+datascience,"I’m currently a first semester masters student in applied statistics. I am currently looking for internships/co ops to gain hands-on experience but it seems like I am not a good candidate due to my lack in programming experience (R, Python, SAS). 
+I studied biology in undergrad and received a BS in Bio. I currently work for a small medical/physician company and my day to day work consists of minimal amount of math on excel. The medical field wasn’t a great fit for me and I decided to do a career change to data science. I learned Python on my own via edX, but not enough to claim it on my resume or LinkedIn. My program offers classes in R and SAS, but I can’t take it until the Fall, which delays my ability to gain experience until 2022.
+What are some resources I can do in addition to my classes to become a better candidate for data science internships? What’s a great way to learn and practice coding? Any advice is greatly appreciated!",How to gain experience in the data science field as a masters student in applied statistics?,1615303375
+datascience,,Is it Spark the best solution for image analysis clusters?,1615302531
+datascience,"I'm a little tired of the competition for technical jobs, and studying leetcode, statistics, and systems design outside of work.
+
+
+
+
+Since I'm already a data scientists, are there any non-technical jobs at tech companies we should consider?",Non-technical careers for data scientists?,1615302436
+datascience,,A Hybrid Apache Arrow/Numpy DataFrame with Vaex version 4.0,1615301587
+datascience,"I will be starting work soon as a Data Scientist Intern at a Fortune 20 non-tech company. My Hiring Manager told me that there will be machine learning and automation involved using Python. But that there will also be a lot of Excel and some PowerBI. Now initially, I thought it was more of a Data Analyst or Business Analyst position, but there are actually seperate positions specifically for those roles. And my position is officially: Data Scientist Intern. So I am unsure what to expect and what I can do to prepare. Any tips and advice would be greatly appreciated.",What to expect as a Data Scientist Intern at a big non-tech company?,1615300676
+datascience,"Hello, I am currently a graduate student in management who graduated last year with a degree in electrical engineering from a top 20 engineering school. I didn't like EE and after taking some data analytics classes in my current program I realized that this is something that really interests me. I decided that I would want to pursue it in the future but was wondering the best way to do so. I couldn't apply to data analyst entry-level jobs since it I don't have the skills required for it.
+
+I started looking at certificates and one certificate that caught my attention was UT's Certificate in Data Science and Business Analytics. This led me to UT's Master's of Science in Data Science and GeorgiaTech's OMSA master's program. 
+
+I was wondering if anyone knows if these programs (which are cheaper compared to others) are worth it and would be beneficial in me landing an entry-level analyst job given my educational background. If not are there any other programs/certificates or other ways you recommend I go by this? Some of these programs have prerequisites that I don't have. 
+
+I'm just a fresh college student who has been confused about what he wants to do and would appreciate any kind of help. Thanks",Getting into Data Science through certificates or masters?,1615298400
+datascience,"You can revert code, but you can’t revert culture.
+
+Technical debt comes in when you choose a limited, easy solution and then have to rework it down the line. It’s the result of prioritizing speedy delivery over perfect code.
+
+Artificial Intelligence (AI) and Machine learning (ML) systems, in particular, have a special ability to increase technical debt - because of hidden feedback loops, for example. 
+
+There are consequences to this, but most teams accept the fact that *some* technical debt will always occur. And they’re okay with it because they know they’ll end up fixing whatever comprises they may have made.
+
+Of course, you actually have to fix those issues. If you don’t, your debt will incur interest and you’ll pay for it 10x eventually.
+
+Cultural debt is much more dangerous than technical debt. Once you hire the wrong people, it’s very hard to “fix”.
+
+For example, you can’t just reverse a lack of diversity by hiring more people from underrepresented groups if 95% of your org is already just white males. New candidates won’t want to join and they’ll have no reason to - you’re going to have to start from scratch and think about what inclusion really means to you.
+
+The same goes with setting your values. It’s a really vague word, right? Your “values” is normally just a bullshit term that companies put on their career pages - very few are actually intentional about defining the type of workplace they want to build.
+
+By the time you’ve scaled, though, and you have hundreds of employees across different global offices, you’re going to have a hard time enabling the sort of principles that you want to see. You can’t just implement a culture of “open feedback” if for the past 2 years you’ve been doing no employee surveys or sharing employees’ anonymous feedback with everyone.
+
+Cultural debt is especially dangerous when your managers don’t have an understanding of what type of organization you are trying to build. Managers have a multiplier effect on the organization - it’s a 1 to N dynamic.
+
+And when you don’t invest in your management, that’s when you really see the consequences of weak culture. Your managers are going to be recruiting, managing, and leading. They will be the fundamental reason behind cultural debt spreading (or not spreading if you’ve properly invested in your people).
+
+Most times, cultural debt occurs because people think that it’s at odds with actually getting shit done. They dismiss it as unimportant and what happens is that your people don’t get the time to grow and learn. After all, they’re too busy in their day to day.
+
+If only solving these underlying issues were as simple as a git command. But it’s not because people are [complex](https://www.careerfair.io/reviews/how-kevin-scott-motivates-engineers) and messy.
+
+And the best thing you can do to minimize cultural debt is to be very intentional about the organization you want to build right from the start.
+
+\------------------
+
+*If you liked this post, you might like* [*my newsletter*](https://www.careerfair.io/subscribe)*. It's my best content delivered to your inbox once every two weeks. Cheers :)*",Cultural debt is more dangerous than technical debt,1615297259
+datascience,,Introduction to Machine Learning 1/6: What is Machine Learning?,1615296711
+datascience,"I am in the last year of my engineering I will be going abroad to pursue an MS in data science next year. I have got a lot of free time till then and want to utilize it by learning as much as I can. I have a few doubts regarding that, I did the IBM data science course on Coursera and found it to be too rushed it didn't clear my concepts. I am not great at programing so is there any online course that can help me learn data science from the very basic to an advanced level? Also, how much coding is involved in data science? my programing logic isn't good. Do I need to be a great coder to work as a data scientist/ data analyst?",How do I start learning data science by self-studying?,1615296179
+datascience,,Free Data Science Foundation Bootcamp,1615296042
+datascience,,The data science eco-system!,1615294526
+datascience,"Hi there,
+
+I'm currently building a platform for collaborative image dataset generation. The principle is simple,  anyone can access the platform and, by annotating a few more images of a given dataset (doing your part), you get that whole dataset for free.
+
+The types of annotations possible on the images are 2D bounding box, Polyline, and Landmarks (points).
+
+The platform is almost ready but one very important question remains: What is some public data that would, if annotated, make a great dataset?
+
+Examples could be, annotated satellite imagery (roads, parked cars, etc...), person detection in non-licenced google images, etc....
+
+Cheers!","If you could annotate any public data for free, what would it be?",1615285203
+datascience,,Survey on Telecom Operators Using branded call display services in North America,1615283292
+datascience,"I am currently a Photography &amp; Imaging major at a very low acceptance rate and pretty highly regarded school (about 7%). I have a minor in political science and as my graduation is approaching I am really starting to lose interest in these fields despite practicing photography successfully. Though it was my dream to pursue photo and I am slowly building expertise in Maya 3D as well, I am starting to wish that I was doing something more fulfilling with my life despite doing everything I dreamed of with the companies I dreamed of as a kid.
+
+ I have started coding in python the last few months in my free time and have been researching data science for quite a while now, but I'm getting discouraged because I really don't have any college courses taken with maths or programming, and I can't add them now because I'm graduating. The field of data science really seems like I'd love it because I love everything it represents and what it does, but I'm honestly lost on how to move forward. I'm ready to fully immerse myself and commit, and was reading there are bootcamps for programming, and there are community college courses, but will any of these actually give the required skills for data science? It seems like I would just need to go back to college again completely, but wanted to hear what you all thought first.",I'm a graduating Photography &amp; Imaging major who wants to switch to Data Science,1615281397
+datascience,"Simple implementation of the gpt\_2\_simple library in python. Mostly generates incoherent rhymes and sentences, and I'm quite surprised that it doesn't curse that much. 
+
+[https://github.com/felrock/Wu-tang-lyric-generator](https://github.com/felrock/Wu-tang-lyric-generator)",Wu-tang Song Generator using GPT-2,1615281043
+datascience,[removed],What Jobs Can You Get With a Data Science Certificate?,1615279342
+datascience,,70 Completely Free Online Courses for Data Science,1615278811
+datascience,,UiPath Tutorial for JSON Parsing and Creation (UseCase),1615272931
+datascience,"Although this is a 101 concept....does anyone have thoughts on how this flow is actually evolving? Is there a more commonly accepted high level approach? (I had this discussion today, spurring the question...)",Revisiting Describe / Predict / Prescribe,1615271790
+datascience,,Data Science Training in Chennai,1615267037
+datascience,"As I am entering the industry as an early career data scientist, I am starting to see that a lot of data science jobs would be a lot easier if people had the software development skills on top of the data science skills. How does one go about developing these skills? I know how to write modular code, can use object-oriented programming, and am aware of what good documentation looks like (though I am not entirely sure if I do). How do go past this and develop my skills even further? I would love to develop a learning map of sorts and also be able to showcase these skills to employers as well so people can see that I have been focusing on the right things. 
+
+Thanks in advance.",I want to start improving my software development skills as a data scientist. Where do I start? What are the steps?,1615266490
+datascience,"Hello, I am a sophomore at the University of Minnesota currently pursuing a degree in Physics. I am currently planning on pursuing a double major in Data Science as well. The primary reason being if I am unable to get into a PHD program for Physics I would like to have a back up plan. Data Science felt like an excellent choice because I enjoy both programming (not computer science) and statistics. Along with that, I am extremely interested in Machine Learning and the career pays well. With all that said, I still think I would enjoy the Math double major more, because it applies to my true passion (Physics). How big of a difference would getting a Math vs Data science degree be when it comes to getting a job after college?
+
+Courses taken by both majors:
+https://cse.umn.edu/college/mathematics-four-year-plan
+https://cse.umn.edu/college/data-science-four-year-plan",Data Science or Math major?,1615265552
+datascience,"Was wondering how many data scientist are interested in trading. Whether it be futures, equities, crypto. I’m a full time trader and am always thinking of different ideas and things to study. I have no background in data and frankly don’t know where to begin. If there’s any data scientist out there that are obsessed with trading and want to be a part of a community of traders to learn and bounce ideas off of I’d be interested in hearing from you.",Any data scientist interested in trading?,1615265469
+datascience,"Hello DS community,  
+
+
+I have started looking into learning DS since I have been unable to find jobs in CAE for sometime now. I hold a masters in mechanical engineering and some experience in CAE. I have used analytical methods and programming to solve design and optimization problems both in academia and at internships. So I feel DS would be best suited as a career, and also since there are more jobs in DS where I live.  
+
+
+What I can do,
+
+Turn engineering problems into mathematical models.
+
+Solve mathematical models using code and visualization.
+
+Verify and validate models.
+
+Solve linear and non-linear system of equations.
+
+Code in Python (NumPy, pandas, matplotlib), C/C++, Matlab, Fortran
+
+&amp;#x200B;
+
+What I can not do,
+
+Database management or programming.
+
+Statistics.
+
+Machine learning.
+
+&amp;#x200B;
+
+I learn best by working on problems and studying by myself. So please let me know on how to go ahead. Please tell me about online certification, DS interviews, junior DS job expectation, etc.
+
+&amp;#x200B;
+
+Also if anyone switched careers to DS, please tell me your story.",Need advice on how to get started with DS. I can code and previously a CAE engineer.,1615264009
+datascience,"I would like to ask for advice as to how to market and possibly land a job in this wonderful area. I'm a Software Engineer and have worked on that field for several years now. I'm currently finishing my master's degree on Data Science and Analytics, have done some rather easy projects on the side, and for my thesis I'm currently working on a huge scope project that needs to use both SE and DS. My question would be, how can I market myself in order to get a job on DS, MLE, or something that actually lets me apply what I've learned thus far. I believe I'd have to apply to entry level/ junior level type of jobs, and I'm ok with that, especially if I am able to work remotely. 
+Any advice, tips, or any information as to how I can proceed is very welcome. All questions are also welcome!
+
+Thanks in advance.",I'm a Software Engineer who wants to change careers and is finishing an education program on DS,1615262711
+datascience,[removed],Some help!,1615262709
+datascience,"Hello everyone,
+I'm trying to solve a regression problem on Jupyter notebook. Everytime I restart my kernel and run all the cells my R2 score Changes from 0.98 to -31. After restarting and running a few more times it returns to 0.98 .
+Any help to sort this would be great.",R2 score Changes everytime I restart my kernel and run all the cells.,1615261677
+datascience,,Fast optimization of classification thresholds,1615261000
+datascience,,"I recently fell down the data science rabbit hole. More recently, I’ve become obsessed w/blockchain and decentralization. I fell guilty about neglecting my data science studies!",1615259793
+datascience,,What do you think about this discussion on the inevitable crash in data science jobs?,1615259671
+datascience,[removed],How to start working as a DS,1615257602
+datascience,"For the data scientists that made a career switch, what made you interested in data science? and are you happy with your decision to make a career change?",Career switch,1615249453
+datascience,How does neuroscience tie into data science?,Neuroscience,1615249356
+datascience,"Hi everyone! I'm working on a story about the [evolution of poetry re: Amanda Gorman](https://casebycase.substack.com/p/how-amanda-gorman-brought-spoken), and am looking for help finding a data set (maybe something similar to an Open Syllabus?) where I could figure out what the most common poetry discussed is in university settings.
+
+I then hope to parse out language or topics on each poem and then compare/contrast that with modern and critically popular poetry. 
+
+Does anyone know of any resources that exist already or ways I may be able to do this that aren't by hand?
+
+Thank you so much for all your help!",Looking for a dataset on poetry!,1615249248
+datascience,"I’m going to be rotating into a new team/area soon within my company and I’m thinking about trying an applied DS team if I can’t find a MLE or SWE,ML type role. I have some past SWE experience through internships and in my current role I'm doing a lot of scripting,RPA, and a little data eng.  The thing is I’m still pretty new and I feel like some of my core SWE skills you learn on the job like doing code reviews, version control on a larger code bases, CI/CD, etc are lacking. These are some skills that I’d really want to be able to work on in a new role. I've heard that SWE skills are becoming more common in data science and of course MLE (since its basically a type of SWE) so I was wondering, on a DS team that deploys code but isn’t really an MLE team, would I still be able to learn a lot of core SWE practices? Thanks!",Learning SWE skills and practices in data science teams,1615246277
+datascience,"My company is thinking of hiring a new manager for my team and there's a few other developers with me on the team and we all have advanced degrees, but the new manager only has a bachelor's. They do have a few more years experience than the rest of us but I just feel like it's not a very good look from the company in terms of valuing our education and makes me feel halted career wise by reporting into someone who just has more time served than me. Is this something I should bring up or am I being petty? Just looking for advice or if anyone else has been in a similar situation and how its going",New manager with less education,1615239235
+datascience,"Hi guys. I'm a Software Engineer but lately I feel like I want to try to join the DS Club, because I'm kind of tired of the SoftEng rutine. The Thing is I'm developing in Python most of the time and use Pandas and Numpy libraries sometimes to treat some data, and I'm interested in the Data Science field. I've been practicing with some notebooks in Kaggle, and understanding how regressions and some algorithms work. But I don't know if it's worth it to start learning from scratch and if this job is mathematicians stuff or if you need to understand the deep concepts of statistics to become a Data Scientist. That's why I'm here asking you, if it's worth trying to job the DS Club or if it's better staying in the SoftEng field due to the large amount of knowledge you need to have for this kind of jobs
+
+Kind Regards",Is it difficult to become a Data Scientist?,1615238576
+datascience,"Hey guys, do you think that I could land a job in the data science field with a chemical engineering degree? Maybe with a data science master. I'm from Argentina and I'm currently deciding what to study between computer science and chemicalE, thanks.",Pathways,1615236935
+datascience,[removed],Data Science - Professional Certificate (Harvard University),1615236873
+datascience,[removed],"Hello, Guys, Thanks you so much in ADVANCED !!! I am applying for MS Analytics program (online) in GATECH, and M.S Data Science at UT Austin (online), For that, I have written a statement of purpose. Please command on my SOP.",1615236044
+datascience,[removed],Receive $100 for completing Anonymous Survey On Data Tools run by Masters Students @ The University of Michigan School of Information,1615234999
+datascience,"I just joined, so I am in the category of learning about data science and prepping to get a job. My background is chemistry. The question I have is, would a course in business AI applications or a course in cloud analytics technology be of more practical value for my MSIT degree?",Course selection in a MSIT program,1615233239
+datascience,"Hello, guys! I'm working as a data person (engineering\~analysis\~building models\~gathering demands and breaking down problems) for seven months now. In this time I built some cool stuff at work and in the next months I'll probably be leading a small team. 
+
+Some extra information about me: I did not even finish my degree (Computer Engineering) yet (will soon), but have some experience in research\~personal projects. I'm very confident that I can tackle most business problems with reasonable deadlines. Also, I'm a reasonably good developer.
+
+My question is: is it a bad decision to become a manager now? I intend to be very hands-on, but probably will be less. I love the idea of managing and love the idea of discussing ideas with PMs, participating in decisions and everything that comes with being a manager.
+
+I fear that I'll have a bad time looking for jobs eventually, since I transitioned too soon. Is it realistic? Should I really worry about that?
+
+&amp;#x200B;
+
+Thank you guys in advance!",Management too early?,1615232254
+datascience,"Hi all data wizards!
+
+I'm currently working on a project where I need to cluster thousands of search terms into journey stages, top level categories and potential sub categories. Do I need to cluster a certain % of the keywords and then train a log reg model? Should I base it on similarity between order and amount of words? Any tips, thoughts, ideas or previous experience would be greatly appreciated. 
+
+If this is to be reused across different kinds of searches will it always need to be updated or can I develop it to work on at least a high level?
+
+Thank you and all the best! 
+
+N",Clustering Search Keywords - Optimal Solution?,1615231726
+datascience,"For my job I need to extract data from a system into excel format. Then I need to replace a part of the data with data from another excel and do some other tasks like formatting the dates, renaming some names in columns, etc.). Each time I do this it’s the exact same steps and it’s repetitive, so I wonder can I automate this tedious process? Anybody has some tips?",Data cleaning automation,1615231723
+datascience,"Have some computer experience, mostly with doing audio and video editing, and have recently joined a data science and machine learning bootcamp. We're starting with excel, then going to learn SQL and PowerBi, and Python. Has anyone gone this route without an undergrad and got a job? 
+
+I have some highschool math, finished pre-calc 11 with flying colors, and going onto precalc 12, and learning stats from Khan. Anybody with this experience, or have some tips how I can ensure getting an entry-level position in six months? 
+
+Took this route to be able to get experience in the field, be able to get an income and grow in the field. Am thinking of software engineering or computer science undergrad, but hope to make some money before then because I need to support myself and parents.",Anybody doing a data science bootcamp?,1615227872
+datascience,[removed],Any Advice or Critiques of DS Resume - Struggling to get interviews,1615227226
+datascience,"It looks like promotion to senior DS will be rolling in soon for me. Did you all get some new vestings as a part of that promotion? And what was the bump, like 20K? Last question, any additional vacation days? My position is San Francisco life sciences, public company. Thanks for any input. I truly appreciate it!!",Vestings on promotion to Senior DS,1615226743
+datascience,"Currently I am super interested in studying a masters in neuroscience. So; I have been researching the future careers I could possibly get after completing my studies. So naturally through research I ended up on this subreddit as the concept of data science intrigued me, as well as AI - which is something I would also love to get into. What I am kind of confused is how neuroscience ties in with data science; currently I am seeing a lot of coding heavy based careers within data science. Also do you guys recommended me completing a PhD, if I was to do so how would that compliment my application for job searching or my knowledge in general.",Prospective Student,1615226243
+datascience,"Hi! I graduated in May 2020 with a Master's. It's not in Statistics but my major in Masters was Statistics so I have taken a good amount of Stats courses.
+Currently, I am working as a BI developer in a Fortune 500 company. My job mostly involves analyzing the data, building dashboards, ETL data using SQL scripts (Qlik). 
+Recently, I requested someone in the team to let me work on one of his ML project. Thankfully, he was happy to get me involved and since the past few months I have been working on one.
+Since my primary job role is not doing ML work so I am not really able to prioritize this over BI stuff. But still I work on it from time to time. I use R and so far I have done some cleaning, ETA, tried different things with the data to see what modeling approach would be best fit. ML stuff is not really a priority in the team, it's just something we are trying to explore and see if it's even possible to predict something with whatever data we currently have. So it's possible that this project won't turn into a successfully deployed model.
+
+My question was will the work I did on incomplete projects help me land an entry level data science  job in the future?",How much can an incomplete ML project at work help in the future to land atleast an entry level data science job?,1615226163
+datascience," Currently I am super interested in studying a masters in neuroscience. So; I have been researching the future careers I could possibly get after completing my studies. So naturally through research I ended up on this subreddit as the concept of data science intrigued me, as well as AI - which is something I would also love to get into. What I am kind of confused is how neuroscience ties in with data science; currently I am seeing a lot of coding heavy based careers within data science. Also do you guys recommended me completing a PhD, if I was to do so how would that compliment my application for job searching or my knowledge in general.",Prospective student,1615225638
+datascience,"Curious to hear people's thoughts/recommendations regarding building data science skills after learning Pandas &amp; Matplotlib?
+
+
+I was thinking about Flask as it would allow building something on the web which would be fun. But wondering if there are more ""core"" elements I should learn first? Or, is more of a natural transition after learning Pandas and Matplotlib?",What to learn after Pandas &amp; Matplotlib?,1615225538
+datascience,"Currently I am super interested in studying a masters in neuroscience. So; I have been researching the future careers I could possibly get after completing my studies. So naturally through research I ended up on this subreddit as the concept of data science intrigued me, as well as AI - which is something I would also love to get into. What I am kind of confused is how neuroscience ties in with data science; currently I am seeing a lot of coding heavy based careers within data science. Also do you guys recommended me completing a PhD, if I was to do so how would that compliment my application for job searching or my knowledge in general.",Prospective student,1615225491
+datascience,,Getting Started with Placekey.io,1615224404
+datascience,"Hey everyone,
+
+I recently started a new job as a Data Management Analyst at a large Healthcare Logistics and Distribution company. My boss asked me last week if I have any ideas on how to improve the business process of creating new items in the company system, and any other inputs I have. She says that younger minds may  have a fresh outlook on the business. I want to write her a report on what can improve the business efficiency in item creation.
+
+Personally, the Data Management software in this company is old and unpractical. They use KLD, which is an ancient relic of the 1980s. 
+
+**My question for you is; do you know an easy to use, accessible and more automated item creation and management software that I can propose to my boss?** This software needs to be for a large data management, we're talking over thousands of items in the system.
+
+Personally, I come from a Bachelor in Statistics and Economics, so I have experience with Python, R and SQL in business. I wanted to know other people's input.
+
+Thank you for taking the time!",Ideas for Data Management Software in a Large Logistics Company,1615224152
+datascience,[removed],Transition to DS from FPA,1615223070
+datascience,"Some of you might find this article interesting. The most commonly used data engineering tools at mid-sized tech companies based on research from over 150 interviews with data engineers:
+
+[https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools](https://www.secoda.co/blog/the-top-20-most-commonly-used-data-engineering-tools)",The Top 20 Most Commonly Used Data Engineering Tools,1615219934
+datascience,"Hey,
+
+Really appreciate this community as it has been very educational in the concepts and informative in the job hunt scene. I am currently in the process of interviewing for a fin-tech firm. After the first screening they mentioned that in the next round, they are going to test coding ability over a zoom call/another interface for writing code. The interviewer said they are going to test data extraction techniques using Python. 
+
+I have been looking at SWE roles too and for those there are several resources like LC and Hackerrank. Not quite sure what to expect from data extraction for a Data Engineering role though. I understand Pandas can be used for csv and text files, but should I also be looking at web scraping etc and other libraries?
+
+tldr: What do firms look for when they mention they are going to test knowledge of data extraction using python? Any inputs and/or experiences with interviews are welcome and appreciated.",Data Extraction using Python for Interview?,1615217885
+datascience," Hi everyone!
+
+I'm  currently a Data Engineer with 3 years experience with a B.S. in CS and  enrolled part time in an online Masters of Data Science program. My  goal is to transition to a Machine Learning Engineer role. I'm  wondering, would companies hiring for ML Engineers see me as more  valuable with a thesis?
+
+I've never  written a thesis before but from what I've heard, it's a long/intense  process. I'm towards the end of my program and only have an elective  course + capstone left but could extend my degree to do a thesis. Is it  realistic to think I to complete a thesis in 6 months while working full  time? I already have an idea that's extremely applicable in industry  that can build off the work I did as a Data Science intern a few months  back.",Masters with thesis or without thesis?,1615176844
+datascience,"I'm still looking for work this summer. I'm a stats/ds major who regularly does programming projects. Is it possible to get a data science internship as an undergrad? Some postings say junior/senior/masters/phd, but if I'm going to be only competing with other masters/phd students then I do not see why I'd waste time applying if the entire applicant pool is more qualified than me. I have one group project in NLP but it's irrelevant to most data science internships. Should I stop wasting my time applying to data science and just go for SWE internships?
+
+Thanks for any thoughts.",Is it possible to get a data science internship in undergrad? (Junior),1615175575
+datascience,"Hi r/DataScience! I originally posted this on r/ADHD but I figure you guys might be able to help. I was recently (re)diagnosed with ADHD at 29 years of age and have been on Concerta for two months now. I have gotten more done in these last two months than I have in the last 3 years. It is amazing, and I wish I'd learnt about this at 19, not 29, but I think that's a common theme for people with ADHD. I have since been shouting my recent discoveries about myself, and about the facts of ADHD from the rooftops! The world must know!
+
+Since the start of Corona I've been self teaching python and data science, and after lot of self study and a data science bootcamp I have received an technical interview with an international company that works in the field of Mental Health research, and one of their goals is to build real world evidence databases to help in analyzing broader macro effects of mental health and treatment schemes. 
+
+To say that this would be a dream job for me given the passion I have for what they're doing would be an understatement. 
+
+I was given the task of creating a data science presentation on price determinants of public housing, which is old hat for me, so that's not the issue. 
+
+However, I am considering a ruse: a data science presentation on the economic and societal effects of ADHD (not unlike the white paper [Making the invisible visible!](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.656.8883&amp;rep=rep1&amp;type=pdf)) with as many data points as I can find
+
+That's where I need help. A lot of the 40 or so research papers or articles I've found on the **subject of economic effects of ADHD** (Including many written by our much beloved Dr Barkley) are meta analyses or otherwise do not have strict data presentation the way I would expect an economics paper to have, and so finding their data sources on my own has been a very slow process. 
+
+So: **Can you suggest to me sources of publicly available data that I can use to construct a presentation on the broad economic and societal effects of untreated ADHD?**","I want to go off script at a Data Science interview I have with a mental health research think tank to talk about the societal costs of ADHD, and I need your help!",1615170728
+datascience,"Context: I'm trying to do a job switch in the next 3-6 months. I got an analyst job out of school last year at a small firm and as the only technical headcount, you can imagine that I'm learning (and doing) a lot. I want to work on a team so I can continue to build on other skills (working on git, writing clean code, etc) since I'm so early on in my career. The firm has said they can't add any more technical headcount for a few quarters, so I can't wait for that to happen.
+
+My game plan is to: sharpen my SQL skills, work/post projects on a blog &amp; connect with people on LinkedIn at firms I am interested in. This brings me to my q: I thought the new Google data analytics certificate might be a good addition to my plan. It looks to be $40/mo and afterwards I can use it as a springboard to connect with more companies through their Hiring Consortium. Does this sound like a waste of time?
+
+I understand that certifications don't 'get' you the job which is why I'm focusing on the first three things I mentioned. I like courses because I feel like you don't ""miss out"" on anything that is super important, and I still feel like I'm in a stage where I can be learning a lot. The main draw to me is the job board.
+
+Background: Bachelor in Business with a concentration in DS. Know R, Tableau and currently learning SQL/Python. 
+
+If you are more biased towards free content, I'd also like to know that in your response. I typically am like that too, but I know that some things can be worth the money.",Interested to hear thoughts on the new Google Data Analytics Certificate for a job switch? (Google Hiring Consortium),1615165648
+datascience,"Hello everyone! I received an internship offer that I must accept/decline by the end of the day Monday (tomorrow) but I’m having a hard time understanding what the work entails based on the description. The end goal of this project is to run optimizations/analyses on data to ultimately make decisions. The internship portion of the work is to find the information necessary to do that (through research papers and discussions with coworkers), and then compile/configure/interpret/translate the data so the optimizations/analyses can be run in the future and decisions can be made. What does this entail though? I have a focus on computational work/modeling, so I’m hoping there are aspects of that in the internship. I’ve tried researching this online and it sounds like it may essentially be data mining, creating models of data, or making conclusions from the data, but isn’t that what the optimizations/analyses are for which is not part of the internship? Any help would be greatly appreciated, since you know this field and its terminology and may have a better idea than I do of what this work would entail. I’ve already asked for clarification twice from the mentor but this is the only information I’ve received from them.",What does it mean to compile/configure/interpret/translate data?,1615164253
+datascience,"Hi all, 
+
+I'm finishing up my Master's soon and am looking for job opportunities. I was wondering if anyone had any recommendations for recruiting companies to work with for analyst contract roles (don't think I'm quite ready for a data scientist role). I'd like to be somewhere on the West Coast if possible, but I'm open to anywhere in the U.S. if there's a good recruiting company you have in mind. Thanks!",Recommendations for recruiting companies,1615163509
+datascience,[removed],Is getting a data science position while completing your undergrad considered good?,1615132909
+datascience,"**TL;DR I want to write a thesis using data gathered through web scraping. The website I would like to scrape forbids automated scraping in its TOS. Considering the legal implications, should I quit now and choose a different topic?**
+
+I'm new to this community, so I apologize in advance, if this post doesn't fit the rest of the sub. I also apologize in advance for my somewhat flippant approach to TOS/robots.txt rules – if this offends you, please let me know. 
+
+I'm currently getting started on a thesis for my university studies (majoring in data analytics), and, out of personal interest, I wanted to build my thesis around a (relatively simplistic) econometric analysis on the effect of numerically-rated ""sentiment"" in product reviews on the total sales of that product. In preparing this idea, I toyed around with Python and built a web scraper that pulls review and sales data for products on AliExpress. I didn't originally put much thought into the ethical side of the data collection itself – I was more concerned with anonymizing and not publishing the review data –  so I completely ignored the fact that AliExpress entirely forbids automated information downloading in its TOS and robots.txt. So, I already have a working scraper, but now I'm getting cold feet regarding the legality of this endeavour.
+
+Having looked at various online sources (e.g. [here](https://digitalcommons.murraystate.edu/cgi/viewcontent.cgi?article=1071&amp;context=faculty) and [here](https://journals.sagepub.com/doi/10.1177/2056305120940703)), it seems that while this is definitely against the TOS, the actual legal consequences are kind of a grey area. For one, the website does not have any kind of checkbox that restricts access prior to accepting the TOS, so the enforceability of the TOS is debatable. In addition, a number of recent American lawsuits have sided with the rights of the scrapers (however, unfortunately for me, I am not American). I've also found one seemingly-reliable [study](https://www.nber.org/system/files/working_papers/w28100/w28100.pdf) that openly admits to scraping AliExpress (with no mention of granted permission). There are also many more such studies about eBay, which also prohibits automated data gathering.
+
+So, my question for you data scientists is: what would you do in my situation? Is proceeding with this not worth the risk (i.e. should I give up now, before I've sunk in potentially hundreds of hours of work)? Have you come across similar issues in your research, and how did you (or your company/university) approach it?
+
+Thanks a lot of any and all answers!",Question: Should I avoid web scraping for my thesis?,1615130005
+datascience,"I am currently investing 1 year in self studying statistics and data science/machine learning so to migrate to data science area. I have 15 years experience in software engineer, and I have quit my job to dedicate full time to the transition (I’m going all win).
+
+I have math background so I can understand statistics books with some effort. Im following Casella Berger Statistical Inference as main theoretical guide, but also other more applied books so to learn how to apply the concepts.
+ 
+My goal is to be able to solve practical real world problems but also have the mathematical understanding on why/how the statistical concepts work and how stats library are implemented.
+
+I often spend days trying to understand and relate basic mathematical statistics concepts such as: why is Bessel’s correction needed for sample variance? This is related to the fact that the sample variance only really depend on n-1 sample points and not n. This is linked to the fact that the t-student has n-1 degrees of freedom because it comes from a ratio between a normal and a chi squared distribution. I wrote a small article about this. So I get curious and try to derive things and relate them by myself. But it takes time.... and I have only one year (I am currently in the beginning of the 4th month).
+
+Those relationships I keep try building and searching for make me spend quite a lot of time thinking about all I’ve learned and trying to connect the concepts. It’s something I do somehow naturally.
+
+My question is:
+
+Is it advantageous to have this attitude? It does seem to help my overall understanding in long term, but Im not sure if it will at some point be valuable for my data scientist career. Maybe the question can also be worded as follows “should I just focus on the plain application of concepts without much digging into them, or going deep into the math will help me in the applied side of datas science in the daily job?
+
+I was hoping someone that already followed that path before can give me some help.
+
+Thanks in advance",Strategy towards studying statistics for data science career,1615128468
+datascience,"I am currently investing 1 year in self studying statistics and data science/machine learning so to migrate to data science area. I have 15 years experience in software engineer, and I have quit my job to dedicate full time to the transition (I’m going all win).
+
+I have math background so I can understand statistics books with some effort. Im following Casella Berger Statistical Inference as main theoretical guide, but also other more applied books so to learn how to apply the concepts.
+ 
+My goal is to be able to solve practical real world problems but also have the mathematical understanding on why/how the statistical concepts work and how stats library are implemented.
+
+I often spend days trying to understand and relate basic mathematical statistics concepts such as: why Bessel’s correction is needed for sample variance? This is related to the fact that the sample variance only really depend on n-1 sample points and not n. This is linked to the fact that the t-student has n-1 degrees of freedom because it comes from a ratio between a normal and a chi squared distribution. I wrote a small article about this. So I get curious and try to derive things and relate them by myself. But it takes time.... and I have only one year (I am currently in the beginning of the 4th month).
+
+Those relationships I keep try building and searching for make me spend quite a lot of time thinking about all I’ve learned and trying to connect the concepts. It’s something I do somehow naturally.
+
+My question is:
+
+Is it advantageous to have this attitude? It does seem to help my overall understanding in long term, but Im not sure if it will at some point be valuable for my data scientist career. Maybe the question can also be worded as follows “should I just focus on the plain application of concepts without much digging into them, or going deep into the math will help me in the applied side of datas science in the daily job?
+
+I was hoping someone that already followed that path before can give me some help.
+
+Thanks in advance",Strategy towards studying statistics/data science,1615128057
+datascience,"I am a PhD educated statistician with about 5 years of industry experience (most of my roles are called ""statistician"" but responsibilities varied and many had extensive modelling including ML). I am good in R and SQL, not so much in Python.
+
+I am puzzled at the difficulty I am facing when applying for DS roles. Firstly, I rarely get interviews. Few times that I did, it was like a day or 2 after submitting an applications and companies seemed really keen. Then there would be 5 rounds of interviews, including technical coding take home tasks. I always feel like I do well but never get an offer. Sometimes I have a feeling that they think I have answered a question wrongly by calling precision and recall, sensitivity and specificity (stats terminology). I always explain the concepts in detail. Is calling them by different names so wrong? Also, when it comes to model fit and I mention for example that I examine residuals, I get a blank stare. If anything, I do more model fit checks than an average machine learner.
+
+Is DS that over-saturated? It seems like there are so many hoops to jump trough. I have the right(ish) background and experience so I don't get it.
+
+Should I be upskilling in more modern stack in free time? Should I make sure to memorize all DS terms so that I don't use statistics terms?
+
+I know I could do the job from day 1. So this is very frustrating.",How hard is it to get into data science now?,1614940048
+datascience,[removed],MSc Data Science in Texas University at Austin ?,1614935556
+datascience,[deleted],Sociology Major Interested in Statistical Analysis Career,1614922172
+datascience,[removed],Dataquest Discount and Referral,1614920951
+datascience,[removed],Compare model performance using statistical significance test?,1614917608
+datascience,[removed],What does a Data analyst do?,1614916663
+datascience,[removed],Undecided on a backend stack,1614913787
+datascience,,Ask the Experts: AWS Data Science and ML Experts - Mar 9th @ 8AM ET / 1PM GMT!,1614909111
+datascience,[removed],Modelling Approach Advice?,1614906443
+datascience,[removed],GradAdmissionsCareer,1614905307

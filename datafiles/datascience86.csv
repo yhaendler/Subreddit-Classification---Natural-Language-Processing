@@ -1,0 +1,245 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],Best programming course for data cleaning and analysis in R?,1614902073
+datascience,[removed],sorting grades alphabetically in dataframe,1614901895
+datascience,[removed],Should I take a job at a FAANG company with hopes of moving up to Data Scientist?,1614900809
+datascience,[removed],Finding a tutor for a datatscience course?,1614896697
+datascience,[removed],Any international students taking MS in data science? Anyone in UC Berkeley's Master in Data Science (MIDS) program?,1614896542
+datascience,[deleted],Data Mining Problem - Maximizing a feature based on all others,1614893766
+datascience,[removed],Is coursera a good place to start?,1614887244
+datascience,[removed],i need help plotting basic data with pandas and matplotlib,1614885145
+datascience,[removed],How do you go about adding data points for a semi-supervised learning problem,1614884369
+datascience,[removed],Requesting Career Advice,1614882871
+datascience,,Engineering student seeking advice RE: Data Science Major,1614882327
+datascience,[removed],"Interview with Fabian Blaicher, a Co-Founder and the CTO at Shipamax, an AI-powered data entry software for the shipping &amp; logistics industry.",1614880745
+datascience,"I have taken a look at WTTE but it seems that all these new approaches are still only goon on paper. If you have any experience with churn prediction, I will highly appreciate it if you share your experience or insights regarding what worked well and what did not.   
+To be more specific, the target of interest is the probability of a paying customer's churn. Realistically, I understand that this task is quite simple in terms of machine learning -- gradient boosting (lightgbm/xgboost/catboost) can work pretty well and success for the most part is a derivative of how well you understand and prepare your features. 
+
+Anyway, if you have anything useful on churn prediction, don't hesitate to share it here :)   
+Thanks!",What is now SOTA in churn prediction (is boosting still the way to go for most real projects)?,1614877339
+datascience,[removed],"If you're using Python, you should probably use a code formatter. (e.g. black)",1614876103
+datascience,[removed],Benefits of having a PhD for data science,1614874311
+datascience,[removed],Subject Areas for University Project?,1614873692
+datascience,,"Airbyte - an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",1614873679
+datascience,[removed],Need help understanding formula for percentile,1614871859
+datascience,,"Histograms allow users to compress and analyze massive amounts of telemetry data. Check out OpenHistogram, which is 100% open source and free.",1614871096
+datascience,[removed],"Join Free Live Webinar Explaining Data Science with IoT by MR. Anil Kumar on 13th March, 7 PM (IST) by AI Patasala",1614870986
+datascience,[removed],Hello! Do the fine people here have some tips/resources for how I can gain proficiency with SQL ?,1614869378
+datascience,"I struggle with determining which I want to be when I grow up (I'm 35, HA!)... and I feel a pull to provide answers and make discoveries than to build a tool for someone else to use. My background is corporate finance, and I excelled as describing data to business folk as well as arriving at a final answer on an initiative (usually, margin, ROI). 
+
+Would this mean I probably have a proclivity to going to deeper into statistics than something like CS?
+
+I understand the flawed thinking here, because machine learning models are also products someone else would be using. I just see it as closer to the mantra of ""seeking and providing answers"" that seems to drive me.
+
+Thoughts?",Is the allure of data science compared to data engineering a function of discovering answers and solving problems compared to engineering a system someone else will use?,1614868560
+datascience,,The Ways in Which Big Data can Transform Talent Management and Human Resources,1614865808
+datascience,[removed],Our team is looking for Data Scientist / Mathematician / Statistician / Physicist who is familiar with Python to join our team and help us to build the Trading Bot with already promising results!,1614859868
+datascience,[removed],"How is Data Science as a career and employability in UK, Germany, and Netherlands?",1614856663
+datascience,[removed],Our team is looking for Data Scientist / Mathematician / Statistician / Physicist who is familiar with Python to join our team and help us to build the Trading Bot with already promising results!,1614855306
+datascience,"Do you know any python package for hyperparameters tuning with aggressive termination in the case of totally wrong parameters? It would be nice to natively support CatBoost, LightGBM, Xgboost (I just love GBM for the performance)",Looking for Hyperparameters Tuning package with aggressive termination,1614855058
+datascience,[deleted],Overwhelmed by data mining tools,1614853447
+datascience,"From where did you practice? 
+
+How do you remember all the useful methods? 
+
+How much time did you put into learning pandas? 
+
+When did you feel that you're proficient enough? 
+
+
+Edit: 
+
+I have worked with Pandas before. I can get the task going if asked to. But I'm not confident.  
+
+
+Also, I'm a student who'll be joining grad school this fall so my goal is to learn as much as I can before I appear for interviews 2 ½ years later.",How did you become proficient at Pandas?,1614852083
+datascience,[removed],Why block size should be configured with a multiple of 512 KB?,1614845030
+datascience,,The 8 Best Cartoons on Data Scientists ( the sexiest job of the 21st century),1614843219
+datascience,,Certified Data Science Developer™,1614841487
+datascience,[removed],8 Industries That Benefit Most From Data Science,1614836939
+datascience,,Become data science developer,1614834899
+datascience,[removed],Accomplish Your Career Objectives with Dell EMC Advanced Analytics Specialist (E20-065) Certification,1614831135
+datascience,[removed],Stream services content list?,1614827923
+datascience,[removed],Econometrics vs Finance Major,1614826172
+datascience,,Anyone here as experience interviewing at Ralph Lauren?,1614825340
+datascience,[removed],Theoretical/Pure Math Concepts in a Data Science Career,1614820465
+datascience,"[removed]
+
+[View Poll](https://www.reddit.com/poll/lx5lm7)","Which degree would be more helpful in landing a DE position, just by the title?",1614809132
+datascience,[removed],How does your team use AI?,1614807241
+datascience,[removed],"What do you think is the simplest/easiest most common thing, broadly speaking, that businesses could do that produces the most results in Data Science?",1614807034
+datascience,"I have noticed that there are more and more ML driven companies around, solving quite specific use cases with ML. A lot of them are getting better constantly and the work as a data scientist in product companies shifts from building these models to knowing which companies are out there to solve the problem.
+
+There are still some very unqie problems that require custom solutions, but as the number of AI startups grows and the giants are offering more and more use cases in their cloud solutions, the work for us is getting less. A lot of internal models, we built in the past years can now be replaced by specialized external tools. (fraud detection, risk scoring, nlp tasks and even image classification)
+
+Usually when a project in our company requires some ML, we were asked to find a solution, but today the most interesting problems are nowadays solved by specialized companies, having many customers and therefore more data and a highly specialized team to solve the issue. Oftentimes their salespeople are also overpromising, but in the end leaders often prefer to use their solutions, instead of building something custom. So, we end up losing a lot of the highly interesting use cases to external competitors, making them even better with our data.
+
+I wonder if you also noticed this trend and how do you deal with it? Do you think that, as a data scientist, it's better to get into these specialized companies as they gain more ground?",Are inhouse data science models are getting replaced by specialized companies?,1614806017
+datascience,"Hi,
+
+the title might be a bit confusing so let me explain myself better. R can be very easily connected with SQL Server to fetch raw data. I am not an expert in R but I am quite good with T-SQL, thus I am wondering if it would make sense to me to learn the tools offered by the tidyverse to manipulate, clean the data, since I already clean and prepare my raw data already from SQL?
+
+However, since I am no expert in R and I still read lots of documentation on internet etc... very often I see people who swear to god that dplyr / tidyverse changed their life and wondered how they could work before without these tools.
+
+Now, I am sure I miss something but... If I already prepare, clean, merge, etc.. the raw data with T-SQL and just run a query to fetch the resutls in R.. Are there still reasons that I am missing for which it would make sense to ""explore"" the tidyverse?
+
+What advantages of these tools that T-SQL scripts can't handle? Opinions?",R connection with SQL Server to fetch raw data - Reason to learn dplyr - tidyverse tools?,1614803261
+datascience,[removed],Non Technical Skills for Data Scientists,1614801794
+datascience,,Hospital Price Transparency Bounty Review,1614797886
+datascience,[removed],Data Science education pathways,1614797458
+datascience,[deleted],Hospital Price Transparency $19k Data Bounty Review,1614797450
+datascience,[removed],I need direction and advice,1614797426
+datascience,,Interactive data exploration and data science for everyone,1614796941
+datascience,[removed],Hey everyone! This is a project of mine that I have been working on. It is a video captioning project. This encoder decoder architecture is used to generate captions describing scene of a video at a particular event. Here is a demo of it working in real time. Check out my Github link below. Thanks!,1614796285
+datascience,[deleted],Women in Data Science conference March 8 [free event],1614795545
+datascience,[deleted],TIFU by locking myself out of jupyter notebook.,1614794628
+datascience,"Started a Data Science consulting role about 8 months ago coming out of grad school. I realized that compared to grad school where we were always questioning all our methods and models industry is completely different.
+
+Recently my manager has asked the team to change our verbiage when responding to clients. Changing to a more assertive tone and standing by our model results. For example:
+
+Client : “is this the best performing model?”
+
+Old response: “We believe this model is the best performing as our results have shown”
+
+New response: “We know we have delivered the best model and are confident in our latest results”
+
+This example might not be exact word for word but it’s that idea that industry values more assertive behavior which can be dangerous in the world of data science.
+
+Anyone experience something similar?","In School we are taught to be skeptical, but in Industry they want definitive answers.",1614791670
+datascience,,Kaggle is losing its shine because of its progression system,1614791622
+datascience,[removed],"Scientific research, databases and analysis",1614791430
+datascience,[removed],Optimal Model parameters for Natural Language Processing tasks,1614791024
+datascience,"I just spent 45 minutes writing the perfectly crafted email to a city bureaucrat who might be able to answer a data conundrum for me. I spent a little bit of extra time on this guy because he's my only shot to salvage a massive project but it made me think about how much time I spend on emails. 
+
+On longish email chains or simple communications with people lateral in the company I might fire one off in two minutes. But anything external or to someone higher in the food chain gets at least 20 minutes and quite often a good bit more. If it's technical in nature *and* to a higher up... IDK. Eons.
+
+I don't think the non-technical people in the company spend nearly that much time. Curious what others of my breed spend on it.",How long do you spend writing emails?,1614788809
+datascience,,How Oracle manages Airflow in research and production and highlights on Airflow 2.0 - live webinar event,1614787111
+datascience,"My company does all its data work in python, SQL, and AWS.  I got myself rejected from a few positions for not having experience in Power BI and Tableau.  
+
+
+
+
+Are these technologies really necessary for being a data scientist?",What's with all the companies requiring Power BI and Tableau now?,1614785059
+datascience,[removed],"I (M/31) am aspiring to learn code to help me with data analysis for my work(operations). I deal with large amount of data(medical records) and is only using excel for analysis. Which language is better to learn first, SQL or Python?",1614784040
+datascience,,"""When should I hear back?"" and other painful questions - answered with data",1614782089
+datascience,[removed],Power BI data sources/Architecture Preference,1614780978
+datascience,[removed],Learning dashboarding,1614780657
+datascience,,Episode 23 of Customer Insight Leader podcast is a conversation with Elizabeth Hollinger from Aggreko. Hearing her great story of setting a data strategy &amp; building the culture to deliver against it...,1614780512
+datascience,,Is my profile suitable for a data engineer job?,1614779304
+datascience,I work as a data analyst for a state child welfare organization.  We've got some money set aside for conference attendance.  Does anyone have any recommendations?,Does anyone have any conference recommendations?,1614778649
+datascience,,Commerce to Data science,1614776773
+datascience,[deleted],Creating A Data Science Resume,1614775025
+datascience,[removed],Quick Question: What in your opinion do you think would be the biggest changes big data would bring to marketing and advertising?,1614773934
+datascience,[removed],How does a good DS cv look like?,1614772652
+datascience,[removed],R connection with SQL Server to fetch raw data - Reason to learn dplyr - tidyverse tools?,1614771464
+datascience,,How do I know if data science is right for me?,1614769529
+datascience,[removed],A time-use epidemiology community at Reddit?,1614766291
+datascience,[removed],[Hiring] Shell is looking to hire a Data Scientist - Space Planner in Chennai (India),1614761932
+datascience,[removed],Question,1614761042
+datascience,[removed],Master,1614760867
+datascience,[removed],I need teammates for the World Data League,1614760840
+datascience,[removed],Cleaner analytics workflow with Avo!,1614760143
+datascience,[removed],"Free Jupyter Notebook (Python, C++) and Bitcoin Blockchain data parsed is online for you at our beta tester program. Bitcoin Blockchain data are an interesting field of application for Data Scientists.",1614759601
+datascience,[removed],Dataset about mental health disorders,1614757859
+datascience,[removed],"Should I graduate a semester early and spend that time on an internship/side projects, or just power through that second semester so that I can graduate with a dual degrees?",1614751819
+datascience,[removed],How do I make plotly/Dash recieve data and then render it?,1614750050
+datascience,[removed],Advice on choosing MS in Operations Research,1614739910
+datascience,I'm just curious if data science is as hard on the job as it was in the classroom learning about it?,Is the level of difficulty the same?,1614739562
+datascience,[removed],Excel model to advanced tool,1614737285
+datascience,"This is a topic that I have discussed heavily in the past, and I constantly see it popping up as a question and source of confusion among the community, asking what exactly is the bias-variance tradeoff, why is it called that, and how do you actually define them in objective terms? I was lucky enough to have a professor in my university days by the name of Shai-Ben David that has an excellent textbook titled *Understanding Machine Learning: From Theory to Algorithms* that is theoretically oriented, and it had the best definition of the bias-variance tradeoff that I have seen to this day, which is a topic that I think is heavily misunderstood today, though I would love to hear the opinions of others that might disagree with me.
+
+**Common misconception:** For example, I have seen people define the bias-variance tradeoff as referring to the variance of outputted predictions of your model relative to small local changes to input features. However, we all know that variance refers to the overfitting error, and this definition would imply that a constant-predictor model *f(x) = k* that simply outputs a constant value (parameter that is learned) would have a variance of zero, and therefore will not overfit? Even if it is given a training set with only a single example, it will not overfit at all? This definition clearly does not make sense. I think it is common to see highly overfit models with high variance that also happen to have highly volatile predictions relative to small changes in input features, however that is NOT a requirement nor is it a good definition.
+
+**Another common misconception:** Another common definition of bias-variance or overfitting-underfitting that I have seen before is usually referring to models that have a learning curve over the course of their training (usually neural networks or ensemble models) where you can see the training error and validation error change over the course of training. Typically, the training error always improves, while the validation error improves for a while until it reaches its 'peak validation performance' iteration and then the validation error starts getting worse while training keeps improving. Sometimes, people will refer to the model iterations BEFORE the 'peak validation' as being underfitting or high bias, and then refer to the model iterations AFTER the 'peak validation' as being overfitting or high variance. I understand why people often make this association and confusion, but again it doesn't make much sense. Why are model iterations before considering underfitting while the iterations after are overfitting? Does this mean that the 'peak validation' iteration is not overfitting or underfitting? How do you even define bias/variance for models that don't have a learning curve? There is a lot lacking here.
+
+**So then, what is the bias-variance tradeoff?**
+
+The bias variance trade-off is a useful concept that stems from decomposing the generalisation error. Before we can understand this, we need to define a few concepts that are important.
+
+First, we need to frame the training of a model as a mathematical process. What are we doing when we take a linear regression model and feed it a bunch of training data? One way to look at this, is that we have a model hypothesis class *H = { f(x) = kx + m | for all k,m }* which is the set of all possible simple univariate linear regression models that we could learn. Then, training a model, is basically running a TrainingAlgorithm that takes in the training dataset as input and outputs a model *f(x)* that is from the hypothesis class *H*. So basically, *H* is the set of all possible models, and training a model is basically trying to find the best model in *H* that fits our training data best and that we think will generalise the best.
+
+Given those definitions, we can now define the key terms that we need to bring it all together.
+
+**What is generalisation error?**
+
+The generalisation error, in this example, is the error that we expect to observe by training a linear regression model on the training dataset that we have and deploying it on future unseen data examples drawn from the target distribution. Basically, it is the true error of the model that we will have. The reason that we have a 'test set' is so we can estimate the generalisation error. Now, thankfully, smarter people than me have gone ahead and done a bunch of mathematical wizardry to decompose the generalisation error into the following definition:
+
+*GeneralisationError = TrueError + Bias + Variance*
+
+Note that *Bias = UnderfittingError* and *Variance = OverfittingError*
+
+***What is TrueError?***
+
+TrueError is defined as the underlying error of the target distribution. For example, suppose that we are given training data from the target distribution of samples (x, y) where y = 5x + 2. Then we can clearly see that this can be perfectly predicted (if we know the underlying true distribution and can model it), and the TrueError would be 0. However, for another example, maybe the target distribution is y = 5x + 2 + u, where u is a random Normal variable with mean 0 and variance 1. Well clearly, even if we know the true underlying distribution, we won't be able to perfectly predict it because of the underlying error of the target distribution, and the TrueError is equal to the variance of the random variable u.
+
+**What is Bias?**
+
+Bias is defined as the difference between the generalisation error of the BEST model from our hypothesis class *H and the* underlying *TrueError*. For example, if the true underlying target distribution is y = 5x + 2, then we can see that our model class of simple linear regression models *H* contains this exact model! So therefore, the best model instance is *f(x) = 5x + 2* where *f in* H, and we can see that our Bias/UnderfittingError is equal to 0! As you can see, *Bias* or the *Underfitting Error* is basically the error introduced by choosing our model hypothesis class *H.* If our hypothesis class contains the true target distribution model, then our bias will be 0, otherwise the farther our 'best' model in the class is from the true underlying target distribution, then the higher our bias will be. Notice that this definition has nothing to do with the volatility of the model output predictions, and has nothing to do with the learning curve.
+
+**What is Variance?**
+
+Variance is defined as the difference between the generalisation error of the BEST model from our hypothesis class *H* and the error of the EXPECTED model that will be learned from our class *H* given the finite training set of size *N* that is fed into the training algorithm. To continue with our example from above, we know that the best model in our class *H* is the model instance *f(x) = 5x + 2*. However, suppose that we are given a training set of size 1 with only a single sample of (x,y). Given only 1 sample, our training algorithm may choose the model instance *f(x) = 4x + 1*, which is worse than our best model and will have higher generalisation error. The difference between the expected GE of our model trained on the dataset of size 1 and the expected GE of our 'best model' is the variance or overfitting error component of the GE. Notice how the variance is dependent on the model hypothesis class *H*, the training algorithm *A,* and the size of the training dataset. This is why we can reduce overfitting by increasing the size of our training dataset, or we can reduce overfitting by reducing the size of our model hypothesis class (by choosing a simpler model or adding regularization which typically reduces the size of the model hypothesis class).
+
+**TL;DR:** An accurate mathematical exact definition of underfitting/overfitting A.K.A the bias-variance tradeoff is useful to understand even beyond a theoretical context. For a more comprehensive understanding, I recommend that you read the textbook I mentioned at the beginning of the post.",Mathematical definition of the bias-variance tradeoff,1614736458
+datascience,,HUMBLE SOFTWARE BUNDLE: LEARN FRONT-END WEB DEVELOPMENT (pay what you want and help charity),1614736339
+datascience,[removed],Is machine learning still used a lot in data science/analyst jobs?,1614735730
+datascience,"I’m looking for a tutorial or video optimally that goes through a data science project end to end from data wrangling (as in not just a clean data set given to you like kaggle etc). 
+Want to do more of a real world DS project!","Ask DS: Do you know of any good youtubers, streamers, or tutorials out there for end to end DS projects?",1614735315
+datascience,Anyone worked as a data engineering intern or full time for either company? Would love to hear your experience at the company!,Amazon vs. VMware Data Engineering Intern,1614733200
+datascience,"Hi, I'm new to data science and machine learning (recently started studying it). In my studies, I came up with the idea of a specific project. The aim of this project is to get the probability of an event occurs (a goal in a soccer match, because I like soccer and that could be an incentive to learn faster), given certain circumstances. 
+
+Basically I want to know the probability of a goal occurs if: it's raining, the elapsed time of the match and if the team with the ball is losing the match. As you can see, I have continuous and categorical independent variables. I know that, for continuous variable, I could just make a linear regression. But my aim is to get all of this variables into the same model. 
+
+My doubts: what are the best models or theories I could use, which the output is a probability prediction? What models can be fitted with those different types of data?
+
+(I've already studied about logistic regression, but in that case the output is a prediction whether there is or there isn't a goal, and what I want is the probability of that goal occurring in each scenario. I thought about putting this logistic regression prediction into a Monte Carlo simulation, but I don't know if it's feasible or even if the prediction will change after each simulation. I don't know if this simulation would answer my questions either).
+
+Right now, I'm not even trying to perform any model. Just trying to know how can I do it, to start studying it. Any help is appreciated. Thank you.",Probabilistic models using categorical variables (dummies)?,1614727951
+datascience,[removed],AI and Machine Learning Project Survey,1614727758
+datascience,"PA, looking for a career change with calculus 1-3 and linear algebra completed. 
+
+For someone trying to transition into this field, would a second BS in computer science allow for more opportunities than a MS in statistics? On one hand, CS allows for jobs in both analytical and software realms. On the other hand, almost all analytical positions seem to require a more in depth understand of the data. And as I’ve seen over and over on Reddit, it’s easier to teaching programming to a statistician, than it is to teach statistics to a programmer. 
+
+
+(Interested in trial design and studies, or risk/business analytics.)",Benefits of computer science BS over statistics MS,1614726259
+datascience,"Hey everyone,
+
+New here so hopefully I'll be welcomed warmly! I'm a data scientist by day, and an aspiring youtube teacher within the field. One thing i noticed it's that it can be really hard to find content which can take the hard to learn topics down to a level which almost everyone can understand. This is where my aspirations come into the picture.
+
+What content do you think could be interesting to have as a learning source? I have a first video on performance metrics, but I'm afraid to post a link to the video, so for now all I can say is my name is Nicolai Herforth.
+
+Hopefully you have some nice feedback!",What Learning content could be awesome?,1614725585
+datascience,"I was asked to sit in on some interviews for an entry level data science position and there is a question in my packet that had me a little stumped. 
+
+""How would you determine and explain how different features led to the outcome of a model?""
+
+I'm not sure what I should be looking for here. Feature selection is a pretty critical skill but because its an entry level position where we are mostly interviewing new graduates I don't know what to expect. Do most new graduates know the process of feature selection or are people just taught how to use pre-built tools? 
+
+Also before anyone asks, no I can't get you an interview I'm not the hiring manager. I'm just learning the interview process.",Help a new interviewer with a data science question.,1614724705
+datascience,"So I studied industrial engineering with the main focus on mechanical engineering.
+
+My bachelor thesis was a data science project I wrote a Programm to evaluate Textes for specific patterns and then used logistic Regression and to see if I find some features which were important in contact with my tasks.
+
+I would like to learn more in that area but I’ve already seen that my mathematical knowledge is way too short.
+
+Do you think I have chances to get hired by start ups as a data engineer or something similar?
+What would you recommend to do if not?",Is my profile enough to get a job as data engineer,1614723148
+datascience,"Hi. It’s me again. I am a junior Economics major from an east coast university. My dream right now is to become a financial or data analyst to support my ultimate goal of going to grad school to become an economist.
+
+During freshman and sophomore year I only held a few retail type jobs, so this fall I really put my all into applying to internships. After 118 applications I have finally accepted an offer to intern with a relatively well known insurance company.
+
+Now, this is fantastic. It’s a real internship with a Fortune 500 company and if I work hard I will probably be able to get an offer to join the company after graduation. It also pays really well.
+
+But here’s the catch: the internship is with the claims department. Given my ultimate goal, I was hoping to find a way to exercise the statistical wizardry that I have been practicing while studying the dismal science. I realize that I am incredibly fortunate to have an internship this summer, especially with Covid and all, but I’m starting to think long term about my life goals, and being a claims rep isn’t one of them.
+
+Does anyone have experience making lateral transitions between fields in a corporate environment? I find insurance to be fascinating and would not be opposed to working as a risk analyst or a data analyst, but I’m only just now getting my foot in the door.
+
+If you read up until this point, thank you from the bottom of my heart.",Career path advice &amp; Insurance Internship,1614720966
+datascience,"Might be interesting for Computer Vision enthusiasts
+
+[https://omdena.com/projects/drones/](https://omdena.com/projects/drones/)",Predicting Malaria Insect-Breeding Habitats Using Drone Imagery in Africa (AI Challenge),1614720469
+datascience,"I've been hacking around with a sports betting project to ingest a variety of relevant data streams, make predictions, and places bets on my behalf. I figure it's a chance to learn about the AWS ecosystem, financial theory, software system design, and even a bit of devops, all with some money on the line. 
+
+I doubt that a single personal project on a resume makes much of a difference in a job application, but supposing I see this thing through to completion, is there any way it could be negatively perceived? You wouldn't brag about your gambling winnings in a job interview. Also, if its performance is only mediocre, I'm not sure how to spin at as anything other than ""hey look, I couldn't come up with anything better than this mediocre trading strategy. hire me?"" 
+
+Finally, I don't live in a state where sports betting is legal yet!",Should I list an algorithmic betting project on my resume? Or does it seem distasteful somehow?,1614718884

@@ -1,0 +1,635 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],"Comfortable With, but Unskilled in Tech. Taking a Good, Hard Look at Data Science - Crowdsourcing Insight",1606261867
+datascience,"I am an ML engineer with a few years of experience.  I had a data science interview a few days ago at another company.  The job is at a fortune 500 non-tech company.
+
+
+
+
+The interviewer asked a variety of questions.  I was asked a leetcode medium dynamic programming question, a simple string manipulation question, some pretty tricky math problems, and some pretty trick data engineering systems design questions.
+
+
+
+
+I would say the hardest question was challenging, but appropriate for an interview.  But I felt like I struggled through the interview because my brain was in 10 different places.  One minute, I was in software engineering mode.  The other minute, I was solving math problems.  And the next minute, I was in devops mode.
+
+
+
+Is this type of interviewing becoming a trend, where a data scientist is expected to function as an entire engineering team while developing ML models and presentations to upper management?",Are data science interviews harder now than a few years ago?,1606260272
+datascience,"Is it the use of an immense amount of data? 
+
+Is it the visualizing/spurting infos out? 
+
+Is it the use case and impact it has on consumers/users? 
+
+Or is it the backend and technical side of it ( creating a tool from scratch ie algo, prediction tools)?",What makes a project a data science project?,1606257346
+datascience,[removed],how do i start my career in data science field and data scientist,1606256956
+datascience,"  
+
+Some background information got a joint honours degree in History &amp; Economics around in 2018. I managed to land myself in a data analyst role, which involves some python work but mainly Tableau and Excel.
+
+I’m looking to do a master’s degree which starts in October 2021 in either Data Science or AI next year. The course does state ideally the candidate should have first-year level understanding in maths, ideally Calculus and Linear Algebra etc. I’m not worried about the programming side of the degree, I’m quite confident on that behalf, it’s the maths side that worries me. Just to give some context my degree, the economics side wasn’t heavily maths-based which was unfortunate hence my math skills slightly rusty. 
+
+What would be the ideal route to get to first-year university level maths? I was thinking of starting sixth form (Late High School) and working my way to university level maths in a year. I understand it might be a short time frame, but I’m willing to put the work in. if anyone can point me in the right direction or give me some advice it will be greatly appreciated",Reaching College-Level Math for Data Science in a year?,1606256900
+datascience,"What are some cool companies you all would like to work for that aren't FAANG?
+
+I'm an aspiring data scientist and mostly have zero interest in working for any of the FAANG companies.
+
+Any cool jobs, organizations, companies, etc. you're all aspiring to?",Dream companies outside of FAANG,1606255227
+datascience,"Hope this is an appropriate place to ask. I'm wondering if there's some way I can get, for example, a csv file of people's account usernames who have liked my past Instagram posts. My account is small so I could just view who liked my posts and copy and paste each username, but that would be extremely time-consuming and not worth it. As someone who's more data-science driven and has experience with statistical programming languages, I want to see if there's a way to look at data from my own account.",Is there any way to extract information from your Instagram account?,1606250087
+datascience,[removed],What is the best Master's Degree/Job for this situation?,1606249905
+datascience,"Hey All, looking for some advice on whether to go into a Master's program in Biostatistics or Data Science and what the difference are. I'm currently working on medical device clinical trials in the private sector and want to advance in this industry. Here are my questions/concerns:
+
+1. What are the differences between Biostatistics and Data Science curricula?
+2. It seems like individuals with an MS in Biostats can move into Data Science if they strengthen their programming abilities to work with large data sets, but could someone with an MS in Data Science get a Biostatistician job? Does a Data Science degree provide enough foundational stats work to be sufficient for a Biostats role?
+3. My concern is also longevity, and as the world is becoming more technology-focused and vast amounts of data are being collected, is Data Science a better choice? Is traditional Biostats going to blend into Data Science making a Data Science degree more useful in the long-run?
+
+Thanks so much for your input! Any and all advice is much appreciated.",MS in Biostatistics or Data Science?,1606248539
+datascience,"Hello All!
+
+I'd like you all to review my resume and let me know what you think.
+
+I'm currently working in a Startup and previously worked for a large company. Both in Data Science.
+
+[https://i.imgur.com/MnrGF3W.jpg](https://i.imgur.com/MnrGF3W.jpg)
+
+Current issues I'm aware of are: Small Font Size and more descriptions needed for projects.
+
+I've replaced the original entities with generic names in the image :)",3 Years Exp Data Scientist Resume Critique,1606248420
+datascience,"Guys as stated in the title I am a beginner just completed the automate the boring stuff with python course.
+
+After completing the course I made a program that reads data of the corona website (using selenium) for our country and emails a list of people the numbers. (It also has a function that rechecks the numbers and resends the email after a specified amount of time.
+
+ Now I am trying to make a couple of projects.
+
+The first one when given credentials for our university's [LMS](https://lms.iba.edu.pk/portal) goes there and checks and returns information about all the assignments that are due with their due dates.
+
+The second one is a bit ambitious when given credentials for our university's LMS the program will go through all of the person's assignments and downloads what they had submitted and sort them in folders. I plan on making some sort of website on which I will upload this information, this will help people currently doing the assignment.
+
+ I am sort of confident that building on my skills I can make both the programs but that may be overconfidence. 
+
+If anyone of you could answer any of the following questions it will be of great help.
+
+Guys, I want to ask you:
+
+1) If I should go for these projects?
+
+2) Is my knowledge enough to make the programs?'
+
+3) Any existing libraries that may help me(also what libraries would you recommend a beginner to use)?
+
+4)  What other stuff would you recommend me to learn to make my task easier?
+
+5) What steps should I take to get further ahead in my path of data science(programs (like pandas or django) I should learn etc.? (kindly recommend some free online courses to help me learn those skills))
+
+6) Can I get in trouble with my uni for the second project?",A beginner going for Mega Projects (kinda),1606245179
+datascience,"So I'm in sort of a dilemma. I am a person who has many interests. If we talk about research: I incline towards NLP, bioinformatics, and/or data ethics. For NLP and data ethics I have immense interest, but I don't have the relevant experience for backing it. I have 3 papers pertaining, on various levels, to bioinformatics.
+
+I say that, because I have been ""unofficially"" offered to do masters in a field related to bioinformatics at a reputed european uni. But I don't know if I would be interested in it after the two years. Until now, I was doing whatever I wanted to so I tried many different fields, so should I aim for a general data science masters or a specific field? Is it too early to decide to specialise immediately after my bachelors(in CS)? I'm generally a very anxious person so this is adding to it.
+
+I also have to think about where I'll be after I complete the masters. If I take this opportunity, would I be too cornered into bioinformatics or will I be able to bounce back to a more general data science career? I know it's futile to think about where my standing would be after I come out of a course I haven't even accepted yet, but I can't help it.
+
+So in short: what would you do if you were being offered a bioinformatics masters from a reputed uni, but you had other interests (including bioinformatics)? Would you take this course or a more general MSc in Data Science course?",Masters: how do I choose what I want to pursue?,1606244672
+datascience,Recently I've been applying to internships across the country and I've found that some data science internships require a phd in statistics (or similar mathematics field) or software engineering ( or similar computer science field). Is the phd requirement becoming the new standard for internships?,"Fellow redditors, have you guys come across data science internships that require a phd?",1606242895
+datascience,[removed],SQL or Python?,1606241918
+datascience,Does anyone know of any opportunities in Puerto Rico? Maybe in the banking industry there? Just curious as I think about potentially relocating!,Opportunities in Puerto Rico?,1606241914
+datascience,"I'm trying to figure out how to tackle this problem... I have an internal dataset of \~100k sales opportunities for various software - basically a CRM export... Some of the sales opportunities are won/closed.. some are lost.. some are still in progress. 
+
+The data includes client info, product info, dates, price, seller info as well as some stats about the seller based on historical success.. What I'm trying to do is predict which of those opportunities are most likely to close in the future so that I can make recommendations around which sales opportunity the sales manager should focus on for resource allocation purposes. Forecasting revenue is not part of this.. I'm just trying to say ""Out of these x number of opportunities in the pipeline, these y number of opportunities are more likely to be won compared to the remaining, so I recommend we focus on those."" 
+
+I thought about classification or maybe clustering to group the ""most likely to close"" opportunities together. Or maybe I should look into recommender system?
+
+Has anyone done anything similar? Or have any advice? Thank you!",Winnable sales opportunities recommendation,1606241568
+datascience,[removed],Has anyone here used Dataiku for data cleaning?,1606240807
+datascience,[removed],"Using Dummy &amp; Ordinal variables in Python, Machine learning.",1606240363
+datascience,"I'm the guy that ranted [here](https://www.reddit.com/r/datascience/comments/jnpvm6/im_really_tired/?utm_medium=android_app&amp;utm_source=share) about how the interview process needs to be fixed in this field.
+
+And I can't contain my excitement anymore.
+
+I finally caught my lucky break!!
+
+I got an internship!!
+
+It's the best news to me this whole year, I'm just so ecstatic!!
+
+I would like to express my gratitude to everyone who supported me on that post, and everyone who made me realise that sometimes the ""crazy questions"" are just to test our reactions, which will inturn help us somewhere in our future.
+
+All in all I would like to thank this whole community so much for everything. 
+
+THANK YOU guys, love you all!!.",I got the internship!!!,1606240288
+datascience,"Suppose you have Company A and Company B, and their stock prices and volume for say a 1000 days. What metric do you use to measure:
+
+1. Which company did better?
+2. Which month was the best/worst for a company?
+
+Thank you.",Need help understanding stock data terms,1606239017
+datascience,"Hello,
+
+I'm finishing my full-time master's this upcoming semester with 4 courses, one of which I know will be Distributed Systems. For the remaining three, I want to emphasize courses that will be useful for me in industry as a Product Manager working alongside Data Scientists. I've already taken probability, statistics, linear algebra, multivariable calculus, machine learning, data structures, algorithms, systems programming, and all the core stuff. Specifically, here are my options with some broad NEW (I have not learned/gone into detail) topics listed on the syllabus. Feel free to just take a quick glance at the topics:
+
+&amp;#x200B;
+
+Advanced Information Retrieval - text retrieval, n-gram language models, mixture language models, word embedding, Bayesian inference for mixture language models, Hidden Markov Models
+
+Database Systems - Data Modeling/Computing/Querying, Query Processing/Optimization, Databases, Schema Design
+
+Intro to Deep Learning or Deep Learning - Convolutional networks, object detection, dense prediction, self-supervised learning, policy gradient methods
+
+Reinforcement Learning - Value Iteration, Policy Iteration, LP, Monte-Carlo value prediction, Temporal Difference, SARSA, Importance Sampling, Policy Gradient, State abstractions, exploration
+
+Data Mining Principles - mining information networks, mining sequence and graph data, advanced clustering methods, outlier analysis methods, mining stream data, mining spatiotemporal data, and mining text data
+
+&amp;#x200B;
+
+Any advice on which I should choose would be greatly appreciated. Tentatively, I have planned Data Mining Principles, Intro to deep learning, and reinforcement learning. To reiterate, I most care about utilizing this knowledge as a PM conversing with data scientists in industry. Thank you so much!",Choosing Courses for my Final Semester of Master's,1606236013
+datascience,"I have a huge dataset, somewhere around 2 million customers and daily data of their usage, I am still trying to figure out how to manage and execute ML pipeline for the same.
+
+TIA",Best ways to sample large datasets for Machine Learning?,1606235725
+datascience,"I have started a masters program recently, and I had python experience going in, but nothing in R. I'm finding that I am disliking my experience with R (mostly because it's new and I'm inexperienced) and I want to change that. The introduction I am getting right now is through labs in a text book, and while it is a very gentle introduction, it is very limited on explanation, more like: ""just copy this line of code to get the answer to the question"". I find it frustrating because I'm not learning a language by copying code from a book. Maybe I am just starting, and I need to give it time, but I'm also paranoid that if I don't take the steps now to get a level of understanding that allows me to be comfortable using R, I will be woefully underprepared when I finish my degree.
+
+ I know I can't just avoid a proper tool for a job because the resources I am being provided aren't helpful for my style of learning. I need more practice. Maybe something that starts small and builds up skills. Is there anything out there that you all can recommend? 
+
+What helped you?",Looking for Resources or Great Interactive Learning /Practice Problems for R,1606232746
+datascience,"I graduated with a Management Information Systems degree back in 2018. At the time I was unable to find a job in my degree field and started a career in Sales. The past two years I've steadily moved up the ladder and settled at a SaaS company as an Account Executive. Things have fallen apart since then with 50% of our team looking for new opportunities. Sales has worn me down and I'm considering going back to the roots of my degree and apply for analyst jobs. Obviously my 2 years away from the discipline will raise some flags. 
+
+- What are respected online courses/certifications I can complete to bolster my resume. I imagine some things are laughed at, while others raise eyebrows. 
+- How can I position my sales experience as a strength for an analyst position. 
+- I know SQL is a must. What other skills should I focus on?
+
+I'm planning on taking a month or 2 to focus on personal growth, and want to make the most of that time. I've got a decent nest egg saved up and wouldn't mind spending on certifications, but cheaper options are preferred. I'm also not stuck on the analyst position if my sales skillset may transfer over better to a different data science position.
+
+I appreciate all advice and feedback.",Best Online Course &amp; Certification Resume Builders,1606232569
+datascience,"tldr: Not another rant, but maybe little ranty? I share my job search experience, and how I deal with rejection.
+
+Me to employers...
+Degree: Masters in statistics, BA in math and chemistry.
+Experience: 1 year of Junior Data Analyst Experience and 4 years of professional experience
+Portfolio: Yeah, check out my basic blog where you can peak my writing style and view how I conduct analytical projects.
+Skills, Work history, ... blah blah blah
+
+
+I started my search in August of 2020. By September, I had sent out 100 applications, invited to interview from 2. The first was a software company that provides SaaS for health clinics and partners with pharma companies to hit patients with ads before they go in for their visit. The second was a data science role that interfaced with physiochemical scientist at the EPA. Before pursuing data science I was a chemist. I was rejected from both after 2 weeks of interviewing, taking an assessment, and the whole nine. Passed over due to a ""lack of experience"". Hmmmm.... but wasn't that obvious from my resume? 
+
+So my search continued through October. By the beginning of November I had sent out 350 applications. At this point, I was applying to Data Scientist, Junior Data *X* roles, and even Data Labeling roles. Yep, labeling data. So now organizations are considering an applicant with a Masters in Statistics, with 4 years of professional experience, and 1 year of experience in business analytics? What a trickle down fuck over. I feel sorry for those with associates/bachelors/wip college students looking for some professional experience. Unsurprisingly, these organizations that were hiring for someone to appropriately label data were eager to hire me. 
+
+It's feast or famine out here. I as soon as I accepted a data labeling role, 5 other orgs inquired about my application. Suddenly I had several assessments to complete and interviews to schedule. Managing my schedule became a challenge.
+
+Today, one of the companies I had my hopes set on rejected me. They sent their assessment with a last minute deadline. I stayed up through the night to complete it. In the interview, they had 0 feedback on the work I submitted. The rejection email was cordial yet empty with feedback. *""After much consideration, we've made the decision to not move forward at this time.""* Ahh, that fresh but all too familiar sting of rejection. I've been rejected from 103 applications, 4 of which were after a series of interviews/assessments. It's like building a tolerance to spicy food. At least I'm not huddle on the toilet with tears rolling down my face questioning past decisions.
+
+My current offer, and the one I accepted, pays $50K. That is a $5K increase to my salary when compared to the roles I held before I had a masters degree. It will take at least 5 years for the ROI on my Masters to break even. If you've read this far, then you've likely dealt with something similar. Or, perhaps, you just like reading the entitled rants of others. At either rate, I will share my methods of dealing with rejection, and you might find them useful. Or not. 
+
+Jot your thoughts down. Then head out on a walk. Remind yourself that your competence does not hinge on the acceptance or rejection of these organizations. I won't be brazen in stating that acceptance is not validating, but rather that seeking it is an unfulfilling ambition. I personally struggle with this. I began to pursue data science to seek autonomy in my analytical endeavors. Thereby I take my short comings as personal failures, or reflections upon the traits that comprise me as a analytical thinker. 
+
+Continue to pursue problems that interest you. I truly enjoy coding projects and following what research I can in the field of NLP. This pleasure feels perennial, for now, and distinct from my career search. Ideally, I would like to find a role that consolidates this personal interest with professional interests. Though, it would seem that competition is quite stiff in this area. 
+
+Talk to your friends, family, or internet strangers about the process. I am fortunate to have a small circle of friends that listen to my rants. Additionally cats/dogs are helpful as they are diligent listeners. Additionally, I enjoy lurking on this subreddit. Reading the triumphs and struggles of other people reaffirms that this is challenging on all fronts. I've enjoyed seeing posts in response to the pessimistic ranting sentiment as well. I think the dialogue is incredibly healthy, and I wish that my last career interest had a similar community. So in that regard, thank you.",Rejection reminds me of spicy food.,1606231988
+datascience,I am currently studying Computer Engineering and starting to think of learning data science more. I am confused whether I should start with books or online courses. Please suggest me the write way and also provide me some good resources if you have. Thank You.,Help to start with Data Science.,1606230988
+datascience," Hello fellow redditors,
+
+I've been a generalist engineer for a few years and i decided to do a one-year specialized master in order to get new skills. (I tried with MOOC but it does help to have a degree to find a job and I'm not much of a self-learner, i prefer having guidance).
+
+I hesitate between two one-year master :
+
+* One is purely Data science (purely technical)
+* The other one is a mix between Data science and Data/ Business analysis
+
+My goal would be to apply data science to economic sciences.
+
+Which of these two options are more suited for that? What are the pro &amp; cons of Data Science and Data analysis?",Data science or Data analysis,1606229979
+datascience,,What is needed to be a full stack developer in 2021,1606227755
+datascience,,"Install CryptoTab browser and get real Bitcoins for using it. Your earnings will keep growing as long as you're watching YouTube, reading news and using your social network accounts daily.",1606227368
+datascience,"Hello. I have an interesting problem. I was given some time series data with granularity of days. I managed to get it into a table format with the intention of placing it into an SQL database for long term storage and ease of access. However, I now want add some cyclical data that spans over weeks.
+
+In the end I want to be able to see how the data affected the cycles.
+
+An example:
+
+day 1: A B C
+
+day 2: A C C
+
+day 3: A C D
+
+day 4: A C D
+
+day 5: A F H
+
+day 6: F G A
+
+day 7: A B C
+
+day 8: A L J
+
+Where each day would be a row entry and i know Cycle 1 lasted from day 1 - day 8 or was a duration of 8 days
+
+One idea I have is  for each entry simply add a feature which is the length of the cycle. So:
+
+day 1: A B C 8
+
+day 2: A C C 8
+
+.
+
+.
+
+.
+
+
+Does any of that make sense? If not I can clarify and give some better examples.
+
+Thanks",Representing cycles in time series data,1606225817
+datascience,"I've posted a few times about the MVP product I built (datalogz), and it worked! I just secured some funding to build out the next version of a modern data analyst-focused data catalog (similar to Atlan or data world). I'm wondering if anyone has any ideas on what features would make your current data catalog better. Right now, I'm focusing on helping analysts easily navigate to the correct data, understand data via user-contributed meta-data, and social/collaboration features to encourage meta-data upload (...no, social does not mean data catalog 24-hour stories :) ). I'm looking to learn what could make a data catalog more useful for you and your team! Thank you for any tips and advice.",What would make a data catalog/dictionary more valuable for you and your team?,1606225238
+datascience,[removed],GitHub repo heart ML,1606224707
+datascience,"Hi everyone
+
+If you want to learn about the best Python libraries for Data Science, then check out this article.
+
+[https://www.learnandmakeit.com/best-python-libraries-for-data-science/](https://www.learnandmakeit.com/best-python-libraries-for-data-science/)",Best Python Libraries for Data Science,1606223239
+datascience,,I have 100USD to buy books to learn programming. Any recommendations for a beginner/intermediate level?,1606222490
+datascience,,Python For Machine Learning and Data Science,1606221116
+datascience,,We Created A Fast And Free Machine Learning Interview Prep Platform -&gt; aceainow.com,1606216780
+datascience,"Hi Folks, 
+
+I'm new to data science and learning as in when I figure out something new. 
+
+I want to know which are the communities where I can contribute with my knowledge? Which I can share with my potential employer as well.",Communities for open source contribution,1606213330
+datascience,"Hi all, I’m based in Canada and will be finishing my degree in cell and molecular biology soon, and my undergrad research project is in a bioinformatics lab. After some research, I feel bioinformatics has a much better job outlook than molecular biology, but still less opportunities than data science, so I’m thinking about applying to bioinformatics and data science master programs where they accept people with biology background. 
+
+I only did calculus 1 and 2 and very few programming course, no stats course but planning to take an online credited introductory course. My plan is to use the coming winter break to do some certificated courses on ds from coursera and udemy to improve my background before applying. 
+
+I wonder if by doing so can increase my chances of getting accepted, and if I get an offer and finish my program, what are my chances of competing with cs and math/stats background people for jobs? Because looking at all the job requirements for data scientist, they are only looking for people with these background. 
+
+I also had a lot of disagreement with my mom over the past few days. She works in the IT field (not programmer) and she doesn’t want me to totally abandon my biology background, and she doesn’t believe that I can be competitive enough with people that studied cs/math for four years undergrad. 
+
+I personally kind of lose my interest in biology, and it is really hard stuff in term of lab and theories even though I’m getting good grades. I really don’t mind quitting the biopharma field for more and better job opportunities",Biology background turning to bioinformatics/data science,1606197972
+datascience,,UAE Artificial Intelligence Market Report (2020-27) - Pheonix Research,1606190354
+datascience,"Hi, I'm currently taking the specialization Statistics with R by Duke, and I was wondering if anyone knows if there are a compilation of notes for this specialization, one that this is similar to [this](https://sux13.github.io/DataScienceSpCourseNotes/), which is notes for the Data Science specialization by JHU compiled and done by Xing Su. 
+
+Thanks and stay safe everyone.",Resources for Statistics with R specialization by Duke?,1606187808
+datascience,"Why is R so valuable to some employers if you can literally do all of the same things in Python? I know Python’s statistical packages maybe aren’t as mature (i.e. auto_ARIMA in R), but is there really a big difference between the two tools? Why would you want to use R instead of Python?",Python vs. R,1606187661
+datascience,"sklearn documentations says
+
+&gt;Decision tree learners create biased trees if some classes dominate. It is therefore recommended to balance the dataset prior to fitting with the decision tree.   
+&gt;  
+&gt;Balance your dataset before training to prevent the tree from being biased toward the classes that are dominant. Class balancing can be done by sampling an equal number of samples from each class, or preferably by normalizing the sum of the sample weights for each class to the same value. 
+
+I get the under-sampling and oversampling part, but what exactly does weighting do? How does this affect the ways the trees are created?
+
+Also, what's the correct evaluation metric for such a problem? Since it doesn't product probability outputs, I know I can't use ROC/AUC/Precision/Recall etc... Is balanced accuracy the right one?
+
+Thanks,",How to train decision trees for class imbalance binary classification?,1606187549
+datascience,,Seagate likely to launch 24TB hard drive in 2021,1606186158
+datascience,"I am looking for an easy way to convert an SAP BOM to a visual BOM representative of a flow chart. You know like a flow chart or process map. Circles for buy parts, diamonds for make processes, and end items. It would be nice to be able to click into a node and see more details.",Looking for a program that makes a visual BOM.,1606181701
+datascience,"Let's say I have a CNN model to classify the handwritten numbers 1 to 10. I am using a dataset with 20,000 samples and I make a train test split of 50:50.
+
+That leaves me with 10,000 for training and testing. Will, it automatically pick 1000 images from each class for testing/training, or will it approximate it?
+
+I am trying a similar problem, (with different numbers of samples and classes) but I noticed that the testing data is not evenly split. For example, it has 1010 number ones being tested but only 990 number twos.
+
+Is this normal? I couldn't find any documentation verifying this. My dataset is large enough that the small discrepancy is irrelevant, but I still would like to confirm.
+
+Thanks!","When picking a train test split for model training, does it choose an even number of samples from all classes?",1606180793
+datascience,[removed],What are AI Trends to Watch in 2021?,1606178332
+datascience,,Avoid Touchy Topics with Transfer Learning and Twilio SMS in Python,1606177095
+datascience,"Would a data analyst position present a good jumping off point for a career in data science? I'm self teaching with DataCamp, the Coursera IBM Professional Certificate, and some books. The plan is to begin an online master's program next year. Would it be a good idea to try and look for a data analyst position in the mean time? I have a (perhaps incorrect) sense that that might be an easier entry-level position to get while I continue training my data science skills. Or are data science and data analysis different enough that one wouldn't necessarily dovetail into the other?",Beginning a career in data science. Should I star with a data analyst position?,1606175544
+datascience,"I just find out about this specialty certificate. After looking into the guide, I think the contents are quite relevant to what I do every day - some of them I use daily, and some of them are among the list of my interested in. Just want to see how the folks who got it already think about it. Thanks!","About the aws ML specialty certification, how useful it is for your job? How useful it is for your career development?",1606174872
+datascience,"I am pretty new to coding. While working through Automate the Boring Stuff With Python, I find myself getting quite frustrated when I am unable to complete the mini projects at the end of each chapter without googling for the answers. I try my hardest not to search for the answers, but it gets to a point where have something that almost works, but does not quite work properly. 
+
+Am I just an inept coder? It makes me feel terrible that I can't complete these (what I'm assuming to be relatively easy) tasks without requiring assistance.
+
+I'm sure it's common to get frustrated, so I guess this is mainly me letting off steam. I love the feeling of finally getting my code to work properly on my own, so hoping things start to click a bit better and I get to experience that more.",Frustration When Stuck,1606174578
+datascience,"I am working on my final project for my data mining class and I wanted to work with the “Mapping Police Violence” dataset. This dataset includes everyone who was killed by police these past several years. I wanted to see if race, gender, or weapon type had the most impact in predicting whether or not a person is killed, I basically want to see if blacks/minorities are disproportionately killed. Whenever I run the regression [summary(lm(killed~ race + gender + weapon_type))] on R I get the intercept as 1, since everyone is killed, and the independent variables have no impact. How do I fix this/what can I do? Also, is it possible to do classification or clustering with this binary data that is all 1s?
+
+TLDR: I have a dataset that shows every police killing and can’t run a linear model because the intercept is 1 because everyone on the dataset it killed.",How to analyze data when everyone is yes(1)?,1606174476
+datascience,"I work in a company which wants to predict whether a given customer will deactivate (churn) its contract within a two month time window. They decided to show the business two metrics only: precision (without showing recall) and lift.
+I have a few doubts:
+
+- Isn't showing precision without recall a bad practice ? In this way we do not take into account how many customers i am not contacting while I should have..
+
+- By taking a sample of 100k customers precision is around 7%. Is it usually a bad value for churn models ? Again, there is no recall, but I expect it to be low as well.
+
+- To me lift looks like a business metric, especially in a highly unbalanced dataset. Telling that your model performs 4 times better than a random model looks cool, but at the end if in the random model you get 1% churn rate, it doesn't seem really good, at least to me.
+
+I do know whether it is me being too pessimistic here, or just ignorant on the matter.
+
+Thank you",Churn prediction metrics doubts,1606171195
+datascience,How To Create Differentially Private Synthetic Data [https://towardsdatascience.com/how-to-create-differentially-private-synthetic-data-ae1a04cff1b9](https://towardsdatascience.com/how-to-create-differentially-private-synthetic-data-ae1a04cff1b9),"A practical guide to creating differentially private, synthetic data with Python and TensorFlow",1606169626
+datascience,"Hi everyone.  MBA with concentration in Business Analytics here (ie.  I know a lot of jargon and know just enough to know I really don’t know shit) 
+
+I’m working on a project related to different types of retail outlets.  My company has several different retail outlet types and I’m trying to figure out what is the optimal mix for different geographic areas.  For example, people in rural areas may want more full-service outlets whereas people in cities don’t want to talk to anyone and just need store fronts for dropping off and picking up.   I’ve got a ton of data to work with, but I’m having trouble coming up with a model that will tell me what percentage of outlets in a given area need to be of a certain type.  Do you guys have any recommendations of different techniques I can look up to see if they apply in this scenario?  
+
+Ideally, I’d give the model my inputs, and it’d tell me that the optimal mix in a certain area is 50% type A, 10% type B, 21% type C, etc.   
+
+Something I learned about today was that of Data Envelopment Analysis which was interesting, but I don’t think it applies in this.
+
+Thanks for your help!",Retail mix help?,1606169327
+datascience,"Warning -- venting ahead.
+
+I'm new at a datasci job that I generally like and have spent a couple of weeks on a very heavy data wrangling problem in Python where I basically am taking some very ugly data distributed across multiple sources, and doing lots of magic with it that builds a pipeline that ultimately yields a single postgres database running from a docker container, all of which will scale, will be really easy to use, all done using Jupyter so everyone can use it, including a db schema visualization within Jupyter. Now when anyone in the future wants to rebuild the database they basically just have to hit a button. Also there are lots of utilities to ensure db integrity (basically lots of tests built in).
+
+In my presentation my crowning achievement in my mind was that you could literally hit one key and the db immediately is reconstructed from scratch, while I'm talking. So as the thing is running and the db is being populated during this live demo, and I'm beaming with pride. The main boss person is like ""Great what are the results?""
+
+I fucking died inside. That *was* the result for this work period....ugggggg.
+
+I guess I'm using to working in a team where everyone gets excited by nerdy data stuff. I had to figure out how to say ... ""Ummm we have a database now you damned @#$#"" in a nice way.
+
+Anyway I'm feeling pretty pissed and dejected now. Like...sheesh. Trying to rediscover my motivation at this point.",Thought I nailed presentation on pipeline I built. Business ppl were like 'where are the results?' Ugh.,1606168142
+datascience,,Ready For Free Data Science Prep? -&gt; aceainow.com,1606166953
+datascience,"Got started on ML, did a couple of courses, did a few projects, the usual. Now I want to blog about my work and showcase it.
+
+How do I go about it? Any resources on how to make a DS Blog or portfolio? Which platform should I choose?",Data science blogging help?,1606165334
+datascience,"Hey Datascience!
+
+I have to get this off my chest with a community where they could hopefully understand my concern.
+
+Yes, you read the title correctly, I make full time income on the sports betting markets using applied mathematics and data science principles with the help of Python. I have over 9000 bets that satisfy the law of large numbers in the range of my taken odds (probabilities of matches and taken/""buy"" prices), so comparing to my ""Monte Carlo simulation"", my actual profits are in line with the calculated ""Expected Value"".
+
+The thing is all of this was done by researching what other, mathematically proficient people done in this area (mainly on Google Scholar), and closely following their findings and tutorials, I copied their methodology to Python 1/1 (adding a couple of  twists that has something to do with the source of the data more, little with the mathematics itself). And it works...
+
+First off, I remove the so called ""bookmaker margin"" with a so called, ""Newton-Raphson iteration"". I literally just copied what the author does step by step to my Python script (**translated it to Python is the better word btw**) as a function and it works. When I look at the complicated equations upon Googling what it is actually, I can not understand jack-sh#t...
+
+The Monte Carlo simulation?? I watched a Youtube video explaining it in theorical terms, it felt like something totally unknown, while I made it simple with Python, randomizing wins and losses according to the ""true"" probability and compared that to my advantageous, +EV odds (prices) and that's it...
+
+**But I do not want to do this forever, I would like to get a normal, legal job in the data (science(?)/analytics/base) field but I feel like an idiot for not knowing actually what I am doing fully, but it works... **
+
+I literally just follow what other researchers, more mathematically competent people do/did, and do like a soldier without questioning the underlying logic, translating the findings and equations to Python  and letting the software do the job for me. As I have a hard time understanding them, I just ""replicate"" the steps the author uses, if he states it. If he doesn't, I keep googling until I can find the method/equation in a ""step by step tutorial.."" 
+
+If I would like to get my foot in the financial data industry, not necessarily as a scientist, but as an analyst, is it enough **if I somehow just ""get it because that is how it has to be done"" or do I need to have a strong ""elevated"" mathematical foundation with deep understanding to be successful... ?**
+
+I have an business/econ degree btw, studied Calculus and Stats, Probability Theory, but despite the fact I am making a living using the last two, I am certain that I could not pass the exam today.
+
+Thank you for taking time to read it, and I am not doing this to be bragging or anything. I would like to hear genuine advice, because I have a hard time speaking about this in person as few people take this kind of income seriously (they think that I am lying), and those who do can't say anything about it...","I make a full time, above average income using applied mathematics and data analytics combined with programming but I can't really understand what I am doing. Help needed!",1606165329
+datascience,"I’ve started another DS role in the last 6 months. Training was about 1-month long, which I appreciated, however, it was virtually all domain knowledge. Useful and I wouldn’t have opted out of it. But DS specific knowledge was entirely skipped. 
+
+Once I got assigned to my “AI Production team” things started feeling off. The company offers one product, which is pairing call center agents with customers to prevent churn. They don’t do anything else whatsoever. So I figured if all you do is one thing, you do it damn well. 
+
+I came to find that the “AI” code base is 10 R scripts. Each script is 500-1000 lines long, and there are usually ~10-25 comments per script total. No doc string equivalents or anything. These scripts reference each other with a shocking lack of documentation.
+
+This isn’t the end of the world, surely I’ll be partnered with someone experienced and we’ll tackle a few toy problems together, like tweaking an ETL pipeline or something. Nope. Pretty much, “We’ve got a new client, please adjust these scripts as necessary, and ping me when you’re done.” 
+
+In this economy I really do feel grateful to have a job and don’t want to lose sight of that. But I’m curious, what have others’ experiences of corporate code hygiene looked like? Is my experience pretty standard, totally bizarre, etc? 
+
+FYI, this is my second DS job. Everything at my previous role was building a new product from the ground up. So I’ve never inherited a 5 year old product before. No idea if this is pretty standard, cause for concern, etc.",What’s your experience of code hygiene in industry?,1606165271
+datascience,"This is my flask/react based GUI for pandas dataframes, [D-Tale](https://github.com/man-group/dtale).  A common question that's always come up is ""Can I use it Streamlit?"" Well the answer is YES! Here's the documentation on how [D-Tale interacts with Streamlit](https://github.com/man-group/dtale/blob/master/docs/EMBEDDED_DTALE_STREAMLIT.md)
+
+Here's a [screen recording](https://www.youtube.com/watch?v=iiT8fQqj4no) of a couple Streamlit scripts using it. 
+
+Here's the source code to the two scripts in that demo:
+- [Altering a Dataframe](https://github.com/man-group/dtale/blob/master/docs/streamlit/script_columns_and_code.py)
+- [Scraping baseball-reference.com](https://github.com/man-group/dtale/blob/master/docs/streamlit/script_baseball.py)
+
+Hope this helps and please support open-source by tossing your :star: on the repo.  Thanks!
+
+P.S. For anyone really interested about how they can get their Flask apps working in Streamlit here's the details on how I accomplished it. [Embedding Flask in Streamlit](https://github.com/man-group/dtale/blob/master/docs/EMBEDDED_STREAMLIT.md)",Finally got my pandas visualizer working in Streamlit! Here's information on how to use it or yours working in Streamlit too,1606162255
+datascience,"Has anyone used neo4j before for network analysis? How does it compare to using the igraph and visnetwork libraries in R? For all intent and purposes, are you able to do everything in neo4j that you can do in R?",Neo4j vs R,1606161930
+datascience,[removed],Ready for Free Data Science Interview Prep? -&gt; ACEAINOW.COM,1606160843
+datascience,"I am having a lot of trouble getting to the interview stage with this resume. Can someone give me their opinion on it? Do I look completely unqualified?
+
+Resume: https://i.imgur.com/nECqUq3.jpg",Rate this resume for a data analyst position,1606159116
+datascience,You are working for a retailer and created a regression model for sales prediction . How do you account for unknown events like covid or 911 or housing bubble burst?,[Noob alert] How do you account for events like Covid in your prediction model?,1606157524
+datascience,"Hi , I am not able to find any course over udemy that actually teaches the full life cycle of machine learning project. It always ends with the notebook and model.predict. any pointers will be super helpful. Thanks",Any course that teaches the deployment of models via help of PMML,1606156775
+datascience,,Kaggle/Jane Street Market Prediction Challenge,1606156427
+datascience,"Data is either completely walled off from broad access, or is left open for all to copy within an enterprise. There are no effective tools for sharing data in a controlled fashion: either to make it simple to anonymize a dataset or to generate a synthetic dataset with the distribution characteristics of the original data but with no sensitive data. [https://greylock.com/the-github-of-data/](https://greylock.com/the-github-of-data/)",The GitHub of Data,1606155676
+datascience,[removed],What To Do When Asked A Question You Don't Know In A Data Science Interview?,1606155576
+datascience,,Data Science and Machine Learning Bootcamp with R by Jose Portilla,1606155482
+datascience,"As i am currently unemployed (for a while), and i could both use the practice, experiance (and honestly i enjoy analytics to a certain degree), i was wondering if anyone here knows of or can reccomend some open source or volunteer projects in need of data analytics people (ML/regression etc).  
+
+
+Alternatively, if anyone here is looking to take on a project, and looking for a collaberator, i may be interested  
+Thanks",Volunteer or open source work,1606155139
+datascience,,Top 8 Reasons Why Data Science Jobs Are in Demand,1606154983
+datascience,"If you had job offers for these two types of jobs doing essentially the same job just in different domains, which would you choose and why?
+
+Both areas are interesting to me and I enjoy reading articles and learning about them and since both job markets seem good (in NYC), I was curious what people thought of working as a data professional the two domains. Thanks!",Security Analyst vs Financial Data Scientist/Quant,1606153399
+datascience,"I got the task to answer ""how much does sales volume differ if the change the price by x% / what's the maximum price we can sell this product for"".
+
+I got the sales data of the last 2 years but lack some campaign data (was the product on sale? If yes how much % did it cost? Or just normal price? etc ...) but could probably get those information.
+
+But I have no idea how I could model this. Doesn't even have to be machine learning.
+
+But what I learned about price elasticity was the simple formula for 2 different price / sales volume points and only in theory, never with real world data.
+
+For now I just:
+
+* took all sales
+* grouped by sales price = X
+* X *  sales volume = total revenue.
+
+But are there better things I can do? I would guess that trends / seasonality would have an impact so that influence should probably be removed but how? It's not a time series problem per se so time series things (normalization etc) or models like Prophet wouldn't work I guess?
+
+Any tips, recommendations or links for this topic?",How can I model the price elasticity of a product with sales data?,1606150921
+datascience,,Suggestions for masters in data science in Canada?,1606150426
+datascience,[removed],How Has Data Science Impacted Covid Treatments?,1606149837
+datascience,"Our startup builds quality control tools for data collection.  We’d like to talk to you about common problems you see in your data collection process, and how you currently detect and fix them.
+
+We’re interested in speaking with people who:
+
+- Monitor the quality of large scale (or high value) data collection processes
+- Are responsible for finding and correcting data quality issues
+- Work with data other than personal information/customer data (eg. field reporting)
+- Are in Canada or the USA
+
+If you fit our requirements, [please complete this short \(2min\) screening survey](https://forms.gle/2DAvFtrH3TmY7sZR9).  After we successfully complete the 20-30 minute interview, we’ll email you a $50 gift card.","Data Quality Analysts: Talk to us about data quality issues, get a $50 Amazon gift card!",1606148931
+datascience,,Artificial Intelligence vs Machine Learning vs Data Science,1606148589
+datascience,,PyTorch Geometric Temporal,1606148070
+datascience,[removed],Hypothesis Testing of Regression coefficients,1606147041
+datascience,"In Python,   `conda env export &gt; environment.yml` and `conda env create -f environment.yml`  are the way to go for exporting / importing an environment. Thus, you can run a project smoothly.
+
+Is there any way of doing the same in R? Conda for R seems to be a huge mess. Moreover, when dealing with R packages that depend on python (pm4py) libraries (e.g. [bupaR](https://www.bupar.net/)) it's even harder, at least from my point of view. 
+
+TL;DR I want to install bupaR in a separate environment (not globally), with 0 errors and few instructions. Please help.",R reproducibility and environments,1606143301
+datascience,[removed],What Are Data Science Salaries in Toronto?,1606142255
+datascience,"
+Hi, I'm working with jupyter notebooks on vscode and I'm getting this really annoying notification asking me to take this survey about the Python Data Science module.
+
+**I have already answered** this survey and can't answer again, but I'm still getting this notification **EVERY 10 MINUTES** or so, or every time I open an ipynb file, it's incredibly annoying.
+
+Is there any way to disable this specific window or maybe all notifications?
+
+Thanks in advance!
+
+Edit: I’m running MacOS Big Sur
+
+https://preview.redd.it/rg6um53910161.png?width=469&amp;format=png&amp;auto=webp&amp;s=ea08875b715df6fb00eab133af45a9c63378e12f",Python Data Science extension is spamming survey notifications,1606142073
+datascience,"is ""igraph"" considered ""GQL"" (graph query language)?","is ""igraph"" considered ""GQL"" (graph query language)?",1606141791
+datascience,"Hey gang,
+
+I'm looking to build a PC that'll be primarily used for data science. I'm looking to keep it around $600-700. I'll be using it mostly for ML with Python and doing work in STATA. These are mostly CPU intensive tasks, right?What CPUs would y'all suggest? Would 8 GB of RAM be fine or should I get 16 GB? How much GPU should I spring for? Thanks in advance! Love this community &lt;3",Building a PC for Data Science,1606140710
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140359
+datascience,"I am making my way through Jeremy Howard's FastAI videos and just finished [\#7](https://www.youtube.com/watch?v=VEG5xT5gAHc&amp;t=5561s), where he discusses, among other things, how to pick apart tabular data using random forests. As someone trying to break into this field, I am literally blown away by some of the ways he goes about it. The way the certain variables are shown to correlate with each other, with a dependent variable, etc. absolutely impressed me and I would love to find similar resources to pick up new tricks. Although I am a little familiar with random forests, most of the functionality being showcased in that video was new to me. Would anyone have any similar videos or blogs/vlogs with examples that describe different data analysis strategies? Preferably those not intended for professionals/experienced practitioners. Thanks!",What are some high-quality videos/vlogs/walkthroughs on different ways of processing and making sense of data?,1606140192
+datascience,"Hi,
+
+I am working on a project where I need to give personalized recommendation to each customer.
+
+Sample of data may look like this:
+
+&amp;#x200B;
+
+|Customer ID|Week Num|Sales|\# Emails Sent|\# Personal Visits|\# Free Vouchers|
+|:-|:-|:-|:-|:-|:-|
+|1|1|50|12|0|0|
+|1|2|76|5|1|0|
+|1|3|65|30|0|1|
+|...||||||
+
+&amp;#x200B;
+
+There are more than 50k unique customers for which I have weekly data for 1 year.  
+
+My objective is to build a weekly regression model for each customers that can be used to provide personalized recommendation. This seems like Marketing Mix modeling task but MMM only gives single equation instead of different equation for each customers.
+
+&amp;#x200B;
+
+Do you have any suggestions? I am only looking for techniques that are not black box and can give weights across each marketing channel.",Personalized recommendation from Linear Regression?,1606140190
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140189
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140132
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140126
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140123
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140088
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140087
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140086
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140085
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140085
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140083
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140082
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140081
+datascience,"You can read the full article for free here on my blog - [https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/](https://thecodingpie.com/post/lets-do-web-scraping-with-python-beautifulsoup4/)
+
+If you prefer Medium, then - [https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e](https://itnext.io/lets-build-a-web-scraper-with-python-beautifulsoup4-2b550d10438?sk=a216b6f4d3ff0379de7ab336470eee6e)
+
+Ever wondered how to automate the process of scraping a website, collecting data, and exporting it to a useful format like CSV? If you are doing data science/machine learning then you may have been in this situation several times.
+
+That's why I wrote this tutorial, In this tutorial, you will learn all about Web Scraping by building a Python script that will scrape a movie website and fetches useful information, and finally, it will export the collected data to a CSV (Comma Separated Values) file.
+
+And the good thing is that you don't have to do web scraping manually by your hands anymore!
+
+This tutorial is for every beginner Pythonistas and data science/machine learning experts. I hope you will love it. I tried my best to make this tutorial fun and beginner-friendly. So fear not! If you got stuck, I am always here to help you :) As always, any feedback is accepted...",Let's Build a Web Scraper with Python &amp; BeautifulSoup4 | thecodingpie,1606140080

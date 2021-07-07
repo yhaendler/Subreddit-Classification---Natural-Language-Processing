@@ -1,0 +1,397 @@
+subreddit,selftext,title,created_utc
+datascience,"I've always been interested in civic tech and I'm actually about to start a new job in federal government as a Data Scientist. I definitely want to make as much impact as I can, but I was wondering if anyone had experience in it and if so, what were some of the challenges you faced?
+
+For example, they want to start moving from legacy tools to newer ones (SAS/Excel to Python) and they want me to automate some of the work while also teaching analysts how to use Python. I know there are challenges in the sense that people are unwilling to budge from their comfort zone, but how did you navigate those situations? 
+
+Also, I do come from a non traditional background. Currently, less than 7% of government employees are younger than 30. I recently graduated from Berkeley with a BA in Data Science and I'm pretty young to start at a mid level role. I worry that I'll experience ageism and I'm not sure how to interact with other analysts without giving the wrong impression. I get the feeling other analyst/scientists won't take me seriously because I don't have a graduate degree, but I passed all the same interviews as they did and I'd say I have a decent amount industry experience. Obviously I'm very lucky to have landed this role and I'm excited to start, but I worry that 1) data science being relatively new in government will make it hard to create change and 2) my age / background will be a disadvantage when it comes to pitching new ideas.",Anyone here do data science for the government (United States)?,1605828810
+datascience,"Hello, My name is Evan Stolpmann, I am a student looking to quickly ask a few questions to a willing individual currently employed in a data science related field of work! These questions are for an assignment and will not be publicly published. There are only 6 questions and they are quite simple! Message me and I will send the questions via direct message!
+
+If anyone could help that would be incredible, Thanks!",Need Data Scientists Help!,1605828714
+datascience,"Hello All,
+
+I'm in search of recommendations for Tableau and their analytics pane, I am simply a student so I don't really have the day to day frustrations with this software, so the analytics pane seems fairly functional to me. I've tried searching online for suggestions, however there is no better source than those who use it themselves.
+
+(I apologize if this breaks rule #5 or rule #8, however this is the last place I could think of to get some valid critiques of Tableau's analytics pane.)","Data Scientists, do you have any recommendations for ways to improve the Analytics Pane of Tableau",1605826071
+datascience,"What skill, tool, technology, concept, or paradigm would you learn to be more competitive in 2021?",What top skill do you want to learn for your career in 2021?,1605825267
+datascience,[removed],Breaking Into Data Science from Finance,1605825026
+datascience,"Hello! I am currently a junior in college and a statistics major who is interested in the field of data science. My Uni literally got a data science major this semester and I was told I am too far in to change my major (although I was always focused on Data science) and my advisor also said that statistics in probably the next closest related major anyways. I was wondering in getting a minor in computer science would be worthwhile in trying to achieve my career goals or if it would be a waste of time.
+
+Any advice is greatly appreciated, thank you!",Should I minor in Computer Science with a Stats major for Data science?,1605824946
+datascience,"As always there's so much information out there I dont know how to allocate my time  
+Machine learning   
+Bayesian Statistics
+
+which would you pick?
+
+I'll do both eventually but need to know which one is more important",How important is Bayesian statisics,1605823993
+datascience,"I got this question asking if I have related experience in/on those, but from my many years of post-graduate education and internship career in math &amp; stat, I haven't heard of these two terms. Thus I can't say yes or no to the question. Are these terms widely used in CS or the tech industry? Could someone provide an explanation for this?
+
+Thank you.",What are offline experimentation and a measurement platform in data science?,1605819561
+datascience,"As the post title suggests, please pass along any interesting git hubs, articles you’ve stumbled across, research, new applications etc: specifically on the application of data science and analytics to healthcare, healthcare efficiencies, personalized medicine, drug discovery etc.
+
+Thank you!","Interesting repos, articles etc re: data science + healthcare",1605815876
+datascience,"Are there any suggested tools in python for constructing decision trees? The more the better as there may or may not be an implementation within my company's internal infra. 
+
+My current use case is constructing segments using BOOL conditions. I want to have a reasonably large chunk with a relatively high uplift. 
+
+The current approach I'm considering: 
+sklearn.tree.DecisionTreeClassifier with various max_features configs, using 1:100 as a random seed and using the top 20 or so outcomes on the test data as a basis for more manual tuning. I might do a variant where the features are reduced by means of using the top X features from varimp in sklearn.ensemble.RandomForestClassifier/ExtraTreesClassifier.",Tools in python for Decision trees,1605815296
+datascience,"I've been a long time lurker of this sub and one thing I've noticed throughout here is people say don't go into data science for the money. Personally for me , and this is likely an unpopular opinion I'm just expressing my personal values based on experience so please don't take this the wrong way, but financial stability is very important to me. I'm the type of person thats very diverse where I can get myself to enjoy any job and I've enjoyed working with data so much, but I  want a job that can pay for the lifestyle and hobbies I like outside of work. Work is just a small part of my life, and I find the things I can enjoy outside of work to bring me the most value in life like traveling, experiencing different activities, etc.
+
+Anyways to cut to the chase, should I continue to pursue data science if finance is one of my top life values? Is anyone happy/unhappy with their current financial situation working in ds?
+
+Again please don't take this the wrong way because I feel like talking about finance in careers is a sour topic for a lot of people, but I really want to have an open discussion about it without judgement.",Should I go into data science if I care about financial stability?,1605815207
+datascience,[removed],Is it illegal to scrape twitter without using their Official API ?,1605815088
+datascience,"Hi!
+
+I'm still a n00b in this field, but I'm trying to push a paper out fairly quickly.  The thing is, getting experimental labels is very challenging and may take several months.  However, I have the ability to simulate the system fairly accurately.  
+
+**Project:**  To compute the surface of an imaged object using CNN
+
+**Input:**  x,y,z intensity.  There is a strong response from the surface of the object, turning this project into a ""noisey"" peak finding algorithm.  The surface should be continuous and change slowly in x and y, but only yield a single value for every x,y location.
+
+**Output:** x,y  image yielding the height of the object.  A single image is the output showing a map of the surface. 
+
+**Idea:** I can simulate a range of x,y,z inputs with perfect response and with an added amount of expected variance we see experimentally. This would serve as a ground truth.  I could test it on a subset of the simulated data, to establish the model.  Then maybe the ""hail mary"" is that I observe its performance on experimental data. 
+
+I've already built a model using a UNet CNN with experimental data and hand created labels - although without ground truth it is not exactly clear how accurate it is, but the results are reasonable.  The model performs very well with hand labelled data.  The output value is a classification of 1 from 20 options (each a different binned location in z).  
+
+Thoughts on this? Things I am not considering?
+
+Thank you!!","Advice on a project: build model on simulated data, deploy on experimental data?",1605814804
+datascience,"This is a blog post about the uses cases for version-controlled databases, and how a true version-controlled database is not the same thing ""database version control"". A true version-controlled database lets you branch and merge as well as check out any previous revision. Most ""database version control"" products are just about managing schema migration, with no support for branches and merge, and limited data versioning; or they're snapshot services. We believe data science can benefit from true version-controlled databases.
+
+[https://www.dolthub.com/blog/2020-11-17-version-control-databases-defining-a-category/](https://www.dolthub.com/blog/2020-11-17-version-control-databases-defining-a-category/)
+
+Disclaimer: I'm a software engineer working for the company that makes Dolt. Dolt is free and open source and always will be, but we also sell paid services for dolt databases.","""Database version control"" vs. ""Version controlled database"": what's the difference, and why does it matter?",1605814325
+datascience,"I'm trying to pick between two online masters programs, the [John Hopkins University MS in DS Online](https://e-catalogue.jhu.edu/engineering/engineering-professionals/data-science/data-science-master/#requirementstext) program through their professional engineering school (which admits everyone, taught by professionals) and the [Indiana University MS in DS](https://bulletins.iu.edu/iub/sice/2020-2021/graduate/degree-programs/master-of-data-science-online/index.shtml) Online (taught by their residential faculty). The JHU program offers a wider array of courses, and has better name recognition but it's kind of expensive (36K). The IU program has fewer course options but offers interaction with research faculty and is significantly cheaper (15K). Do recruiters care about which school you went to for your degree? Will one degree prepare me better for the job market compared to another? I'm hoping I can always take additional classes at JHU that I find interesting without committing so much money toward a degree.  
+
+I read on this sub all the time that a MS in DS degree is useless for getting an actual DS job. However, I still think this is the best option for me since I don't have any CS or Quant background, and I can't get into MS CS degree programs (good ones anyway). I currently work in the IT field as DevOps (5 years) and enjoy coding applications in SQL, building dashboards, and doing analysis. It's a small company so the work I do is very basic. No CS background, all self-taught. I'm hoping an MS will let me pivot my career a bit toward data analysis/BI or open up management positions in IT.",Does it matter which school you get an MS in DS from?,1605813560
+datascience,[removed],Data Science Interview Prep,1605813467
+datascience,[removed],Data Science Interview Prep,1605813382
+datascience,[deleted],UC Berkeley School of Information's Master of Information and Data Science,1605812323
+datascience,,mrtkp9993/DeepLearningExamples - Deep learning examples in Keras.,1605811841
+datascience,"I've googled it a few times and still don't understand? I interviewed one she explained to me she used very little python and C++ in her day to day duties and that she works for a hospital setting. I'm a clinical lab scientist, she's a data scientist as well as a nurse and encouraged me to research the profession.",What does a data scientist do?,1605811798
+datascience,[removed],Deep learning networks better distinguish generated people images than people themselves. Check it out my new work and please upvote it,1605810227
+datascience,[removed],Data Science Interview Prep,1605807565
+datascience,[removed],Data Science Interview Prep,1605807356
+datascience,,A-Z of 26 Important Data Science Concepts,1605807179
+datascience,,I am kind of curious and get to know how the new Apple's M1 powered macs Neural Engine Unit helps with machine learning. Can we run our models / Jupiter Notebooks on it? Or is it works only for the apps that specifically developed for it?,1605807020
+datascience,,The Data in our Melody - what role does data and AI play for music?,1605806682
+datascience,"I'm working with time series data. If I would like to take the log or Inverse hyperbolic sine of a variable AND aggregate that variable at the weekly level by finding the weekly mean, does it matter which order I perform these transformations? Should I aggregate at the weekly level before finding the Inverse hyperbolic sine or vice versa?
+
+Thanks!",Quick Data Transformation and Aggregation Question.,1605804828
+datascience,"What I have is a series of json files returning results from a query. They're all formatted the same. 3 objects on top that describe the query, followed by an array that returns 20 objects as results.
+
+Right now i've got about 900 of them and that's just a test run. In the short term I need a way to combine this into one big giant csv and eventually to injest it into an sql database.
+
+I tried a few python scripts as well as jq on linux but didn't really get what i'm looking for. Maybe I just need a point in the right direction, but being able to compile this into individually queriable objects that can be sorted by their keys would be incredibly helpful. And I need to scale up to eventually be able to handle thousands of these. I know aws will probably be the best shot in the long run, but I need some kind of working demo before I can hop into that.
+
+format is like this, what I need is bold.
+
+{
+
+  ""query\_data"": {
+
+""id"": ""numbers"",
+
+""status"": ""unimportant"",
+
+""endpoint"": ,
+
+""date"": ""2020-11-18 12:17:49 UTC""
+
+""query"": ""[https://www.google.com/maps/search/dispensary/@39.0911161-94.41550679999999,14z?hl=en](https://www.google.com/maps/search/dispensary/@39.0911161-94.41550679999999,14z?hl=en)"",
+
+""stat"": 2.59
+
+  },
+
+  ""parameters"": {
+
+""bla"": ""asdf"",
+
+""unimportant"": ""asdf"",
+
+  },
+
+  ""morecrap"": {
+
+""local\_results\_state"": ""Results for exact spelling"",
+
+""query\_displayed"": ""dispensary""
+
+  },
+
+  **""WHAT\_I\_WANT"": \[**
+
+**{**
+
+**""position"": 1,**
+
+**""title"": ""name"",**
+
+**""data\_id"": ""uniqueid"",**
+
+**""gps\_coordinates"": {**
+
+**""latitude"": 12.1234,**
+
+**""longitude"": -12.123456**
+
+**},**
+
+**""addl\_query"": ""****u****rl"",**
+
+**""data"": 4.6,**
+
+**""data"": 140,**
+
+**""data"": ""thing"",**
+
+**""address"": ""123 S Somewhere, whatever, OK 90210"",**
+
+**""stats"": ""string"",**
+
+**""numbers"": ""123456"",**
+
+**""service\_options"": {**
+
+**""one"": true**
+
+**},**
+
+**""thumbnail"": ""imageurl""**
+
+**},**
+
+ and so on for 20 more.
+
+I know that I could get some real value out of taking the time to learn this myself, but i'm on a time crunch so any guidance would be much appreciated.",Can anyone guide me on ingesting .json files to convert them into a single set of objects / csv / sql / whatever.,1605804218
+datascience,,Kaggle Challenge: Species Audio Detection in Tropical Soundscapes ($15k),1605803093
+datascience,"I have a basic python script that does OCR and I'm looking forward to make a Skype bot that executes the script and returns the output, how should I start?",Is there an easy way to make a Skype bot that executes a python script?,1605801728
+datascience,[deleted],What Are Genetic Algorithms and How to Implement Them in Python,1605800599
+datascience,"Hey guys! I have a list of locations that I got from Twitter users regarding a specific topic, and I want to plot it on a map. However, not all the locations are written in uniform. 
+
+The list of locations: 
+https://docs.google.com/spreadsheets/d/1sTwS8KGcU8IzR76Hs118MXOfwfRCeZBtm4SiyZ0Q2Ro/edit?usp=sharing
+
+Can anyone help?",List of locations to a map?,1605800424
+datascience,"I was an Apple user for a long time and changed to Thinkpads+Linux and it's the best thing I've ever done, specially now that I got part of my privacy back and can actually own my computer. However, the M1 chips put me on the fence again.",What is your daily driver machine/laptop for coding?,1605797932
+datascience," What are good data science interview prep resources? Please comment below! At AceAI, our mission is to launch data science careers. Check out [www.aceainow.com](https://www.aceainow.com/) for top 100 interview questions in a Python environment.",Data Science Interview Prep,1605797831
+datascience,[removed],Can you train ML models based on dummy data?,1605795307
+datascience,"Hello,
+
+Has anyone been able to install Scipy package in Python 3.8 using Apple M1 with Rosetta 2?",Apple M1 - Python 3.8 - Scipy,1605793592
+datascience,"Hello,
+
+Has anyone been able to install Scipy package in Python 3.8 using Apple M1?",Apple M1 - Python 3.8 - Scipy,1605793242
+datascience,,Getting started with Service Mesh,1605793003
+datascience,,What Is Data Science? Future Scope &amp; Career.,1605792179
+datascience,,What skill Required to become a Data Scientist,1605792140
+datascience,,It’s A Data War. And Here’s Your War Room,1605787925
+datascience,[removed],How to code and think better? a book review on Pragmatic Thinking and Learning by Andy Hunt,1605786193
+datascience,,Simplify data binning in Python with a custom dict,1605785855
+datascience,"The title might be a bit misleading, so let me explain. I'm the most senior DS in a company where each data scientist is embedded in a product team. There is almost no need to interact with each other. But it gets very lonely. It's tough for juniors especially - I talk to them directly, but I don't think it's enough. And anyway, in my experience, the best ideas happen through discussions with peers.
+
+If you work in similar circumstances, and have found a good way to handle the isolation, please share. What do you do to foster exchange? Is it possible to keep track of each other's work on top of your own? Do you still read each other's code/research across teams? If you have a weekly DS meeting, how do you structure it and what do you talk about?",How do you foster community if everyone has a different project?,1605785709
+datascience,"I am afraid that I don’t have knowledge in data science, what should i do or learn to understand master’s level? And secure job afterwards?","Cs graduate, about to start my master’s in data science, how can I prepare for my master’s? I don’t think i have much knowledge, what can i do to ensure smooth sailing during my master’s and afterwards?",1605781966
+datascience,,Role of graph data structure in Machine Learning and their evolution from graph engines to GNNs,1605775487
+datascience,[removed],How do I create a dok matrix with split files correctly?,1605775065
+datascience,,Logistic Regression Machine Learning Classification in Python and Sklearn,1605772438
+datascience,"Logistic Regression Machine Learning Classification in Python and Sklearn
+
+[https://youtu.be/50hZ8hlmFpg](https://youtu.be/50hZ8hlmFpg)",Logistic Regression Machine Learning Classification in Python and Sklearn,1605772408
+datascience,"I can't seem to find any recent posts for this question, so I'm gonna ask it now.
+
+I recently just finished the first 5 courses for the Data Science specialization from JHU on coursera, and I'm thinking whether the rest of the courses which focus more on statistics is good enough. So I'm hoping anyone who's taken either of the courses could tell me whether I should take the specialization by Duke as well. In other words, should I take both these specialization to really understand the material, or will they just be clashing with one another instead of complementing.
+
+I would appreciate any kinds of replies. Thanks and stay safe everyone!",Data Science specialization (JHU) &amp; Statistics with R specialization (Duke) on coursera,1605759641
+datascience,"Hey all!
+
+A lot has happened in 24 hours since I got my m1 Macbook Air so I wanted to share my trials and tribulations with the internet in case it helps someone.
+
+[My Original Post with Benchmarks and struggles to get things working is at: https://www.reddit.com/r/datascience/comments/jw5go3/hour_one_arm_mac_thoughts/]
+
+## ARM Miniconda is now a thing... with a gotcha.
+Since Tuesday, there is now a Miniconda build for ARM. https://conda-forge.org/blog/posts/2020-10-29-macos-arm64/. Miniconda, if you're new to it, is a 'lightweight' version of Anaconda that doesn't come with anything -- just python3.9 and conda. This is ideal if you'd rather `conda install` your packages one by one, knowing each one will definitely be ARM ready as opposed to an emulated Intel package. Of course the downside is, very few packages will be ready for you.
+
+These packages work when you install via `conda install -c conda-forge PACKAGE`:
+
+- Pandas: Works via conda install
+- Matplotlib: Works via conda install
+- Numpy: Works via conda install
+- Scipy: Works via conda install
+
+These do NOT work on ARM Anaconda. If you need these, you must use Intel Anaconda (and even then, some of these packages may get hairy):
+
+- JupyterLab or JupyterNotebooks: Kinda works via Conda Install (it installs, but it does not run Python. I have one more thought on this -- perhaps using a Rosetta JupyterLab that calls an ARM Python Kernel. If this works, I'll update this post. If it doesn't, you see sadness.)- Sklearn: Does not work via conda install (though I know for sure this works on Intel Anaconda)
+- Bokeh: Does not work via conda install
+- Tensorflow: Does not work via conda install... but does via a new Apple build
+- Keras: Does not work via conda install
+- Pytorch: Does not work via conda install
+
+There appears to be a way to help your favorite open source libraries build though so if you can help, do so!
+
+## (Rosetta Translated Intel) Anaconda
+Anaconda is still an option for installation. If you do that, I strongly recommend using the command line installer because that'll compile everything under Rosetta. The downside with this route is that your Python installation will be an Intel emulated version. The upside is you'll get access to almost every package except those that really hinged on the hooks that x86 processors had.
+
+## TensorFlow for ARM
+So I'm sure we all heard about https://github.com/apple/tensorflow_macos.
+
+...Look I'm super happy for all of you who managed to install it by following the instructions without blinking twice, it did not work for me.
+
+BUT I was able to finally figure it out using this new ARM Miniconda, which upside, means all of my packages (that are available for ARM natively) are incredibly fast. If you want to learn how to install TensorFlow using Miniconda in your own Conda Environment, check out my solution at: https://github.com/apple/tensorflow_macos/issues/3#issuecomment-730107954
+
+## TensorFlow Benchmarks
+For those who remembered my previous post, there were a few Macs I benchmarked. Out of the ones I currently can use, I ran a 2 Epoch CNN MNIST Model (I know, it's basic) on a 2017 maxed out iMac and my 2020 m1 Macbook Air. The Macbook Air ate the iMac.
+
+- iMac: 629 Seconds
+  - 3.8 GHz 4 Core i5, 16 GBs RAM. Geekbench 1095 Single &amp; 3336 Multi Core.
+- Macbook Air: 398 Seconds
+  - 8-Core m1, 8 GBs RAM. Geekbench 1296 Single &amp; 4601 Multi Core
+
+I'd like to remind everyone, this is Apple's entry level machine to watch cats skate on a skateboard. Holy frickin' crap.",ARM Mac Day 2: Installing Miniconda &amp; TensorFlow,1605758132
+datascience,"Hi Folks,
+
+We are data scientists/researchers who have hired data professionals and are now helping folks get hired during COVID-19. We're testing out some simple software for recording videos as a part of the interview/hiring prep and coaching process.
+
+If you're interested in doing a 30sec recording about a project you're working on to help us test the process/software, we'd be more than happy to provide you with feedback to help you prep for your next interview.
+
+The software isn’t meant to be polished at this point and would love to have you give it a try. More about us: phaseai \[dot\] com
+
+Interested? DM me and I'll send you the link! Requirements: Chrome or Firefox on a desktop/laptop (not mobile).
+
+Thanks so much :)",Can we give you coaching/feedback on your video interview for a data job?,1605753194
+datascience,"I'm considering taking a Bayesian stats course for the next semester of my grad program, but it's taught by a researcher with a poli sci background and is framed in the social science context. However, I was wondering how companies outside of that very niche space actually utilize Bayesian stats, if at all.",Is Bayesian stats useful in practice at all?,1605746402
+datascience,,"You Can Now Learn for FREE: 9 Courses by Google about Artificial Intelligence, Machine Learning and Data Science",1605745556
+datascience,"I'm starting to learn about Machine Learning. Is it worth my time to invest in a Java framework, if so, which one? Or should I just stick to the python frameworks instead?
+
+My background in software development is in Java / Scala.
+
+I'll like to learn something I'll likely be able to use in the industry.",Recommendations on Java framework for ML,1605744557
+datascience,[removed],Need advice with universtiy decision!,1605743305
+datascience,[removed],Entry Level Data Scientist?,1605740860
+datascience,,TensorFlow Optimised for Training on Apple M1,1605739671
+datascience,,TensorFlow Optimised For Training on Apple M1,1605739394
+datascience,"Next semester I'll be taking a course called ""High Performance Computing."" Students and the graduate advisor has told me that it's the most difficult course in the curriculum. 
+
+I'd like to prepare for this course before I take it. I have two months. There is no book for the course, but the professor has recommended that each student solve the first 20 questions of project Euler before they take the course to prepare. 
+
+I'll also be asking students that have taken the course what they would do if they were in my position and had two months to prepare for the course in advance. 
+
+How would this subreddit recommend I prepare for this course? Course description to follow. 
+
+**Course Description:**
+
+This course prepares you to process large data sets efficiently. You will be introduced to non-relational databases and algorithms that allow for the distributed processing of large data sets across clusters.
+
+* Implement algorithms that allow for the distributed processing of large data sets across computing clusters.
+* Create parallel algorithms that can process large data sets.
+* Use tools and software such as Hadoop, Pig, Hive, and Python to compare large data-processing tasks using cloud-computing services.
+
+Any recommendations on books, websites, exercises, or other resources for me to explore before I take my course would be much appreciated. 
+
+Thank you!",Preparing for High Performance Computing Course,1605738847
+datascience,,Gretel.ai announces a $12M Series A round to build a Github for data,1605736172
+datascience,"About a month ago now, I interviewed for a data analyst internship for a well-known tech company, and another internship for an insurance company. I was officially denied from both last week, and am feeling pretty terrible in general.
+
+For the tech company, the first interview went fine. It was over the phone. The interviewer seemed engaged and I had answers for all of his questions, both technical and behavioral. He also seemed to like and be engaged with my answers. However, the interview was 15 minutes shorter than was planned, which worried me. Despite that, within a couple of days, the company reached out to schedule another interview with another person.
+
+This second interview is where everything went wrong. This interview was also over the phone, but my interviewer called me about 15 minutes late and didn't really seem very engaged. She would yawn while I was speaking and never asked any follow-up questions. I also didn't have nearly as good responses to her questions either. When it got to the technical part of the interview, I screwed up by mentioning that my experience in SQL was only academic experience. This resulted in us skipping over the SQL questions and ending the interview then and there.
+
+I already felt like I was no longer under consideration by the time we hung up, but I was officially rejected last week.
+
+On the other hand, my interviews for the insurance company went spectacularly. The phone screening was great; the interviewer seemed engaged. My second interview was behavioral with two interviewers and went similarly well; they also seemed engaged and responded well to my answers. The technical interview went well too because my interviewer said I had great and thorough answers. Every interview went well. I'm sure of it, because the recruiter said she called me several times, but received no answer. She then emailed me to inform me that they'll be moving on with other candidates because I never responded. The thing is, I never received the calls or emails. I checked all my call logs from now to before the interview, and I never missed any calls. I also searched my inbox and spam box, and couldn't find any email from that company either. So I'm not sure what I could have done.
+
+The tech position didn't go well, and I already knew I lost that position before the interview was even over. But I felt like I nailed the insurance position. I met all the qualifications. I did well in the phone screening, the behavioral interview, and technical interviews. I felt like I did everything right, but somehow, I still screwed up and lost the position.
+
+I'm especially worried because I'm in my third year, so this summer's internship is the one that'll most likely lead to a full-time post-grad position.
+
+I'm currently working one part-time internship with a non-profit, so I'm going to try to get on some projects that are more analysis-related and SQL-related so I could improve my confidence in SQL. I'm also working a very part-time research internship (I'm talking about one or two hours a week) that is analysis/data science-related. I'm nearing the end of that position, but I might try to stick with it for a while longer
+
+I'm in the interview stage for one other internship, but that's it. I could extend my non-profit internship over the summer, but it's not really analysis or data science-related. I'll continue applying to more internships, but right now, that's all I got.
+
+What do I do now? Am I worrying too much? I'd love any advice you can give me",Feeling like shit after being rejected from two internships,1605735952
+datascience,"Hi, I'm looking to apply some optimization techniques at work to help drive some decisions for some variables we use.  At the moment, their values are mainly from intuition, but I'd like them to be more data driven. 
+
+There are a lot of courses available on machine learning but I haven't come across many on optimization techniques or heuristic search algorithms like tabu and tools that utilize them. I was wondering if anyone has some good recommendations.
+
+Thanks!",Recommendations for courses/books on optimization algorithms,1605734254
+datascience,[removed],Python Data Analysis with NumPy and Pandas (Training,1605733829
+datascience,[removed],Are you annoyed that everyone calls themselves 'data scientist'?,1605729705
+datascience,"Does know where (or how) to find the 2020 US presidential election data? 
+
+Is there a central data set? Does each state have their own?",2020 US Election Data?,1605727498
+datascience,[removed],Winter Insight Fellowship program postponed?,1605727234
+datascience,"Need some help and hints. I m from Switzerland and have finished my training as an automation engineer. I did also the vocational high school in technology and science. Now I saw my dream study course [here](https://www.zhaw.ch/de/engineering/studium/bachelorstudium/data-science/) (its in german sry, its Data Science).
+
+In my training of 4 years I have worked with Siemens S7, Tia and a little bit with Linux. In my free time I did sometimes little projects with Arduino, Raspberry pi or with Python but I would still say I m a beginner...
+
+Im not sure if this Data Science is too hard for me because I never had informatics in this topic and also nothing else serious in this subject area. My knowhow about informatics is also not really big. But all this AI, Big Data, Machine learning interests me really hard. At the moment I do a course for Python on Udemy.
+
+Now my question, am I able with my knowledge to do this course?
+
+Does someone have any suggestions what I could do or I should know about it?
+
+I have understood correctly, Data Science is not only data analysis?",Prior knowledge for a data science study,1605725917
+datascience,,Help with correlation plot,1605724675
+datascience,"Open an empty powerpoint and start drawing and make wild gestures while saying this:
+
+Man, i will dashboard the shit out of this mf like there is no tomorrow.
+
+Flying bars will lighten the horizon, whiskers till you reach the top, juicy friggin distributions of yo favorite derivatives. 
+
+And TIME! Man, time will be everywhere. you can slice the shit out of it. You want hours? I give you millisecond aggregates, man. 
+
+And everything will be in just one simple view, i promise! 
+
+No problem.
+
+Ahhh and i forgot correlation! That will be everywhere, too. Like time as i said before. You'll see.",Whats the proper answer if your CEO asks you to do an ad hoc analysis asap yesterday?,1605724468
+datascience,Has anyone taken the bootcamp with Trilogy and gotten their employer tuition reimbursement to cover it?,Trilogy Bootcamp - Ed Assist - Employer Tuition Reimbursement,1605723914
+datascience,"Has anyone ever seen an example where a network graph has discrete valued edges (e.g. 0, 1 or 2)?
+
+ There is no way of knowing whether 0 is bigger than 1 since they are purely discrete (e.g. instead of 0,1,2  it could be A, B, C : A =relationship through work, B = relationship from school, C = family relationship n)
+
+Can graph algorithms (e.g. community detection) make use of edge weights be adapted for discrete edge weights?",Discrete valued edge weights in graph algorithms,1605723065
+datascience,I know this is a pretty low level question for many of you here but I am in need of recommendations for a basic descriptive stats and data analysis course with excel. Any recommendations? Thank you in advance.,Self study courses for basic descriptive stats and data analysis?,1605722368
+datascience,[removed],Time Study &amp; Regression to Determine Optimal Workforce,1605720834
+datascience,[removed],Can we use the Girvan-Newman algorithm for partitioning directed weighted graphs?,1605720226
+datascience,[removed],"Normalizing/Plotting textual data, and testing for validity on a large dataset",1605717764
+datascience,[removed],DS buzzwords translated to plain English,1605717498
+datascience,[removed],Challenging projects for a Data Scientist and Data Engineer,1605716968
+datascience,,"Top 8 Online Data Science Courses 2020 - Coursera, edX, Udemy",1605716889
+datascience,"Do you feel there is a gap between the **tech/data team** and **business executives/marketing team** in companies? Like if those team didn't speak the same language...
+
+If so, could you give me some examples you have been through? I am trying to understand how to make this working relationship smoother. Thanks!",Do DS have difficulty working with business executives/marketing teams?,1605715555
+datascience,"As people are finally getting their hands on the new arm based Macs with the M1 chip: Does anyone in here have experience with running Anaconda, Spyder and Jupyter Notebook on these machines? And does tensforflow, numpy, scikit learn etc. work?
+
+My computer situation is in dire need of an upgrade and these new Macs look extremely tempting, but as I am going to be using them for schoolwork i need to be able to rely on them from day 1.
+
+Looking forward to hearing your answers!","Does Anaconda (including Spyder, Jupyter Notebook etc) work on the new M1 Arm based Macs?",1605713986
+datascience,[removed],how to master to relate data's nature to optimization function of machine learning algorithms ?,1605713982
+datascience,[removed],JUST FOUND OUT ABOUT STREAMLIT AND ITS LIT,1605711552
+datascience,[removed],How to implement a For Loop in SQL,1605711514
+datascience,[removed],worker productivity / satisfaction - work from home,1605709144
+datascience,[removed],anyone has plots cheat sheet ?,1605708608
+datascience,[removed],Best Coursera python course,1605707809
+datascience,[removed],Preparing international trade data for spatial analysis,1605707213
+datascience,,How To Implement 3D Human Pose Estimation System In AI Fitness Apps,1605707014
+datascience,[removed],Are online Data Science bootcamps still worth doing?,1605706095
+datascience,[removed],Career change to data science in your 30s?,1605705927
+datascience,"I'm still at my first company, but the industry doesn't really inspire me. Intuition tells me that broadly speaking industry shouldn't make a ton of difference when it comes to the responsibilities and day-to-day of the job. However, I feel like interest in the industry would affect engagement in the job.
+
+What does everyone else find?",How much does industry matter to job satisfaction?,1605705399
+datascience,[removed],#idataengineer podcast 001 Ramzi Al-Aruri,1605702582
+datascience,[removed],Just finished the Udacity Data Engineering Nanodegree and sharing my thoughts.,1605701768
+datascience,[removed],Data Science Interview Prep,1605694725
+datascience,I'm a first year undergrad student. My major is computer science and I'm doing a specialization in Big Data Analytics. I took the basic Big Data course and Hadoop on cognitive class by IBM and I'm wondering if there's anything related to Data Analytics or Data Science that I can pursue for my master's that isn't an online course with very little value.,First year undergrad student. Need advice.,1605693476
+datascience," It looks like most DS jobs are 40hr/week. Is there any chance I could find a company that allows flexible time or even working less than 40 hours per week? How can I find part-time DS job other than internships?
+
+I am not looking for freelancing job due to its multiple cons!
+
+TIA!",Data science jobs with flexible scheduling or part-time work?,1605689792
+datascience,[removed],Types of AI,1605686485
+datascience,,"How to analyze data using SPSS (part-2), how to input data in SPSS",1605684531
+datascience,Can anyone recommend any metrics that can be used to evaluate the results of community detection algorithms?,Evaluating results of community detection algorithms,1605681529

@@ -1,0 +1,424 @@
+subreddit,selftext,title,created_utc
+datascience," I am trying to analyze some YouTube videos data and i am interested more on videos that get a lot of views in early days
+
+how  can i sort videos based on this indices ? there is a function can help  me to turn view count and days to one variable that can be sorted based on  top view and most early published",how i can extract a useful information from tow variables,1606694204
+datascience,"My laptop looks like it's going to be deceased now and it's got me thinking about things I could do differently with my computer if I need a new one. So, I was wondering what your thoughts are based on your day to day (or even what you already use). The go to is a gaming computer, but I don't play videogames, so, I really wouldn't need the graphics card that comes with it (though I will want the GPU for vectorized machine learning), I could care less about the speakers, and I don't need it to light up like so many of these ""gaming"" computers do. Basically, the only things I really need are a good CPU, GPU, and RAM as well as an adequate hard drive (though that's optional because I could also just use an external hard drive and take a small hit on storage speed).
+
+In short; desktop or laptop and which one on the market today would you say is best?","For those of you who work in data science, what type of computer would you recommend?",1606693540
+datascience,"
+Hi all, 
+
+I am interested in developing or changing my career path for data scientist. I spent an entire month to complete machine learning and deep learning specialization (by Andrew Ng). I do have my small- medium size project to try applying ML in my company with Python programming as well.
+
+I think I will use sometimes to read through those Andrew's material again. While doing my small project I am looking forward to next path I should take. I.e.
+
+1) Learn more on tenserflow and Keras
+2) Learn new language (i.e. R, SQL, PowerBI)
+3) Finding more complicated exercise or assignment
+
+Any course recommended or suggest are very appreciated.",Looking for next step to build new skill for career path on ML or data sciences,1606691884
+datascience,I am looking to just add more quality DS discussions to my feeds. Any one you'd recommend?,People to follow on Twitter/Linkedin.,1606690698
+datascience,"My spouse has a background in chemical engineering but spent the last few years in food service. He is currently unemployed and I'm trying to help him find a new path that will be a good ROI. Can someone new to data science become financially solvent even if not wealthy? Is it easy to find consulting work? How saturated is the market? And finally, what's your take on the Data science 6 month certification at UT Austin? They say they are ranked #4 globally in business analytics so would a cert from there help someone get consulting gigs?",Questions about new career path,1606689424
+datascience,"When I read through the comment sections of posts on this subreddit asking about career advice and the process of breaking into the field, I've noticed a few recurring recommendations:
+
+1. Have a referral
+2. Have experience
+3. Have a relevant graduate degree
+
+I feel quite angsty.
+
+In order to work on recommendation #1, I have to ""network"". This seems ostensibly easy, but when I try to break this down into actionables, it's super vague with no time-horizon. I think one of the biggest difficulties for me is that I feel insecure and self-serving asking people for their time, attention, and wisdom so that I can get a job and advance _my_ career. It just doesn't seem clear how I can reciprocate or be of service to _them_, and that makes me feel uncomfortable reaching out on Reddit, Twitter, LinkedIn, etc.
+
+
+Recommendation #2 is obviously a catch-22.
+
+To work on recommendation #3, I need to go to grad school. In order to do that, I have to pay down some of the enormous amount of money I borrowed to pay for my undergrad. In order to do that, I need a high paying job. So, like recommendation #2, this is also a bit of a catch-22. This is particularly hard for me because I actually want to go to grad school (for non-professional reasons).
+
+To break it down to specific questions:
+
+1. How do you overcome the angst and insecurity that comes with looking for work in a highly competitive field.
+2. Are there things I could offer the people I'm trying to network with so it's not just me hustling, and there's some reciprocity?
+3. How can I evaluate the relative priority of working on my portfolio vs. cold applying vs. trying to network? For context, [here is the portfolio I have now](https://www.vivacious.dev/).
+
+I'm sorry if this turned into a bit of venting session. I'm pretty confident other people share the experiences and questions I have, so I hope this post can benefit people beyond just me.",Some follow-up questions about recurring recommendations on this subreddit,1606688010
+datascience,"I'm currently an undergrad student in Industrial engineering (not in the US), I've taken several classes in stats, probability, optimization theory, Algebra, Real analysis along with other courses in management and business. I also have good programming skills (I work as a freelance web developer in my free time and I've done this for the past 3-4 years). I discovered data science a year ago through an online course, and I was extremely interested in it especially that I love python and I can play with data to solve complex problems, I also joined few data science/ML competitions for fun online.
+
+I'm definetly thinking to pursue data science as a career, maybe even do another master in data science or statistics. But I wish to know more about what is it like to be one ? What do you do in your day to day work life ? How much coding do you actually do ?  Do you ever have to use advance stat/math stuff ?
+
+Also what are some of the downsides that gets you bored ? I once thought to pursue a career in software engineering but after working a few years as a backend developer for some clients, I think it's not really my thing, I can get bored quickly and I feel it's always repetitive in some way. Besides, my academic background is more suited to DS than SE.",How is a day in life of a data scientist like ?,1606686097
+datascience,"Hey all, I'm in my last semester and have one more class to take. I'm debating between Probability Theory and Applied Stats II. Hoping you guys can provide some input on which would be more helpful in the field. These are the course descriptions:
+
+Probability Theory:
+&gt;Includes a brief review of probability spaces and finite counting techniques, random variables and distribution functions, density, mass functions, and expectation. The course also examines the standard random variables; multivariate distributions; functions and sums of random variables; limit theorems - weak and strong law of large numbers and the central limit theorem. Students should have a solid background in undergraduate mathematics through multivariable calculus, and some familiarity with theory and proof in mathematics. 
+
+Applied Stats 2:
+&gt;Topics include, but are not limited to, confidence intervals, regression analysis (multiple regression, logistic regression and regression with categorical predictors), analysis of variance (two-way, factorial design, repeated measures and mixed models), analysis of categorical variables (measures of association, chi-squared tests, odds ratio, relative risk, McNemar's test) and non-parametric tests.
+
+Thanks guys!",Deciding between two math classes. Hoping you guys can help.,1606682082
+datascience,"I’m really curious about the role of data science for political science, especially international politics, trade, diplomacy, etc. Are there common use cases for data science in these fields? If so, is it more analytics or are there use cases for ML? 
+
+I’d appreciate any info. Thanks in advance",International Relations &amp; Data Science,1606677167
+datascience,"I graduated with a BA in Linguistics (focus was language and the brain) four years ago. I have not worked (aside odd, part time jobs) or used my degree since. Primarily I’ve been a stay at home mother. I took two computer science introductory courses, calculus and intro to statistics in undergrad. I enrolled in a masters program last semester and so far I’ve learned some data analytics methods (using Python code to scrape social media and SPSS to analyze data sets) and methods to scale / normalize data using Python. I’ve started an internship analyzing data using Google analytics for a local small company also.
+
+However, I’m not sure if this is the right path. Reading here, it seems like the consensus is that a data science/analytics masters is inefficient unless you’ve got a strong background in something else like finance, biology, computer science, etc, that I’m lacking in. 
+
+Do you think it would be better to look into transferring into a computer science masters program instead? I do love to code and that was what sort of turned me on to data science initially. Do you think a CS masters would be better for the job market? TIA.",Masters in data science and analytics a waste of time?,1606674793
+datascience,,"Problems with ""plot_ly"" when using ShinyApp from Chrome",1606669649
+datascience,[removed],MS Statistics vs MS Computer Science,1606669137
+datascience,,What skill Required to become a Data Scientist,1606668850
+datascience,"Hey everyone! I have always wished there was a better way to share nicely formatted content from the notebook with team members or external clients.
+
+As such, I am working on a chrome extension that lets you select independent cells (input or output) - afterward, you can edit the layout of the output and share the result in an appropriate format (e.g. Slack DM, pdf, or a google slide export).
+
+I would love to get your thoughts if you think this is valuable in your workflow? I know for a lot of people, screenshots or copy/pasting cell contents will suffice, but curious what aspect of this will make it more usable.
+
+Any feedback you may have on additional things will also be appreciated :)
+
+Extension gif - [https://preview.redd.it/tsndw3dyzz161.gif?format=mp4&amp;s=8e7736d7270f5b2121feb3ab5a6ce0e6dc56f8bb](https://preview.redd.it/tsndw3dyzz161.gif?format=mp4&amp;s=8e7736d7270f5b2121feb3ab5a6ce0e6dc56f8bb)",Extension to easily share Jupyter notebook content with team members,1606667292
+datascience,,What Is Data Science? Future Scope &amp; Career.,1606667190
+datascience,"I posted the question on Stack Overflow, it has all the code formatted nicely. You will be able to see someone has offered a solution but it has not worked. The solution they offer gets rid of the initial error and allows the plot to appear, but in doing so it changes the matrix data thus changing the plot. 
+
+Here is the question on Stack Overflow:  
+[https://stackoverflow.com/questions/65061703/markovchain-package-error-in-r-when-creating-attribution-model-error-rows-of/65061848#65061848](https://stackoverflow.com/questions/65061703/markovchain-package-error-in-r-when-creating-attribution-model-error-rows-of/65061848#65061848)  
+
+
+Here is the tutorial I'm following with the same code:  
+[https://www.analyzecore.com/2016/08/03/attribution-model-r-part-1/](https://www.analyzecore.com/2016/08/03/attribution-model-r-part-1/)  
+
+
+Been pulling my hair out trying to understand this model for two days, if anyone could help it would be really appreciated!","Trying to follow a tutorial to create a Markov Chain in R, but not getting the same results, could anyone take a look at my code and help me find out why",1606666592
+datascience,"Hello,
+
+I am wondering if any analytics/data science recruiting specialists or anyone involved in the hiring process would be willing to critique my resume. 
+
+I can send a copy upon request. Thank you!",Anyone Willing to Critique My Resume?,1606664337
+datascience,,SQL for beginners to advanced,1606663638
+datascience,"My friend and room mate is a data scientist, and what is I see he's doing is:
+
+\- Treat Data
+
+\- Visualize features
+
+\- Remove data that could generate noise
+
+\- Format and Scale data
+
+\- Train models using several algorithms (XGBoosting, RForests, etc.)
+
+\- Select the best models
+
+\- Talk to the team
+
+\- Deploy the models
+
+Isn't it a little bit repetitive?","Don't you think the Data Scientist job can be ""Boring""?",1606663075
+datascience,,What do you need to become a Python developer in 2021?,1606662354
+datascience,,Artificial Intelligence vs Machine Learning vs Data Science,1606662231
+datascience,,How to Become a Data Analyst in 2021?,1606662141
+datascience,"Hi All, non-quant background here that transitioned into working in BI roles not too long ago. Already completed a minor postgrad in Business Analytics (mostly stats, probability focused). Would love to move toward a DS role in the future and am considering this part-time, online MSc in DS.
+
+Granted it appears to be a bit of a softer MSc and a sort of intro course targeted at folks like myself who transitioned/want to transition into DS; I just want to some opinions on the course content from this community. Does this programme appear to cover the appropriate content in your opinions?
+
+Any and all feedback appreciated. Cheers.
+
+&amp;#x200B;
+
+Course description: [https://www.itsligo.ie/courses/msc-in-computing-data-science-online/](https://www.itsligo.ie/courses/msc-in-computing-data-science-online/)",Opinions on MSc in DS,1606662028
+datascience,"I work for an insurance company as a data analyst and recently my manager asked me to create an unrealistic model.  
+I have been asked to create a model to predict a 'persona type' (e.g. single parent, struggling student) based on postcode demographics data. The marketing team has come up with several persona types using personal information and survey data, and my manager wants me to somehow use that info (which doesn't have a postcode) and link it with postcode demographics.  The idea of this model is to predict what persona type is visiting our website so we can adjust our targeted ad strategy. The issue is that marketing customer segmentation has been done using survey data that includes a lot of personal information. When someone visits our website and fills out the forms we don't get any of the personal information used in that marketing analysis (GDPR and all that). My manager asked to use postcode demographics data that which includes features like
+
+* average household income;
+* the percentage of households paying child benefits, mortgage, private rent
+* The average private or social rent of the property, etc.
+
+My issue with this is that there is no way to predict persona types using just the demographic features that are on a postcode level. He wants to use this model before we have gathered any application data with personal info about the customer. I have tried explaining that there is no way of predicting persona type using the information we get from the visit, but he thinks I am just being difficult and I should just get on with it and manually come up with rules where these personas might live using my intuition. I asked him how can we validate the results because this model relies on how well I decide which postcodes have which persona type but doesn't care about that.
+
+Anyone else has experienced something similar? How did you deal with unrealistic expectations?",Have you ever been asked to create an unrealistic model?,1606659459
+datascience,,Scrape Twitter without Limits using Twint,1606657790
+datascience,"has anyone had this issue? I googled the hell out of it and I can't get the damn thing to install
+
+spent 3 hours on this crap I wanna shoot myself 
+
+&amp;#x200B;
+
+pip install pandas-profiling
+
+pip install pandas-profiling\[notebook\]
+
+&amp;#x200B;
+
+both give me errors when trying to install ""llvmlite""
+
+[https://i.imgur.com/31NEor5.png](https://i.imgur.com/31NEor5.png)","cannot install pandas-profiler because of ""llvmlite"" whatever that is",1606657550
+datascience,"Hi!
+
+I'm currently a junior majoring in Economics. I've always been interested in technology and I love coding. I recently discovered data science as a possible career option and I had a few questions.
+
+1. I am interested in doing a Master's degree, but not a PhD. To make the switch from Econ to Data Science, what kind of qualifications can I look at?
+2. I have a strong background in finance, stats and programming. How does data science as a career option compare to something more finance-based, like a quant analyst?
+3. Within data science, what are the possible roles? I have strong mathematical and analytical skills.
+
+Thank you!",Career Questions,1606651916
+datascience,"Welcome to this week's entering &amp; transitioning thread! This thread is for any questions about getting started, studying, or transitioning into the data science field. Topics include:
+
+* Learning resources (e.g. books, tutorials, videos)
+* Traditional education (e.g. schools, degrees, electives)
+* Alternative education (e.g. online courses, bootcamps)
+* Job search questions (e.g. resumes, applying, career prospects)
+* Elementary questions (e.g. where to start, what next)
+
+While you wait for answers from the community, check out the [FAQ](https://www.reddit.com/r/datascience/wiki/frequently-asked-questions) and [Resources](Resources) pages on our wiki. You can also search for answers in [past weekly threads](https://www.reddit.com/r/datascience/search?q=weekly%20thread&amp;restrict_sr=1&amp;sort=new).",Weekly Entering &amp; Transitioning Thread | 29 Nov 2020 - 06 Dec 2020,1606651230
+datascience,"I have a bachelors degree in business and finance, just got accepted into the ms data analytics program at Strathclyde and have been learning python, sql and R for about a month now. 
+
+If I pursue this degree, would I be stuck in jobs as an analyst or would I be able to progress to DS roles once I gain experience?",Just got accepted into MS data analytics at Strathclyde,1606650425
+datascience,"I just finished my master's in machine learning (2 years research) after doing my undergrad in computer science (4-year degree) (good schools, good marks, a few internships and I have a minor publication). I am more than qualified to work as either a software developer and as a data scientist, but I am concerned about the future if I choose to pursue a career in data science.
+
+From what I have read, it seems like junior data scientists aren't getting jobs, it seems like more and more universities are creating dedicated data science courses (which will lead to an increase in the supply of data scientists over the next 10 years) and I am not sure how well I will do in the interview process. I am ok at math and statistics, but I can't tell you how a Naive Bayes classifier works (I can use models, but I don't understand how the underlying models work), my main skills are that I can wrangle data, run different models, understand the results of the models and deploy it in a ""production-ready"" way. 
+
+A software engineering role (backend developer) on the other hand has been well established for more than 30 years and there is still a fairly big shortage. Given that, I feel like I am likely to be employed with a good salary indefinitely while finding the work mostly rather interesting. That being said, I fear I will not be using my full skill set and there are very few software companies that will need someone to do some machine learning on the side (which is work I do want to do).
+
+I mainly chose to do my master's in machine learning, because, from a postgraduate perspective, computer science research is dying, while machine learning is interesting and it is easy to get a full scholarship.",Working as a Software engineering vs Data Scientist,1606647953
+datascience," Hi, I hope everyone has a great day.
+
+I am a marketer, who wants to **be a more data-driven marketer -**
+
+and might open the possibility of moving to a data analyst position in the 2-3 years to come.  
+for now - I want to focus first on taking better marketing calls **driven by data.**  
+I have no background in math and statistics whatsoever, and I barely remember what I have learned in high school.
+
+How would you start learning statistics, with 0 background - and the goal of being able to **take better marketing calls**, and at the end being able to move to a **data analyst position.**  
+
+
+What should I focus on?
+
+Statistics is a huge filed, and I know I have a couple of years to catch on (especially with no background/self-learner route) -  
+So I want to make sure I am learning stuff that actually being used in the data analyst world and in the marketing world.
+
+So far I have been told on learning bays in statistics and probability, but I would like to get more in-depth and would love for your help.
+
+Thanks all!",What would you focus on with no statistics background - data analysts.,1606642667
+datascience,[removed],Classification / regression labels,1606637408
+datascience,,Wallpaper,1606636226
+datascience,[removed],Free Machine Learning Bootcamp starting Dec 2nd,1606635890
+datascience,"My colleagues and I have developed a new kind of classifier and I am wanting some advice on how to publish this.
+
+What we are thinking of is to test this new classifier on a well known issue in classification tasks, namely imbalanced datasets. So we will test the classifier on:
+- balanced datasets.
+- imbalanced datasets.
+- and on anomaly detection (ie. severely imbalanced datasets).
+
+We will be comparing the score performance of our classifier against other standard ML classifiers (for eg. logistic regression, naive bayes, random forests etc.)
+
+We have observed some form of score performance supremacy in our classifier (vs. the other classifiers), but because of the No Free Lunch theorem, we are thinking of only testing this on a just few datasets, rather than doing on many different datasets, and potentially violating the No Free Lunch theorem. 
+
+Would you guys/gals think this would be good enough? Or could we be missing something?
+
+Many thanks in advance!",How to publish a new kind of classifier in a research paper,1606633412
+datascience,[removed],Branches in artificial intelligence to transform your business,1606632231
+datascience,"Hello everyone,
+
+Wanted to throw out a question I've been having for quite some time. Not sure if this sub is the exact right spot for it but it's my best guess. 
+
+I am a third year Computer Science student looking to go into a career in Data Science, more specifically going for an ML Engineer position. I have already planned out transitioning into a Master's program that I can do alongside industry work after I graduate. 
+
+My actual question is this: Is just getting a compsci degree and a Master's in AI and ML enough for me to work on developing medical AI and ML algorithms? I've always had a passion for medicine, but I am more interested in the data management and medical technologies side than the clinical. I have some experience with medicine, having done two years as a Neurosci major in a pre-med program and being a certified EMT, but I don't have any official medical degrees or credentials beyond those. 
+
+If there are people in this sub that work in developing medical AI and ML algorithms, I would be really interested to know if people often get jobs with a formal data science background but not as much of a formal medical one, or if I would need to pursue some more clinical experience or certification before I'd be able to enter into that field. 
+
+Thanks in advance!",More Career Questions!,1606627777
+datascience,"Hi all, I noticed something of a trend of people here unable to break into the industry. I thought I'd share a recommendation for those based in the UK: apply for a degree apprenticeship in Data Science. You'll get a salary, a qualification, and a solid chunk of marketable experience.
+
+There are many going, in various companies, including some big names. They don't have heavy entry requirements, just A-Levels or something to that extent. Even if you can't find any degree apprenticeship vacancies, you can go to the Institute for Apprentices website, and supply the information on it to a company of interest. You might be able to persuade them to take you on as a degree apprentice. Be persistent, network like a madman, and you will likely find a few companies who are at least happy to discuss possibilities. Lots of adults even up to mid thirties do these programmes, and the programmes are becoming more and more popular with employers.
+
+Some fairly obvious issues: many of you have Bachelor's or even Master's already. You can do degree apprenticeships to a Master's level as well as Bachelor's. These apprenticeships are very practical and assess you based off your work projects. It will definitely be a different experience to typical academia, so there's no redundancy, just a smaller salary than you'd get as a junior data scientist, though it depends entirely on the company. You get 20% of your work time to put towards the degree, so if you already know a lot of the content you can spend it developing your own data science skills while still getting paid.
+
+So, that's what a degree apprenticeship is, but why should you do it?
+It instantly places you into the industry, into hands-on, relevant, applied experience for a prestigious company. No company wants an apprentice to sit around watching the experts do all the work without contribution. You'll get put to work as soon as you demonstrate the ability to do so and you'll be working alongside the junior data scientists, often as equals, and mentored by senior data scientists along the way. You'll have a bustling CV at the end of your first year, and if you finish the programme, the company, in all probability will take you on as an employee afterwards.
+
+
+I can say with confidence if you are up to the task, you will leave with as much experience as a junior data scientist having undergone the same number of years as you did for the programme. 
+
+
+I realize I've focused very much on the positive here. Obviously it's not an amazing salary and pays about 20k-23k annually, a lot lower than many data science roles. You also can't get promoted during the programme (though salary bumps are possible). Feel free to PM me for more information too.",Recommendation for UK data science aspirants,1606622913
+datascience,"I’ve been a DS for a few years now, and I don’t come from a computer science background.
+
+I’ve been doing interviews lately and have been asked to do some coding challenges such as hackerrank and codility. While I understand the need for SQL questions and basic programming ones to test for competency in the language, some of the questions have much more to do in the realm of computer science and require you to really optimize time-complexity. Interestingly enough, I have received almost no questions related to statistics or ML algorithms. 
+
+So my question is two-fold:
+
+1. Do you guys think that testing on computer science topics is reasonable for a DS position? 
+2. Do you also experience a lack of focus on examining your knowledge when it comes to DS topics? Why is this so?",Opinions on DS interviews that don’t feature any DS questions?,1606620215
+datascience,"Hello, I'm desperate, my family is threatning to take all forms of Internet because i am ""putting it to bad use"" as i don't believe in Chakra and Crystal Healing shit.
+
+Can someone give me a scientific explanaiton of why it is fake or a Sub Reddit which is focused on things like this? Please i just need help",Crystal Healing Crazy,1606618995
+datascience,Is it common for a data analyst to advance to a data scientist role after acquiring enough experience?,Data Analyst,1606617432
+datascience,Just curious to know what tools and platforms people are using to help with productivity for data science. Using [Github](www.github.com) for full projects and have recently started using [Datasnips](www.datasnips.com) for storing and referencing code snippets but am also interested if anyone has any others they find useful? I’ve heard Trello can be good for keeping track of large scale projects.,Data Science Productivity Tools,1606612729
+datascience,I just wanted to ask you all what you think about practicing data science with C++. Most people will tell you to start with Python or R and therefore stick with one of those languages in the longrun. But I was wondering if some of you use C++ and if you do what upsides do you see in it and what packages are you using?,Data Science with C++,1606610466
+datascience,I've been reading and hearing lots of things about how GPUs with tensor core can really improve computational performance (e.g. for machine learning) - and these are more readily available on dedicated graphics card available normally on gaming laptop - I hope to hear more recent experiences on the forum - has anyone had success/fail stories of using GPUs with tensor core (e.g. RTX) with any data science computations such as machine learning on gaming laptops?,Using dedicated GPUs in gaming laptop for data science?,1606609701
+datascience,[removed],Contract &amp; Remote,1606608314
+datascience,For those who earned a MS in Data Science (or equivalent) how many classes did you take (or are you taking) per semester while working full time?,Master in Data Science,1606607976
+datascience,[removed],"UCSD Data Science and Visualization Bootcamp, Go for it or nah?",1606604022
+datascience,I have two job offers: one as an AI cloud engineer (building the Ai architecture for clients) vs Data scientist (pure ML/AB testing). Which would you chose and why?,Job as AI Cloud Consultant vs Data Scientist,1606603208
+datascience,"If your interested in creating your own Startups, then you can join r/StartupCreation .",Community for creating startups.,1606602813
+datascience,"Looks pretty promising, thinking of doing the $50 one. It includes lessons, exercises, projects and a certification.
+
+
+I was however unable to find any reviews of this course/site, does anyone here have any experience with it? And would you recommend it?",Does anyone have experience with the Data Science career track on bootrain.com?,1606600255
+datascience,,Overhauling my system of learning,1606599657
+datascience,"Hello!
+
+firstly thanks for reading this question:) 
+
+I am going to be a freshman in college this spring and was wondering whether it would be worth it to take Data Science from a more renowned college ( Purdue )\~40k/year or should i go to a smaller school near home ( NJIT )\~20k/year for computer science and then do masters in data science. NJIT does not have a DS major so I choose CS. 
+
+&amp;#x200B;
+
+Also if I go to NJIT would you recommend me to take Computer Science and then do a masters in Data Science or should I take Computing and Business as a major for undergrad and then do Masters in Data Science.  
+
+I am pretty interested in all the fields mentioned above and am looking to go into one with more job security and one where I can make more money. 
+
+&amp;#x200B;
+
+thanks for taking the time to read this, 
+
+AfterPermission",Question about career path,1606598668
+datascience,[removed],Where has data driven the most value? What's your experience?,1606597576
+datascience,"I was wondering if there are any retail algorithmic traders on this sub. Would love to hear about what you do and how you got started. Any book recommendations would also be nice.
+
+A perspective from any quants would also be interesting see.",Retail Algorithmic Trading,1606596446
+datascience,"Logically no, but is there any specific reason or example?",Will remove columns of missing values effect the prediction?,1606596174
+datascience,I have term project due for my big data applications class and I thought it would be interesting to try and predict the outcomes of the Georgia Senate runoffs. Does anyone have any tips for where I should look for data or how I should approach the project? Any feedback helps!,Predicting 2020 Senate Runoffs in Georgia,1606594689
+datascience,[removed],Question for Choosing Bootcamp between Data Science and Software Engineering,1606594689
+datascience,,"No Spam, No Kidding - Google Data Studio A-Z for Data Visualization and Dashboards - Currently 100% off - FREE - on Udemy !",1606594614
+datascience,,Please help me out,1606593418
+datascience,"Hello, I have a dataset with daily revenue in a column and the day on the second column. Simple.
+
+I was messing with some linear regression and I noticed that  if I don't put the constant I get a much higher R2. The image explains the situation better than I can (https://imgur.com/N8JmEtV ). The data has daily revenue on the y axis and the day ranging from 0 to 600 on the x axis. I already removed some of the outliers from the data.
+
+I already studied what linear regression and R2 is, but I don't understand what this could mean.
+
+I don't think that I have a better model just because R2 is way higher in the second scenario, right?
+
+Thank you.","Statsmodel OLS with and without constant, why uncentered R2 is much higher?",1606589475
+datascience,"Here is a real-world project with 50 data scientists to help NGOs get access to funding.
+
+[https://omdena.com/projects/ai-ngo-fundraising/](https://omdena.com/projects/ai-ngo-fundraising/)",AI Challenge: Accelerating Not-For-Profit Funding to Facilitate Positive Change,1606589330
+datascience,"Currently reading Machine Learning Engineering by Andriy Burkov (well known for his One Hundred Page Machine Learning book), he mentions that “74-86%” of machine learning projects fail or don’t reach production and his first point as reasons is “Lack of Experienced Talent”. 
+
+Paraphrasing, he says that in 2020 most organisations don’t know how to hire and that most of the talent are people who have completed a couple of online courses. He also mentions that experienced software engineers don’t have expertise in data handling or machine learning. 
+
+So for current data science hirers and team leads, do his sentiments echo with your experience? It’ll be interesting as well if you could include city/country and industry sector you work in to get a better overview. 
+
+Thanks in advance, interested to see your views.",Do we still have a significant shortage of well qualified data scientists/engineers/analysts?,1606588206
+datascience,[removed],Mining the visible and hidden genome of the cancer mitochondrion,1606587866
+datascience,"I've been a data scientist for several years (plus BSc, MSC, ML PhD), but getting tired of the grind. Looking for a new job (UK based) and I had hoped that the field would ""settle down"" branch out etc. But instead it employers seem to want two or three people for the price of one: project manages + data scientist + data engineer. And the salaries aren't that good in the UK, particularly given that most of the decent jobs are in London and London house prices (and commuting cost) are insane.  
+
+
+I'm well versed in programming standards (continuous integration, cloud computing etc) and data many data scient techniques but I've found I'm constantly working with managers for which nothing is ever enough. Looking at the job specs I keep thinking: do I really want to keep doing this? A decent plumber in the UK can earn 50k (Not knocking plumbers, I'm seriously considering a career change). Hell I have friends who only know SQL and make 60k. data science by comparison seems to have an insane number of requirements.  
+
+
+I suppose that this post is in the wrong place, after all those who burnt out and left the field will likely not belong to this subreddit, but thought I'd ask anyhow: So anyone else kinda burning out? Anyone changed fields?",Anyone else kinda burning out?,1606586299
+datascience,"Hello! So I have done some machine learning in the past, and have built a few neural networks and studied the process of building them in high school, and I really want to get some more experience. I currently am employed as a cashier at a target and I **hate** it, but its my only income. So what I am thinking about doing is quitting my job at target, and just working up my portfolio this winter, and after I will apply to a few internships and see if I can get paid to do some sort of intern work at a data science company or try and get some experience. Is this a good plan? Does anyone have any sort of recommendation? Thank you!",How difficult is it to get a paid internship as a freshman in college?,1606585559
+datascience,"So I started learning Python (my first coding language) last year as part of my data science boot camp. Lately I've been hearing alot of good things about C++ in that it helps you understand data structures on a deeper level since it's what python and alot of advanced software is built on. Do you guys think that's a good language to learn next or is there something else that I should be focusing my time on that would help me be a better data scientist?
+
+Thanks in advance for the advice!!",What coding language should I learn next?,1606583819
+datascience,"In coursework, you learn a wide variety of algorithms like multivariable regression, logistic, support vectors, neural networks, classification and decision trees, etc. 
+
+But do people really know and use all of them? Or do you just focus on a few, depending on the nature of your data? I'm aware that each algo has trade-offs and might be well-suited for one data set, but won't do well with others. And then there's the question of how interpretable the results are. 
+
+I learned in graduate coursework a few years ago, and now I want to review/get really good with multivariate regression and logistic, because those are what I remember the most. I'm an analyst, I'd like to do ML at work. But even if I don't, it's interesting enough to just do for fun. 
+
+Mainly I want to hone my skills, and am thinking it makes sense to just get really good a few rather than *just ok* with many.","does anyone use all ML algos, or just a few specific ones?",1606583244
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606582743
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606582737
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606582676
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606582527
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606582278
+datascience,,Top 7 Best Programming Language for Data Science,1606582039
+datascience,,What skill Required to become a Data Scientist,1606581983
+datascience,,Full Stack Data Scientist – The career to strive for in 2021,1606581939
+datascience,,What Is Data Science? Future Scope &amp; Career.,1606580753
+datascience,A real-world project with 50 data scientists to help NGOs get access to funding.,AI Challenge: Accelerating Not-For-Profit Funding to Facilitate Positive Change,1606579469
+datascience,"Hello!
+
+Doesn't anyone know how to create a 10 \*10 time table matrix using numpy broadcasting. I'm able to create a 10\*10 time table matirx using for loop and numpy fromfunction, but implement broadcasting to do the  times table matrix",Im trying to 10 x 10 times table matrix using Numpy broadcasting,1606577070
+datascience,"I'm currently finishing my master's in mathematics in the UK and I'm looking to secure a data science graduate position. I'm reading ""data science from scratch"" at the minute and I'm looking for what to read next. Does anyone have any ideas? I'm currently thinking of ""an introduction to statistical learning"" to make sure I have good foundations in R and Python",Book recommendations,1606576614
+datascience,"Hey guys
+
+Need to download the following dataset:
+
+[**https://looking-to-listen.github.io/avspeech/index.html**](https://looking-to-listen.github.io/avspeech/index.html)
+
+It is youtube based and has metadata for the start and stop times for each video (only 3-10 seconds per video). Problem is youtube limits requests after around 250 are downloaded. If anyone has any experience with quickly downloading video based datasets, or even better, if you somehow have downloaded this dataset or vox celeb before and can share it, any help would be greatly appreciated.
+
+Ideally would like to complete this within the next few days, have some important deadlines I need to hit. So setup recommendations to leverage an AWS ec2 or competing cloud instance would work as well. 
+
+Thanks!",Help with downloading youtube dataset,1606574428
+datascience,,Dataframes and the proliferation of bad code in data science,1606573828
+datascience,"This lecture will cover the basics of what I have coined as Lean Intellectual Property Rights Protection (Lean IPR™), including covering the basics of patents, trademarks, copyrights, and trade secrets, as well as important and practical considerations and common pitfalls to avoid. Join me [live on Youtube](https://youtu.be/z8WgD914Qpk) at 4PM UTC. Please feel free to ask questions at anytime during the presentation. I will answer live questions on [discord](https://discord.com/invite/q55SYAQ).
+
+As a patent attorney, I have been helping the little people, the startups, universities and small inventors. I've helped startups get bought by the mega corporations and taught them how to keep the mega corporations away. My new mission through my startup OU812 Incorporated is to create the OU812 Open Innovation Engine™ to provide access to the patent system for the benefit of innovators throughout the world and based around a concept that we call OU812 Protected Open Source™.
+
+My background includes being a Special Forces USAF Pararescue candidate, a R&amp;D electrical engineer, inventor, entrepreneur, and patent attorney. I've been drowned, jumped out of perfectly good airplanes and worked on test requirements for Aegis surface to air and surface to surface missiles for General Dynamics, helped design flight computers for next generation YF-22 Raptor Advanced Tactical Fighter and built the first working Software Defined Radio (SDR) for Hughes Aircraft.
+
+This lecture was possible thanks to the generosity of [villamars.com](https://villamars.com). The Villamar Firm is a Professional Limited Liability Company (PLLC) law firm based in Virginia specializing in the practice of Intellectual Property Law, including patents, trademarks, copyrights, trade secrets and computer and internet law. We are also active on r/NexusAurora, feel free to ask questions you have.","I'm an electrical engineer, inventor, entrepreneur, and patent attorney. Today I live stream on the topic of crowdsourced software engineering projects and Intellectual Property Rights",1606573782
+datascience,I have an interview coming up where they will share a public data set with me an hour before the interview and ask me to perform tasks. The HR rep said they dont expect me to be able to have fully functional answers but to talk through the process I would use. Does anyone have experience with this type of interview question? This is my first data science interview - coming from a engineering background. Are there any resources I can use to prep for a data science interview?,Interview question,1606572726
+datascience,,Lessons Learnt From Shipping An AI Application,1606571102
+datascience,,6 Tips for Working With Analysts and Data Engineers,1606568906
+datascience,[removed],"I have opted for a msc in applied mathematics from a respected college, will this be useful for pursuing the profession of data scientist?",1606567557
+datascience,"In all my data science classes, we used Python and Pandas to load .csv or .json files and to explore the datasets.
+
+I was wondering how often Pandas is used in the industry. Is it worth spending the time to master it? Is SQL better? Right now I only know Python, Pandas, numpy, scikit-learn, and a few other machine learning packages like tensorflow and pytorch - and my goal is to do a good handful of projects to put on my coding portfolio so that I can start my career working as a jr data scientist or applied machine learning position. Does anyone have any useful advice that you feel may help in my quest? (&lt;3 thank you!) 
+
+&amp;#x200B;
+
+2nd question: When exploring the datasets, I usually open up the .csv file (if its in that format) and scroll over all 50,000 rows to get a glimpse of what I'm dealing with. **However, something tells me that I should learn how to programmatically explore the data** (use df.head() to get a quick glimpse and .unique() and snull() to explore the data, plotting the data using matplotlib, etc.) I feel like excel is useful to get a good birds-eye-view of the data. Which approach should be used in practice/industry?
+
+Thanks Reddit, love you!",How much is Pandas used in the industry? Is it worth learning? (also had other questions related to this),1606559408
+datascience,"Due to covid and working from home I have a lot of free time and I'm looking for a self-paced online Master education in Data Science or Business Analytics. I'm from Europe and all self-paced online courses I find are from the US. No problem, but I'm not familiar with these universities and the quality of education.  
+
+
+I'm probably not alone searching for such an education in these times. Which courses, preferably from a ""technology university"", have you taken or can you recommend?",Online self-paced Master in Data Analytics,1606557379
+datascience,[removed],Best books for feature engineering,1606556808
+datascience,"Hello guys, I am planning to do masters in AI domain. Now I have a confusion to choose which course as the universities have two different course(Ms AI and MS Data Science) also with some fancy words attached to both. Both the course have almost same modules. I know AI is broader than DS and the basic differenenec between them. But still I am confused which to choose. Hope you folks provide some insights and clarity.",Masters in data science vs Artificial Intelligence,1606555161
+datascience,"Hello,
+
+I'm new to SNA and trying to learn as I go so apologies if the question is a bit basic.
+Was doing a coursera MOOC on SNA and one of the assignments was about scraping two large YouTube channels for recommended videos and then seeing how many they both recommend. 
+For interest and exercise, I decided to expand on this by scraping several more channels.
+
+I want to visualise it with a layout that puts channels which recommend a higher number of common videos closer, and the fewer videos that two channels link to, the further apart they will be.
+
+So if channel A and channel B both link to the same 3 videos,
+Channel A and C link to 1, and channel B and C link to 2 common videos: A and B will be 1/3 the distance of A to C, B and C will be 1/2 the distance of A to C.
+
+I'm not sure if Yifan Hu or OpenOrd do this (presets in Gephi). OpenOrd seemed to, but each time I load the data and toggle between layouts, the relative positions of the nodes change.",Social Network Analysis layout question (specifically for Gephi),1606555159
+datascience,[removed],Data Science Masters or Computer Science Masters,1606549485
+datascience,,Learn Python For Machine Learning and Data Science,1606541512
+datascience,ML model having recall of .97 and precision of 93 and accuracy of 95 on test  data but with new  data it doesn't give good results. What could be the reason?,Improper results with new data,1606537361
+datascience,"Can sum one explain a cvs to me , in English please lol",Control version system,1606530516
+datascience,"As the title says I'm looking to find a book to send my brother for Christmas that can double as an introduction to both data science and enough programming knowledge to get him started. 
+
+The preferably python is because that's my go to professionally but I'd be open to other options if they're significantly better.",Looking for a book that doubles as a introduction to both programming and data science(preferably python),1606527484
+datascience,"I am a data analyst/data scientist with 6-7 years of experience with a Masters degree and IT and a PhD in Informatics. 
+
+I interviewed with a logistics company that is based locally (New Mexico) and received an offer at 89k annually for a lead data analyst/data scientist role. I tried my best to negotiate but was told that the salary was non-negotiable since the salary was maximum of the pay band it was in. But, however, recruiting mentioned that if I take the role in 6 months they will re-evaluate my salary once I've deployed dashboards/models, created documentation, revamped processes, etc. (alot of work).
+
+I rejected the salary and they moved on to another candidate. I have never had this experience until this week. And I cannot help to feel like this company was looking for a bargain. 
+
+***Are non-negotiable salaries becoming common in data science?***",Non-Negotiable salary Offer for a Lead Analyst/Data Scientist Role?,1606525856
+datascience,,"We analyzed 140,000 headlines and thousands of Congressional tweets for subjectivity, polarity, and topic correlation, ie. we found that AOC and Ted Cruz have similar tweet styles, while Breitbart and the NYT are quite different. If we get 200+ upvotes, we get an A in our class!",1606524469
+datascience,[removed],Leaving an Excel analyst role for a DS role,1606522458
+datascience,"Hey everyone, I have a (somewhat) unusual situation.
+
+&amp;#x200B;
+
+I'm graduating with my MS in Statistics next year from a respectable US university with about 1.5 years of Data Analyst experience pre-MS. I am currently interning with a (mid-size) tech startup (most people in tech / in general would not recognize its name) located in SF but that has offices all over the world. By the time I graduate, I will have interned with the company for \~ 1 year.
+
+My manager has told me that I'm excelling at all of the requirements necessary for a full-time position and that the team is looking to hire more Data Scientists next year, with me as a natural pick since the company has liked my work thus far. Yet leadership has indicated that most (if not all) new engineering / DS talent is to be hired in non-US offices in order to ""contain costs"". That for the cost of paying me an SF salary, ""we can probably get 2-4 engineers / DS elsewhere"".
+
+While I would be thrilled to be able to be a DS somewhere abroad (just for the life experience), my mentors think that this would be a mistake for my early career as a DS, especially if I intend to remain in the US longterm (which I do) due to the potential hit to my finances (would get paid \~30-60% less in USD in potential locations, despite decreased CoL, potentially unable to contribute to retirement accounts, etc.), less career mobility, and lower negotiating power in future positions. They advised me to stay in the US (preferably SF, Seattle or NY) to build my career before branching out elsewhere. Based on their advice, I'm torn between being willing to move abroad for the life experience vs. staying here in the US.
+
+Though I have not gotten an official offer, given that I have \~7 months until graduation, do you think I start looking for another company? Or, do you think the experience of being a DS abroad is a unique experience that makes me a better DS going forward? How should I approach this?
+
+Though there is no correct answer, what is everyone's thoughts on this? Thanks!",Internship Employer Wants to Hire Me Outside the US for Full-Time,1606522058

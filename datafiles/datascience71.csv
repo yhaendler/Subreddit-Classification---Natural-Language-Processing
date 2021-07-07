@@ -1,0 +1,431 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],Is there a RPubs for python?,1608420903
+datascience,[removed],Best industries/companies for skilled data scientists to get promoted and paid more quickly?,1608419992
+datascience,"Hi everyone! I am a 3rd year Finance student and currently I’m studying 1 year double-degree program on Business &amp; Management. 
+
+I was wondering, what job opportunities can I get with additional Data Science skills I have. I know statistics, data cleaning, and some data analysis (right now learning ML). I would be glad if people who had Finance / Business&amp;Management background explain how did they interpreted their skills with Data Science. Thanks!",Jobs on DS with the background of Finance/Business&amp;Management,1608419485
+datascience,"Hello Data Scientists! I am a freshamn undergraduate looking to improve and learn data science skills and my over all programming skills. I just thought of this fun project last night (still have not fleshed it out completely) where I analyze, manipulate, and visualize the unique words of musicians in the top 50 charts on Billboard. Although this idea is still in its infancy, I know for sure that I need data (who would have thought) and I know that I want to web scrape lyrics from artists to get data. So please if any of y’all have ideas on creating your own data set with web scraping it would be much appreciated. Thank you!",Resources for creating data sets with the help of web scraping,1608417814
+datascience,"Is data science is hyped? the maturity of data science is at the front-ending stages and options are limitless. What is next for data science and data professional, this article is an attempt to bring awareness through an analysis. 
+
+[https://uplandr.com/post/future-of-data-science-in-business-and-what-it-means-to-you](https://uplandr.com/post/future-of-data-science-in-business-and-what-it-means-to-you)  
+
+&amp;#x200B;
+
+\#DataScience #MachineLearning #futureofwork #DataScientists",Future of Data Science in Business and what it means to you?,1608413194
+datascience,[removed],Looking for University in Canada that offers Datascience online,1608411228
+datascience,"Hello
+I know it's not really data science related, but I just realized that any observed event can be explained with data, it just that we don't have that data. Even with coin toss and die flips if we study the movement accurately we would be able to predict the outcome every single time. What is your opinion about this ?","With enough data, the probability of the observed event happening is always 1.",1608410256
+datascience,"I know it's a bit low-effort, sorry for that, but I'm genuinely interested
+
+I like to code in:
+
+- *IDE*: PyCharm (w/ Anaconda)
+- *theme*: Material Theme - I switch between them a lot, but always something dark, usually Monokai, Palenight or Dracula
+- *font*: Operator Mono Book (or Fira Code Medium if N/A)
+
+Aesthetic af, it actually makes me relaxed to just stare at the screen",What's your favourite IDE + skin + font combo?,1608409870
+datascience,"Hi all, currently I'm working as a junior data scientist. Currently, I'm struggling with the communication towards my seniors. I haven't met them personally due to work from home status(because of pandemic). We have been working for almost a month, and I feel like I'm under contributing to the work. We have already done some premature checking with the data sets and it feels like I'm unable to contribute that much. For example, the lead pretty much do the negotiations and  presentations, the other do the analysis.
+
+I also do some analysis, but of course that's also scrubbed off because their analysis is just the same as mine. How do I even add more if everything is already served in the table(redundancy). Sometimes I can contribute, just by raising some questions or info. Even so, I keep all the notebooks I made just in case someone asks what I have been doing all along. I also write notes on every meeting we did.
+
+Is it alright to feel that way? 
+
+On the other hand, I also feel good sometimes. I mean, I learn some workflow, terms,  business and data science just by listening to them.",How do you collaborate with colleagues/ co-data scientists?,1608408026
+datascience,"Hi, I’m reaching out to you guys in a time of need. I’m still an undergrad (at USC), but I’m about to enter what is essentially a 4+1 program for my master’s, and I’m seriously torn between these two programs — at this point, I can essentially still freely decide which one I want to pursue. If anyone with more industry experience could possibly take a look at these programs / maybe skim syllabuses and let me know what should inform my decision, I’d be so grateful. 
+
+My general sense from the two is that they’re ~70% similar. As for the other 30%, I get the impression that the Applied Data Science program is more technological-training-intensive, while the Analytics program provides more business applications and theoretical background, while being slightly less technologically intense.
+
+I see myself more going into applying data science in a business/operations research type capacity, but I also don’t want to possibly pigeon-hole myself by choosing Analytics, especially since my undergrad is in Industrial Engineering, so I do already have a lot of exposure to some of those topics.
+
+Any help is very much appreciated!!
+
+
+Edit: to provide a bit more context, I am particularly drawn to the greater emphasis on times series models and optimization that I’d get under Analytics, but I also don’t want to sacrifice what I perceive to be a greater training in ML/data mining/visualization from Applied DS",Choosing between MS Applied Data Science and MS Analytics,1608407089
+datascience,"I have a data set that has prices and lead time from 0 days to 60 days
+
+Prices are lowest if you buy within 0  days and increase as days increase
+
+However, I would like to come up with a statistical to the exact number days when the price increases.
+
+Could someone point me in the right direction.
+
+Any statistic techniques in python that could help me solve this.",Best Time to Buy,1608404263
+datascience,"Demo: [Auto Pitching Overlay](https://www.reddit.com/link/kg7x98/video/jky2b65xd5661/player)
+
+This project takes baseball pitching clips and **automatically** generates the overlay. A fine-tuned Yolov4 model is used to get the location of the ball. Then, I implemented SORT tracking algorithm to keep track of each individual ball. Lastly, I have applied some image registration techniques to deal with slight camera shift on each clip.
+
+I'm still trying to improve it! Feel free to follow this project, also check out the Todo list.
+
+Source code: [https://github.com/chonyy/ML-auto-baseball-pitching-overlay](https://github.com/chonyy/ML-auto-baseball-pitching-overlay)",Automatically Overlaying Baseball Pitch Motion and Trajectory with ML (Open Source),1608399580
+datascience," is it a good idea to do it’s 4 courses consisting of 1. discrete math and analysing social graphs, 2. Calculus and optimisation for machine learning, 3. First step in linear algebra for ML ,4. Probability and statistics 
+Any other good course suggestions?
+And what should i be mainly focusing on in this?",What’s your review for coursers “mathematics for data science specialisation”? Im trying to get my maths strong before my master’s,1608383165
+datascience,,X-posting bc my post in /analytics didn’t get a lot of answers :(,1608375716
+datascience,"Offer is subject to change and valid through 12/31/20. Discount applied at checkout. One-time use only. Offer valid until 12/31/20, while supplies last. [**Main Article**](https://exploreroftruth.medium.com/earn-coursera-certificates-for-free-on-some-programming-courses-during-the-coronavirus-epidemic-e5c468c912b7)
+
+**Share with everyone who doesn't know. Here are the courses:**
+
+1. Getting Started with AWS Machine Learning ( offered by Amazon Web Services)
+2. Machine Learning for Business Professionals (offered by Google Cloud)
+3. Algorithms, Part I (Offered by Princeton University)
+4. Algorithms, Part II (Offered by Princeton University)
+5. Computer Science: Algorithms, Theory, and Machines(Offered by Princeton University)
+6. Data Science Math Skills (offered by Duke University)
+7. Cloud Computing Basics (Cloud 101). Offered by “LearnQuest”
+8. Google Cloud Platform Fundamentals for AWS Professionals (offered by Google Cloud)
+
+**Happy Learning!**",Machine Learning &amp; Algorithms Courses for FREE from Coursera. They have made some of their Machine Learning Courses FREE due to COVID-19 and you can earn a Certificate for FREE until 12/31/20.,1608373456
+datascience,,"[100% OFF] Object Detection Web App with TensorFlow, OpenCV and Flask",1608369330
+datascience,,The Most Popular Programming Languages - 1965/2020 - Statistics and Data,1608368625
+datascience,,DATA SCIENCE TRAINING IN PUNE,1608366577
+datascience,"Hello all, 
+I’m currently a first semester health informatics and analytics student in a grad certificate to masters program, I recently completed my undergrad with a 2016 dell xps 13 i5 4G ram which worked fine for my major. 
+Now, I’ve come to the conclusion it’s time to upgrade. I’m running out of space (128G). When plotting a scatter plot or bar chart on Python using seaborn it takes what feels like forever (I haven’t timed it) and the csv is around 3500 rows. Im tired of the boot time for anaconda too. 
+
+My budget is around 1500$, can stretch maybe a little but just looking for some recommendations/advice. 
+
+Thanks.","Anyone have any laptop recommendations or experience with MacBook Pro with the M1 chip for data science, IDEs (anaconda-Jupiter lab, etc)",1608358797
+datascience,"Hey all,
+
+There are SO many online machine learning classes out there today, making it really difficult to know which ones are the best for learning. 
+
+Since I've completed a number of such courses, I thought I'd put together a list of the online courses I thought had the highest quality content for machine learning, deep learning, and machine learning in production.
+
+I hope you find [the list useful!](https://www.blog.confetti.ai/post/best-online-machine-learning-courses-2020-edition)",Collection of Top Online Machine Learning Courses,1608358793
+datascience,[removed],Social Media Analytics,1608353069
+datascience,"I’m a data scientist for one of the largest energy companies in the US. I’m financially secure, but I don’t want to go into an office anymore. I’m interested in working remote, even if it means that I take a pay cut. I love doing DS work and am relatively young (40s) so I don’t want to retire, but I don’t want to live in Houston anymore. My heart is back in Montana. Does anyone have any advice on finding remote opportunities? My preference is to not do contract work, as I don’t want to have to deal with being a 1099 employee and all the headaches that come with that. Any advice is appreciated.",Remote data science work,1608345806
+datascience,,XKCD : Statistics,1608343475
+datascience,[removed],DS Degrees,1608340294
+datascience,,Docker Dev Workflow for Apache Spark,1608336217
+datascience," If I want to analyze the housing market vs several variables such as gdp, interest rate, unemployment rate for a specific country from 1994 to 2019. How should I do the correlation analysis? If I understand correctly, pearson coefficient cant be used due to the data sets being time series. How should I approach a correlation analysis in this case?
+
+I dont understand clearly if every time series data set is inappropiate for using pearson correlation coefficient or not.
+
+Thank you!",Time series correlation,1608335403
+datascience,[removed],Survival analysis with time varying covariants data preparation,1608332942
+datascience,"How can I convert a numerical column into nominal?
+
+For example, I have values in a column like 2,4, 3 etc. How to convert it into ""two"", ""four"", ""three""?",Converting numerical column into nominal,1608330298
+datascience,[removed],Data Science Masters,1608328938
+datascience,[removed],From academia to industry. How should I approach programming?,1608327164
+datascience,[removed],Metis Bootcamp - Review,1608321825
+datascience,[removed],What are Data Signals?,1608321821
+datascience,[removed],"Recent grad, applying to data analytics jobs and internships. Would really appreciate review.",1608320383
+datascience,[removed],Learning Machine Learning | Week 1 | Machine Learning | Data Science| Andrew Ng,1608316075
+datascience,[removed],"A competition: build an insurance pricing model with real data, compete in a market, prize pool of $12,000 USD",1608316025
+datascience,,PySpark - Can my solution be simplified / optimized?,1608315545
+datascience,[removed],Datacamp but for MPLUS,1608315126
+datascience,[removed],Junior full stack data scientist or Bi developer?,1608314589
+datascience,[removed],Open source opportunity for first time contributors and early stage data scientists,1608314283
+datascience,[removed],CS to Data Science?,1608311985
+datascience,[removed],Data Scientist,1608311724
+datascience,"Hey all, I'm a mechanical engineer with a pretty significant amount of heavy industrial machinery design experience, who's looking to make a transition into a different role - largely because I'm bored with what I've been doing. Data science looks very interesting to me, and it's my understanding that I should be able to find some industrial applications for it which might allow me to make a reasonable career ""pivot"".
+
+Now, where I live and work there is a professional designation ""P.Eng"" that some engineers possess and a few jobs will require, but I've never believed it to be of any value to me in my career so I never applied for it. (Certainly non of my former employers cared about it enough to offer a pay bump, or even offer to pay the rather steep annual fees.) I find that most often it's people in more ""business"" or ""project management"" roles that are impressed by such things. 
+
+What I'm wondering: is receiving that sort of designation going to make any difference in my job prospects if I go forward with some DS training? Obviously it won't hurt, but at this time the sign up cost is quite high, money's tight, and I've lost my job recently, so I'm a bit weary.
+
+Any thoughts on this would be appreciated.
+
+Thanks!","any value in possessing an ""engineering license"" for data science?",1608310798
+datascience,[removed],How do virtual assistants exactly work in the back end?,1608310479
+datascience,[removed],Free Data Science Courses with certificate?,1608304132
+datascience,[removed],"Can I get a data science job in the US with economics degree(the university I'm studying in is not located in the US or Europe,it's in turkey)",1608303167
+datascience,[removed],Resume Critique for Undergraduate Student,1608300395
+datascience,"You've all seen it.  All those shitposts on the official accounts ranging from Netflix to Wendy's. It's pretty genius how they can reach more people and increase brand friendliness using a popular template and an edgy twitter admin than spending millions on other forms of advertisements. 
+It's a scary thought  and I feel like they're taking something away from us that was our own",Is data science responsible for brands advertising through memes?,1608298970
+datascience,,Is data science responsible for brands advertising through memes ?,1608298557
+datascience,[removed],SQL and python online learning,1608296860
+datascience,[removed],What Should You Look for in a Data Science Bootcamp?,1608293151
+datascience,"This week in Active Analytics, [Implementing Householder Bidiagonalization in D](https://www.active-analytics.com/blog/householder-bigiag-in-d/).",Householder Bidiagonalization in D,1608291565
+datascience,,How to become a data scientist. advice by a data scientist. - ucompare.in,1608288369
+datascience,,Planning for Your Startup: The Data Team's Guide to 2021,1608284917
+datascience,"Say I want to find out if basketball players are generally more likely to make a basket after making two in a row because they have “hot hands”/ go on scoring streaks. 
+
+I could use a hidden markov model using two states, baseline and hot, with a transition matrix that is the probability of ith+1 observation being baseline/hot given that the ith observation is baseline/hot. 
+
+The emission probabilities are the conditional probabilities for making/missing a shot given that a player is baseline/hot, correct?
+
+I could then use the HMM package in R to find a posterior emission probability matrix. But how do I compare this to a single state model- how do I even make a single state HMM? I want to compare the single state model to the two state model to say whether the hothand theory likely exists.",Hidden Markov Models: Need help making sure I’m building this model right and figuring out how to compare models,1608284763
+datascience,[removed],"""don't just automatically stuff your data into a dataframe"" -- what does this mean?",1608283558
+datascience,[removed],Interview Process Coding Assessments,1608283165
+datascience,[removed],KNIME,1608281059
+datascience,"Hi,
+
+  
+Not sure if this is the current place to ask this question - but need help for a college project, the quality of which would be enhanced by this information.  
+
+
+I need to be able to view traffic data (location of origin) for the last 6 months on different 'aggregator' websites. Open to using paid tools, but I'd need information broken into states-districts-cities for India.  
+
+
+Is this possible? I'd really appreciate help.","Help: Analysing where traffic for different websites originates from, split by city - for India",1608278908
+datascience,"I'm a recent Finance major and I have always been very interested in data. The job market in Finance is not the greatest currently and I wanted to go to a top school for a Data Science Masters but that's not guaranteed as the acceptance rates are low.
+
+I have no experience with data science or coding. Would a bootcamp give me the skills necessary to get in this field?",Will a bootcamp help me get into data science?,1608278601
+datascience,,IBM Data Science and AI Programs on Coursera Free for 30 Days [Final Few Days],1608277302
+datascience,"Suppose you are interested in forecasting future values of a univariate time series (you are interested in monthly forecasts and you have the past 25 years of data). Let's say there have been several major and minor ""shocks"" (e.g. corona virus, housing crisis, 9/11, etc) that have taken place over the years (you can visually observe these when looking at a plot of the time series). 
+
+Using standard time series forecasting models, is it still possible to produce ""decent"" estimates for future values of this time series? 
+
+Does anyone have any information on checking how ""good"" a time series model is? Do you just use the aic/bic, check the value of parameter estimates and the rmse on a ""test set"" (occuring at a chronologically later point in time)? Are there any standard time series ""cross validation"" and ""training procedures"" similar to standard machine learning problems?",Time series forecasting with irregular patterns,1608276212
+datascience,[removed],Data science and balance sheets,1608275088
+datascience,"I am majoring in Applied Mathematics and am really looking to pursue a career as a data/machine learning scientist... For almost a year and a half now I have been trying to dive into this vast, ever-expanding world of ""data science/machine learning"", but right now, I feel like a legitimate failure. 
+
+I've read/followed along to multiple books, tried Kaggle competitions, tried to stay up-to-date with towardsdatascience on medium, etc... no real progress.
+
+I then turned toward my professors for advice, in which they told me to embark on my own projects, which I spent all last summer doing. I did 3, and was proud of them at the time... but now I look back at them as more shameful wastes of time (I can show you them if you'd like -- on my github). I am proud of myself for trying, but I feel like I've learned nothing... I tried to dive into this world of ""data science/machine learning"", but i've just been trapped in the shallow end, swimming around and around with no direction in sight... So my question is to you: How did you break this cycle? How did you cut deep, past the skin, through the muscle, and into the bone... how did you \*\*\*really start learning, gaining ground, and moving forward about all this in a meaningful way? I feel lost. I need help.
+
+tldr: been trying to gain ground in ds/ml for 1.5 years now; no luck; not due to lack of effort; feel like a piece of shite",Guidance Needed,1608273334
+datascience,[removed],Know Everything About Dell EMC Data Science Associate (DEA-7TT2) Certification,1608267564
+datascience,"Looking for recommendations for phd programs in data ethics. My interests are in human-information and society, not AI.",North American Ph.D. opportunities in data ethics?,1608264287
+datascience,"It wasn’t until my 30s did I finally find a career path Im really interested in but I’m not quite sure how to get into a data science / analyst position. This would be starting my career path (2nd career type of thing). 
+
+I talked to an ex I had years ago whose been in the field somewhat and he said a good foundation in Python, Tableau and R should be good enough to get an entry level position. 
+
+I don’t even know those languages but I’m willing to learn.  Beyond that I am in my first analyst (sorta) position ever. 
+
+I say sorta because it doesn’t use many tools other than excel and fox pro (SQL?) to manipulate data. 
+
+Basically we get data from different sources and either use excel or fox pro to clean and manipulate the data. We use a program written for fox pro (idk if it’s written in SQL coding) and it basically runs calculations based on the data we uploaded and spits out the calculators in a text file. 
+
+Then we take the calculations and enter the data into tables with formulas in excel and it generates results in other tables and graphs  in other tabs in excel. 
+
+Then we use those tables and graphs and put them as part of reports typed in word for our clients. 
+
+Anyway my questions are:
+
+- what are some basic tools and foundational skills do I need for your average entry level position in data science 
+
+- based on how I described my current position is they similar to data science positions and is it helpful getting into an actual data science position?",Foundations to get into Data Science jobs,1608262043
+datascience,[deleted],Growth/Product analytics team: what to grow in our roles and develop our careers?,1608261953
+datascience,"As we reviewed this year, our team of analysts felt strongly that we don't have opportunities to grow in our career, or to develop in our role. Leadership seems interested in helping improve the situation, and is open to suggestions. I want to figure out *what* to suggest.
+
+My questions for the subreddit are:
+
+1. What was the environment like at a job where you felt you were growing in your role and your skills? What was the tooling/manager support/culture/team doing to support this?
+2. What do you think is an effective way to develop within our roles and as a team - stretch assignments? mentorship from more experienced analysts? taking classes together?
+
+At our tech company, our team does lots of logging design, data cleaning, \[pretty basic\] A/B testing, building summary tables, setting up dashboards, investigations (COUNT DISTINCT &amp; GROUP BY level stuff), lighter weight propensity scoring, etc. Our main tools are SQL, a bit of Airflow, and some of us know some Python/R (with a few wizards who are very good). In terms of being strategic partners and helping to size opportunities, decide between feature variants, monitoring use and retention etc, we're pretty strong and actively used by our stakeholders to help decide things. It's just that once you get a handle on it, you increase the # of projects, but not the complexity.
+
+We have a separate ML/DS team, but don't work with them too much, unfortunately. *Analytics teams feel like nails trying to learn to be a hammer \[lots of pretty basic analysis that's a bit repetitive\], and the DS team is super-advanced hammers in search for nails \[projects they can apply their skills to that will be cheap/fast enough to implement effectively\].*
+
+What would you recommend for us as a team? As individuals?",Growth/Product analytics team: what to grow in our roles and develop our careers?,1608261904
+datascience,[removed],Data science path,1608257164
+datascience,"How can i implement and start making project with my knowledge and future carry on with learning more of data science i also want to know about deep learning, machine learning, AI, neural network i am really curious about studying all this need **resources**","I learn half of the data science with python. I have some knowledge of pandas, matplotlib, numpy and want to learn scikitlearn and scipy need help with it",1608256563
+datascience,"I’ve had the chance to meet tons of awesome tech professionals over the last 6 months.
+
+I’ve been curious to find out more about their backgrounds and listen to them describe what it is that they do on a day to day basis.
+
+The number one benefit of doing this has been that I’ve been exposed to a variety of new industries, roles, and opportunities.
+
+I’ve learnt about *why* people have made certain career transitions, how they’ve successfully learnt new skills, and what advice they have for others hoping to do the same.
+
+All I’ve been basically doing is going on coffee chats (over Zoom, of course). And sharing them with everyone on the internet.
+
+Here's what I've learnt so far &amp; I hope you can also leverage coffee chats to advance your data science career.
+
+**What is a Coffee Chat?**
+
+A coffee chat is an informational interview where you find out more about a person’s professional experience and goals.
+
+If there’s only one thing you get from this article, it should be the following: a coffee chat is not a place for you to ask for a job. It may certainly help you land a role in the future (and I’ll talk about this later), but if you’re going into a coffee chat with the sole intent of asking for a job, you’re doing it wrong.
+
+Instead, a good coffee chat’s primary purpose should be to build trust and for both individuals to get to know each other.
+
+**Why You Should Do Coffee Chats**
+
+An obvious reason to go on more coffee chats is to increase your future chances of getting the role you want.
+
+So assuming you want to work at Twitter on their Data Science team, you could go reach out to a data scientist there and speak with them for 30min. Assuming the conversation goes well, you can continue to follow up and stay in touch for a few months.
+
+Then, say a year later, when you apply for a new data scientist role at Twitter, you can get referred, and sometimes you can even skip the whole line and directly meet with the hiring manager.
+
+Another reason to go on a coffee chat is to find out about what a particular job role or industry consists of and to get information on how to break in. Here, you again reach out to someone who’s knowledgeable in a field and then ask them questions regarding what it is that they do.
+
+So for example, let’s say I want to make a career transition into data science. I browse the data science subreddit and read a bunch of how-to posts and come across someone who’s written about their experience transitioning from biology to data science.
+
+I decide that this person can give me useful tips so I send them an email and end up going on a coffee chat with them. This way, I can get direct advice from someone who’s done what I want to do.
+
+If you’re reaching out to someone to ask for a job, you’re not asking for a coffee chat - you’re just asking for an interview. And that’s very different.
+
+**How To Reach Out**
+
+I recommend reaching out via email over Linkedin or Twitter. Everybody checks their email, even if they might not reply to you.
+
+When sending an email to someone you want to go on a coffee chat with, keep it short and be specific. There’s probably a particular reason why you decided to reach out to someone - be sure to mention it in your email.
+
+Here's an example:
+
+***Email*** ***Example:***
+
+In my senior year of college, I wanted to get a job in tech. As an international student, I had to get sponsorship and this was quite a big issue - I wanted to chat with someone who had been through this process before.
+
+I came across Jay's Linkedin profile and realized that he was an international student who also had a similar economics related background to me ([link to image](https://www.careerfair.io/assets_coffee_chat/Jay_Linkedin_Profile_1.png)) and had also gotten a job in tech ([link to image](https://www.careerfair.io/assets_coffee_chat/Jay_v2.png)).
+
+So when I reached out to him by email, I made sure to mention these things:
+
+**-------**
+
+*""Hey Jay,*
+
+*International student from Cal, came across your profile - congrats on the job!*
+
+*Wanted to chat about your experience recruiting in tech. Specifically, wanted to ask about:*
+
+1. *How you bring up sponsorship with employers (at what stage, how you frame it etc)*
+2. *Your econ background &amp; how this has affected the type of roles you've looked at.*
+
+*Let me know if a quick 20min chat this week would be possible.""*
+
+**--------**
+
+Notice how I didn’t say something generic like: “Would love to pick your brain”
+
+Being specific when reaching out also makes sure that the recipient doesn’t think you’re randomly spamming people and sending the exact same copy to hundreds of people. You’re much more likely to get a response.
+
+Finally, realize that the worst thing that happens is someone says no or doesn’t reply. No big deal, you’re still alive. Realize that most people will ignore your email. That’s okay.
+
+And no, you’re not being “pushy” if you choose to follow-up. Just make sure you’ve taken the steps above to write a good message.
+
+Okay, so let’s assume you’ve got someone to respond and they’re down to have a coffee chat with you. How do you prepare?
+
+**How To Prepare**
+
+Well, firstly, make sure *you do* prepare in advance. Someone’s given you their most valuable asset: their time. Don’t waste it.
+
+When I’m about to speak with someone, I spend a minimum of 1 hour going through their profile and drafting up questions I want to ask them.
+
+I’ll look at their Linkedin profile, see if they’ve published any blog posts, or if they’ve previously spoken on any panels. I’ll compile my notes in a google doc.
+
+If the conversation is going well, you’ll find yourself asking a lot less questions and having a more two-way discussion, but I still recommend doing your research upfront.
+
+When preparing questions, don’t just ask questions you could have looked up. Try to go a layer deeper - so instead of merely asking “Why did you transition into X?”, ask “Given your background in Y, what appealed you to X? Am I right in thinking that given my interests in A &amp; B, I’ll also benefit from a transition into X?”
+
+Ultimately, though, your questions don’t need to be perfect. A coffee chat is just a conversation with another person. And as long as you’re genuinely interested in finding out about their professional journey (rather than begging for a job), you’ll come across well.
+
+**Guiding the Conversation and Asking Questions**
+
+As I hinted at in the last section, whilst you should have a bank of questions to rely on, you don’t want the conversation to just be a series of questions and answers.
+
+Instead, use your questions to add structure to your overall conversation, but let the discussion itself ebb and flow. Go on tangents - if something the other person says catches your interest, don’t be afraid to ask them about it.
+
+There is no script and there shouldn’t be.
+
+Keep in mind, though, that your first few coffee chats *will* likely involve just a bunch of questions and answers. But as you go on more and get more practice, just like anything else, you’ll develop a habit of steering the conversation in a manner that doesn’t involve just Q&amp;A.
+
+Finally, I also recommend taking notes - not necessarily to remember what you discussed, but rather as a tool to highlight the important parts of your conversation and to internalize some of your learnings better.
+
+**Final Thoughts**
+
+Congrats, you’ve just made a new friend!
+
+I recommend following up once right after your chat and sending a nice thank-you note.
+
+Then, in the coming months, if you work on something cool or explore any new opportunities that are related to what you discussed, make sure to let them know!
+
+As a slight tangent - you might be surprised at how many people end up reaching out to *you.*
+
+After one of my coffee chats, I got a recruiter from one of the people I interviewed's company reaching out to me asking if I was interested in a new role they had.
+
+Going on coffee chats is one of the best ways to increase future opportunities that come your way.
+
+All they take is a bit of outreach and prep. And I hope this guide has proven to be a helpful start.
+
+\--------------
+
+**I hope this was helpful!! Any questions and I'll be in the comments.**
+
+*I send out a* [*weekly email newsletter*](https://www.careerfair.io/subscribe) *containing my best content like this every Monday - I'd love for you to join. Cheers :)*",I've been on over ~20 coffee chats the last 5 months - here's everything I've learnt so far :),1608253570
+datascience,[removed],MS in Applied Data Science,1608253533
+datascience,"A researcher was interested in the impact of exercise on mental health. He recruited two groups of participants. 30 who engaged in an hour or more of aerobic exercise daily and 30 who did not engage in any aerobic exercise. He administered a valid mental health inventory to all and found lower scores(e.g lower mental health) in the sedentary group. He concluded that exercise had a positive effect on mental health.
+
+How does this design either support or fail to support this conclusion?",How does this design either support or fail to support this conclusion?,1608252560
+datascience,[removed],Master Program,1608252278
+datascience,[removed],Best way to Pivot into Data?,1608251418
+datascience,"Hello! I am a junior trying to get an internship and all that, and am having a hard time with getting responses, and am getting rejections left and right. I did manage to interview with a Fang company but at the same time, I have gotten rejections left and right from so many other places.
+
+Please, be as harsh as you feel you need to be. I really want to make sure my resume is as great as it can be.
+
+I would also appreciate any general tips or advice on applying for internships. Thank you! 
+
+[Resume](https://imgur.com/a/rQmOOw8)",Hey Everyone! I would appreciate it if you could take a look at my resume!,1608248815
+datascience,[removed],What is a typical job interview like for a Data Scientist or Analyst?,1608246828
+datascience,[removed],Should I pay 11K for the Concordia bootcamp?,1608242620
+datascience,,University Suggestions for Masters in Data Science in Germany,1608240393
+datascience,"I am currently applying for an internship at the Data Science Department my university. 
+
+My job entails answering calls/emails and summarizing the results of the work my mentor does into reports for various academic groups/partners (my mentor is the head of the department). The application for the job is a generic application used for a wide variety of departmetnts/jobs and it is requiring me to input my own job title. I imagine there are a variety of things I can put and which will be accepted because the only oversight is my mentor. Maybe I am overthinking it but it seems like an important decision because it will affect how this experience is viewed on my resume. What job title can I put down that will look good for Data Science employers?",What should I put as my job title?,1608234816
+datascience,,Inside the implosion of the $35 million startup meant to fix the Democratic Party | Alloy was once seen as Democrats’ next great hope. But chaos awaited.,1608234616
+datascience,"So… there is always a lot of politics in academia, arguably more politics than in politics. What I didn’t realise when I started, first day as a fresh baby PhD student was that …  …  after this, “My supervisor would not .. look at me for 17 days!”  I’m here to tell you the mistakes I’ve made during my PhD.
+
+&amp;#x200B;
+
+[https://youtu.be/1Pb6KxeN8-w](https://youtu.be/1Pb6KxeN8-w)",My PhD Mistakes!,1608230430
+datascience,,Airflow 2.0 has been released,1608228130
+datascience,"I've been assigned a project where I must study a real case that could raise ethical questions, this project has to be related to the Data Science and/or Computation field. Would love to hear your suggestions as I haven't found any that are appealing. Thanks!",Ethical Questions Surrounding Data Science/Computation,1608226857
+datascience,[removed],Anyone else get suspicious scripted recruiter calls?,1608226350
+datascience,"I'm reading the documentation for a model and just want to make sure I'm not missing something. They used several thousand known observations (dependent variable, independent variables) and then compared it to 500k background cells (unknown dependent variable, independent variable) for a predictive model.
+
+That's... not correct, right?","[Question] You Can't Use Null Data In Random Forests, Right?",1608221528
+datascience,[removed],Any student who’s thinking of getting into data science?,1608221374
+datascience,,"Actual free courses on coursera: I found this on /r/InternetIsBeautiful. It contains courses on Machine Learning, Python and Statistics for Financial Analysis, Process Mining and so on. I hope someone else finds use from them.",1608220874
+datascience,"Hello. Hope all's well. I have treatment and control sales data which I need to do AB testing on to assess performance of sales. I haven't done this much before, so wanted to check if there are some online tutorials or useful references to see how I can do analysis on this and try to pull out some meaningful insights and visualizations. Any advice appreciated. I have basic pandas numpy matplotlib   
+ Jupyter notebook experience. More of analytics/reporting background than statistical analytics background.",Best way to learn data science A/B testing or online tutorials?,1608219049
+datascience,"Hey there, 
+
+I am currently studying in a Data Science related field as an undergraduate. I have recently been offered to study Mechanical Engineering Master's degree while working as a TA (teaching assistant). 
+
+Which brings me to the reason why I need your advice. This is a big opportunity for me as the tuition and fees will be fully waived and I  will get paid monthly. I am currently in a different country from where I'll be studying the master's degree. So, that is what it makes this decision very important for me. 
+
+I have high interest in data related fields and want to build up my career based on them. But on the other hand, this opportunity would let me live in Canada and get work permit after the graduation. Considering the budget cuts due to COVID and hardness to get a TA as a master's student (faculties tend to choose doctoral students for the TA positions), this really sounds promising. However, taking it would make me study in a field which I am not really a fan of.
+
+Hope you guys can show me some windows that I have not been able to see.",Need some advice related to master's degree,1608218981
+datascience,[removed],Torn between data science and web dev,1608218813
+datascience,[removed],Collaboration tools for Data Scientists,1608216969
+datascience,[removed],Extensive dataset for visualisation,1608215423
+datascience,"My current workflow is as follows:
+
+1) Open an Excel file and write down the first topic I want to understand (eg. the shape of the sample distribution of some indicator)
+
+2) Type SQL in DBeaver to query the data.
+
+3) Export the data to clipboard and paste it into a new sheet in Excel
+
+4) In Excel, visually filter the data, remove outliers, filter on some variables to remove irrelevant data.
+
+5) Create a chart based on data. Find it unusable, for example because the histogram bin size is wrong, or because I have to focus on some part of data to see more details, etc. Tweak the chart and the data filtering and sometimes add additional calculated columns to the data (like ratios instead of absolute values) to be able to see the result clearly.
+
+6) Say ""aha!"", write down the insights in Excel (if any), and formulate the next topic based on what I've seen. Repeat the loop from point 1.
+
+I've chosen these tools instead of for example using Jupyter notebooks or RStudio, because I'm more efficient doing points 4 and 5 in Excel rather than programming them in SQL, Python or R. Still, I'm not very happy with it, because of the following two problems:
+
+\- If I need to repeat the whole data mining with another set of data, I can't just rerun something, because the steps 4 and 5 and manual and won't be scripted.
+
+\- If you include Markdown in your Notebook, it is easier to create a shareable Data Mining result in just one click.
+
+Do you have any suggestions for a tool for my workflow?",What tool is the best for my data mining workflow?,1608215001
+datascience,"I'm working for a large multinational corporation (but with a very small team and a poor IT architecture) and have a focus in customer analytics (predictive modelling, segmentation, automation of reporting and processes, data flows). My focus, in particular, has largely been confined to backend processes with occasional reporting needs.
+
+The company is looking to adopt dashboards (primary data source would be multiple different SQL databases) for reporting purposes, but the installation of software might serve as a barrier to some of the leadership team. Previously for dashboarding needs I've used Tableau, Spotfire, and Power BI, and can quickly pick these up again, but my worry is that they would be poorly adopted due to the need to install software. The company has investigated a cloud-based tool to allow for dashboarding, but the reporting capabilities are totally insufficient for some of the complex reporting that the business requires and the volume of data.
+
+I'm investigating different solutions, and previously in a FinTech project I've worked on we had developed dashboards using D3 as part of a web application  and the results were very positive and I've seen it suggested increasingly often as a potential Data Vis avenue, so I'm considering this as possibility but uncertain on how the visualisations would be shared which I'm hoping somebody could give some insight into? 
+
+My current assumption is D3 solutions would need to be embedded in a self-developed web app, which would potentially require a decent amount of development time, and then would be potentially risky in exposing data? Does anybody know if D3 is the way to go, or if an alternative would be better? The end-user of the dashboards would be people with very limited technical knowledge or experience so any requirement for additional software the end-user would need to install is a solution which won't be viable.",D3 Dashboarding Solutions or Alternative?,1608211172
+datascience,,Free Data Science Foundation Bootcamp,1608211068
+datascience,[removed],Any interesting project suggestions (CV worthy) in the Data Science in HealthCare/Medicine application?,1608209536
+datascience,,[100% OFF] Python for beginners – Learn all the basics of python,1608206911
+datascience,"The data science industry is quickly evolving. Understanding what’s beyond these technologies will help people stay in sync with the current and updated trends in the industry.
+
+As a [data science professional](https://www.dasca.org/data-science-certifications), staying in sync with the current industry trends is crucial to stay one step ahead. Many businesses are now realizing the importance of data science.
+
+Data science trends, Data science professionals, Data science industry, AI models, AI engineer, Big Data Engineer
+
+[https://vocal.media/futurism/top-5-latest-trends-in-data-science-to-dominate-in-2021](https://vocal.media/futurism/top-5-latest-trends-in-data-science-to-dominate-in-2021)",Top 5 Latest Trends in Data Science to Dominate in 2021,1608206652
+datascience,"Hello everyone, I'm working right now in Amazon as a data associate Alexa process. It is a non-technical role. I'm a fresher and joined Amazon this month.
+
+Today I got a job offer in a normal company as a data analyst, where I will be working on SPSS. Annd there is a bond of 2years
+In terms of salary, both are same.
+
+So, I'm looking for advice on what should I go for? 
+Based on what I'll have a good career. As I want to be a data scientist in the future.",Job as a data associate (non-technical) in Amazon or job as a data analyst (mostly working on SPSS) in a normal company??,1608202738

@@ -1,0 +1,797 @@
+subreddit,selftext,title,created_utc
+datascience,"We are considering moving from Tableau to Apache Superset, however I'm struggling to replicate a lot of the dashboards previously built. Do you know if there is similar functionality for the following;
+
+1. Stacked bar graphs - I thought there would be a chart option here, but I'm only seeing 'Bar Chart' and  'Time series bar chart'
+2. Dynamic Parameters - using a pre-defined list, can I have a user-selection drive which variables to cut by or metric to show?
+3. Dual Axis charts - can I make a combo line/bar chart?
+4. Filtering across data sources - can I set date filters to apply across different data tables on the same dashboard?
+
+If there's a tutorial somewhere that I can read more into, please let me know! Having a tough time googling these.",Are there any Apache Superset pros here?,1600556665
+datascience,"I'm a FAANG data scientist and I just posted a day in the life video on youtube that I thought people here may be interested in as well :) 
+
+I know that video posts are not allowed but you can check out the video on my channel [here](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww/). 
+
+My background is in pharmacology + bioinformatics before doing a masters in computer science (MCIT) at the University of Pennsylvania. On my channel I talk a lot about career stuff and how to get into data science, especially for people who are transitioning into the field.",Day in the life of a FAANG data scientist,1600555401
+datascience,"I see a lot of posts on this thread about how to differentiate yourselves to get jobs in data science. As somebody currently looking to recruit in the uk, I thought I’d share what I’m looking for (if you’re interested, feel free to make contact, particularly if you’ve read the below and have some content!)
+
+I’ve been working in what we’ve called statistics, then analysis, then analytics and now data science for about 20 years [1]. What sets any data scientist apart is domain knowledge. The data science bit is fiercely competitive and (arguably) the most straightforward bit - get taught, download the software and algorithms and know your stuff. The domain knowledge is what will set you apart. 
+
+I work in (real-world) infrastructure. Anyone who has bothered to understand the challenges in productivity and resilience in physical infrastructure will grab my attention at CV and interview. So be that person. 
+
+If you’re looking to break into an industry, don’t learn the data science [2], learn the industry. What keeps the CEO up at night? Who is going to care about what your AI/ML algorithm is telling them? What decisions are you going to change?
+
+And good luck - these are horrible times in which to be trying to kick start your career. The great thing is if you are a decent data scientist, you will find roles in today’s climate.
+
+[1] I know, analysis has been around for longer than stats but this is what I have seen in my career...
+[2] obviously, do learn some data science. Just not too much.",Get some domain knowledge,1600553220
+datascience,"Hey team, I'm a 2020 math grad.  I've been slowly chipping away at learning stats and coding, and while I've been making definite progress, I do miss working in a 'real' environment.  
+
+&amp;#x200B;
+
+I may have a good chance at getting an unpaid DS internship through a friend, but it is at a startup with 15 or so employees.  Although obviously this is undesirable, I do kind of want to work in a workplace again, so my question is, would this internship have an impact on my resume?  Would it make is easier to get a Data science/Data Analyst position in the future, or is it basically worthless because it's at a startup?  Thanks!",Unpaid Data Science Internship,1600551723
+datascience,,"A new browser extension for finding code for DS research papers on the internet (on Google, Arxiv, Scholar, Twitter, Github)",1600545118
+datascience,"If it's better to start a business, anyone want to start a business with me?",It seems like companies are being frugal hiring right now. Is it a better idea to just try and start your own business or wait it out?,1600543282
+datascience,I have recently started working in Analytics in a large bank with a masters degree in Economics. I am interested in eventually moving into a more data science focused role working on big data and ML. I am wondering if it is necessary for me to complete a masters in Data Science in order to transition into a Data Scientist role. Is it difficult to move from Analytics to pure Data Science without a Data Science masters? I use SQL and R on my job and and am skilled in MATLAB. Thanks.,How can I transfer from Analytics to pure Data Science?,1600543122
+datascience,"TLDR: where can I learn the fundamentals of DS without having to learn the technical skills?
+
+I’m not a DS or someone who knows coding languages.
+
+I do know that just grabbing data pulls and handing them off to people to create descriptive analytics is not using data to it’s full potential.
+
+I want to drive change in my organization. I want us to adopt real Data Science with industry standards and reap the rewards of the opportunities it can discover.
+
+We have a lot of the data architecture getting in place but we need a cohesive strategy to guide us the next 3-5 years.
+
+Are there any courses (cheap, online access, youtube channels) that I could take to help me understand the Data Science Jargon, understand the standard tools and practices? The fundamentals outlined so I can talk with experts and guide Business leaders.
+
+I also would love to see semi-detailed examples of successful DS models and the thought process and tools used to build it.
+
+Is there a reliable online resource community for external data or methods?
+
+Thanks!",Learning Path for Layperson to someone who can intelligently converse about Data Science,1600542714
+datascience,"Hi everyone! So I just recently graduated with bachelors in computer science and also did a applied math minor. I really like working with data more than creating websites or apps (at least for now). 
+
+I was too ambitious at first aiming for a data science position considering the only experience I have is a 5 month research job I had that focused on machine learning &amp; classification algorithms. I’m now looking for data analyst job and currently learning how to use tableau and improving my excel skills. Am I going about it the right way? 
+
+I currently have no job and have been applying to data analyst position for over a month now &amp; no success. I’m worried that they’re gonna look at this gap and not hire me. What if I still don’t find a job in a few months?",I need some advice,1600538680
+datascience,"http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
+
+Credit to Swami Chandrasekaran (2013)",Becoming a Data Scientist Roadmap,1600535123
+datascience,[removed],data analytics certification,1600531222
+datascience,"Hello, 
+
+I am currently finishing up a  master's degree in Industrial Engineering with a focus on statistics. I have taken and am currently taking courses on simulation, predictive modeling (focus on ML), ethics in AI, data analytics using R, and time series analysis along with more traditional Operations Research classes. I'm now applying for jobs and I am finding that I might be overqualified for data analytics jobs that some of my peers have (that are excel based) but under qualified for data science roles at the same companies. I didn't expect to be in this situation, where jobs I am quite interested and I believe I have a good background for would prefer CS students instead. I think I have to change the roles I am looking for, and I would appreciate any advice. I have done several internships including with an advanced analytics team, but it seems that many of these non-traditional ML type roles favor having more experience.  
+
+I would like some advice on how to proceed efficiently and effectively in a job search.",Avoiding job rejections based on degree,1600527458
+datascience,"I'm one year into my career in Data Analytics and I'm trying to map out what path I want to follow. I've put some thought into my motivations and two of the bigger motivators are financial security and work-life balance. On the former, I'm currently 30 and at the start of my career so am a bit behind in saving to buy a house, pay the mortgage and a pension. Another motivator is specialism. I'm not so interested in staying in one industry and building domain knowledge, but more interested in being able to derive keen insights in whatever industry I'm in. Therefore requiring foundational skills, such as problem definition, analytical thinking, business acumen, and in time stuff like stakeholder management, actually using my degree(BSc Maths with Stats) and applying the correct, more advanced, statistical techniques at the appropriate time. I'll continue to work on this but assuming that goes to plan and nothing else changes I'd be working up the ranks.
+
+This brings us to the next decision; data analytics or data science. It also seems an appropriate time to mention I live in London, I've also thought about working internationally (in Europe most likely). Backtracking to my motivators; I don't want to have money worries but I'm not sure if I'd want to trade-off work-life balance long term for a ""life of luxury"". I have heard the work-life balance is not as good in data science. However, there is a curiosity about data science, where I might get bored of data analytics once I feel I've ""mastered"" it. Given all this, is data science worth getting into over data analytics?
+
+As a further question, if anyone is still reading; if data science, then how do I get into it? Transition to the role through work and self-learning or Masters? I'm under the impression a Masters is generally required, but I'm not so sure if it is possible to get into without postgrad. If masters I think I have a good chance of getting into among the best universities in the world. And I'm not really interested in some certification or MOOC.",Mapping out a career path,1600518686
+datascience,Can someone please give  applications on how data science can be used in geography?,Data science application in geography?,1600518571
+datascience,,Road Traffic Death Rate Ranking | TOP 10 Country from 2000 to 2013,1600513051
+datascience,As a data science novice I focused too much on my codes than the correctness of my results. And this mindset resulted in a lot of mistakes.  It's crazy how the issue correctness of data pulls has always been looked at reactively. I thought I should write an [article](https://medium.com/@sparkplugslug19/mindful-data-wrangling-1029df0a2dd1?source=friends_link&amp;sk=aec162ff15dbd999f3f537bdff9c7165) about how I  operate when I work on data pulls. This proactive approach is immensely useful and has helped me make lesser mistakes. Please give it a read and let me know what you think. TIA,Mindful Data Wrangling,1600512245
+datascience,[removed],Is Dell's 2020 Precision series worth it for students?,1600509967
+datascience,"
+
+I’m going to be starting my bachelors degree in data science in the February coming. 
+
+If there anything I can do to get an edge so I’m not overwhelmed? Anything I should know? Has anyone studied this course using the open university?
+
+I will be studying from home.",What to expect doing a bachelors degree in data science?,1600507956
+datascience,"Hi all. I am finding books to learn about data science. Many books focus on talking about the machine learning algorithms or statistical knowledge, but I am more interested in the other aspects of a data science project, e.g. How do the data scientist acquire the domain knowledge, how do they decide what data to be collected, how do they handle low quality/missing data, how do they obtain the requirements and feedbacks, etc. So I am wondering, is there any book that focus on on one data science project from start to finish, and elaborate in details how they solve those practical problems? Thanks!",Any books that focus on one data science project from start to finish?,1600501988
+datascience,"I’m curious about how multidisciplinary your various research groups and teams are. How much domain knowledge is there in your group vs. how much do you consult with external experts?
+
+To take a concrete example: suppose you had a team performing analysis of large datasets of skin lesions. Would you have dermatologists on your team (and if so, would they also be data scientists)? 
+
+Would be interested how this varies for startups, bigger companies, consultancies, and academia.",How multidisciplinary is your team?,1600495610
+datascience,,"""The politicians are hurting us"" - Samuel Noriega, 2020 Noonie Nominee",1600492392
+datascience,[removed],Wanting to pursue a career in Data Science,1600489735
+datascience,"Hi, I wrote my 1st areticle on medium. Obviously, I did not had any traction. I was not expecting any. But I did wanted a review. I want to write a better one next time. 
+
+It is just a 4 min read, I will appreciate any help :- 
+
+[https://medium.com/@ayushranjan\_46505/simplest-intuitions-for-knn-30b9a580499d](https://medium.com/@ayushranjan_46505/simplest-intuitions-for-knn-30b9a580499d)",Simplest intuitions for KNN ( My 1st article),1600485675
+datascience,"I'm a 23 year old male and have a diploma in electrical engineering (first two years of an engineering degree). It would take me five more years likely to finish my engineering degree (due to transferring schools).
+
+Is a bachelor's degree pretty much required for the higher-paying data scientist jobs or could I work on some things at home and/or get some online certificates or get some work experience and work my way up? I'd rather not waste five more years in school if it's not required. 
+
+Any advice would be awesome.",Do you need a bachelor's to become a data scientist?,1600480987
+datascience,"Any suggestions for a SQL and Python book for a beginner?
+Thanks!",SQL and Python books,1600479790
+datascience,"Hi everyone! You might not know me, but I'm [thoughtsofaphd](https://www.twitter.com/thoughtsofaphd) AKA PhD Diaries on Twitter.
+
+I've always dreamed of being in a supportive lab, and today I finally created my dream lab. Our virtual lab is the most supportive lab community you'll ever join, and I would love for you to be a part of it.
+
+This is my passion project. I have been thinking, scheming, plotting, and vision-boarding this to life. I'm nervous. I'm writing these tweets with shaky hands and hoping that you love it as much as I do. And if you don't - it's your community too. Help me shape it!
+
+We're already at **\~1800 members and growing**!
+
+I can't wait to see you there.
+
+[https://discord.com/invite/dcPnfrt](https://discord.com/invite/dcPnfrt)",The most supportive lab you'll ever join is waiting for you on Discord,1600479048
+datascience,,year by year comparison (going back to 1897) between the annual Dow Jones returns vs annual Dow Jones returns in which the days that the planet Mars was within 30 degrees of the lunar node would have been avoided,1600476736
+datascience,"With 31 years old, I'm tired of doing repetitive tasks as a software developer. I like Machine Learning, Deep Learning and AI in general. I've been starting Kaggle competitions and have Coursera's Deep Learning and Data Science certifications.
+
+Since I only have a Bachelor's in CS, would a Data Science Masters be useful in helping me change the career from software engineer to Data Scientist? I know that some people enter DS by being a Data Analyst.",Is a Master's degree in Data Science worth it for a Software Developer willing to change career?,1600474771
+datascience,"Hello all! I am trying to work on a data science project in which I would like to **model a location strategy that recommends where to open a fast-food restaurant**. The data I intend to use for this project is as follows:
+
+[https://www.kaggle.com/datafiniti/fast-food-restaurants](https://www.kaggle.com/datafiniti/fast-food-restaurants)
+
+Specifically, I would like to narrow the scope of this project by only selecting the top 10 fast-food chains and build a strategy. Although I have worked on a couple of Machine Learning projects, I have never really worked on anything involving spatial data before. I am trying to understand what extent of this is a Data Science project, what would be the best approach for this, and what level of skills I would need to successfully finish this. Thanks!",Is this a Data Science Project?,1600469538
+datascience,[removed],"""all products of human thought end in meaninglessness"" mathematics science philosophy ie nihilism post-modernism etc;",1600468445
+datascience,"Hello! Has anyone interviewed for Global Quantitative Analytics Summer Analyst at Bank of America before? What should I expect or prepare for this interview? 
+
+Thank you!",Global Quantitative Analytics Summer Analyst - BofA interview,1600467346
+datascience,"I have read people refer to a vector V' of n sample values of some variable as a ""random variable"". A random variable is defined as a mapping from the sample space of a probability triple (S, E, P). How can we associate this vector with a mapping? 
+
+I think of matrices as mapping of space and would like to think of a data vector as a mapping via matrix multiplication. One potentially solution I thought of is, if my set of outcomes s1,s2, ... , sn is finite then order them and create a vector V' such that (V')i=V(si) and create T:S-&gt;R\^n so that T(si) = e\^i is the ith standard basis vector in R\^n. Then if I have a random variable on S called V, we could say something like V(si) = (V'\*T)(si). 
+
+Any suggestions on how to interpret a data vector as matrix multiplication would be appreciated",Interpretation of a data vector as a random variable.,1600465586
+datascience,,Dolt releases forks to become a real open data collaboration platform,1600464695
+datascience,,"!WARNING! Higher education is in danger because of the quarantine/COVID! If you are a student in higher education, you could help with the situation by answering a survey on the impacts of quarantine on distance learning. Let's contribute to improving the situation &amp; e-learning together!",1600463589
+datascience,"Hello, Redditors! I am currently trying to start a Data Science project to determine the optimum location to open a new fast-food restaurant within the United States using the following dataset:
+
+[https://www.kaggle.com/datafiniti/fast-food-restaurants#](https://www.kaggle.com/datafiniti/fast-food-restaurants#)
+
+My end goal is to create a dashboard where you can input certain parameters such as:
+
+\- Cuisine type
+
+\- Budget
+
+\- Category: Fast-food, restaurant, drive-through, etc.
+
+and it should result in the best locations where I can open that restaurant.
+
+But I see that the data only consists of Name, address, category, latitude, longitude, but nothing about the revenue of the fast-food restaurants or rating/reviews whatsoever. Can someone please help me on forming an outline on how best to proceed with this project, and as to what other variables I might need within the dataset to aid with it? I am also open to suggestions on narrowing the scope of this project for feasibility.
+
+I would also greatly appreciate it if you know of any resources/books that I can read or similar 'location optimization' data science projects.",Scope of this project,1600461978
+datascience,"So I have been working as a Data Scientist is a big tech for a year now. I expected to work to be looking at latest papers, building ML models at scale and hopefully have published something. But I feel all I am doing is data engineering and development.
+
+So my question is do you guys as data scientists get challenged to look at new papers and work on something that's novel often? Also I feel that industry regards having publications in good conference as a big plus, is it true?","How often do you publish paper in conference, journal etc.?",1600461837
+datascience,[removed],UIS Data Analytics vs. UT Austin - masters comparison?,1600461553
+datascience,"Came across this Ethereum-related data science challenge - **The Eth2 Medalla Data Challenge**
+
+[https://ethereum.org/en/eth2/get-involved/medalla-data-challenge/](https://ethereum.org/en/eth2/get-involved/medalla-data-challenge/)
+
+Calling data scientists, data engineers, data visualizers, developers, and anyone interested in digging into Ethereum data!
+
+The Ethereum 2.0 [Medalla testnet](https://github.com/goerli/medalla) is live. Validators are validating. Attesters are attesting. Blocks are propagating. Which means, data, lots and lots of data. And **the Ethereum community needs your help to make sense of it all.**
+
+Prizes up to $15k",The Eth2 Medalla Data Challenge,1600461296
+datascience,"Hello, Redditors! I am currently trying to start a Data Science project to determine the optimum location to open a new fast-food restaurant within the United States using the following dataset: 
+
+[https://www.kaggle.com/datafiniti/fast-food-restaurants#](https://www.kaggle.com/datafiniti/fast-food-restaurants#) 
+
+My end goal is to create a dashboard where you can input certain parameters such as:
+
+\- Cuisine type
+
+\- Budget
+
+\- Category: Fast-food, restaurant, drive-through, etc.
+
+and it should result in the best locations where I can open that restaurant.
+
+But I see that the data only consists of Name, address, category, latitude, longitude, but nothing about the revenue of the fast-food restaurants or rating/reviews whatsoever. Can someone please help me on forming an outline on how best to proceed with this project, and as to what other variables I might need within the dataset to aid with it? I am also open to suggestions on narrowing the scope of this project for feasibility.
+
+I would also greatly appreciate if you know of any resources/books that I can read or similar 'location optimization' data science projects.",Scope of this project,1600461245
+datascience,"Hey all, as the title says, I'm trying to build a model that will forecast how many loans in four different buckets (combo of Prime/Sub-Prime and 36/60 month term) in our current pipeline will convert in the next week. I would run it Sunday night and then provide the 7-day predictions (or have it auto-refresh daily if possible). I have access to just about any data one would hope to have so assume we have whatever we need.
+
+A couple things to take into account:
+
+- Staffing will affect originations and at this time we do not have the ability incorporate those variables (e.g. future work schedules).
+- We are a startup and only have a few years of data which has been fairly volatile - especially as of late with the pandemic...
+
+My first model seemed to be reasonably accurate and was built by combining historic conversion rates with outstanding unconverted loan volume + predicted volume over the next week. 
+
+However, I'm worried it is a bit too one-dimensional (but who knows, that might be a good thing) and wanted to get feedback from individuals who had done something similar as to how they approached it.
+
+Additionally, there is the issue of sustainability - if I can make the logic simple enough, I would simply run it through a SQL query and put it in Tableau. If it needs to be a little more involved, I can leverage python and possibly some machine learning algorithms. Would love feedback from individuals as to how they might have done this themselves as well. Thanks all!",Feedback for Predictive Model for Financial Company,1600459550
+datascience,[removed],I need an accountability partner/group,1600458172
+datascience,,Deconstructing a Serverless Cloud OS,1600454002
+datascience,[removed],The basic commands you need to know to get started with SQL,1600452256
+datascience,"Hi everyone, I would like to ask about remote paid internships about ML, AI &amp; Data Science. There are many ways to apply like via LinkedIn, Indeed, etc.. Are there any other tips to apply, like ways to find heads' or recruiters' emails or any other medium that helps final year students who are interested in working remotely so as to get more experience find paid internships &amp; opportunities!",DS Internship,1600451849
+datascience,I don’t have any experience in data science really. I’m a final year Computer Science student. The application asks what I think data science is about and why I’d be a good data scientist. What can I say that would actually impress them? I’m going to study Big Data Processing and Data Mining starting from next week. Thanks in advance,Hi I’m applying for a data science project opportunity.,1600450558
+datascience,Are you managing a tech team as a product/project manager? Here is what you need to know about machine learning. [https://medium.com/manishmshiva/machine-learning-for-managers-what-you-need-to-know-8cb9cf95c05b](https://medium.com/manishmshiva/machine-learning-for-managers-what-you-need-to-know-8cb9cf95c05b),Machine Learning For Managers — What You Need To Know,1600447100
+datascience,[removed],Artificial Intelligence Course,1600446606
+datascience,,Neuraxle - a Clean Machine Learning Framework,1600443430
+datascience,[removed],INE is looking for a few Data Science professionals to give feedback on our training content (paid),1600442855
+datascience,[removed],Non-programming skills,1600440830
+datascience,"I’ve been noticing a lot of job postings that mention the need for programming skills as part of their data science positions where they mention Java, python, or C++. I’ve never really used java or C and only use python for data science (data engineering, data manipulation, machine learning), I’m just curious what skills they’re looking for here. Is it just an understanding of OOP or is there more to it?",Programming requirements of a data scientist,1600440069
+datascience,,OpenPose Research Paper Summary: Multi-Person 2D Pose Estimation,1600439231
+datascience,"I am currently working as a Business Analyst and feel that I want to learn more and can work in a smarter way but I am limited by the applications, IT security and team practices.
+
+My main tasks involve:
+-	Exporting data in CSV format from an external system via a GUI
+-	Taking this data and adding to spreadsheet file to create a make-shift database
+-	Use only excel to create forecasts through formulas and summarise into pivot tables
+-	(Only recently) Adapted to using Power BI Desktop to import data from CSV (Database) file to create a simple dashboard
+-	Using CSV (Database) to create MI and plan projects based on usage/demand for products/services
+
+I would like to either learn Python/R/SQL to better utilize data and resources but our company IT security won’t allow for it because we deal with sensitive data. I will need to learn this in my own time in preparation for another job in another company but feel very overwhelmed and lost with the vast amount of courses from free to ｣10,000+ online universities.
+
+My criteria:
+-	I cannot attend physical classes due to my current circumstances (Childcare, travel, time etc.) so online only much prefered
+-	I cannot afford to spend more than ｣100pm currently due to financial situation and would prefer free courses but wondering if paid would be better to put on my CV/Resume?
+-	I do not have much free time so no more than 30mins/1hr per day (4-7hrs per week)
+-	I do not have any prior knowledge of programming other than basic tutorials in HTML/CSS/Python and also currently studying Mathmatics 1 at Khan Academy for free to bring my maths skills up to par before starting a potentially paid course
+
+Very unsure of what to do really to get to the level I would like to be at, I definitely do not feel comfortable moving to another role outside of my current company with my current knowledge as I feel I have had a limited techincal experience and when trying to expand knowledge and use more complex and efficient practices these have been denied by the company.
+
+Any tips, recommendations or advice based on my current situation would be greatly appreciated.",I feel very limited in my current role to try more efficient and complex proccesses. what affordable and/or free options are there to increase my data analysis and forecasting knowledge that will help me eventually move to a more techincal role?,1600437670
+datascience,[removed],Help me find a career path,1600436971
+datascience,,Apache Arrow: The Hidden Champion of Data Analytics | Maximilian Michels,1600436285
+datascience,,Which Career is Better: A Data Scientist or an Artificial Intelligence Engineer,1600433452
+datascience,[removed],Hyperparameter Tuning with genetic algorithm visualization,1600432131
+datascience,"Instead of the old R vs Python squabble, let’s talk about how many languages you should actually know at least at a basic level. And more specifically, what languages are worth learning. Python, R, C, Scala?",How many languages should you know?,1600431464
+datascience,"I'm a Statistics student at university and recently, among various courses of data analysis in which we use R or SAS, we have some (really hard) courses of programming in Python. But R and SAS, even if you can code with them, are specifically for data analysis, while Python is just pure programming, so why is it useful for a statistician to learn it?",Why Python?,1600431448
+datascience,,It’s A Data War. And Here’s Your War Room,1600430799
+datascience,,PostgreSQL and Machine Learning,1600430422
+datascience,[deleted],Web Scraping Technique in python that works on js loaded websites,1600429477
+datascience,,Beef Consumption Ranking | TOP 10 Country from 1961 to 2013,1600425852
+datascience,[removed],What to expect doing a bachelors degree in data science?,1600423556
+datascience," Merge the datasets Customers, Product Hierarchy and Transactions as Customer\_Final. Ensure to keep all customers who have done transactions with us.
+
+Tables sample
+
+1.Customer CSV([https://pastebin.com/0x8pEgVQ](https://pastebin.com/0x8pEgVQ?fbclid=IwAR2XioRHncVofjJIi8ojPBveG6G1EBgqvp7VqtSmeXeHW7tE1Q4zxaMV4JI))
+
+2.Product Hierarchy ([https://pastebin.com/2wmmwrgA](https://pastebin.com/2wmmwrgA?fbclid=IwAR3TQT16pzO82DNp8NJps505CeRexTV3-9zWtVdyOjgC0YTYzQ1wrjNdbTw))
+
+3.Transactions ([https://pastebin.com/FMiGAVTX](https://pastebin.com/FMiGAVTX?fbclid=IwAR2XioRHncVofjJIi8ojPBveG6G1EBgqvp7VqtSmeXeHW7tE1Q4zxaMV4JI))
+
+Im using R",which type of join will be used in below problem.(your help will be highly great full),1600423001
+datascience,"I'm overwhelmed with the amount of mathematics needed to learn for Data Science and unfortunately I'm not very confident with my math skills. However, I'm pretty sure I have a firm grasp of understanding and skills when it comes to programming such as Python, Java, and C++.
+So I'd like to ask, for starters, what particular maths do I need to learn first? I'm already reviewing on Statistics at the moment but I'm still pretty weak at this.",What math skills do I need to learn first for Data Science?,1600419785
+datascience,I have previously done MBA held a position as a business development officer now enrolled in a data analytics one year program. Was wondering if I could break into the business analyst role and what would be some of the skills i need to learn. Also does the above mentioned profile help me secure such a position in an organization ?,What are some of the must learn skills for a business analyst,1600419686
+datascience," 
+
+# Top High Paying Jobs in India
+
+The best-paid jobs in today’s market are often the ones that are aiding the digital economy. Traditionally best-paying jobs like doctors, Chartered Accountants, Merchant Navy is still in demand, however, newer roles such as business analysts, cybersecurity professionals are also grabbing the best salaries in the market today. Salaries for each of these roles not only depend on the educational background and professional experience, but also on how well you are equipped with the latest technology in each of these fields.
+
+We have compiled a report about the study on the highest paying jobs in India. It also gives an insight into the minds of young early professionals, what they think about various career prospects, what Salary projections they have in mind for the coming year 2021, and much more.
+
+We have listed down the roles which have been in demand despite the recession in our market today. Go through this list to understand the trends, skill requirements, and salary insights.
+
+We have come up with a list of the highest paying jobs in India to help aspiring professionals set their expectations and maybe also nudge them towards their goals. It’s safe to say that the following occupations have emerged as the highest paying jobs in India in recent years. However, the exact figures might vary depending on the cities and the level of professional experience.
+
+# Highest Salary Jobs in India 2020
+
+1. Doctors and Surgeons
+2. Data Scientists
+3. Investment Banker
+4. Software Engineers
+5. Commercial Pilots
+6. Chartered Accountant
+7. Artificial Intelligence Professionals
+8. Marketing Professionals
+9. Cyber Security Professionals
+10. Machine Learning Professionals
+11. Full Stack Developers
+12. Cloud Computing Professional
+
+# 1. Doctors and Surgeons
+
+Practitioners of medicine are still among the highest paid professionals in India. Considering India’s vast population, it is not surprising that the country faces a number of health issues. However, the ratio of available doctors to patients is really low in India, making it one of the most sought after career path. Even within the domain, there are areas of expertise which are more-demand than the rest. Example, surgeons need to be extremely skilled and therefore are often paid more. Sadly, even with all the career enthusiasm over medicine, there’s a very limited section of the professionals who go and practise in the rural regions of the country.
+
+* Entry Level:10 lakh/annum\*
+* Mid Level: 24 lakh/annum\*
+
+**Education:**
+
+* Doctors need to complete **Bachelor of Medicine or Surgery** (MBBS, BMBS) before 25 years age to start practicing.
+* For further specialization, they can do a doctor in Medicine, doctor in Osteopathic Medicine (MD, DO) or any other branch of specialization.
+
+**Skills:**
+
+* Doctors need to have exceptional communication skills
+* Problem solving skills
+* Effective decision making skills
+* Surgeons need to have precise operating skills
+
+# 2. Data Scientists
+
+[Data scientists](https://www.greatlearning.in/pg-program-dsba) are among the most sought after professionals today as companies are investing heavily into big data. Big data is important to create consumer-centric solutions and enhance product/service performance. Hence companies are hiring data scientists to help them make more data-driven business decisions. Data professionals are in high demand now and the coming years are going to see more data scientists getting hired by top business companies. In keeping with this demand, data scientists can earn a base salary that is 36% higher than most professionals in the analytics industry.
+
+You can expect your salary to shoot up to new highs after becoming a subject matter expert or after acquiring multiple degrees in data science. Typically data scientists earn upto 7 lakhs/annum at the entry level and the number can go as high as 21–25 lakh/annum when you become a senior.
+
+* Entry Level: 5–7 lakh/annum\*
+* Mid Level:12–15 lakh/annum\*
+* Senior Level: 21–25 lakh/annum\*
+
+**Education:**
+
+* Bachelors degree in Computer science, mathematics, statistics
+* Data science certifications
+* Project experience in field of application
+
+**Skills:**
+
+* Programming skills
+* Data visualization
+* Machine Learning
+* Analytical skills
+
+# 3. Investment Banker
+
+Investment bankers work with financial organisations to raise capital through equity financing or debt management. It is a very demanding job since they need to work in a fast-paced environment where decisions can make or break the financial fate of the organisation. They also investigate the stakes involved and deal with them accordingly. Investment bankers are one of the best paid professionals in the country.
+
+* Entry Level: 9 lakhs/annum\*
+* Mid Level: 16 lakhs/annum\*
+* Senior Level: 25 lakhs/annum\*
+
+**Education:**
+
+* Bachelors degree in finance, economics, maths, business administration or related field
+* Masters in an area of specialization in related field
+
+**Skills:**
+
+* Analytical skills
+* In depth market knowledge
+* Excellent communication skills
+* leadership skills
+
+# 4. Software Engineers
+
+India has been rather infamous when it comes to the number of IT professionals it churns out every year. Yet, the market keeps absorbing an increasing number of software engineers each year. With international tech giants investing in the Indian market and outsourcing talent overseas like never before, the number keeps growing. Cities like Bangalore alone has seen a rapid rise in the employment of engineers in recent years.  
+International projects and a steady domestic market ensures that money keeps coming in this sector. Seasoned Engineers with 4–5 years of experience can expect anywhere between 10–12 lakhs.
+
+* Entry Level: 4–6 lakhs/annum\*
+* Mid Level: 10–15 lakhs/annum\*
+* Senior Level: 25–30 lakhs/annum\*
+
+**Education:**
+
+* Bachelors degree in computer science, computer system engineering, or software engineering
+
+**Skills:**
+
+* Software testing and debugging
+* Computer programming and coding
+* Problem solving and logical thinking
+* Software development
+
+# 5. Commercial Pilots
+
+One of the most glamorous professions worldwide, aviation is also quite well paying. Commercial pilots earn handsome remuneration, especially if they are employed by the top-most airlines. Since the job is quite physically taxing with long flying hours and travelling time, pilots need to physically fit all the time.
+
+* Salary: 16 lakhs/annum\*
+
+**Education**:
+
+* Bachelor’s degree in aircraft operations, aviation, aeronautical engineering, or a related field
+* They also need to take 1,500 total flight hours, including 40 hours of instrument flying
+
+**Skills:**
+
+* Excellent spatial awareness and coordination
+* Thorough understanding of aircraft mechanism
+* Mathematical and physics skills
+* Team coordination
+
+# 6. Chartered Accountant
+
+Chartered accountants handle finances for companies and organisations to ensure they stay profitable and tax compliant. It takes years for a CA to master all the aspects of the domain and become an expert. Quite naturally, an experienced CA gets paid a lot for his/her services.
+
+* Entry Level: 7 lakhs/annum\*
+* Mid Level: 15 lakhs/annum\*
+
+**Education:**
+
+* CA certification
+
+**Skills:**
+
+* General business interest and awareness
+* Strong analytical and problem-solving skills
+* Communication and interpersonal skills
+* Strong mathematical skills
+
+# 7. Artificial Intelligence Professionals
+
+The supply-demand gap for [artificial intelligence](https://www.greatlearning.in/pg-program-artificial-intelligence-course) professionals is incredibly high in India. Even now there are 2500 vacant AI positions that require skilled professionals and the steady rise of the applications of AI indicates the number is only going to increase in the coming future. However, a dearth of skilled AI professionals in the market has led to companies competing with each other to hire the best talent. Needless to say, AI experts are getting lucrative offers from all the leading companies along with a number of other benefits.
+
+AI professionals are chiefly responsible for enabling machines to have artificial intelligence. Their core tasks include understanding and creating AI algorithm, programming and more.
+
+* Mid Level: 17 lakh/annum\*
+* Senior Level: 26 lakh/annum\*
+
+**Education:**
+
+* Graduate in Mathematics, computer science, statistics, or related field
+* Certification in artificial intelligence courses
+
+**Skills:**
+
+* Programming skills
+* Analytical skills
+* Robotics
+* Statistical skills
+
+# 8. Marketing Professionals
+
+Marketing is core to any business strategy and the rapid digitization of marketing platforms is opening up new avenues. As such, companies are now looking to hire professionals who have hands-on knowledge of new marketing strategies.  
+If you have a knack for creative thinking and find brand building interesting, this might be a career path for you. Digital marketing is popular among students of marketing owing to its high demand in the market. An MBA or a [digital marketing course](https://www.greatlearning.in/pg-program-strategic-digital-marketing-course) can land you quite lucrative jobs.
+
+* Entry Level: 5–6 lakhs/annum\*
+* Mid Level: 8–10 lakhs/annum\*
+* Senior Level: 15–25 lakhs/annum\*
+
+**Education:**
+
+* Bachelors degree in business, marketing, advertising, communications, or other related fields
+* Certification in digital marketing courses
+
+**Skills:**
+
+* Interpersonal Communication skills
+* Creativity and imagination
+* IT skills
+* Influencing and negotiation skills
+* Market analysis
+
+# 9. Cyber Security Professionals
+
+All most all kinds of businesses have an online presence today and so it becomes important to protect their valuable digital assets. Since cybersecurity is indispensable to all kinds of businesses, there’s a growing demand for cybersecurity professionals. They ensure brands and businesses are secured against cyber threats and crimes. Recent reports show that cybersecurity experts can easily earn between 30–40 lakhs/annum.
+
+* Entry Level: 6 lakhs/annum\*
+* Mid Level: 10–12 lakhs/annum\*
+* Senior Level: 30 lakhs/ annum\*
+
+**Education:**
+
+* Graduate in Mathematics, computer science, statistics, or related field
+* Certification in cybersecurity course
+
+**Skills:**
+
+* Problem-Solving Skills
+* Technical aptitude
+* Analytical skills
+* Computer Forensics skills
+* Knowledge of Security across Various Platforms
+
+# 10. Machine Learning Professionals
+
+AI and ML have taken the modern world by storm by designing more personal solutions for consumers. Machine learning professionals are helping brands to take more data driven business decisions so that business risks are low.
+
+Experts in machine learning have proved to be valuable assets to companies and their demand keep rising each year. A certification or degree in machine learning can accelerate your career to exciting directions.
+
+* Entry Level: 5–7 lakhs/annum\*
+* Mid Level: 15 lakhs/annum\*
+* Senior Level: 22lakhs/annum\*
+
+**Education:**
+
+* Bachelor’s degree in computer science, artificial intelligence, or a related field.
+* Specialization in Machine Learning through certification courses
+
+**Skills:**
+
+* Computer Science knowledge and Programming
+* Probability and statistics
+* Software Engineering and System Design
+* Problem solving
+* Data analysis
+
+# 11. Full Stack Developers
+
+Full stack developers are responsible for overall web development and maintenance. Their ability to work on both the front end and the back-end functionalities of any application makes them particularly significant in the tech department of any company. Reports show that there has been a 20% spike in the demand of full-stack developers in India in recent times.  
+Startup companies seem to be employing more full stack developers as they need professionals who are responsible for product applications end-to-end. If you love coding and have commendable knowledge of Java, CSS, Python, RubyonRails and other coding languages, then you can expect high paying offers from both startups and top MNCs.
+
+* Entry Level: 5–6 lakhs/annum\*\*
+* Mid Level: 8–10 lakhs/annum\*\*
+* Senior Level: 10–12 lakhs/annum\*\*
+
+**Education:**
+
+* Bachelor’s degree in Mathematics, computer science, statistics, or related field
+* Proficiency with fundamental front end languages such as HTML, CSS and JavaScript
+
+**Skills:**
+
+* Front end and back end technology skills
+* Version control system
+* Coding skills
+* Cloud skills
+* Database skills
+
+# 12. Cloud Computing Professionals
+
+Indian cloud computing industry will be worth $4 billion dollars by 2020. Cloud software engineers, cloud architects, cloud infrastructure engineer etc are in high demand and it will continue to rise. There are more openings than qualified candidates for cloud computing in India at the moment. A degree in cloud computing can spike your salary by up to 60%. Seasoned experts can even earn upto 70 lakhs/annum.
+
+* Entry Level: 6–8 lakhs/annum\*\*
+* Mid Level:10–12 lakhs/annum\*\*
+* Senior Level: 30 lakhs/annum\*\*
+
+**Education:**
+
+* Bachelor’s degree in computer science, computer applications or a science stream
+* Certification through cloud computing courses
+
+**Skills:**
+
+* Programming skills
+* Database management skills
+* Linux skills
+* Artificial intelligence and machine learning knowledge
+* serverless architecture knowledge
+
+**A Little Practicality Hurts No One**
+
+While ideals, interest, skills and ambition may drive you to chase any particular career path, salary plays an important role when it comes to sustaining that path. With the cost of living rising by leaps and bounds every year, it’s only natural that money will be a key decisive factor for freshers and experienced professionals alike when it comes to taking up any role.
+
+Certifications and training will definitely help you move forward in your career, while passion and inner drive will lead you towards success. True passion along with self-discipline always pays off in the long run and sets you apart from the crowd.
+
+**Great Learning** offers extensive courses on all the leading domains to help professionals upskill and make the most of all the opportunities of the disruptive economy. Check out the free courses on [Great Learning Academy ](https://www.greatlearning.in/academy)below:
+
+**Marketing Foundations**  
+**Cloud Foundations**  
+**Introduction to R**  
+**Python for Machine Learning**  
+**Introduction to Digital Marketing** and more!",12 Highest Paying Jobs in India in 2020 | Top Paying Jobs in 2020,1600419543
+datascience,[removed],ML model deployment tutorial,1600386228
+datascience,"My main points of concern are 
+1. Getting a job in European countries, being a non EU candidate, and the post study work rights. 
+2. Australian colleges boast of a huge international student percentage, but I think most of their international students, like me are Asians, so that's not truly global.
+3. Quality of education in Europe is probably really amazing. I have no such insight on Australian education quality.
+4. Where will the post study work rights be more lenient?
+5. And finally,  where should I go? I want a decent balance between quality of education and ease of getting a job with a decent salary.
+
+Thank you so much humans!","Super confused about the location to choose for a Master's in Data Science. I'm considering Australia, and a few European countries (Germany, Sweden, Denmark, Netherlands).",1600383029
+datascience,"Hi redditors of r/datascience, 
+
+  I (18M) am currently studying A-Levels in Malaysia, having 4 subjects which are Math, Further Math, Chemistry and Physics.   
+
+  Many universities in the UK have introduced a new bachelors degree on Data Science, and require applicants to write a 'personal statement' on it. For the employers or professors out there, I would like to know what are you looking for in a 18 year old applicant that has interested in pursuing Data Science? Do my sports and co-curricular activities help in this area, or are you mainly only looking for interest in the field and mathematical knowledge?    
+
+  Any help is appreciated, thanks!",Applying for a Bachelors (need help!),1600382157
+datascience,"Excel Real Stats Regression Analysis help needed.
+
+https://drive.google.com/file/d/1yrDSO8phbZ0IGqWIsyAdjmtpu3GVOHJY/view?usp=sharing
+
+
+Using Excel w/ Real Stats add-in.
+
+
+I'm playing a marketing game for a class I'm taking and it's not really a part of the class, but I'm trying to do a bit of analytics.  I've been doing fine with other analytics I've been doing such as determining components within various brand of bikes (made up) create a higher judgement/reception of their brand.
+
+
+However, advertisements for the brands are also judged and I can't seem to get it right.  The original data is in the ""Ad Content"" and is based on the various subjects used in the ads (chosen in the game).  In the game you can choose as little as 1 up to 9 of the options seen in the Ad Contents, and then set their priority 1-9 with 1 being the highest priority 9 being the least priority.  In my dataset I used for the regression I reversed that as I'm using 0 for a baseline for un-used options, so 9 is highest priority and 1 is the least.  The professor mentioned if you put too many you may see a drop in ad judgement due to a 'too busy' ad, so that's in there as well in the last column (a count of non-zeros).
+
+
+Not looking for anyone to 'do it for me' but any help / advice would be appreciated.  But if anyone could provide me any non-excel examples of the analysis I'd appreciate that too even as just something to compare to.
+
+
+Also worth noting there are various different categories, Youth, Work, Recreational, Mountain, and Speed.  They all have different ad judgement scores as you can see in the spreadsheet.  I was trying to analyze the data set for each.",Needing help with some excel based regression analysis (using Real Stat),1600380673
+datascience,"I have never downloaded a csv from pandas and wanted `index=True` to be the default. Every time I open a csv that I downloaded it makes me irrationally angry to see that pesky index column show up. I always forget to change it, have to go back and add the argument, or then go delete the column manually. UGH!!! WHY is this the default? IMO, someone who wants to preserve the index for use will be more likely to go check the setting/remember to change it to `index=True` than someone who doesn't want it will be to change it to `index=False`. THIS IS SO FRUSTRATING!!!",Pandas DataFrame.to_csv index argument should default to False,1600378337
+datascience,"I'm introducing Dash to my current employer. So far, they are extremely impressed by the ability to make simulation models that can't be done (easily) with any existing BI tools. 
+
+Now I can make Dash dashboards/tools &amp; deploy them. Configure security, auth, etc. I'm wondering if anyone here uses Dash's enterprise solution and what exactly does your company get out of that instead of just handling it in house with the open source framework. 
+
+Any stories are helpful.",Does anyone use Dash by Plotly's Enterprise Solution?,1600375749
+datascience," 
+
+**Data science**\- a word that has been creating buzz for quite sometime now. In recent years, the amount of data that has been produced by several industries is beyond calculation. Therefore, the concept of **data science** is what helps these companies handle this massive data. This is where the **importance of data science** lies. **Data science** can be thought of as a collection of disciplines and areas of expertise in order to get thorough, detailed and meaningful insights from raw data. **Data science** professionals must be skilled in everything starting from mathematics to statistics to computer programming to advanced visualisation to be able to distinguish the muddled masses from the important information and extract only the vital bits to make innovations happen. There has been a consistent growth in the demand for data scientists in India as various organisations are adopting new technologies and learning the meaningful insights of data through these technologies has become a necessity. **Data science technology** has turned out to be a very attractive career option for both freshers and experienced working professionals as the demand for **data science jobs** in sectors such as information technology, telecom, manufacturing, financial services, retail, automobiles, etc. is indeed very high. Therefore, it is very clear how **data science** as a career is very fruitful and if that is what you are looking for then down below is a detailed analysis of that.
+
+# Benefits of a data science career
+
+A study conducted by a website recently revealed that there has been a notable increase in the **data science and analytics** domain with respect to job sectors in India in the recent years. This has led to the increase in the average salaries of these **data science jobs** and an increase in proportion of **data science** professionals, especially the experienced ones. When it comes to salary trends across various cities, Mumbai leads the chart of highest salaries with a whopping 15lakhs closely followed by Bangalore with a median salary of 14lakhs. The study also hinted that there has been a growth of about 14% in the salary range as compared to the previous year. So, it should be crystal clear by now that the **data science** career is of extreme value and pursuing **data science technology** as a career would really be beneficial. As companies across different sectors are using various data analysing tools to extract meaningful insights from raw data, it is most likely for the demand of **data science jobs** and professionals to increase in the near future. **Data science technology** is a new field and there is a lot of scope for this field to grow as the **importance of data science** will only increase rather than diminishing.
+
+# Sectors in India having an impact of data science
+
+There is one area of **data science** which has been evolving rapidly and has left its impact in various areas. The subject or field is of **Big data analytics**. There are mainly two big avenues (largely) in India where **big data analytics** can have its reach because these are the two areas that have faced a major growth in big data: Commercial and Government. While the commercial part of India is largely focusing on the volume of big data or the aspect that is often related to when it comes to **big data analytics,** the government part of India on the other hand is focusing on the mining of unstructured data, the main constituent of big data which is for refining, for the fulfillment of data gaps. The real purpose of **big data analytics** is combining the structured and unstructured data and making the inference between them in real time. The firms that are currently present in India are yet to merge them in the most appropriate fashion. However, the efforts are going on in full length in order to make this happen. For a country like India, where the good and timely data are not much available in abundance in a panel structure, **big data analytics** have really proven and will continue to prove to be helpful. **Big data analytics**, for example, can be used for developing infrastructure, generation of employment, in tracking public service projects and other such stuff real quick.
+
+Now, not just in the commercial sectors but there are also some other areas where **data science** is making revolutions silently and that is in the government areas. One of the major issues that is associated with the government is tracking of the projects in regular intervals for public health along with the monitoring of direct transfer of money as and when required to the poor people. This is where the **importance of data science** is as the government is putting in efforts to deal with these burning issues. **Big data analytics** can be used for checking the progress in the projects designed for the welfare of the society by analysing the satellite picture obtained to find out the truth. Also, tracking of the mobile phones and mapping the usage of them across the different districts will make it easier for figuring out the details of the benefit of the transfer. This mobile phone usage tracking is useful because this data is unstructured and therefore of major use for the government projects. Now, we shed some light on the commercial part of India. The **data science** applications are mainly found in banking sectors, finance departments and also **data science in e-commerce** has also shown a major progress. These sectors have realised the **importance of data science** as it is the only way to handle the humongous amount of data. The big companies such as Flipkart, Amazon have acknowledged the importance of **data science in e-commerce** and have utilised this technology. In this way, **data science technology** is emerging as the most sought after technology.
+
+# Making revolutions in Bangalore
+
+Slowly and steadily, Bangalore has shown its growth when it comes to technologies and the latest trends related to it and **data science** is no exception. This city has managed to become the IT centre first and then **data science** hub of India eventually. From the various startups to the already established **data science** companies opening their shops or having their outlets in Bangalore, the city has proved to be the home of various companies of IT industries. Given the fact that this whole thing of **data science** is relatively new and **data science and analytics** is at a very formative stage, startups are doing pretty great. Most of these startups are based on services so keeping that in mind, they are really doing a good job. However, if the companies are to be considered, they are a bit advanced and the lack of talent or expertise in this field is quite notable. There is definitely a lack of qualified people with appropriate skills in **data science** as the field covers a lot of areas. This is where the importance of a **data science course** comes in as to **learn data science,** you definitely need to do a **data science course**. There are many **data science programs** available in India and just enrolling yourself in one of them would be the first step towards the path to **learn data science**. Now, coming back, as IT firms were already present in Bangalore, this has definitely contributed to the influence of **data science** in the city. Also, the presence of different institutions that have worked as **learning sources**, has been responsible for this change because the fresh talent is what might have had an influence. One such institution is **Great Learning.** The **data science courses** in **Great Learning** have really gained popularity over time as the students who have been there have praised these **data science courses** a lot.
+
+# Top Companies hiring Data Science freshers in Bangalore
+
+There are many organisations and companies that are coming up with [**data science programs**](https://www.greatlearning.in/pg-program-dsba) and are giving the opportunities to freshers and experienced people by offering more **data science jobs** or positions. There are many job openings in Bangalore as well by top companies who are willing to recruit these **data science** professionals. Let us see some of them.
+
+***1. Senior Data Scientist for Volvo Group in Bangalore:***
+
+For this company, the **data scientist responsibilities** would include understanding of the business requirements, looking into the KPIs and would be required to convert them into a technical hypothesis in the form of a structured and logical pattern along with the identification of the solution. Working with stakeholders throughout their term of service in order to identify and figure out the suitable opportunities or methods by which the company data can be used for the betterment of the business will be one of the major **data scientist responsibilities** in this company.
+
+***2. Senior Data Scientist for Amazon in Bangalore:***
+
+Amazon is looking for a data scientist who will also be a Subject Matter Expert or SME. This is one of those **data scientist responsibilities** that require helping the customers with the design of machine learning solutions that will work for the profit of the AI stack of the company. The **data scientist responsibilities** will also include development of white papers, blogs, referenced implementations and making presentations to figure out the artificial intelligence patterns and designs and learn about the best practices.
+
+***3. Data scientist for Brontominds in Bangalore:***
+
+The aim of this company is to qualify as the leading company when it comes to **data science technology** or artificial intelligence or analytics or automation as a business partner or as an employer. When appointed as the data scientist, the candidate will have to design and interpret the previously mentioned unstructured big data sources and figure out how that can benefit the customers or in other words, generate the actionable insights and effective solutions for the enhancement of the products of the clients. In short, the **data scientist responsibilities** will mainly have to deal with understanding the needs of the customers and also figuring out the ways that will benefit both the customers and the company.
+
+***4. Data science specialist for TeamLease Digital in Bangalore:***
+
+TeamLease Digital is a company which is a part of the company TeamLease Services Limited. The goal of this company is to provide IT stalves in various industries across the globe. Data scientists here will have to deal with a large amount of data and should be also capable of generating numerous reports. Therefore, experience in writing of algorithms and automating manual tasks is of vital importance because that is often required in this company.
+
+***5. Machine learning and analytics professional for Careernet Consulting in Bangalore:***
+
+The hired individual or candidate for this company is asked to work for the clients associated with banking sectors. The candidate should be experienced in analysing the medium complex problems and should be efficient in converting them into analytical approaches.
+
+Hence, these are the major recruiting companies that are hiring candidates for **data science jobs** in Bangalore.
+
+**Conclusion**
+
+So, we have seen how **data science** is making revolutions and how companies are investing in hiring for **data science jobs**. However, in order to make yourself suitable for these jobs, you need to definitely do a **data science course** as there is no better way to **learn data science** and be qualified for these jobs. Among the several **data science programs** that are offered by various institutions, the [**data science courses**](https://www.greatlearning.in/pg-program-dsba) in **Great Learning** are really productive because these **data science courses** not only help you grow individually but their placement cells make sure that you get into one of these top companies. So, if your aim is to **learn data science** then **Great Learning** should be the destination.
+
+As it is seen, innovations are must for any field and the companies are just following that path in order to survive in this changing world of technology industry. The government as well as the private sectors are both putting in efforts to come up with **data science** based companies and the academic institutions in order to make this generation aware of this field. There is definitely still potential for growth for [**data science technology**](https://www.greatlearning.in/pg-program-dsba) but the future of **data science** definitely seems brilliant and magnificent.",Which are the Top Global MNC recruiters looking to hire skilled Data Science freshers in Bangalore?,1600371373
+datascience,"Just started learning python and making a shift to data science. Just wanted to know which are the other most important languages to learn. Also between java and javascript which one would you choose ?
+
+I dont want to be overwhelmed trying to learn too many of them and not being able to remember any of them",What are the top 5 must learn languages for a data analyst ?,1600370719
+datascience,"I currently work as a data analyst for the department of education at a big UC, and been applying to jobs since January (initially very lax, then started apply to lots in March), as I was told my current contract would not be extended. I've applied to a couple hundred jobs since then, and have had about 5 or 6 interviews, a few of which went beyond the phone screening, and one going to the final round. 
+
+Frankly, I don't know if I should bother applying to these jobs anymore. I feel very unwanted, as the number of applications I've been ghosted on increases by the day. I don't even know if I have the credential to compete with whoever is applying to these jobs. I have a B.S. in Math, took some grad classes, and have audited some grad ML classes, have published papers in educational research, etc.  
+
+What gives? Is everyone just hiring their best cousin, or old college friends?",Should I give up looking for Data Science/Analyst roles?,1600369467
+datascience,[removed],Methods for linking personal record data across multiple entities without creating personal accounts or using a searchable DB to find the person?,1600363744
+datascience,"Hi all,
+
+I have code written to perform forecasts and give graphs, but it's not packaged pretty as an application. I've tried PyInstaller, though I don't think I'm quite happy with the interface. Would be interesting to make a simple, minimalist GUI. I see words tossed around like Flask, are these optimal solutions? 
+
+&amp;#x200B;
+
+Ultimately, what I would like to do is place this on our server, then use task scheduler to open it, where it will then run its course and email out to intended people.
+
+&amp;#x200B;
+
+Thoughts?","New to development, need library help",1600361363
+datascience,"We (my teammates and I) use density based clusterization (DBSCAN) to categorise our database, so we have n clusters from old data.
+
+Every week/month we get more data to analyse, for now I'm clustering everything together to compare the development of our data and check if the category stays the same or the new data is at some previous cluster/category.
+
+Is there a way to just add new data to old clusterization and analyse if they are at the same category without needing to analyse all data together?
+
+PS.: I'm thinking in train a decision tree or something like that and use this to categorise the new data entry.",Comparing new and old data,1600361053
+datascience,,Open .ipynb files directly with terminal automatically (OS X),1600360189
+datascience,"I've been working as an analyst for 3 years, but 99% of the time in Excel
+
+I made some cool helpful tools in Excel that I use daily but I'm not sure it's something that will get me hired for a more technical job with SQL. My job is mostly about:
+
+- updating daily reports - Excel
+
+- making new reports (and new tools) basically stuff for BI - Excel
+
+- suggesting how we should change our pricing based on what I see in the data
+
+- commenting on trends, finding new hidden trends etc
+
+- business forecasting (manually - no ML, no stats...)
+
+- ad hoc consulting for sales (I make the decision on whether they should offer an RFP, for what price etc) + making decisions on yearly contract pricing and other strategic stuff
+
+I have a bit of tech background, so when I started in this position, I took all the manual reports my predecessors used to update manually (copy paste) and automated a large portion, either just in Excel or by VBA. I also made some very useful tools from scratch, again in Excel and VBA.
+
+Additionally, after I learnt Python, I made a few small projects but nothing huge. Now I'm trying to apply Power BI to make a few reports (for learning experience, since I'm already good with Excel I thought - fuck it - it's basically the same thing - so far so good).
+
+How should I approach making a portfolio, so I can get hired for a more technical job in the future?
+
+Besides Excel, I know SQL and learning basic BI tools like Power BI and Tableau, I'm also quite good with Python. But I'm just a beginner with ML and I have a business background, so I think I can't get hired for an ML job (full on data science) - I assume I'll have to go through a SQL data analyst job. But then, I don't know if I'll get hired for such with just Excel experience - doesn't matter that I'm pretty damn good in Excel/VBA - I don't think my hundreds of lines of code in VBA will impress anyone.
+
+Should I just forget about showing off my Excel projects and instead focus on making something cool in Python?
+
+My long term goal is eventually getting a job with ML, I also like data visualization a lot. I'm not very interested in pure software engineering (nor data engineering), I enjoy finding insights in data, making decisions, having to make my own tools to solve problems, so I think Data Science or Business Intelligence are good final destinations (maybe later move to management).","How would you approach making a portfolio for a data analyst job (= SQL, Excel, PowerBI ...)?",1600359844
+datascience,"I am a total beginner in data science and right now I am learning python from sentdex youtube channel but I want to know is there any website or GitHub repo that listed all the resources for learning data science like the Odin Project or any roadmaps, guides? My goal now is to participate in Kaggle",Is there any website like The Odin Project or FreeCodeCamp but for data science?,1600359396
+datascience,,Tidy Modeling with R,1600358448
+datascience,[removed],"Where to start from? Im about to start my master’s in data science but have some free time, what should i do to have leverage over university and job hunt?",1600357847
+datascience,,Tidy Modeling with R,1600356454
+datascience,"Hello,
+
+the question seems a bit moot, but I'm actually looking for 3 specific characteristics:
+
+1. Needs to interface with AWS Athena
+2. I need to be able to run customized queries using (presto) SQL and make visualizations based on those.
+3. Dashboards should have permissions so I can decide which users can or cannot see them.
+
+&amp;#x200B;
+
+Regarding point #2, I'll go a bit more in detail: I'm currently performing little data transformation in my ETL process, as I handle the T part at a later stage, during data retrieval.
+
+Therefore, a simple drag and drop interface is not enough for me, I need to be able to run custom queries in order to filter out specific data that I don't want or need, or transform it in a way that is readable.
+
+E.G: since I'm using AWS Athena, and my data is stored in parquet format, some columns contain semi-structured data, such as maps or arrays of variable length. Therefore, I need to be able to use Presto SQL to parse such data and transform it so that I can visualize it.
+
+I'm currently using Redash, but sadly it doesn't support user permission on dashboard, which means that any user that has access to a specific data source can see all dashboards that connect to that data source.
+
+Advice?","Looking for BI platform to share customized, private dashboards to different clients. What do you suggest?",1600354228
+datascience,[removed],"Im about to start my master’s in data science but currently free, what should i be focusing on to make sure I’ll be ready for upcoming classes and job?",1600354058
+datascience,"Hi redditors of r/datascience, 
+
+  I (18M) am currently studying A-Levels in Malaysia, having 4 subjects which are Math, Further Math, Chemistry and Physics.   
+
+
+  Many universities in the UK have introduced a new bachelors degree on Data Science, and require applicants to write a 'personal statement' on it. For the employers or professors out there, I would like to know what are you looking for in a 18 year old applicant that has interested in pursuing Data Science? Do my sports and co-curricular activities help in this area, or are you mainly only looking for knowledge in the field and mathematical knowledge?    
+
+
+  Any help is appreciated, thanks!",Applying for a Bachelors in Data Science,1600353121
+datascience," 
+
+In the past few years, we have witnessed a constant and major growth in the production of data. Therefore, it would not be wrong to say that data rules our world today. The amount of data that is being produced on a daily basis is beyond anyone’s imagination all because of the growth of social media, smartphones, and the internet of things or IoT. Now, the question that arises is how are we going to handle such data? Or, what are we going to make of it? The answer is data science. To put it simply, data science technology is the amalgamation of mathematics, statistics, data analysis and machine learning which uses advanced algorithms and scientific methods in order to get meaningful information and insights from a large dataset both in the form of structured and unstructured data. With the invention of concepts like big data and machine learning, data science technology has now become an integral part of various industries like business, healthcare, finance, education, and so on. Since, data science has made its way everywhere in the world, it is only natural that data science jobs will also be in high demand. Big data engineers, data scientists and machine learning engineers are often regarded as the most sought after data science jobs or jobs, in general, in today’s world. Data science jobs are experiencing a massive surge all across the globe and India is no exception. The scope for data science technology and the need for the IT professionals to upgrade their skills is also increasing. So, without further ado, let us see how data science is having an impact and how data science technology is making a revolution in the job sectors of India.
+
+# Scope Of Data Science in Future
+
+Saying that data science has brought about the fourth industrial revolution in the world would not be wrong. There have been major revolutions that have transformed the face of the industries around the world. Top tech companies and many startups in India have been hiring well-trained data science experts. Data scientist responsibilities are that of taking solution based decisions and for business initiatives. So, it is very clear that the future of data science in India is indeed very positive. Data science technology has caused rapid growth in industries and minimised the losses previously suffered. This has led to the increase in the demand for data scientist jobs and thus, have a good data science career.
+
+Major companies have shifted their base from the same old traditional development to the new and advanced data science technology. In order to handle data scientist responsibilities, you must be efficient in certain fields like mathematics, statistics and computer science to name a few. Now, to learn data science is not an easy job and because data science training is relatively new and difficult, the number of data scientists are less in number which leads to thousands of job vacancies in India. Although India is only second, right behind the United States of America, when it comes to offering data science jobs, the data science technology field is a relatively new one and there are only a few people with the right expertise in this subject. The future of data science looks very promising because the applications of data science are way too many. Starting from the organisations in banking to healthcare to biotechnology to pharmaceuticals to automobile industry to data science in e-commerce, the revolutions are happening everywhere. When it comes to the cities making data science technology their ground for the growth of the IT industry, Bengaluru is recorded to have the highest number of data science and analytics jobs which is almost 27% of the total jobs closely followed by Delhi and Mumbai. The lack of supply in data scientist jobs or candidates with appropriate skills has led to rise in need of these data science jobs. So, the companies that want to maximize their profits, analyse the customer needs and make their companies better are desperately looking for data scientists or data science experts in general. The data science training programs are efficient but difficult as expertise in not just few but many areas is required which becomes a difficult task for many.
+
+# Payscale for Data Scientists
+
+As stated earlier, there is a notable amount of gap between the demand and supply of data scientists in India which is contributed by the lack of data scientists or qualities and increase in data scientist jobs in the industries in India. Moreover, this has resulted in a steep increase in the salary of data scientists. Data scientist jobs, reportedly, offer more salary as compared to its contemporary IT jobs. A data scientist in India, on an average, earns about ₹650,000 per annum which is much higher than the average software engineers who earn approximately ₹450,000 per annum. This is an average estimate but with experience in the industry, the payscale also increases. For example, a professional with an experience of 5 years might earn upto 15lakhs per annum and a person with 10 years of experience might earn upto 20lakhs per annum. Therefore, the data science career is very lucrative and the future of data science is definitely a bright one when it comes to salaries.
+
+# Replacing Traditional Ways
+
+Conventional IT jobs such as software development, testing, IT administrators, database managers, engineers have been dominating over the technology industry for decades now. However with the introduction of data science programs, the focus of this industry has shifted towards discovering new areas of applications of data science such as artificial intelligence and advancement in automation and thus reducing the human efforts and relying more on the machines. The data science jobs tend to replace the existing traditional IT jobs or at least their way of working. This has led to the working professionals upgrading their own skills and learning data science in order to keep pace with the growth of the industry. In order to keep themselves updated and meet the needs and demands of the technology industry, the employees are required to be well aware of data science technology and be well versed with all the latest data science programs that are happening across the globe. Not just the data scientists but there are other areas related to data science for job roles such as data architects, big data engineers and managers, data science and analytics that also promise to facilitate a fruitful data science career. If there is this much of demand just for data scientist jobs then the demand for all the above mentioned jobs combined is beyond imagination. So, making yourself acquainted with the data science programs in this era has become very important even if you are just a job aspirant as the demand for data science jobs is more than ever. In this situation, [**data science courses**](https://www.greatlearning.in/pg-program-dsba) are what help the most as those are the only way to learn data science and keep yourself updated with the latest trends. There is an online institution that offers the best data science courses that there is in India and that is Great Learning. Great Learning online courses are very efficient. Therefore, in India, the data science career can be thought of as a new milestone or a new direction in the technology industry for people to have long term benefits. It is very clear that the future of data science is very promising.
+
+# Taking advantage of the Scope of Data Science
+
+According to several surveys conducted by different organisations, there have been many revelations related to data science technology. One area in which there has been enough said and many points have been made is the area that focuses on adapting yourself to these changes and learning the tips or ways in which you can prepare yourself for a data science career. Some of those points are listed below.
+
+**1. Doing internships is the right path:**
+
+While pursuing your graduation or any other equivalent degree course, make yourself known about the internships that the IT companies offer or the entry level data science jobs. The more you involve yourself with these internships, the more experience you gain and there is really no better way to learn data science and the fields associated with it than by gaining experience while working for data science jobs. These internships also serve as platforms for networking and also for you to find mentors who will guide you for the jobs in this field.
+
+**2. Efficiency in any programming language:**
+
+As we have seen earlier, data science involves everything starting from mathematics to statistics to computer programming. So, it is natural that programming languages will also be an integral part of data science programs. Programming languages such as Python, R, SQL, etc. are what form the base of the technology. So, having an in-depth knowledge of at least one or more of these programming languages will be definitely advised as this will help in your data science jobs. Several data science courses facilitate the teaching of these programming languages. There are data science training programs in Great Learning which specialises in teaching Python and SQL languages through the Great Learning online courses. So, even if you are from a non programming background, signing up for these data science courses would be helpful.
+
+**3. Need for the working professionals to up their games:**
+
+This surge in demand for data science jobs has led to a rise in the number of both the working professionals as well as students opting for a data science career. The students or job aspirants as well as the individuals already associated with other fields are all going for data science courses be it from institutions or online sources in order to upgrade their skills. More than half of the people prefer online institutions in order to learn data science. Great Learning is an online institution which is a great platform for doing a data science course. The Great Learning online courses are really productive.
+
+Hence, we are now well aware of the scope of data science technology and applications of data science in various fields that automatically have an impact on the future of the world as well as our careers. But we have also seen the ways in which we can make this technology a part of our lives and adapt ourselves to this change.
+
+# Conclusion
+
+In the year 2018, an estimation of 2.9 million data science job vacancies were reported in a survey. The demand for [**data science**](https://www.greatlearning.in/pg-program-dsba) jobs has shot up majorly and there seems to be no way that it will decrease or even go down a bit in near future because the requirement will grow and not cease. The revolutions that data science is making in job sectors in India is real and huge and it is time to acknowledge that and act on it accordingly. Companies like Flipkart, Amazon, Netflix have huge openings for the data science jobs. India has always been a centre for IT hub and it is experiencing a data explosion for the past few years.
+
+We have discussed all the essential factors that are contributing to the growth of data science technology in India. We have also overviewed how India is experiencing a massive increase in the number of data science jobs and how this need has led to more desperate efforts for finding data scientists with appropriate skill sets as the companies are always looking for them in order to take all the profit making business decisions for the respective companies. We also went through how this demand has led to attracting huge salaries for data scientist jobs as compared to other IT jobs. All of these factors should be enough motivation for one to take up a data science career. As the future of data science is nothing but bright and brilliant, taking up data science courses are just the right way to go.[ **Great Learning online** ](https://www.greatlearning.in/)courses are always there for such occasions as this institution understands the need for this subject and prepares its students in such a way that they become self-sufficient and worthy and have a guaranteed data science career.",How data science is making a revolution in India’s Job Sector?,1600351923
+datascience,"Hi Folks,  
+Most people are shifting their careers into Data Science. They put their time and money to learn Data science concepts. But most of them stuck in the last step that is- Interview.  
+So if you are the one who is struggling to clear the Data Science Interview, then you should read this article and follow these tips-https://www.mltut.com/how-to-crack-the-data-science-interview/  
+I hope these tips will help you to crack your first Data Science Interview.  
+All the Best!  
+Happy Learning!",How to Crack Data Science Interview?,1600350683
+datascience,"I’m working on a project at my company where we want to extract data from a bunch of leasing contracts. 
+
+We’ve had a couple of vendors in the ”ML/AI Driven Data Extraction” space explain why we should pick them for the job.
+
+My question is - how hard is it really to create a program that will succesfully scrape data from PDFs? 
+
+I have a degree in a data analytics and feel like I could perhaps have a shot at this myself, i.e. build a program that uses Regex and some other modules to extract the data points that we’re looking for.
+
+What’s your take?",”ML to extract data” - Is it really that advanced?,1600350372
+datascience,"Howdy All,
+
+I have a background in teaching math and computer science.  I need to refresh some linear algebra, calc 3 and stats.  I have a BA in Poly Sci and Masters in Math Ed, though I did some undergraduate courses in physics and sciences as well as math and cs.  
+
+Wondering if a bootcamp in datascience is a good idea, or take more time and do a masters.  The masters courses tend to seem interesting as I can explore data engineering, AI/ML, analytics.  
+
+I am taking a year or so off from work to learn up in a new career.  I enjoy python and sql.  I really dont have any interest in corporate America, but want to learn some intellectually stimulating tech and see if I can get a job connected to astronomy or something similar.  
+
+If I had to do it all over I'd be doing astrophysics, but I am 36 and ¯\\\_(ツ)\_/¯.
+
+TIA.",Changing careers to Data Science,1600349181
+datascience,So the server at my uni in Italy only has 8GB of VRAM on the Nvidia card. Anyone knows where is the cheapest we could get an upgrade to 24GB or even higher VRAM (that can be shipped to Italy)? These Nvidia cards seems to be really expensive.,Cheapest place to buy GPU Nvidia card,1600348435
+datascience,"Do you start from a theoretical/mathematical basis and then implement it computationally? Do you take an existing algorithm and tweak it?
+
+And does this type of work exist primarily in academia/research labs? Or do data scientists in industry commonly create novel algorithms?",How does algorithm development work?,1600348300
+datascience,"Hi everyone, I want your suggestion.
+
+So, I work as a Data Scientist in a Start-up and it is my first company and I have been working here for more than 1+year.
+
+The problem is that the team is relatively small and I'm the only data scientist. In 1-2 years I may be promoted to a senior position but I'm not sure if I'll be able to manage any team because till now I have zero experience in that area.
+
+So, what would be a piece of advice you would give me because I'm feeling hopeless?",Suggestions Needed,1600345925
+datascience,"Hi r/datascience peeps.
+
+I've been trying to think about this, but can't seem to figure out the optimal way to do it. I have LC-MS metabolomics data to mess around with and I built a DNN with feature importance calculation to go with it. My issue is that there's gender differences in the way metabolites are produced. What would be the best way to take that into account? I tried putting gender as just one of the columns into my data (as either 0 or 1), but it doesn't seem to rise as important of a feature as I think it should so I think that's a bust. Any tips, tricks or ideas would be welcome. Should I just give up trying to build it in and run both genders separately?",Best way to account for gender differences in metabolomics DNNs?,1600342613
+datascience,,Europe GDP Ranking | TOP 10 Country from 1970 to 2018,1600340372
+datascience,[removed],Interested to hear from those that leverage their knowledge/experience to source additional revenue streams.,1600340238
+datascience,"I’m in the digital marketing field but would love to learn more about data science/analytics to help with digital marketing, however I feel the data science out there is too in depth whereby you’ll need programming languages to get data. Is it necessary for a digital marketer to know in-depth data science compared to just knowing how to analyze and present data? Any advice experienced data scientist and digital marketers out there?",Data Science or Digital Marketing? Can you be a hybrid of both? Any opinions?,1600338388

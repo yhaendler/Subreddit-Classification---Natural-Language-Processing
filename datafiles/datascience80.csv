@@ -1,0 +1,189 @@
+subreddit,selftext,title,created_utc
+datascience,[removed],Want to learn data science? Dataquest experience,1612478367
+datascience,[removed],"Choosing Between Industry, National Laboratory, Startup",1612477499
+datascience,[removed],"As someone looking into entering data science, are data scientists interviews similar to software engineer (algorithmic and system design rounds) and then followed by data science interviews?",1612475645
+datascience,What is your biggest pain point with Jupyter Notebooks?,Jupyter Notebooks,1612471968
+datascience,[removed],Zoom interview attire?,1612471176
+datascience,[removed],Super Bowl Twitter Fun Analysis,1612468330
+datascience,[removed],Not getting interviews after many submissions,1612460663
+datascience,"Hello, I’m a currently a sophomore undergrad majoring in statistics. I’ve only really done “statistical” programming in python and R, mainly done data analysis/cleaning and sklearn/tidymodels model fitting in a notebook or rmarkdown. And some basic dashboarding in streamlit. My plan is to get a MS in applied statistics and then work in Data Science. My major kind of aligns along the classical statistician type of background, which I’m okay with because I wanted a strong math background for a career in DS cause that’s what I THOUGHT was important. But I’ve come to realize that it’s a lot less important than software dev/cs skills. 
+
+, I said to myself that I wasn’t going to complain about this because I thought that I would just try and learn data structures/algs and relevant cs topics to at least have some sort of software skills. But in doing so I’ve realized that I’m going to end up wasting my stats degree and never going to use it in industry.
+
+Everywhere I’ve read about jobs in DS it’s that you need 75% software skills related to productionising and maybe 25% of statistical knowledge. These aren’t hard facts but basically from what I’ve read stats and math knowledge is not as useful as cs/software dev skills.
+
+I’m just worried I’m going to go through all this schooling only to compete with software developers, and then learn all these various software tools only to become a software dev with a rigorous stats background and a “Data scientist” title when I’m not even doing any sort of statistical work, and my stats background will be a waste of money/time.
+
+I want to be close to Machine Learning/statistical learning and building models, but it just seems like these software skills related to data eng/production tools are going to overshadow any statistical knowledge I have gained through my degree, thus making my degree a waste since I will be using maybe 5% of it.
+
+I’m rambling here, but could any data scientists in industry here with an applied stats/stats background shed light on if their degree is really used in data science industry. And really how much statistical knowledge u actually get to apply relative to software dev knowledge? And if u felt like the degree was a waste compared to if you got a CS degree? 
+
+It just seems like industry doesn’t actually care if you have stat/ML knowledge but more so if you can use software skills.",Worried that my degree will be useless,1612460076
+datascience,[deleted],Interesting question in a application form.,1612458768
+datascience,,You can use GPT-3 to automate writing SQL,1612457563
+datascience,[removed],Automatically Reducing AI Bias With Synthetic Data,1612456909
+datascience,[removed],Data Science Bootcamp Meet n Greet,1612455690
+datascience,,2021 Will Be the Year of Enterprise Machine Learning,1612455199
+datascience,[removed],Programmatic sales funnel tracking,1612454371
+datascience,[deleted],internship rejection/offer timeline,1612454190
+datascience,[removed],How to scrape product data on supplier websites?,1612452341
+datascience,[removed],Looking for some help (Company Search Engine),1612450610
+datascience,"Hello,
+
+A new project has started at my job that requires me and 2 other data scientist to work together. We are working more in parallel because a lot needs to get done in a short period of time. I want to use this opportunity to make sure we work cohesively for two reasons. One, make sure we deliver the best possible project given the time constraint and Two to get some managing experience. I hope one day to become a technical lead. All this being said what has worked for you guys in the past? Right now I have all the high level steps written down in a Onenote, essentially it can be split in to 3 parts and then substeps in each part. I plan on adding our code there, as I have gotten lost with my own code in the past and not been able to replicate results. Each high level step has a date for accomplishment and an assignee, I'm planning on adding more of my procedure as I go along ( adding substeps) but I'm not sure if my collaborators will want to do that, so I might have to do it for them.  
+
+
+Thanks in advance for the help",Recommendation for properly documenting collaboration projects,1612450470
+datascience,"I keep reading that the lines are blurred with the three roles because each company has differing needs. I'm my company's data scientist/data engineer and head of analytics... and I have a data analyst reporting to me. 
+
+Given that, I do dashboarding, lite machine learning, ELT and database development, etc. Very much a generalist with a focus on analytics and reporting rather than ML.
+
+However, this is probably more the norm, correct? Curious what this sub's experience is in defining their roles/identities.","How many of you are hybrids of data analyst, data scientist, and data engineer?",1612449890
+datascience,,"Top 10 Analytics and BI Software Vendors, Market Size and Market Forecast 2019-2024",1612449433
+datascience,,Retraining Machine Learning Model Approaches,1612447108
+datascience,,The full GOTO Book Club episode with Phil Winder and Rebecca Nugent on how to leverage reinforcement learning,1612445239
+datascience,[removed],My new job as a Software Developer and Data Scientist,1612443664
+datascience,[removed],Looking for datasets for my interactive web app whose goal is presenting scientific/political/etc topics objectively,1612442275
+datascience,[removed],Looking forward to get started with Data Science!,1612441753
+datascience,[removed],Do I really need a masters ?,1612440166
+datascience,[removed],Scraped data open access,1612436338
+datascience,[removed],Starting Datascience with Python Soon...,1612431116
+datascience,[removed],"Been looking for jobs for the past 6 months, with no luck. Thinking of applying for Data Analyst positions. Please give me feedback on my profile",1612425111
+datascience,,Latest from KDnuggets: Find code implementation for any AI/ML paper using this new chrome extension,1612424534
+datascience,[removed],Carrer advice to go from DA to DS,1612422164
+datascience,,Where do I go as a sophomore trying to break into data science?,1612422045
+datascience,[removed],"Been looking for j0bs for the past 6 months, with no luck. Thinking of applying for Data Analyst positions. Please give me feedback on my profile",1612419311
+datascience,[removed],Please suggest me for Data Science certification training. What is the best online platform for this training?,1612418337
+datascience,[removed],Data Science Video making (tutorials),1612417603
+datascience,[removed],Need recommendation for quantitative research organization to do media content analysis in USA,1612413810
+datascience,,Find Equation Parameters by optimization,1612411530
+datascience,,Can anyone please tell me about a Good course to learn big data and practice python at the same time? Any coursera or udemy course?,1612410404
+datascience,[removed],"I am 22 years old, currently studying bachelor in philosophy. I think i can devote my life to data analysis.",1612408413
+datascience,[removed],Clustering together words that appear together while weighting down words that appear too often,1612408130
+datascience,[deleted],How to increase my python skills under limited time period?,1612407340
+datascience,I am referring to those take home case study assignments. Do you usually do them? What is your pain limit (e.g. in hours)?,How common are assignments in interviews for _senior_ data scientist positions?,1612403751
+datascience,[removed],Unpopular opinion - conda is overrated,1612402866
+datascience,,ICIJ nominated for Nobel Peace Prize for combating dark money flows,1612401827
+datascience,[removed],"I'm applying for a Masters in Data Science, should I mention the online courses I'm currently studying in my personal statement?",1612400176
+datascience,[removed],Recommendation about Thesis,1612399559
+datascience,[removed],Show r/datascience: Edit a spreadsheet to generate Python code,1612399415
+datascience,[removed],"A stream data processing library with support for kafka, redis, sqs, Google Pub/Sub, and HTTP calls",1612397283
+datascience,,A technical manifesto on utilizing blockchain to power up local shopping. It starts with a blockchain cash register.,1612393906
+datascience,"Hello everyone,
+
+I am pretty new to data sciences and I have a fairly specific need, even if I am not sure this is the right place for this request :
+
+As part of my job, I am looking for a tool that could analyze data in a database and generate quality indicators corresponding to management rules.
+
+The main objective is to enter into a process of improving the quality of the data thanks to these indicators.
+
+Do you know any existing tools allowing this kind of process?",Data quality assessment tool,1612387148
+datascience,[removed],NSF I-Corps Customer Discovery Interviews,1612386062
+datascience,"Essentially, I'm trying to understand what SKUs my company offers are similar based upon people's browsing patterns (i.e. people that look at this SKU also view another SKU). How would you go about structuring this data and calculating related SKUs by browsing habits? 
+
+&amp;#x200B;
+
+For some context, I have already built a similarity engine based on SKU performance but this does not incorporate intra and inter session browsing. This other model I built essentially just takes a few historical performance metrics and calculates their normalized Manhattan distance. 
+
+&amp;#x200B;
+
+Any advice you can offer is appreciated! I've already played around with the 'arules' package in R and the outputs didn't seem to be too helpful.",I need to build a cluster model on top of some market basket analysis and would like your input on formatting data and approach.,1612385228
+datascience,[removed],pymc3 custom likelihood?,1612382692
+datascience," I came across a post a few days ago, and I am kicking myself in the rear because it linked to a webpage that had a comprehensive breakdown of many programming/modelling functions associated with DS.
+
+I am also realizing that information is scattered everywhere and it changes quickly.....moderators/fellow posters, would you all be inclined to put in some effort along with me in structuring some good [r/datascience](https://www.reddit.com/r/datascience/) content. I'm thinking
+
+\- sourcing the best flow charts / cheat sheets etc.
+
+\- listing websites that include a variety of different links on technical topics and related information
+
+\- developing a starting point where users can see where they are (beginner/advanced/expert) and seeing topics/content that relate to those tiers of knowledge in DS
+
+You in?",Data Science sticky for this sub? (beginner/advanced/expert)?,1612381985
+datascience,,Referral for data science intern role in finance? How much help is it realistically?,1612381886
+datascience,[removed],"What is the job market like these days for a general forecaster/ time series analyst? Is that a sought after, in demand skill set?",1612380571
+datascience,[removed],Can we get a sticky of high quality content / links / repository etc here?,1612379431
+datascience,[removed],Please suggest me some good capstone projects.,1612379117
+datascience,[removed],Looking for Feedback on my Instructions to install Apple's TensorFlow on ARM/Intel Macs,1612375837
+datascience,[removed],Why just choose ETL when you can have Datameer Spectrum ETL++?,1612373085
+datascience,,"Got a Graduate Data Scientist interview, terrified",1612372838
+datascience,,Best Paid Course,1612371316
+datascience,[removed],Data Science Interview,1612370301
+datascience,"Projects always start well, with a flat file and a few jupyter notebooks. However I find any ML/DS work to get extremely messy as the project grows:
+
+* lots of random poor annotated notebooks
+* many variations of models
+* many variations of datasets
+* hard to share knowledge with the team
+* hard to track what has been done and its outcome
+* etc
+
+I still have not found a solution to ""ML Ops"" style of challenges, I would love to hear what this group uses to address all of these issues!
+
+Thanks!",How to organise large machine learning projects.,1612370027
+datascience,"I was chatting with someone here in the sub about LinkedIn, and it made me realize something that I don't think gets discussed in enough detail when talking about job searches: ""networking"".
+
+Most people will (correctly) tell you that networking is the best way to find a job. What most people don't tell you is that not all networking is the same, and not all networking is useful.
+
+For example, I've had at least 1 or 2 fresh grads send me connection requests on LinkedIn asking me for a job for the last like 4 years. Most of the time I'm nice, I accept their request and tell them I unfortunately can't help them.
+
+Technically speaking, these people have ""grown"" their network. Practically speaking, they have not *because there is no actual relationship there*. That is, unless you can create a point of contact *and then use it to create a relationship*, then that is not a real connection. 
+
+So going on LinkedIn and shooting off random connection requests to a bunch of people you don't know and then asking them for jobs isn't going to help you. It's like a 0.001% chance of it having any impact in your job search.
+
+Let's pause for a second and touch on an important topic while we're here: what is the goal of networking when you're looking for a job? It's not ""to get a job"". I want to make this clear: a connection isn't likely going to get you a job. They aren't even likely to get you an interview. The only thing that you should be expecting from a connection is that instead of your resume comingling with the 100s or 1000s of resumes submitted for a role you're interested in, that your resume will be almost surely one of the ones that gets looked at closely. That's it. After that, it's all you - you need to make sure your resume is spectacular, you need to interview well, etc. 
+
+Yes, every once in a while you'll hit a home run and have someone in your network that is literally the hiring manager for a role you want (or has a real close relationship with someone in your network) and then you may be able to jump to the front of the line and go straight to an interview. But that is extremely rare.
+
+Ok back to the original question: how do you network? I would say there are three things you need to focus on:
+
+1. Strengthening/exploring your existing network of real connections (not fake social media ones): family, friends, classmates, professors, etc. People that you actually know and who, in turn, would have at least some predisposition to do nice things for you if you asked them to. If you're in the job market, the first thing you should do is reach out to people in this bubble that may have connections to the industry - and even if you don't think they do, ask. 
+2. Finding 2nd degree connections on LinkedIn and having your common connection broker a conversation *that has a purpose*. A 2nd degree connection on LinkedIn is someone who shares a connection with you. So, say you're interested in a job at Company X, and you find that your college roommate is connected to Anne, a recruiter for Company X. You then ask your roommate ""hey, do you know Anne personally? If so, would you mind introducing me to her - I am very interested in their company and would like to see if I could be a good fit for a specific role they have. Also, if you can say some nice things about me that would be cool"". Or if you find a Data Analyst in a company you're interested in that is a common connection with a guy you had a class with, same thing ""Hey Bob, I see that Janet works at a company I'm interested in. If you know her personally, would you be willing to broker a conversation between the two of us? I'd like to get her opinion on whether I am qualified for X job at her company"".
+3. Connecting with people with whom you share common interests that are somewhat specific. Say you like building models for fantasy football. There is a community out there of such people, and given that you already have something in common it is very reasonable to say something like ""hey, I see you too like fantasy football analytics. I have been working on this model that does x, y, z and could really use some feedback - and it looks like you've done similar stuff in the past"". If I am this other person, I am 10X more likely to reply to that and engage than I am to ""will you be my connection? I need a job"".",Networking - it's not just LinkedIn connections,1612368867
+datascience,[removed],"Anyone with a mechanical engineering background, that has found data science to help them with their work and their career?",1612367819
+datascience,[removed],"Those working in retail, how do you manage building a demand forecast model? and What is reasonable metrics you use?",1612367718
+datascience,,"Recommendations to get hired for DS consulting work, other than Upwork and Freelancer",1612367228
+datascience,[removed],Preparing data for recommender systems?,1612364356
+datascience,[removed],"I am 22 years old, currently studying bachelor in philosophy. I think i can devote my life to data analysis.",1612363221
+datascience,[removed],Best way for computer science student to build data career?,1612363195
+datascience,[removed],Finance and Data Science,1612363151
+datascience,[removed],Spectate versus Google -- Sequential vs Indexed,1612361370
+datascience,[deleted],"I’m so happy to present my little SHINY baby to you. Crypt offers a simple ‘how do I do this in…?’ for R,Python and Postgresql users. Please keep in mind this covers the basic data wrangling tasks. Sure there are many ways to get things done but for now let’s start with Crypt :-)",1612360481
+datascience,[removed],"My explanation of Convolutions and Convolutional Neural Networks (CNNs) with a quick history of CNNs, and finish up with my favorite (most interesting) SOTA CNN architecture: DenseNet",1612358411
+datascience,"So I'm in a situation where I'm fairly early on in my career but at my current position I'm the most knowledgeable person with all things data science and programming. I have a relevant master's degree but I want to keep learning and keep up with trends. I know the first thing everyone here would tell me is to find a new job but short of that, are there any reputable boot camps or certificates I could be looking at? My company would likely be willing to foot the cost of this. I'm not really the best when it comes to online learning without an instructor so something with an instructor would be preferred",Continuing education,1612358077
+datascience,"I went through a lot of blogs, stack overflows, etc.
+
+But could not figure out the best way to handle extreme values/rarity/outliers that are present in the target variable.
+
+If it was classification problem, I could've tried Stratified shuffle split, or even use smote to balance the weights of classes.
+
+But balancing weights of the target variables in regression has yet to be explored.
+
+So far I've come across Smogn, but it's still in development stage, and the results are not good for my case, as I've 400+ time series for 400+ products.
+
+How could one solve such problems, where the target variable is positively skewed for most of the products?",What are some of the ways to deal with outliers/extreme values in time series forecasting,1612357617
+datascience,,8 Skills Required To Become A Data Scientist,1612357424
+datascience,[removed],What job position would this be?,1612356989
+datascience,,Understanding Core Data Science Algorithms: k-means and k-medoids clustering,1612356819
+datascience,,"Run your MySQL, PostgreSQL, SQLite3 (and other!) queries and plot their graphs in the Jupyter notebook",1612355926
+datascience,[removed],Help on stock market,1612355097
+datascience,[removed],Azure Data Scientist Vs Data Engineer Courses,1612352792
+datascience,[removed],Advice for post undergrad with applied maths degree looking into data science domain,1612352470
+datascience,[removed],Unpopular opinion - conda is overrated,1612344185
+datascience,[removed],What data related issues have you faced when working with very long time series data sets?,1612343924
+datascience,[deleted],Data Analyst Internship,1612338049
+datascience,[removed],Entering Field,1612333399
+datascience,[removed],"Making graphs ""interactive"" in R",1612330428
+datascience,,Extract Prominent Colors from an Image Using Machine Learning,1612328307
+datascience,[removed],Installing Anaconda Individual Edition,1612325409
+datascience,[removed],"When They Call you ""Data Scientist"" but you know better",1612325385
+datascience,[removed],DATA SCIENCE LEARNING PATH,1612320848
+datascience,"I will be working on forecasting financial time-series data. I've looked at Prophet so far and it seems to be a decent package over traditional forecasting models like ARIMA, regression, and other smoothing models. Are there other forecasting packages out there comparable to Prophet or potentially even better?
+
+I know RNN-LSTMs might be another avenue but might be less useful if non-technical people will have to interact closely with the model (something Prophet excels at).",Financial time-series data forecasting - any other tools besides Prophet?,1612317278
+datascience,,"If you use python/pandasfor EDA, I released an open-source GUI for organizing python scripts into a data viz dashboard",1612317228
+datascience,[removed],Looking to transition to a Data Analyst from Staff Accountant. Has anyone done the same or have any tips?,1612314415
+datascience,,Data science -&gt; analytics,1612313121
+datascience,,"HORA EN VIVO: 21.30 horas (GTM-3) estaremos brindando una clase abierta sobre: 📊 Aplicación competitiva de múltiples modelos predictivos a un caso de la industria financiera. 🆗 ¿Queres formar parte de la Clase abierta? 😁 Es muy fácil, INGRESA AL LINK",1612312990
+datascience,,Looking for some clarification about DevOps for personal projects,1612306601
+datascience,[removed],Best open source replacement for Redshift,1612306444
