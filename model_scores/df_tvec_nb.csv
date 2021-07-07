@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.96087084436599,TF-IDFVectorizer,NaiveBayes
+missclassification,0.03912915563400998,TF-IDFVectorizer,NaiveBayes
+specificity,0.9461606354810238,TF-IDFVectorizer,NaiveBayes
+recall_sensitivity,0.9755810532509561,TF-IDFVectorizer,NaiveBayes
+precision,0.9476993426693341,TF-IDFVectorizer,NaiveBayes
+f1,0.9614380979994201,TF-IDFVectorizer,NaiveBayes

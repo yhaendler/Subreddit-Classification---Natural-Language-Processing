@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.9616063548102383,TF-IDFVectorizer,LogisticRegression
+missclassification,0.03839364518976174,TF-IDFVectorizer,LogisticRegression
+specificity,0.9814651368049426,TF-IDFVectorizer,LogisticRegression
+recall_sensitivity,0.941747572815534,TF-IDFVectorizer,LogisticRegression
+precision,0.9806985294117647,TF-IDFVectorizer,LogisticRegression
+f1,0.9608284556506078,TF-IDFVectorizer,LogisticRegression

@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.9583701088555457,CountVectorizer,LogisticRegression
+missclassification,0.041629891144454256,CountVectorizer,LogisticRegression
+specificity,0.9826419535157399,CountVectorizer,LogisticRegression
+recall_sensitivity,0.9340982641953516,CountVectorizer,LogisticRegression
+precision,0.981756338899196,CountVectorizer,LogisticRegression
+f1,0.9573345394240916,CountVectorizer,LogisticRegression

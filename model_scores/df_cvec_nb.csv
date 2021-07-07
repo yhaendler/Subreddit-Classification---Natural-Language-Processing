@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.9558693733451015,CountVectorizer,NaiveBayes
+missclassification,0.04413062665489853,CountVectorizer,NaiveBayes
+specificity,0.9364518976169461,CountVectorizer,NaiveBayes
+recall_sensitivity,0.9752868490732568,CountVectorizer,NaiveBayes
+precision,0.9388275276125744,CountVectorizer,NaiveBayes
+f1,0.9567099567099567,CountVectorizer,NaiveBayes

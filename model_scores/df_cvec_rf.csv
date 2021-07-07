@@ -1,0 +1,7 @@
+score,value,vectorizer,model
+accuracy,0.8939393939393939,CountVectorizer,RandomForest
+missclassification,0.10606060606060608,CountVectorizer,RandomForest
+specificity,0.9888202412474257,CountVectorizer,RandomForest
+recall_sensitivity,0.7990585466313621,CountVectorizer,RandomForest
+precision,0.9862018881626725,CountVectorizer,RandomForest
+f1,0.8828213879408418,CountVectorizer,RandomForest
