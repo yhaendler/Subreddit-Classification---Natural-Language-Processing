@@ -1,4 +1,4 @@
-# Classifying Subreddits (Natural Language Processing)
+# Subreddit Classification (Natural Language Processing)
 
 ---
 
