@@ -1,4 +1,8 @@
-# Classifying Subreddits
+# Classifying Subreddits (Natural Language Processing)
+
+---
+
+#### :pencil: In short: In this project, I trained several classification models (Logistic Regression; Naive Bayes; Random Forest; Support Vector Machines) on texts from two subreddits - _data science_ and _books_ - with the goal of classifying new subreddits as belonging to either the former or the latter. The best performing models were a Logistic Regression model and a Support Vector Classifier, both trained on TF-IDF vectorized texts and yielding a training accuracy of 0.99 and a testing accuracy of 0.97.
 
 ---
 
@@ -286,7 +290,7 @@ Test accuracy score = 0.957
 
 --
 
-**Kernel Vector Support Classifier** - Hyperparameters for the vectorizer: `max_features = 3000`, `max_df = 0.7`, `min_df = 5`, `ngram_range = (1,1)`. Hyperparameters for the model: `C = 1.5`, `kernel = 'rbf'`.
+**Kernel Support Vector Classifier** - Hyperparameters for the vectorizer: `max_features = 3000`, `max_df = 0.7`, `min_df = 5`, `ngram_range = (1,1)`. Hyperparameters for the model: `C = 1.5`, `kernel = 'rbf'`.
 
 Train accuracy score = 0.991
 
