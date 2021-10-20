@@ -2,7 +2,7 @@
 
 ---
 
-#### :pencil: In short: In this project, I trained several classification models (Logistic Regression; Naive Bayes; Random Forest; Support Vector Machines) on texts from two subreddits - _data science_ and _books_ - with the goal of classifying new subreddits as belonging to either the former or the latter. The best performing models were a Logistic Regression model and a Support Vector Classifier, both trained on TF-IDF vectorized texts and yielding a training accuracy of 0.99 and a testing accuracy of 0.97.
+#### :pencil: In short: Several classification models (Logistic Regression; Naive Bayes; Random Forest; Support Vector Machines) were trained on texts from two subreddits - _data science_ and _books_ - with the goal of classifying new subreddits as belonging to either the former or the latter. The best performing models were a Logistic Regression and a Support Vector Classifier, both trained on TF-IDF vectorized texts and yielding a training accuracy of 0.99 and a testing accuracy of 0.97.
 
 ---
 
